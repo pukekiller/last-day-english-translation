@@ -470,7 +470,7 @@
 		<text>Functional chock from double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_carrier_8_good_descr">
-		<text>Functional chock from double-barrel shotgun. На вид, в хорошем состоянии. Следов коррозии нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional chock from double-barrel shotgun. It appears to be in good condition. Следов коррозии нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_8_worn">
 		<text>Worn chock from double-barrel shotgun [R]</text>
@@ -488,7 +488,7 @@
 		<text>Functional chock from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_carrier_9_good_descr">
-		<text>Functional chock from a double-barrel shotgun. На вид, в хорошем состоянии. Следов коррозии нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional chock from a double-barrel shotgun. It appears to be in good condition. Следов коррозии нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_9_worn">
 		<text>Worn chock from a double-barrel shotgun [R]</text>
@@ -726,7 +726,7 @@
 		<text>Исправные нагнетатели с ударником от бокфлинта [R]</text>
 	</string>
 	<string id="st_bolt_11_good_descr">
-		<text>Правый и левый нагнетатели с ударником от бокфлинта. На вид, в хорошем состоянии. Следов износа нет, пружина еще не просела. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Правый и левый нагнетатели с ударником от бокфлинта. It appears to be in good condition. Следов износа нет, пружина еще не просела. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_11_worn">
 		<text>Изношенные нагнетатели с ударником от бокфлинта [R]</text>
@@ -744,7 +744,7 @@
 		<text>Исправные курки от курковки [R]</text>
 	</string>
 	<string id="st_bolt_12_good_descr">
-		<text>Правый и левый курки от двуствольной горизонтальной курковки. На вид, в хорошем состоянии. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Правый и левый курки от двуствольной горизонтальной курковки. It appears to be in good condition. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_12_worn">
 		<text>Изношенные курки от курковки [R]</text>
@@ -799,7 +799,7 @@
 		<text>Properly functioning ударник с боевой пружиной [PP]</text>
 	</string>
 	<string id="st_bolt_15_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то отечественного ПП под longitudinal-a sliding free breech block. На вид, в хорошем состоянии.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ударник с боевой пружиной от какого-то отечественного ПП под longitudinal-a sliding free breech block. It appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_15_worn">
 		<text>Worn ударник с боевой пружиной [PP]</text>
@@ -817,7 +817,7 @@
 		<text>Properly functioning ударник с боевой пружиной [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то импортного ПП под longitudinal-a sliding free breech block. На вид, в хорошем состоянии.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ударник с боевой пружиной от какого-то импортного ПП под longitudinal-a sliding free breech block. It appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_16_worn">
 		<text>Worn ударник с боевой пружиной [PP][NATO]</text>
@@ -836,7 +836,7 @@
 		<text>Properly functioning ударник с боевой пружиной [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то советского ПП, вроде ПП системы Шпагина, под longitudinal-a sliding free breech block. На вид, в хорошем состоянии.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ударник с боевой пружиной от какого-то советского ПП, вроде ПП системы Шпагина, под longitudinal-a sliding free breech block. It appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] шанс успеха при попытке ремонта\модернизации: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_17_worn">
 		<text>Worn ударник с боевой пружиной [PP][PPSh]</text>
@@ -860,133 +860,133 @@
 		<text>Functional gas tube [K]</text>
 	</string>
 	<string id="st_gas_tube_1_good_descr">
-		<text>Functional газовая трубка от гладкоствольного карабина. На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a smooth-bore rifle. It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_1_worn">
 		<text>Worn gas tube [K]</text>
 	</string>
 	<string id="st_gas_tube_1_worn_descr">
-		<text>Worn газовая трубка от гладкоствольного карабина. Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от излишне сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn gas tube from a smooth-bore rifle. At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. The inner part of the gas tube is covered with carbon, and its outer chrome coating has recieved several scratches from heavy force having come from a screwdriver. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_1_rusty">
 		<text>Rusty gas tube [K]</text>
 	</string>
 	<string id="st_gas_tube_1_rusty_descr">
-		<text>Rusty газовая трубка от гладкоствольного карабина. Похоже, что данная трубка провела немало времени в воде. По этой причине, внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty gas tube from a smooth-bore rifle. It seems that this tube has spent a lot of time in the water. For this reason, the internal chrome coating completely disappeared, the entire part is heavily coated with corrosion. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_2_good">
 		<text>Functional handguard [R]</text>
 	</string>
 	<string id="st_gas_tube_2_good_descr">
-		<text>Functional подвижное handguard от помпового ружья. На вид, в хорошем состоянии. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional longitudinally-sliding type handguard from a shotgun. It appears to be in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_2_worn">
 		<text>Worn handguard [R]</text>
 	</string>
 	<string id="st_gas_tube_2_worn_descr">
-		<text>Worn подвижное handguard от помпового ружья. Немного потерто. Сварка на тяге выглядит подозрительно. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn longitudinally-sliding type handguard from a shotgun. A bit shabby. Welding on traction looks suspicious. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_2_rusty">
 		<text>Rusty handguard [R]</text>
 	</string>
 	<string id="st_gas_tube_2_rusty_descr">
-		<text>Rusty подвижное handguard от помпового ружья. handguard треснуто. Тяга сильно покрыта коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty longitudinally-sliding type handguard from a shotgun. handguard треснуто. Тяга сильно покрыта коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_3_good">
 		<text>Functional gas tube [V]</text>
 	</string>
 	<string id="st_gas_tube_3_good_descr">
-		<text>Functional газовая трубка от самозарядной винтовки. На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional газовая трубка от самозарядной винтовки. It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_3_worn">
 		<text>Worn gas tube [V]</text>
 	</string>
 	<string id="st_gas_tube_3_worn_descr">
-		<text>Worn газовая трубка от самозарядной винтовки. Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn газовая трубка от самозарядной винтовки. At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_3_rusty">
 		<text>Rusty gas tube [V]</text>
 	</string>
 	<string id="st_gas_tube_3_rusty_descr">
-		<text>Rusty газовая трубка от самозарядной винтовки. Похоже, что данная трубка провела немало времени в воде. По этой причине, внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty газовая трубка от самозарядной винтовки. It seems that this tube has spent a lot of time in the water. For this reason, the internal chrome coating completely disappeared, the entire part is heavily coated with corrosion. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_4_good">
 		<text>Functional gas tube [AS/PP]</text>
 	</string>
 	<string id="st_gas_tube_4_good_descr">
-		<text>Functional газовая трубка от специальной автоматической винтовки 9mm. На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional газовая трубка от специальной автоматической винтовки 9mm. It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_4_worn">
 		<text>Worn gas tube [AS/PP]</text>
 	</string>
 	<string id="st_gas_tube_4_worn_descr">
-		<text>Worn газовая трубка от специальной автоматической винтовки 9mm. Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn газовая трубка от специальной автоматической винтовки 9mm. At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_4_rusty">
 		<text>Rusty gas tube [AS/PP]</text>
 	</string>
 	<string id="st_gas_tube_4_rusty_descr">
-		<text>Rusty газовая трубка от специальной автоматической винтовки 9mm. Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty газовая трубка от специальной автоматической винтовки 9mm. Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_5_good">
 		<text>Functional gas tube [A|V][Russia]</text>
 	</string>
 	<string id="st_gas_tube_5_good_descr">
-		<text>Functional газовая трубка от полуавтоматической или автоматической винтовки (Россия). На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional газовая трубка от полуавтоматической или автоматической винтовки (Россия). It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_5_worn">
 		<text>Worn gas tube [A|V][Russia]</text>
 	</string>
 	<string id="st_gas_tube_5_worn_descr">
-		<text>Worn газовая трубка от полуавтоматической или автоматической винтовки (Россия). Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn газовая трубка от полуавтоматической или автоматической винтовки (Россия). At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_5_rusty">
 		<text>Rusty gas tube [A|V][Russia]</text>
 	</string>
 	<string id="st_gas_tube_5_rusty_descr">
-		<text>Rusty газовая трубка от полуавтоматической или автоматической винтовки (Россия). Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty газовая трубка от полуавтоматической или автоматической винтовки (Россия). Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_6_good">
 		<text>Functional gas tube [A|V][NATO]</text>
 	</string>
 	<string id="st_gas_tube_6_good_descr">
-		<text>Functional газовая трубка от полуавтоматической или автоматической винтовки (NATO). На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional газовая трубка от полуавтоматической или автоматической винтовки (NATO). It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_6_worn">
 		<text>Worn gas tube [A|V][NATO]</text>
 	</string>
 	<string id="st_gas_tube_6_worn_descr">
-		<text>Worn газовая трубка от полуавтоматической или автоматической винтовки (NATO). Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn газовая трубка от полуавтоматической или автоматической винтовки (NATO). At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_6_rusty">
 		<text>Rusty gas tube [A|V][NATO]</text>
 	</string>
 	<string id="st_gas_tube_6_rusty_descr">
-		<text>Rusty газовая трубка от полуавтоматической или автоматической винтовки (NATO). Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty газовая трубка от полуавтоматической или автоматической винтовки (NATO). Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_7_good">
 		<text>Functional gas tube [P]</text>
 	</string>
 	<string id="st_gas_tube_7_good_descr">
-		<text>Functional газовая трубка от пулемета. На вид, в хорошем состоянии. Диаметральный зазор между газовой трубкой и новым газовым поршнем не превышает 0.15mm. Внутренняя часть трубки чистая, хромированное покрытие не повреждено. Резьба ровная, без рваных краев или признаков перетяжки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a machine gun. It appears to be in good condition. The diametric clearance between the gas tube and the new gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread is smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_7_worn">
 		<text>Worn gas tube [P]</text>
 	</string>
 	<string id="st_gas_tube_7_worn_descr">
-		<text>Worn газовая трубка от пулемета. Похоже, что данная трубка немало прослужила. Диаметральный зазор между газовой трубкой и новым газовым поршнем примерно 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. Резьбу, вероятно, перетягивали, в связи с чем, несколько витков срезано, заход резьбы немного забит. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn gas tube from a machine gun. At a glance, it appears the part has been frayed over time. The diametric clearance between the gas tube and the new gas piston is approximately 0.25mm. Внутренняя часть трубки покрыта нагаром, хромированное покрытие имеет радиальные царапины от слишком сильного нажатия комплектной отвертки. The thread was probably pulled, in connection with which, several turns were cut off and the threading was slightly clogged. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_7_rusty">
 		<text>Rusty gas tube [P]</text>
 	</string>
 	<string id="st_gas_tube_7_rusty_descr">
-		<text>Rusty газовая трубка от пулемета. Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. Резьбовая часть видна плохо, но определенно можно сказать, что ее пытались неудачно перерезать - резьба нарезана не под прямым углом к прилегающей плоскости. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty gas tube from a machine gun. Похоже, что данная трубка провела немало времени в воде. Внутреннее хромированное покрытие полностью исчезло, вся деталь сильно покрыта коррозией. The threaded section of the tube looks damaged - it appears that an unsuccessful attempt has been made at cutting it off. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_8_good">
 		<text>Functional отсечка-отражатель [V]</text>
 	</string>
 	<string id="st_gas_tube_8_good_descr">
-		<text>Functional отсечка-отражатель от винтовки с продольно-скользящим затвором с болтовым запиранием. На вид, в хорошем состоянии. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional отсечка-отражатель от винтовки с продольно-скользящим затвором с болтовым запиранием. It appears to be in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_8_worn">
 		<text>Worn отсечка-отражатель [V]</text>
@@ -1004,7 +1004,7 @@
 		<text>Functional ejector от бокфлинта [R]</text>
 	</string>
 	<string id="st_gas_tube_9_good_descr">
-		<text>Исправные ejectorы (выбрасыватели) от бокфлинта. На вид, в хорошем состоянии. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Исправные ejectorы (выбрасыватели) от бокфлинта. It appears to be in good condition. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_9_worn">
 		<text>Worn ejector от бокфлинта [R]</text>
@@ -1022,7 +1022,7 @@
 		<text>Functional ejector от курковки [R]</text>
 	</string>
 	<string id="st_gas_tube_10_good_descr">
-		<text>Properly functioning ejector (выбрасыватель) от курковки. На вид, в хорошем состоянии. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ejector (выбрасыватель) от курковки. It appears to be in good condition. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_10_worn">
 		<text>Worn ejector от курковки [R]</text>
@@ -1041,7 +1041,7 @@
 		<text>Functional gas tube [PP]</text>
 	</string>
 	<string id="st_gas_tube_11_good_descr">
-		<text>Исправная газовая трубка от пистолета-пулемета MP5 с рукояткой. На вид, в хорошем состоянии. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Исправная газовая трубка от пистолета-пулемета MP5 с рукояткой. It appears to be in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_11_worn">
 		<text>Worn gas tube [PP]</text>
