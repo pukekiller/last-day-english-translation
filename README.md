@@ -14,6 +14,7 @@ Translation progress by individual files can be found below.
 		- done
 	- [dialogs_mlr_arena.xml](gamedata/configs/gameplay/dialogs_mlr_arena.xml)
 		- done
+
 - **configs/text/eng:**
 	- [ammo_additions.xml](gamedata/configs/text/eng/ammo_additions.xml)
 		- unrevised
@@ -111,6 +112,7 @@ Translation progress by individual files can be found below.
 		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
 		- done
+
 - **configs/ui:**
 	- [ui_con_checker.xml](gamedata/configs/ui/ui_con_checker.xml)
 		- done
@@ -124,6 +126,7 @@ Translation progress by individual files can be found below.
 		- incomplete
 	- [ui_pda_fonswong.xml](gamedata/configs/ui/ui_pda_fonswong.xml)
 		- incomplete
+
 - **scripts:**
 	- [dialogs_jupiter.script](gamedata/scripts/dialogs_jupiter.script)
 		- untested
