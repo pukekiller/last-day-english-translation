@@ -1,0 +1,157 @@
+local settings
+local mod_warfare = false
+local news_tbl_b = {}
+local not_news = true
+local news_dead = 0
+local undegraund = true
+local pda_on = false
+local pda_off = false
+local news_on = true
+local time_news = 40000
+local time_pda_news = 0
+
+function on_game_start()
+	RegisterScriptCallback("actor_on_update",actor_on_update)
+	RegisterScriptCallback("npc_on_death_callback", npc_on_death_callback)
+	RegisterScriptCallback("on_game_load",on_game_load)
+end
+
+function on_game_load()
+	settings = {}
+	local ini = ini_file("plugins\\zone_news.ltx")
+	if (ini and ini:section_exist("settings")) then
+		local line_count = ini:line_count("settings") or 0
+		for i = 0, line_count - 1 do
+			local junk1, section, value = ini:r_line("settings", i, "", "")
+			settings[section] = value == 'true' and true or value == 'false' and false or tonumber(value)
+		end
+	end
+	-- checking for the presence of the news files and putting them in a table
+	local news_tbl_a = {}
+	if settings.zone_surge_news then
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_surge_news.surge_news,part = settings.surge_news}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_surge_news.psi_storm_news,part = settings.psi_storm_news}
+	end
+	if settings.zone_news_main then
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news.news_main,part = settings.news_main}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news.sunset_news,part = settings.sunset_news}
+	end
+	if settings.zone_news then
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news.news_ant,part = settings.news_misery}
+	end
+	if settings.zone_news_vs then
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.show_news,part = settings.show_news}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.news_of_qwest,part = settings.news_of_qwest}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.news_of_surge,part = settings.news_of_surge}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.spam_news,part = settings.spam_news,arg = settings.anti_spam}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.weather_news,part = settings.weather_news}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.semeckiy_deth_news,part = settings.semeckiy_deth_news}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.fake_vubros_msg,part = settings.fake_vubros_msg}
+		news_tbl_a[#news_tbl_a + 1] = {f_n = zone_news_vs.show_news_trade,part = settings.show_news_trade}
+	end
+	if settings.zone_news_dead then
+		news_dead = settings.percent_dead
+	else
+		settings.percent_dead = 0
+	end
+
+   if warfare_news and warfare then
+	mod_warfare = true
+   end
+
+	local summa = 0
+	for k,v in pairs(news_tbl_a) do
+		summa = summa + v.part
+	end
+	if summa > 0 then
+		local cent = 0
+		not_news = false
+		for k,v in pairs(news_tbl_a) do
+			cent = cent + (v.part/summa) * 100
+			news_tbl_b[k] = {news = v.f_n, part = math.floor(cent), arg = v.arg}
+		end
+		-- disable signals underground
+		if level_weathers.valid_levels[level.name()] then
+			undegraund = false
+		end
+	end
+end
+
+function actor_on_update()
+	if not_news then return end
+    if (axr_main.config:r_value("mm_options","enable_fake_news_option",1,true) == true) then
+		local time = time_global()
+		if settings.show_glonass==true and time_pda_news < time then
+			if surge_manager.is_started() or psi_storm_manager.is_started() or undegraund==true then  -- Disable communication during emissions
+				if pda_off == true then return end
+	 			news_warfare(false)
+				news_on = false
+				pda_off = true
+				pda_on = false
+				if settings.hide_dead == true then
+					news_dead = 0
+				end
+				send_tip("Communication lost.")
+			elseif pda_on ==  false then
+				send_tip("Communication established.")
+				news_dead = settings.percent_dead
+				pda_on = true
+				pda_off = false
+				news_on = true
+	 			news_warfare(true)
+			end
+			time_pda_news = time + 10000
+		end  	
+		if time_news < time then	    
+			if math.random(100) < settings.percent_all then
+				random_news()
+			end
+			time_news = time + math.random(settings.time_news_max) * 1000
+		end
+    end
+end
+
+function npc_on_death_callback(victim, who)  --News about deaths of stalkers
+	if (axr_main.config:r_value("mm_options","enable_dynamic_news",1,true) == true) and math.random(1,99) < news_dead then         
+		zone_news.death_npc(victim, who, settings.post_message)
+	end
+end
+
+function send_tip(news_text)
+   db.actor:give_game_news("GLONASS status:", "%c[default]" .. news_text, "ui_inGame2_Istoriya_dolga_vs", 0, 7000)
+   xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+end
+
+function random_news() -- randomly select a news file
+	if news_on ~= true then return end
+	if has_alife_info("start_info_news") then
+		local rnd_value = math.random(100)
+		local get_news
+		local get_arg
+		local min_value = 0
+		for k,v in pairs(news_tbl_b) do
+			local max_value = v.part
+			if min_value<rnd_value and rnd_value<=max_value then
+				get_news = v.news
+				get_arg = v.arg
+				break
+			end
+			min_value = max_value
+		end
+		if get_news~=nil then
+			get_news(get_arg)
+		end
+    else
+	local alife = alife()
+	local se_actor = alife:actor()
+		db.actor:give_game_news("Message:", "%c[255,160,160,160]Welcome to the S.T.A.L.K.E.R. network, based on the Antdiablon operating system bundled with Winchester Server Pack 2. Registering new stalker into network... Creating profile... Specifying gender... Identification complete!\\nWelcome to the Chernobyl Exclusion Zone, %c[255,255,160,0]" .. se_actor:character_name() .. "%c[255,160,160,160]!", "ui_gunslinger_vs", 0, 30000)
+		xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+		db.actor:give_info_portion("start_info_news")
+    end
+end
+
+function news_warfare(param)
+   if mod_warfare==true then
+	warfare_news.pda_status(param)
+   end
+end
