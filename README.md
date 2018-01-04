@@ -52,7 +52,6 @@ Translation progress by individual files can be found below.
 	- [stable_treasure_manager.xml](gamedata/configs/text/eng/stable_treasure_manager.xml)							- done
 	- [ui_st_characters.xml](gamedata/configs/text/eng/ui_st_characters.xml)														- done
 	- [ui_st_encyclopedia.xml](gamedata/configs/text/eng/ui_st_encyclopedia.xml)												- done   (taken from 1.5)
-	- [ui_st_characters.xml](gamedata/configs/text/eng/ui_st_characters.xml)														- incomplete
 	- [ui_st_encyclopedia_awr.xml](gamedata/configs/text/eng/ui_st_encyclopedia_awr.xml)								- incomplete
 	- [ui_st_faction_starts.xml](gamedata/configs/text/eng/ui_st_faction_starts.xml)										- done
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)														- done
@@ -67,20 +66,19 @@ Translation progress by individual files can be found below.
 	- [ui_mod_elements.xml](gamedata/configs/ui/ui_mod_elements.xml)																		- incomplete
 	- [ui_mod_elements_16.xml](gamedata/configs/ui/ui_mod_elements_16.xml)                 	  				  - incomplete
 	- [ui_pda_fonswong.xml](gamedata/configs/ui/ui_pda_fonswong.xml)																		- incomplete
-
 - **scripts:**
-	- [dialogs_jupiter.script](gamedata/scripts/dialogs_jupiter.script)																					- untested
-	- [dragdrop_disassemble.script](gamedata/scripts/dragdrop_disassemble.script)																- done		(taken from AxeBeard's Fieldcraft)
-	- [inventory_upgrades.script](gamedata/scripts/inventory_upgrades.script)																		- done
-	- [pda_chat_names_lists_FonSwong.script](gamedata/scripts/pda_chat_names_lists_FonSwong.script)							- incomplete
-	- [pda_chat_processor_FonSwong.script](gamedata/scripts/pda_chat_processor_FonSwong.script)									- incomplete
-	- [pda_FonSwong.script](gamedata/scripts/pda_FonSwong.script)																								- incomplete
-	- [transitions.script](gamedata/scripts/transitions.script)																									- done
-	- [ui_itm_repair.script](gamedata/scripts/ui_itm_repair.script)																							- done
-	- [ui_mm_faction_select.script](gamedata/scripts/ui_mm_faction_select.script)																- done
-	- [ui_sr_teleport.script](gamedata/scripts/ui_sr_teleport.script)																						- done
-	- [zone_new.script](gamedata/scripts/zone_new.script)																												- done
-	- [zone_news.script](gamedata/scripts/zone_news.script)																											- done
-	- [zone_news_texts.script](gamedata/scripts/zone_news_texts.script)																					- incomplete
-	- [zone_news_vs.script](gamedata/scripts/zone_news_vs.script)																								- done
-	- [zone_surge_news.cript](gamedata/scripts/zone_surge_news.script)																						- done
+	- [dialogs_jupiter.script](gamedata/scripts/dialogs_jupiter.script)																	- untested
+	- [dragdrop_disassemble.script](gamedata/scripts/dragdrop_disassemble.script)												- done		(taken from AxeBeard's Fieldcraft)
+	- [inventory_upgrades.script](gamedata/scripts/inventory_upgrades.script)														- done
+	- [pda_chat_names_lists_FonSwong.script](gamedata/scripts/pda_chat_names_lists_FonSwong.script)			- incomplete
+	- [pda_chat_processor_FonSwong.script](gamedata/scripts/pda_chat_processor_FonSwong.script)					- incomplete
+	- [pda_FonSwong.script](gamedata/scripts/pda_FonSwong.script)																				- incomplete
+	- [transitions.script](gamedata/scripts/transitions.script)																					- done
+	- [ui_itm_repair.script](gamedata/scripts/ui_itm_repair.script)																			- done
+	- [ui_mm_faction_select.script](gamedata/scripts/ui_mm_faction_select.script)												- done
+	- [ui_sr_teleport.script](gamedata/scripts/ui_sr_teleport.script)																		- done
+	- [zone_new.script](gamedata/scripts/zone_new.script)																								- done
+	- [zone_news.script](gamedata/scripts/zone_news.script)																							- done
+	- [zone_news_texts.script](gamedata/scripts/zone_news_texts.script)																	- incomplete
+	- [zone_news_vs.script](gamedata/scripts/zone_news_vs.script)																				- done
+	- [zone_surge_news.cript](gamedata/scripts/zone_surge_news.script)																	- done
