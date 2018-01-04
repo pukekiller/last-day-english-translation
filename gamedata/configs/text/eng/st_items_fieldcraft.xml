@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_cloth_strip">
+		<text>Cloth strip</text>
+	</string>
+	<string id="st_cloth_strip_descr">
+		<text>A piece of cloth cut from a shirt or sheet or something. Could be used to aid in cleaning gear. Large enough to be used as a bandage, but should probably be disinfected first.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] everyday item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+	</string>
+	<string id="st_stock">
+		<text>Rifle stock</text>
+	</string>
+	<string id="st_stock_descr">
+		<text>The buttstock and furniture from a rifle or shotgun. Can be used to refurbish a weapon.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+6%)</text>
+	</string>
+	<string id="st_trigger">
+		<text>Trigger mechanism</text>
+	</string>
+	<string id="st_trigger_descr">
+		<text>The trigger mechanism and assembly from an unknown firearm. Most triggers are very similar, and there's no reasno this one couldn't be shaved down to fit almost any weapon.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+5%)</text>
+	</string>
+	<string id="st_triggerrusty">
+		<text>Trigger mechanism (rusted)</text>
+	</string>
+	<string id="st_triggerrusty_descr">
+		<text>A rust covered trigger mechanism and assembly from an unknown firearm. Worthless in its current condition, but with the application of some solvents or oils, could be made into a working trigger assembly again.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]</text>
+	</string>
+	<string id="st_spspring">
+		<text>Spring</text>
+	</string>
+	<string id="st_spspring_descr">
+		<text>A small spring from either the trigger assembly or inner workings of an unknown firearm. Could probably be adapted to replace most any small spring.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+2%)</text>
+	</string>
+	<string id="st_pistolgrip">
+		<text>Pistol grip</text>
+	</string>
+	<string id="st_pistolgrip_descr">
+		<text>Pistol grips from some unknown weapon. This rubberized handle could probably be shaped or molded to fit almost any firearm.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+6%)</text>
+	</string>
+	<string id="st_boltcarrier">
+		<text>Bolt carrier</text>
+	</string>
+	<string id="st_boltcarrier_descr">
+		<text>The bolt carrier and firing pin from an unknown rifle. Too large to fit any weapon that utilizes pistol caliber rounds, but may be useful to replace a damaged firing pin or bolt in most any type of rifle. If ground down, it may even fit certain submachine guns.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] usable for:%c[0,170,170,170] weapon maintenance (+8%)</text>
+	</string>
+	<string id="st_boltcarrierrusty">
+		<text>Bolt carrier (rusted)</text>
+	</string>
+	<string id="st_boltcarrierrusty_descr">
+		<text>A rusted bolt carrier and firing pin from an unknown rifle. Too large to fit any weapon that utilizes pistol caliber rounds, but could be used to replace a damaged firing pin or bolt in most any type of rifle if you can clean it up. If ground down, it may even fit certain submachine guns.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item</text>
+	</string>
+</string_table>
