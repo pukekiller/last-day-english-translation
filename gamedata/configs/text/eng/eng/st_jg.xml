@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_jg_1">
+		<text>About the job...</text>
+	</string>
+	<string id="st_jg_2">
+		<text>What is it?</text>
+	</string>
+	<string id="st_jg_3">
+		<text>I heard your message. Need a guide?</text>
+	</string>
+	<string id="st_jg_4">
+		<text>Alright, let's go.</text>
+	</string>
+	<string id="st_jg_5">
+		<text>Lead the way, stalker!</text>
+	</string>
+	<string id="st_jg_6">
+		<text>Sorry, but you don't have the money to pay me in case the plan doesn't go through.</text>
+	</string>
+	<string id="st_jg_7">
+		<text>Remind me, where are we going?</text>
+	</string>
+	<string id="st_jg_8">
+		<text>Here we are.</text>
+	</string>
+	<string id="st_jg_9">
+		<text>Finally! Thanks, stalker, nice work. Here's your money.</text>
+	</string>
+	<string id="st_jg_10">
+		<text>I've changed my mind, I don't want to continue with it.</text>
+	</string>
+	<string id="st_jg_11">
+		<text>Really? Are you sure about that?</text>
+	</string>
+	<string id="st_jg_12">
+		<text>Yes, I'm sure.</text>
+	</string>
+	<string id="st_jg_13">
+		<text>Actually, never mind.</text>
+	</string>
+	<string id="st_jg_14">
+		<text>Looking for a guide who can lead me to %s. Right now, I'm %s. Name's %s.</text>
+	</string>
+	<string id="st_jg_15">
+		<text>We're too late. I'm gonna be needing %s roubles back. %s out.</text>
+	</string>
+	<string id="st_jg_16">
+		<text>Glad someone heard it. Here's the deal - in %s hours, I need to be %s. I can pay you %s rubles for the job, but keep in mind that you're going to need to pay me %s rubles if we don't get there in time.</text>
+	</string>
+	<string id="st_jg_17">
+		<text>We're heading</text>
+	</string>
+	<string id="st_jg_18">
+		<text>Then I'll continue on my own - and I'll be taking that money. What a shame.</text>
+	</string>
+	<string id="st_jg_19">
+		<text>Length, including starting point and destination:</text>
+	</string>
+</string_table>
