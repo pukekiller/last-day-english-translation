@@ -1,0 +1,267 @@
+
+local SurgeText={", беда будет.",", ожидайте катаклизм.",", песец скоро.",", ждём беду."}
+local day
+local status
+local h_surge
+
+function send_tip(news_text, header, sender)
+	local tips_icons = {
+		dolg     	= "ui_icon_vs_news_news_dolg",
+		freedom  	= "ui_icon_vs_news_news_svoboda",
+		army     	= "ui_icon_vs_news_news_voen_stalk",
+		killer   	= "ui_icon_vs_news_news_naim",
+		bandit   	= "ui_icon_vs_news_news_bandos",
+		deth	 	= "ui_icon_vs_news_deth",
+		all		= "ui_icon_vs_news_all"
+	}
+	if news_text==nil then return end
+	if header==nil then header=game.translate_string("st_tip") end
+	if tips_icons[sender] == nil then
+		sender = "all"
+	end
+	local ui_sender = tips_icons[sender]
+	local text = "%c[default]"..news_text
+	db.actor:give_game_news(header, game.translate_string(text), ui_sender, 0, 7000)
+	xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+end
+
+function surge_news()
+	local SM = surge_manager and surge_manager.SurgeManager
+	if (atmosfear_options.config:r_value("atmosfear_current_parameters","opt_enable_blowout",2,1)==1) and (SM ~= nil and SM._delta ~= nil and not SM.started) then
+		local g_time = game.get_game_time()
+		local last_surge_time = SM and SM.last_surge_time or game.get_game_time()
+		local surge_start = SM and math.floor(SM._delta - g_time:diffSec(last_surge_time))
+		if math.random(0, 1) == 0 then
+			do_blow_news(surge_start,"emission")
+		else
+			get_time_next_storm(surge_start)
+	SurgeText={"- an emission is coming","- expect an emission","- there's going to be an emission","- we are waiting for an emission coming"}
+			SendSurgeNews()	
+		end
+	end
+end
+
+function psi_storm_news()  -- determine the time a psy-storm starts
+	local psi_manager = psi_storm_manager and psi_storm_manager.PsiStormManager
+	if (atmosfear_options.config:r_value("atmosfear_current_parameters","opt_enable_psi_storm",2,1)==1) and (psi_manager ~= nil and psi_manager._delta ~= nil and not psi_manager.started) then
+		local g_time = game.get_game_time()
+		local last_psi_storm_time = psi_manager and psi_manager.last_psi_storm_time or game.get_game_time()
+		local psi_storm_start = psi_manager and math.floor(psi_manager._delta - g_time:diffSec(last_psi_storm_time)) or 0
+		if math.random(0, 1)== 0 then
+			do_blow_news(psi_storm_start,"psy-storm")
+		else
+			get_time_next_storm(psi_storm_start)
+	SurgeText={", a psy-storm is coming",", expect a psy-storm",", there's going to be a psy-storm",", we are waiting for a psy-storm coming"}
+			SendSurgeNews()
+		end
+	end
+end
+
+-- counts the time until an emission
+function get_time_next_storm(delta_time)
+	--delta_time - interval in game seconds until the next emission
+	-- counts the time until an emission in hours
+	local delta_all = math.floor(delta_time/3600)
+	-- current time
+	local h_t = return_time(4)
+	-- counts the time and approximate hour until an emission
+
+	if delta_all < 24 - h_t then
+		--emission occurs on the same day
+		h_surge = h_t + delta_all
+		day="today."
+	elseif (delta_all - 24 + h_t) < 24 then
+		--emission occurs within the next 24 hours
+		h_surge = delta_all - 24 + h_t
+		day="tomorrow."
+	elseif (delta_all - 24 + h_t) < 48 then
+		--emission occurs within the next 48 hours
+		h_surge = delta_all - 48 + h_t
+		day="in two days."
+	elseif (delta_all - 24 + h_t) < 72 then
+		--emission occurs within the next 72 hours
+		h_surge = delta_all - 72 + h_t
+		day="in three days."
+	elseif (delta_all - 24 + h_t) < 96 then
+		--emission occurs within the next 96 hours
+		h_surge = delta_all - 96 + h_t
+		day="in four days."
+	else
+		status=false
+		return
+	end
+	status = true
+end
+
+--This function gives the news
+function SendSurgeNews()
+	local Senders ={
+		"dolg",
+		"army",
+		"freedom",
+		"stalker",
+		"killer",
+		"monolith",
+		"ecolog",
+		"clear_sky",
+		"bandit",
+		"zombied"
+	}	
+
+	local Senders_Icon ={
+		["dolg"]="dolg",
+		["army"]="army",
+		["freedom"]="freedom",
+		["stalker"]="all",
+		["killer"]="killer",
+		["monolith"]="all",
+		["ecolog"]="all",
+		["clear_sky"]="all",
+		["bandit"]="bandit",
+		["zombied"]="deth"
+	}	
+
+	if status then
+		local SurT = SurgeText[math.random(#SurgeText)]
+		local SndCom = Senders[math.random(#Senders)]  -- takes name from the table
+		local str_time_surge = set_str_time_surge(SndCom)	-- determines the time of the emission
+		local Icon = Senders_Icon[SndCom]
+		local text = zone_news_texts.factions[SndCom][2][math.random(#zone_news_texts.factions[SndCom][2])]
+		send_tip("%c[255,160,160,160]".."\\n%c[default]"..text..SurT.." "..day.." "..str_time_surge, zone_news_texts.factions[SndCom][1], Icon)
+	end
+end
+
+--Specifies the amount of time in hours
+function set_str_time_surge(grouping)
+
+	local tbl = {}
+	if grouping == "dolg" or grouping == "army" then
+		if h_surge >= 23 or h_surge < 3 then
+			tbl = {"Estimated from 23:00 to 3:00.", "Standby from 23:00 to 3:00.", "Keep your personnel sheltered from 23:00 to 3:00.", "Hide your teams at 23:00. It'll be safe by 3:00."}
+		elseif h_surge >= 3 and h_surge < 7  then
+			tbl = {"Estimated from 3:00 to 7:00.", "Standby from 3:00 to 7:00.", "Keep your personnel sheltered from 3:00 to 7:00.", "Hide your teams at 3:00. It'll be safe by 7:00."}
+		elseif h_surge >= 7 and h_surge < 11  then
+			tbl = {"Estimated from 7:00 to 11:00.", "Standby from 7:00 to 11:00.", "Keep your personnel sheltered from 7:00 to 11:00.", "Hide your teams at 7:00. It'll be safe by 11:00."}
+		elseif h_surge >= 11 and h_surge < 15  then
+			tbl = {"Estimated from 11:00 to 15:00.", "Standby from 11:00 to 15:00.", "Keep your personnel sheltered from 11:00 to 15:00.", "Hide your teams at 11:00. It'll be safe by 15:00."}
+		elseif h_surge >= 15 and h_surge < 19  then
+			tbl = {"Estimated from 15:00 to 19:00.", "Standby from 15:00 to 19:00.", "Keep your personnel sheltered from 15:00 to 19:00.", "Hide your teams at 15:00. It'll be safe by 19:00."}
+		elseif h_surge >= 19 and h_surge < 23  then
+			tbl = {"Estimated from 19:00 to 23:00.", "Standby from 19:00 to 23:00.", "Keep your personnel sheltered from 19:00 to 23:00.", "Hide your teams at 19:00. It'll be safe by 23:00."}
+		end
+	elseif grouping == "freedom" or grouping == "stalker" or grouping == "killer" then
+		if h_surge >=23 or h_surge < 3 then
+			tbl = {"Tonight there'll be", "Tonight.", "No chance of a good night's sleep.", "It's gonna get ugly tonight."}
+		elseif h_surge >= 3 and h_surge < 7  then
+			tbl = {"This morning there'll be", "This morning", "This is gonna be one hell of a wake-up!", "At dawn, expect a"}
+		elseif h_surge >= 7 and h_surge < 11  then
+			tbl = {"Before dinner, surely.", "Around noon.", "Short story, you aren't dining today!", "Wait until noon!"}
+		elseif h_surge >= 11 and h_surge < 15  then
+			tbl = {"Instead of an afternoon nap", "In the afternoon", "Short story, no sleeping after dinner", "Afternoon. Closer to evening."}
+		elseif h_surge >= 15 and h_surge < 19  then
+			tbl = {"Around evening, certainly.", "In the afternoon, around evening.", "Just as evening kicks in.", "But walk freely until 15:00."}
+		elseif h_surge >= 19 and h_surge < 23  then
+			tbl = {"It'll start by dusk.", "By dusk.", "Just as evening kicks in.", "Closer to midnight."}
+		end
+	elseif grouping == "monolith" then
+		if h_surge >=23 or h_surge < 3 then
+			tbl = {"It shall arrive on this night!", "It shall slay our enemies on this night...", "Let there be no rest for the infidels on this night, brothers!", "May this night be purified by the will of the Monolith."}
+		elseif h_surge >= 3 and h_surge < 7  then
+			tbl = {"The will of the Monolith shall wake up the Zone!", "It shall arrive this morning!", "Let it serve to begin this day!", "Expect the cleansing at dawn!"}
+		elseif h_surge >= 7 and h_surge < 11  then
+			tbl = {"The Wave shall arrive by midday.", "Around the coming noon...", "We shall dine on the purification of the infidels!", "Remain prepared until noon, brothers!"}
+		elseif h_surge >= 11 and h_surge < 15  then
+			tbl = {"Prepare yourselves by afternoon, brothers!", "This afternoon, we shall reap what we sow.", "The infidels will be on guard this afternoon!", "It shall arrive by this afternoon, approaching evening."}
+		elseif h_surge >= 15 and h_surge < 19  then
+			tbl = {"Its will shall arrive by this evening.", "Let the approaching purification cleanse the evening of our enemies!", "As the evening flows forth...", "May the fall of the sun serve as the fall of our enemies!"}
+		elseif h_surge >= 19 and h_surge < 23  then
+			tbl = {"Its will shall arrive by dusk.", "As the day eclipses, so shall our enemies!", "As the evening flows away.", "On the approach to midnight..."}
+		end
+	elseif grouping == "ecolog" or grouping == "clear_sky" then
+		if h_surge >=23 or h_surge < 3 then
+			tbl = {"Maximum probability from 23:00 to 3:00.", "Standby between 23:00 and 3:00.", "Computer forecast: by 23:00 to 3:00."}
+		elseif h_surge >= 3 and h_surge < 7  then
+			tbl = {"Maximum probability from 3:00 to 7:00.", "Standby between 3:00 and 7:00.", "Computer forecast: by 3:00 to 7:00."}
+		elseif h_surge >= 7 and h_surge < 11  then
+			tbl = {"Maximum probability from 7:00 to 11:00.", "Standby between 7:00 and 11:00.", "Computer forecast: by 7:00. It'll be safe by 11:00."}
+		elseif h_surge >= 11 and h_surge < 15  then
+			tbl = {"Maximum probability from 11:00 to 15:00.", "Standby between 11:00 and 15:00.", "Computer forecast: by 11:00. It'll be safe by 15:00."}
+		elseif h_surge >= 15 and h_surge < 19  then
+			tbl = {"Maximum probability from 15:00 to 19:00.", "Standby between 15:00 and 19:00.", "Computer forecast: by 15:00. It'll be safe by 19:00."}
+		elseif h_surge >= 19 and h_surge < 23  then
+			tbl = {"Maximum probability from 19:00 to 23:00.", "Standby between 19:00 and 23:00.", "Computer forecast: by 19:00. It'll be safe by 23:00."}
+		end
+	elseif grouping == "bandit" then	
+		if h_surge >=23 or h_surge < 3 then
+			tbl = {"Seems like a bad night's coming.", "Expecting a fucked-up night.", "Wait for the night."}
+		elseif h_surge >= 3 and h_surge < 7  then
+			tbl = {"In the morning, instead of a vodka shot.", "As soon as you're awake.", "Wake up and you're in the middle of it."}
+		elseif h_surge >= 7 and h_surge < 11  then
+			tbl = {"It's just before noon.", "Noon is screwed.", "We'll have breakfast, but no dinner for today!"}
+		elseif h_surge >= 11 and h_surge < 15  then
+			tbl = {"Shove afternoon sleep up your ass.", "Just after dinner, lay low and pray!", "The afternoon's screwed. At least the evening looks fine."}
+		elseif h_surge >= 15 and h_surge < 19  then
+			tbl = {"It'll heat up by the evening.", "Walk all you want before 15, but lay low after.", "It's after dinner. Keep your eyes peeled in the evening."}
+		elseif h_surge >= 19 and h_surge < 23  then
+			tbl = {"It'll fuck us over in the evening.", "In the evening. Swear.", "Just as soon as it gets dark."}
+		end
+	elseif grouping == "zombied" then
+		tbl = {"Ki-i-iiii-l-l-l...", "Mu-u-aaa...", "We were like you, and you will bec-o-ome li-i-ke u-u-us..."}
+	end
+	return tbl[math.random(#tbl)]
+end
+
+--Return ingame time
+function return_time(param)
+	local y,m,d,h,mint,sec,ms = game.get_game_time():get()
+	local tbl = {
+		 y,
+		 m,
+		 d,
+		 h,
+		 mint,
+		 sec,
+		 ms
+	}
+	return tbl[param]
+end
+
+function do_blow_news(delta_time,what)
+	local diff = math.floor(delta_time/3600) -- Difference in game hours
+	if diff < 1 then return end
+	local when = ""
+	if (diff < 2) then
+		when = "in an hour or two"
+	elseif (diff >= 2 and diff <=4) then	
+		when = "in a couple of hours"
+	elseif (diff > 4 and diff <=8) then	
+		when = "anywhere between six and seven hours"
+	elseif (diff > 8) then
+		local m_h = return_time(4)
+		local n_h = m_h + diff
+		if (n_h >= 9 and n_h < 11) then when = "this morning"
+		elseif (n_h >= 11 and n_h < 14) then when = "by day"
+		elseif (n_h >= 14 and n_h < 18) then when = "afternoon"
+		elseif (n_h >= 18 and n_h < 22) then when = "by evening"
+		elseif (n_h >= 22 and n_h < 30) then when = "at night"
+		elseif (n_h >= 30 and n_h < 34) then when = "tomorrow morning"
+		elseif (n_h >= 34 and n_h < 38) then when = "tomorrow noon"
+		elseif (n_h >= 38 and n_h < 42) then when = "tomorrow afternoon"
+		elseif (n_h >= 42 and n_h < 46) then when = "tomorrow evening"
+		elseif (n_h >= 46 and n_h < 52) then when = "tomorrow night"
+		elseif (n_h >= 52 and n_h < 72) then when = "in two days"
+		elseif (n_h >= 72 and n_h < 96) then when = "in three days"
+		elseif (n_h >= 96 and n_h < 120) then when = "in four days"
+		end 
+	end
+	local Senders ={
+		{"Duty", "dolg"},
+		{"Freedom", "freedom"},
+		{"Free stalkers", "all"},
+		{"Mercenaries", "killer"}, 
+		{"Clear Sky", "army"},
+		{"Bandits", "bandit"},
+	}
+	local rand = math.random(#Senders)
+	send_tip(string.format(zone_news_texts.blowout_templates[math.random(#zone_news_texts.blowout_templates)], what, when), Senders[rand][1], Senders[rand][2])
+end

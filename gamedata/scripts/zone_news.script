@@ -1,0 +1,89 @@
+
+function news_ant()
+	news_manager.send_tip(db.actor, (zone_news_texts.ant_news[math.random(#zone_news_texts.ant_news)]), 0, nil, 15000)
+end
+
+-----------------------------
+--=========================--
+-----------------------------
+
+function news_main()
+	news_manager.send_tip(db.actor, (zone_news_texts.spam[math.random(#zone_news_texts.spam)]), 0, nil, 10000)
+end
+   
+function sunset_news()
+	if level.get_time_hours()>=6 and level.get_time_hours()<9 then 
+		db.actor:give_game_news("Message:", (zone_news_texts.time_morn[math.random(#zone_news_texts.time_morn)]), "ui_gunslinger_vs", 0, 10000)
+		xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+	elseif level.get_time_hours()>=19 and level.get_time_hours()<22 then 
+		db.actor:give_game_news("Message:", (zone_news_texts.time_night[math.random(#zone_news_texts.time_night)]), "ui_gunslinger_vs", 0, 10000)
+		xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+	end 
+end
+
+-----------------------------
+--=========================--
+-----------------------------
+
+function death_npc(victim, who, post_message)
+	local garbage_comment, news_text
+	local monster_classes = {
+		[clsid.bloodsucker_s] 			= "Bloodsucker",
+		[clsid.boar_s] 					= "Boar",
+		[clsid.burer_s] 				= "Burer",
+		[clsid.cat_s] 					= "Cat",
+		[clsid.chimera_s] 				= "Chimera",
+		[clsid.controller_s] 			= "Controller",
+		[clsid.dog_s] 					= "Dog",
+		[clsid.flesh_s] 				= "Flesh",
+		[clsid.fracture_s] 				= "Fracture",
+		[clsid.gigant_s] 				= "Pseudogiant",
+		[clsid.poltergeist_s] 			= "Poltergeist",
+		[clsid.pseudodog_s] 			= "Pseudodog",
+		[clsid.psy_dog_s] 				= "Psy-dog",
+		[clsid.psy_dog_phantom_s] 		= "Phantom",
+		[clsid.rat] 					= "Rat",
+		[clsid.snork_s] 				= "Snork",
+		[clsid.tushkano_s] 				= "Tushkano",
+		[clsid.zombie_s] 				= "Zombie",
+	}
+	local m_s_level = alife():level_name(game_graph():vertex(who:game_vertex_id()):level_id())
+	local victim_name = victim:character_name()
+	local killer_name = who:character_name()
+		if who:id() == db.actor:id() then
+		local alife = alife()
+		local se_actor = alife:actor()
+		killer_name = se_actor:character_name()
+		end
+	local victim_comm = victim:character_community()
+	local killer_comm = who:character_community()
+	local news_caption = game.translate_string("st_tip")
+	local error_text = "%c[255,255,160,0]Obituary:\\n%c[255,228,137,143]Dead stalker: %c[255,0,255,0]ERROR... Location... %c[255,0,255,0]ERROR...%c[default] %c[255,0,255,0]System failure."
+	local default_text = "%c[255,255,160,0]Obituary:\\n%c[255,228,137,143]Dead stalker: %c[default]" .. victim_name .. " (" .. game.translate_string(victim_comm) .. "). Location: " ..  game.translate_string(m_s_level) .. "."
+	if killer_name == nil then
+		return send_message(news_caption, error_text, "ui_iconsTotal_news_death_vs")
+	elseif killer_comm == "monster" then
+		garbage_comment = zone_news_texts.messages_monster[math.random(#zone_news_texts.messages_monster)]
+		news_text = default_text .. " " .. (monster_classes[get_clsid(who)] or "Some kind of monster") .. "."
+	else
+		if killer_name == victim_name then
+			garbage_comment = zone_news_texts.messages_none[math.random(#zone_news_texts.messages_none)]
+			news_text = default_text .. "Reason unknown."
+		else
+			garbage_comment = zone_news_texts.messages_kill[math.random(#zone_news_texts.messages_kill)]
+			news_text = "%c[255,255,160,0]Obituary:\\n%c[default]" .. killer_name .. " (" .. game.translate_string(killer_comm) .. ") has killed " .. victim_name .. " (" .. game.translate_string(victim_comm) .. "). Location: " .. game.translate_string(m_s_level) .. "."
+		end
+	end
+    db.actor:give_game_news(news_caption, news_text or error_text, "ui_iconsTotal_news_death_vs", 15000, 15000)
+	if math.random(100) < post_message then
+		send_message(news_caption, "%c[255,160,160,160]"..zone_news_texts.fnames[math.random(#zone_news_texts.fnames)].." "..zone_news_texts.snames[math.random(#zone_news_texts.snames)].."\\n%c[default]" .. garbage_comment, "ui_iconsTotal_kanal_vs")
+    end
+end
+
+function send_message(news_caption, news_text, icon)
+	db.actor:give_game_news(news_caption, news_text, icon, 25000, 15000)
+end
+
+-----------------------------
+--=========================--
+-----------------------------
