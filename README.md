@@ -153,5 +153,5 @@ Translation progress by individual files can be found below.
 		- incomplete
 	- [zone_news_vs.script](gamedata/scripts/zone_news_vs.script)
 		- done
-	- [zone_surge_news.cript](gamedata/scripts/zone_surge_news.script)
+	- [zone_surge_news.script](gamedata/scripts/zone_surge_news.script)
 		- done
