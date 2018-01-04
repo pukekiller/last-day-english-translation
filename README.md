@@ -50,7 +50,6 @@ Translation progress by individual files can be found below.
 	- [st_quests_zaton.xml](gamedata/configs/text/eng/st_quests_zaton.xml)															- done
 	- [st_treasures.xml](gamedata/configs/text/eng/st_treasures.xml)																		- done
 	- [stable_treasure_manager.xml](gamedata/configs/text/eng/stable_treasure_manager.xml)							- done
-	- [ui_st_characters.xml](gamedata/configs/text/eng/ui_st_characters.xml)														- done
 	- [ui_st_encyclopedia.xml](gamedata/configs/text/eng/ui_st_encyclopedia.xml)												- done   (taken from 1.5)
 	- [ui_st_encyclopedia_awr.xml](gamedata/configs/text/eng/ui_st_encyclopedia_awr.xml)								- incomplete
 	- [ui_st_faction_starts.xml](gamedata/configs/text/eng/ui_st_faction_starts.xml)										- done
