@@ -6,29 +6,29 @@
 	<string id="request_to_no_go_nimble_bar_1">
 		<text>Not something, someone. That guy in there is a veteran - he can get anyone any kind of equipment, even unique stuff. He isn't accepting any visitors, though - gotta make sure you're trusted for that. Gonna need a name around here.</text>
 	</string>
-	
+
 	<string id="request_to_no_go_nimble_bar_1_0">
 		<text>So, can I meet this man now?</text>
 	</string>
 	<string id="request_to_no_go_nimble_bar_1_1">
 		<text>Hm... Alright. I'll let Garry know. The name of the guy is Nimble. Head straight and then right along the corridor.</text>
 	</string>
-	
+
 	<string id="request_to_no_go_nimble_bar_2_0">
 		<text>Is there something in that room?</text>
 	</string>
 	<string id="request_to_no_go_nimble_bar_2_1">
 		<text>Not something, someone. That guy in there is a veteran - he can get anyone any kind of equipment, even unique stuff. If you want to see him, go ahead - I trust you. Tell Garry I said you can pass - head straight and then right down the corridor. His name is Nimble.</text>
 	</string>
-	
+
 	<string id="guard1_meet_mlr_0">
 		<text>...</text>
 	</string>
-	
+
 	<string id="request_go_to_nimble_0">
 		<text>I need to pass through.</text>
 	</string>
-	
+
 	<string id="about_freedom_lider_miklyha_0">
 		<text>Are you the stalker who broke through the Brain Scorcher and lived there for half a year?</text>
 	</string>
@@ -44,21 +44,21 @@
 	<string id="about_freedom_lider_miklyha_4">
 		<text>Got it. Thanks anyway.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_4_2_0">
 		<text>Hello, Gatekeeper.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_2_1">
 		<text>Hey there. Going to Limansk, are you? If it weren't for Leshiy... Anyway, welcome. Gonna need the money from you... And be careful not to get caught by our patrols - they aren't part of the agreement.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_4_1_0">
 		<text>Here's the money.</text>
 	</string>
 	<string id="look_for_cs_history_part_4_1_1">
 		<text>Very well. I'll give the heads-up to the watch at the bridge. Once you get there, the one to speak to is "Gatekeeper". Just act cool, and please try to find something that would shed some light on the disappearance of Scar.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_3_1_0">
 		<text>I'm looking for Leshiy, is he with you?</text>
 	</string>
@@ -68,7 +68,7 @@
 	<string id="look_for_cs_history_part_3_1_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_3_2_0">
 		<text>Leshiy, right?</text>
 	</string>
@@ -87,7 +87,7 @@
 	<string id="look_for_cs_history_part_3_2_5">
 		<text>Hm. You gotta understand that I haven't been part of the Syndicate for a long time... Not even sure who runs the group at the bridge. I've got a few connections, but I'm gonna need some time for this... and some money. One hundred and fifty thousand, no less.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_2_1_0">
 		<text>Forester, I need to get across the Limansk bridge.</text>
 	</string>
@@ -112,7 +112,7 @@
 	<string id="look_for_cs_history_part_2_1_7">
 		<text>...I saw something in Scar - the Zone needed him. You, however... Yes, I'd like to know what happened to him. So, listen: we helped the mercenary detachment get out of the space anomaly. Once everything was settled, they paid me a visit. Looks like one of them snitched on me, told them I also took part in the rescue. I spoke to their leader, Leshiy, who gave me some provisions, money and ammunition - then he went on his way. In his own words, he headed off to the Army Warehouses - to Freedom. You can go look for him there - several years have passed, but judging by our conversation, his intentions to join them were serious.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_1_1_0">
 		<text>I've heard something about the history of your group. I would like to investigate.</text>
 	</string>
@@ -131,7 +131,7 @@
 	<string id="look_for_cs_history_part_1_1_5">
 		<text>There you go - have fun.</text>
 	</string>
-	
+
 	<string id="look_for_cs_history_part_1_2_0">
 		<text>It's done. What info do you have?</text>
 	</string>
@@ -141,7 +141,7 @@
 	<string id="look_for_cs_history_part_1_2_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="bandit_main_base_medic_mlr_heal_0">
 		<text>Need a check-up.</text>
 	</string>
@@ -157,7 +157,7 @@
 	<string id="bandit_main_base_medic_mlr_heal_4">
 		<text>Fuck, man, I don't understand any of this shit. Whatever, you should be better now.</text>
 	</string>
-	
+
 	<string id="ds_killer_medic_mlr_heal_0">
 		<text>I need medical assistance.</text>
 	</string>
@@ -173,7 +173,7 @@
 	<string id="ds_killer_medic_mlr_heal_4">
 		<text>Right, everything should be in order now... I hope.</text>
 	</string>
-	
+
 	<string id="mil_freedom_medic_heal_0">
 		<text>I need medical assistance.</text>
 	</string>
@@ -189,21 +189,21 @@
 	<string id="mil_freedom_medic_heal_4">
 		<text>This might sting a bit. Right, you stay healthy now.</text>
 	</string>
-	
+
 	<string id="meet_ds_killer_guide_main_base_0">
 		<text>How do I get out of here?</text>
 	</string>
 	<string id="meet_ds_killer_guide_main_base_1">
 		<text>This place is surrounded by all sorts of danger, but we've got an underground sewer network. There's a guide who can get you out of the city to one of our few bases, located in southern Zaton.</text>
 	</string>
-	
+
 	<string id="meet_ds_killer_guide_main_base_list_0">
 		<text>Remind me, where do the routes lead?</text>
 	</string>
 	<string id="meet_ds_killer_guide_main_base_list_1">
 		<text>Your only option is the waste processing plant in southeastern Zaton. It'll cost you eight thousand rubles.</text>
 	</string>
-	
+
 	<string id="travel_ds_killer_guide_main_base_0">
 		<text>I want to leave the city.</text>
 	</string>
@@ -216,21 +216,21 @@
 	<string id="travel_ds_killer_guide_main_base_3">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_zaton_killer_guide_station_0">
 		<text>Who are you?</text>
 	</string>
 	<string id="meet_zaton_killer_guide_station_1">
 		<text>I could ask you a reasonable question in return: what's your damn business? But that's probably not what you wanna hear, is it? I work as a trader, as well as a guide - and I know a route to our main outpost in Zaton.</text>
 	</string>
-	
+
 	<string id="meet_zaton_killer_guide_station_list_0">
 		<text>Could you remind me where the routes lead?</text>
 	</string>
 	<string id="meet_zaton_killer_guide_station_list_1">
 		<text>There's only one route, remember? It leads to the Dead City, and it's eight grand.</text>
 	</string>
-	
+
 	<string id="meet_zaton_killer_guide_station_list_0">
 		<text>I want to get to the Dead City.</text>
 	</string>
@@ -243,7 +243,7 @@
 	<string id="meet_zaton_killer_guide_station_list_3">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="about_dog_marsh_part_two_0">
 		<text>I spoke to Noah.</text>
 	</string>
@@ -256,28 +256,28 @@
 	<string id="about_dog_marsh_part_two_3">
 		<text>Puppies? Never thought you'd ever see that in the Zone. Well, thanks - now I know that there are more friendly pseudodogs breeding in the Zone. Here are some provisions for your future journeys... And, if you need it, you can have some information about a route between the Army Warehouses and the Red Forest. It's remained with us like an echo from the past.</text>
 	</string>
-	
+
 	<string id="talk_to_inf_trader_0">
 		<text>Who are you?</text>
 	</string>
 	<string id="talk_to_inf_trader_1">
 		<text>I'm a local informant, and I can offer you all kinds of services. At the moment, I have different types of information and maps with routes to various locations. Don't ask where I got this stuff.</text>
 	</string>
-	
+
 	<string id="buy_information_from_trader_0">
 		<text>Got any fresh information?</text>
 	</string>
 	<string id="buy_information_from_trader_1">
 		<text>I've got information about the swamp doctor, for seven thousand.</text>
 	</string>
-		
+
 		<string id="buy_information_from_trader_6">
 			<text>I'm listening.</text>
 		</string>
 		<string id="buy_information_from_trader_11">
 			<text>The old man is in the Great Swamp, always waiting for his friend Strelok. Someone came up to him recently, and the Doctor told him his story and everything else important - the story of Strelok's group itself! You can go to him and see it for yourself.</text>
 		</string>
-		
+
 		<string id="buy_information_from_trader_2">
 			<text>Got information about some stalker looking for Strelok's group, for ten grand.</text>
 		</string>
@@ -287,7 +287,7 @@
 		<string id="buy_information_from_trader_12">
 			<text>This very stalker who went to Doctor is now looking for traces of Strelok's group. He's already been to the laboratories in Dark Valley and Yantar, and it's obvious he ain't stopping there. Judging by proven sources, he wants to break into the center of the Zone and finish what the group of stalkers never managed to carry through.</text>
 		</string>
-		
+
 		<string id="buy_information_from_trader_3">
 			<text>I have information that sheds light on the second shutdown of the Brain Scorcher, but only for fifteen grand.</text>
 		</string>
@@ -297,7 +297,7 @@
 		<string id="buy_information_from_trader_13">
 			<text>This same stalker turned off the Brain Scorcher! I wonder when they're gonna try tearing up the control center instead of turning off the switch every time? There are rumors that he's currently heading to Pripyat and that he had some assignment from the Doctor. I don't know if the old man wants to find his friend, or if there's something else behind it.</text>
 		</string>
-		
+
 		<string id="buy_information_from_trader_4">
 			<text>I can post information about the adventures of a mysterious stalker who explored the Generators for twenty-four thousand.</text>
 		</string>
@@ -307,94 +307,94 @@
 		<string id="buy_information_from_trader_14">
 			<text>Have you ever heard about the Generators? Until recently, they were only considered a myth... but after Strelok's second campaign to the center of the Zone, there's no doubt they're real. There have been constant disputes about what they are, but old satellite imagery suggests some kind of weird infrastructure, in whose honor the entire area was named. Apparently, that's the place where Monolith carry out their orders and all important processes on the territory of the Zone. So, the stalker's already gone there and I think he's serious - his intervention might have a major impact on the Zone. The leaders of a few groups have already expressed their discontent regarding this information.</text>
 		</string>
-		
+
 	<string id="buy_information_from_trader_5">
 		<text>Not at the moment.</text>
 	</string>
 	<string id="buy_information_from_trader_10">
 		<text>Not interested.</text>
 	</string>
-	
+
 	<string id="inf_trader_buy_transitions_0">
 		<text>I'd like to buy intel on a few routes.</text>
 	</string>
 	<string id="inf_trader_buy_transitions_1">
 		<text>Certainly. Here's what I've got.</text>
 	</string>
-	
+
 	<string id="inf_trader_buy_transitions_2">
 		<text>From the Army Warehouses to the Radar. %c[255,238,153,26][25000 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_9">
 			<text>So, do you have the money for it?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_11">
 			<text>Yes, here you are.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_3">
 		<text>From the Radar to the bunker below it. %c[255,238,153,26][37500 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_12">
 			<text>Got the dough?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_13">
 			<text>Of course. Here.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_4">
 		<text>From the Radar to Pripyat. %c[255,238,153,26][50000 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_14">
 			<text>Have you got the cash?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_15">
 			<text>Here you go.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_5">
 		<text>From central Pripyat to the Outskirts. %c[255,238,153,26][100000 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_16">
 			<text>I'll need the paper, first.</text>
 		</string>
 		<string id="inf_trader_buy_transitions_17">
 			<text>Yeah, here it is.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_6">
 		<text>From Pripyat to the Chernobyl NPP. %c[255,238,153,26][150000 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_18">
 			<text>Have you got any money with you?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_19">
 			<text>Yes, there you go.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_7">
 		<text>Between the southern and northern parts of the Chernobyl NPP. %c[255,238,153,26][175000 RU]</text>
 	</string>
-		
+
 		<string id="inf_trader_buy_transitions_20">
 			<text>Money first.</text>
 		</string>
 		<string id="inf_trader_buy_transitions_21">
 			<text>Here you are.</text>
 		</string>
-		
+
 	<string id="inf_trader_buy_transitions_10">
 		<text>I don't have the money.</text>
 	</string>
 	<string id="inf_trader_buy_transitions_8">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="tasks_noah_dialog_0">
 		<text>Need any help?</text>
 	</string>
@@ -404,37 +404,37 @@
 	<string id="tasks_noah_dialog_2">
 		<text>Find a new shotgun</text>
 	</string>
-		
+
 		<string id="tasks_noah_dialog_5">
 			<text>My current shooter is crap. If you could bring me something better, like a Saiga... Well, I'm not sure getting a weapon like that in the Zone is possible. I have seen a few bandits with Armsel Protectas, though. You can bring me one of those.</text>
 		</string>
-		
+
 	<string id="tasks_noah_dialog_3">
 		<text>Deal with the snorks at the southern plateau</text>
 	</string>
-		
+
 		<string id="tasks_noah_dialog_6">
 			<text>It's time to put an end to those horrid creatures. Every night, I hear them creeping around the barge, waiting, breathing and sniffing. To get to the southern plateau, you'll have to use a teleporter. I've marked it on your map - it's not far from the burnt farmstead.</text>
 		</string>
-		
+
 	<string id="tasks_noah_dialog_4">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="task_1_noah_done_0">
 		<text>Here's an Armsel Protecta.</text>
 	</string>
 	<string id="task_1_noah_done_1">
 		<text>...Impressive. Thanks for the help. Now those beasts will think three times before snooping around here.</text>
 	</string>
-	
+
 	<string id="task_2_noah_done_0">
 		<text>I got those snorks, there were quite a few of them. What were they hunting you for?</text>
 	</string>
 	<string id="task_2_noah_done_1">
 		<text>I'm not sure. I used to head over there once in a while to clean them up, but I don't have any more time for that... have to to keep an eye on the puppies. So, thank you for your help.</text>
 	</string>
-	
+
 	<string id="noah_start_dialog_0">
 		<text>Man, what the hell were you shooting for? You almost killed me!</text>
 	</string>
@@ -447,7 +447,7 @@
 	<string id="noah_start_dialog_3">
 		<text>I'll answer, but don't screw around.</text>
 	</string>
-	
+
 	<string id="noah_start_dialog1_0">
 		<text>I have a couple of questions.</text>
 	</string>
@@ -466,7 +466,7 @@
 		<string id="noah_start_dialog1_9">
 			<text>And those puppies - where do they come from if she's next to you all the time? Heh.</text>
 		</string>
-		
+
 		<string id="noah_start_dialog1_3">
 			<text>Why do you live on this garbage can?</text>
 		</string>
@@ -482,53 +482,53 @@
 		<string id="noah_start_dialog1_13">
 			<text>I guess anything can happen in the Zone, but if your estimates are correct, we're in some deep trouble.</text>
 		</string>
-		
+
 		<string id="noah_start_dialog1_4">
 			<text>Why do you not trust people?</text>
 		</string>
 		<string id="noah_start_dialog1_14">
 			<text>Because I've been through too much.</text>
 		</string>
-		
+
 	<string id="noah_start_dialog1_5">
 		<text>I think I'll go.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_3_start_0">
 		<text>And what is our final task?</text>
 	</string>
 	<string id="fanat_kmb_3_start_1">
 		<text>You'll see. As you know, the most insidious enemy of man - strangely enough - remains a man. For a long time, we've kept the vehicle station clear of all the bandits, but they keep coming back. They've been a steady threat, usually numbering from around five to seven. Let's go take care of them.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_3_start1_0">
 		<text>Hah, the two of us against these... We're heroes!</text>
 	</string>
 	<string id="fanat_kmb_3_start1_1">
 		<text>What you just called heroism here is commonplace for more experienced stalkers. Anyway, let's head back to the village.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_3_start2_0">
 		<text>It's nice that we've got a mentor like you.</text>
 	</string>
 	<string id="fanat_kmb_3_start2_1">
 		<text>Thank you, although I'm not the first - that honor goes to Wolf. I need to catch my breath, that tired me out... Oh, and I've got some info on a route from Agroprom to Yantar in case you haven't already heard of it. Rest up for a bit, and then... Agh, who am I to tell you what to do? You've certainly proven to be your own stalker, and you should be proud of it. Be free.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_2_start_0">
 		<text>I'm ready, what now?</text>
 	</string>
 	<string id="fanat_kmb_2_start_1">
 		<text>Tell me, what self-respecting stalker has never found another's secrets? The Zone is common to everybody here. Those who manage, eat. Sometimes, finding a stash is not just an achievement, but a necessity. I've hidden a backpack somewhere in the village - try to find it.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_2_start1_0">
 		<text>Found it... Thanks for the artifact.</text>
 	</string>
 	<string id="fanat_kmb_2_start1_1">
 		<text>Huh... I see that with your level of perception, the Zone won't be taking you so easily. Your final lesson is about to start. Take some time to prepare.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_1_start_0">
 		<text>Oh, a new face? Would you like to go through some basic training?</text>
 	</string>
@@ -541,39 +541,39 @@
 	<string id="fanat_kmb_1_start_3">
 		<text>Excellent. The biggest threat around here are the mutants. There's a herd of boars by the ravine - you and I are going to clear the place out. Try and keep them off me.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_1_start1_0">
 		<text>Phew, that was crazy. What now?</text>
 	</string>
 	<string id="fanat_kmb_1_start1_1">
 		<text>Well done. See if your knife's strong enough to get a few parts off of them. When you're done, let's head to the nearest anomalous zone.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_1_start2_1">
 		<text>What's next?</text>
 	</string>
 	<string id="fanat_kmb_1_start2_2">
 		<text>So, this pit is full of gravitational anomalies. See the artifact over there? It's called a Jellyfish, and Jellyfishes, along with every other artifact, have both positive and negative qualities... We're quite fortunate to have found one. Here, a simple detector you can use to find artifacts. Here's a bottle of Nemiroff - take a swig, in case you manage to catch any radiation. Now, take a few bolts and throw them in front of you to check if the path's safe. Let's go. I'll cover you from here on.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_1_start3_1">
 		<text>Hey, I got the artifact!</text>
 	</string>
 	<string id="fanat_kmb_1_start3_2">
 		<text>Well, well... I can see you'll be an experienced stalker one day. Let's head back to the village - we'll continue your training there.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_1_start4_1">
 		<text>That sure was something...</text>
 	</string>
 	<string id="fanat_kmb_1_start4_2">
 		<text>Tired? Heh, don't put anything away yet. The training has just begun.</text>
 	</string>
-	
+
 	<string id="zat_b3_stalker_tech_start_mlr_0">
 		<text>Hey, stalker. Need something?</text>
 	</string>
-	
+
 	<string id="gar_4_2_zombie_mlr_squad_1_0">
 		<text>Do you have any special jobs?</text>
 	</string>
@@ -589,14 +589,14 @@
 	<string id="gar_4_2_zombie_mlr_squad_1_4">
 		<text>Here you are. Be careful out there, stalker.</text>
 	</string>
-	
+
 	<string id="gar_4_2_zombie_mlr_squad_2_0">
 		<text>The zombies have been taken care of... God damn, there were so many.</text>
 	</string>
 	<string id="gar_4_2_zombie_mlr_squad_2_1">
 		<text>Nicely done. They probably migrated from Yantar. By the way, did you know that there's a direct path to the Wild Territory from here? If not, give me your PDA - I'll show you how to get there. Also, here's your reward.</text>
 	</string>
-	
+
 	<string id="barmen_about_himself_1_6_army_mlr_0">
 		<text>Who are you?</text>
 	</string>
@@ -609,7 +609,7 @@
 	<string id="barmen_about_himself_1_6_army_mlr_3">
 		<text>I was just an army draftee back then, only ever got to measure radioactivity and clean it up. However, the guys near the power station ended up waist-deep in shit. Even our technology died from the radiation, let alone the people... imagine that. So, they cleaned the roofs of graphite with freakin' shovels. Radiation is a strange thing - it curses some and spares others, like Dyatlov, who survived to end up in prison.</text>
 	</string>
-	
+
 	<string id="rogovets_about_himself_1_6_army_mlr_0">
 		<text>Tell me about yourself.</text>
 	</string>
@@ -625,11 +625,11 @@
 	<string id="rogovets_about_himself_1_6_army_mlr_3">
 		<text>Understood. I wish you well on your travels.</text>
 	</string>
-	
+
 	<string id="rogovets_hello_1_6_army_mlr_0">
 		<text>Huh? Oh, it's you...</text>
 	</string>
-	
+
 	<string id="rogovets_heal_1_6_army_mlr_0">
 		<text>I need medical assistance.</text>
 	</string>
@@ -645,137 +645,137 @@
 	<string id="rogovets_heal_1_6_army_mlr_4">
 		<text>There we go. You're all set.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_killer_0">
 		<text>Here. I found a flight recorder.</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_killer_1">
 		<text>A military one? Great. That's actually a nice gizmo you've got there - I'll take it off your hands for some paper.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_freedom_0">
 		<text>I found a flight recorder.</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_freedom_1">
 		<text>Oh, serious? Bring it here. Let's see what these bozos are planning.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_csky_0">
 		<text>I found a flight recorder.</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_csky_1">
 		<text>Ah, an excellent find! Perhaps we'll finally find the cause of these air raids in the marshes.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_haron_0">
 		<text>Brother, I have found a flight recorder device under the wreckage of a helicopter.</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_haron_1">
 		<text>I am pleased. With this, the infidels will burn.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_owl_0">
 		<text>Are you interested in data from a flight recorder?</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_owl_1">
 		<text>Wha-of course! Give it here.</text>
 	</string>
-	
+
 	<string id="find_blackbox_mlr_reward_army_0">
 		<text>I've found a flight recorder from a helicopter wreckage.</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_army_1">
 		<text>Good find! Well done, soldier.</text>
 	</string>
-	
+
 	<string id="information_about_stash_barah_night_0">
 		<text>Hey, do you have information on stashes?</text>
 	</string>
 	<string id="information_about_stash_barah_night_1">
 		<text>Sure do. I'll part with one for six thousand.</text>
 	</string>
-	
+
 	<string id="information_about_stash_barah_night1_0">
 		<text>Here. %c[255,238,153,26][6000 RU]</text>
 	</string>
 	<string id="information_about_stash_barah_night1_1">
 		<text>Pleasure doin' business. There ya go.</text>
 	</string>
-	
+
 	<string id="information_about_stash_aslan_0">
 		<text>Heard you got information on stashes.</text>
 	</string>
 	<string id="information_about_stash_aslan_1">
 		<text>You heard right. We always keep an eye on loot after raids. It's yours for six and a half thousand.</text>
 	</string>
-	
+
 	<string id="information_about_stash_aslan1_0">
 		<text>Here. %c[255,238,153,26][6500 RU]</text>
 	</string>
 	<string id="information_about_stash_aslan1_1">
 		<text>Sweet. Enjoy.</text>
 	</string>
-	
+
 	<string id="information_about_stash_owl_zat_0">
 		<text>You got any info on stashes?</text>
 	</string>
 	<string id="information_about_stash_owl_zat_1">
 		<text>I've got everything and more - if you've got the cash, that is. Got plenty of spare info from various sources. Eight thousand for this one, no less.</text>
 	</string>
-	
+
 	<string id="information_about_stash_owl_zat1_0">
 		<text>Here. %c[255,238,153,26][8000 RU]</text>
 	</string>
 	<string id="information_about_stash_owl_zat1_1">
 		<text>Right. Here are your coordinates.</text>
 	</string>
-	
+
 	<string id="information_about_stash_7_4_bandit_trader_0">
 		<text>Looking for information on stashes. Got it?</text>
 	</string>
 	<string id="information_about_stash_7_4_bandit_trader_1">
 		<text>Damn, how'd you know? I got info before others could even find out. Whatever, seven grand and it's all yours.</text>
 	</string>
-	
+
 	<string id="information_about_stash_7_4_bandit_trader1_0">
 		<text>I'll take it. %c[255,238,153,26][7000 RU]</text>
 	</string>
 	<string id="information_about_stash_7_4_bandit_trader1_1">
 		<text>Knock yourself out.</text>
 	</string>
-	
+
 	<string id="information_about_stash_barmen_0">
 		<text>Any stash information for sale?</text>
 	</string>
 	<string id="information_about_stash_barmen_1">
 		<text>Heh, yeah... Sometimes, when stalkers around here grab a bottle, they drunkenly slip info on their stashes. Don't know what they keep in there, but what I do know is the value. Seven thousand and it's all yours.</text>
 	</string>
-	
+
 	<string id="information_about_stash_barmen1_0">
 		<text>Sure. Here. %c[255,238,153,26][7000 RU]</text>
 	</string>
 	<string id="information_about_stash_barmen1_1">
 		<text>Much appreciated.</text>
 	</string>
-	
+
 	<string id="tech_a18_meet_dialog_0">
 		<text>You're the local supplier, right? What services do you offer?</text>
 	</string>
 	<string id="tech_a18_meet_dialog_1">
 		<text>That's correct. I can provide ammunition, which our guys find in raids from time to time, in exchange for any foreign munitions you bring us. We also have some foreign ones, and the exchange ratio for everything expect RPG warheads is one to one. The weapons we have are all fine and dandy, but a few prefer using more domestic firearms, ammunition for which is more abundant - having anything to shoot with helps keep us alive and well. I can also give you RPG projectiles and M209 underbarrel grenades, which we've received in abundance for carrying out tasks, though unfortunately, we don't have any more grenade launchers to go with it. Medical assistance is also something I can provide.</text>
 	</string>
-	
+
 	<string id="tech_a18_meet_dialog_1_0">
 		<text>What kinds of munitions do you exchange?</text>
 	</string>
 	<string id="tech_a18_meet_dialog_1_1">
 		<text>I have two hundred 9x19 rounds that I can exchange for an equal number of 9x18 armor piercing rounds, about three hundred 5.56x45 rounds in exchange for 5.45x39 rounds, twenty F1 grenades for the same amount of M209 grenades and ten RGD-5 grenades in exchange for three RPG warheads.</text>
 	</string>
-	
+
 	<string id="tech_a18_meet_dialog_2_0">
 		<text>Think I'll make an exchange.</text>
 	</string>
-		
+
 		<string id="tech_a18_meet_dialog_2_1">
 			<text>Great. What do you have?</text>
 		</string>
@@ -794,7 +794,7 @@
 		<string id="tech_a18_meet_dialog_2_6">
 			<text>I've changed my mind.</text>
 		</string>
-		
+
 	<string id="grifon_meet_dialog_0">
 		<text>I saw your message. How come you've turned into such a do-gooder?</text>
 	</string>
@@ -807,7 +807,7 @@
 	<string id="grifon_meet_dialog_3">
 		<text>Any. We have no supplies here, no standard equipment - only what we manage to find after successful operations. You can also talk to our supplier; for a fee, he'll share some excess equipment equipment with you.</text>
 	</string>
-	
+
 	<string id="task_find_inf_inx_8_mlr_1_0">
 		<text>Got any special jobs?</text>
 	</string>
@@ -820,28 +820,28 @@
 	<string id="task_find_inf_inx_8_mlr_1_3">
 		<text>No, thanks.</text>
 	</string>
-	
+
 	<string id="task_find_inf_inx_8_mlr_2_0">
 		<text>Here's what I managed to find.</text>
 	</string>
 	<string id="task_find_inf_inx_8_mlr_2_1">
 		<text>Stack of papers doesn't seem very thick... Nevertheless, there are some interesting points here. It won't be hard to find a buyer for such a find. Here's your cut.</text>
 	</string>
-	
+
 	<string id="meet_guid_l11pri_mon_haron_0">
 		<text>Is there anywhere I may travel, brother?</text>
 	</string>
 	<string id="meet_guid_l11pri_mon_haron_1">
 		<text>Certainly. I may ask our brothers to lead you - in exchange for a donation to the brotherhood. You may be taken to the outskirts of Pripyat east of here, to Jupiter to the west, and to the Red Forest located to the southwest.</text>
 	</string>
-	
+
 	<string id="meet_guid_l11pri_mon_haron_list_0">
 		<text>To which places may I travel to, brother?</text>
 	</string>
 	<string id="meet_guid_l11pri_mon_haron_list_1">
 		<text>There are ways to the Outskirts east of here, to Jupiter to the west, and to the Red Forest located to the southwest.</text>
 	</string>
-	
+
 	<string id="travel_guid_l11pri_mon_haron_0">
 		<text>I'd like to travel somewhere.</text>
 	</string>
@@ -860,21 +860,21 @@
 	<string id="travel_guid_l11pri_mon_haron_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_red_forest_mon_0">
 		<text>To which places may I travel to, brother?</text>
 	</string>
 	<string id="meet_guid_red_forest_mon_1">
 		<text>I can not escort you personally, but our brothers may show you where to go - for a fee. We've got positions set up in the Red Forest, Jupiter and Pripyat. We would be glad to assist you at any time.</text>
 	</string>
-	
+
 	<string id="meet_guid_red_forest_mon_list_0">
 		<text>Where can the guides take me?</text>
 	</string>
 	<string id="meet_guid_red_forest_mon_list_1">
 		<text>To the Red Forest for five thousand rubles, Jupiter for two thousand and Pripyat for one thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_red_forest_mon_0">
 		<text>I'd like to travel somewhere.</text>
 	</string>
@@ -893,21 +893,21 @@
 	<string id="travel_guid_red_forest_mon_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_prikbo_mon_0">
 		<text>To which places may I travel to, brother?</text>
 	</string>
 	<string id="meet_guid_prikbo_mon_1">
 		<text>I personally can not escort you, but our brothers may show you where to go - for a fee. We've got positions set up in the Red Forest, Jupiter and Pripyat. We would be glad to assist you at any time.</text>
 	</string>
-	
+
 	<string id="meet_guid_prikbo_mon_list_0">
 		<text>Where can the guides take me?</text>
 	</string>
 	<string id="meet_guid_prikbo_mon_list_1">
 		<text>To the Red Forest for five thousand rubles, Jupiter for two thousand and Pripyat for one thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_prikbo_mon_mon_0">
 		<text>I'd like to travel somewhere.</text>
 	</string>
@@ -926,21 +926,21 @@
 	<string id="travel_guid_prikbo_mon_mon_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_jupdepo_mon_0">
 		<text>To which places may I travel to, brother?</text>
 	</string>
 	<string id="meet_guid_jupdepo_mon_1">
 		<text>There are several - we have routes that lead to the Red Forest, Outskirts and Pripyat. I cannot take you to any of these locations myself, but you may go with your brothers - for a fee. I don't believe you'll find it a problem, however.</text>
 	</string>
-	
+
 	<string id="meet_guid_jupdepo_mon_list_0">
 		<text>Where can the guides take me?</text>
 	</string>
 	<string id="meet_guid_jupdepo_mon_list_1">
 		<text>To the Red Forest for six thousand rubles, Outskirts for two thousand and Pripyat for one thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_jupdepo_mon_mon_0">
 		<text>I'd like to travel somewhere, brother.</text>
 	</string>
@@ -959,35 +959,35 @@
 	<string id="travel_guid_jupdepo_mon_mon_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="remember_dyx_barter_0">
 		<text>Remind me, what do you have?</text>
 	</string>
 	<string id="remember_dyx_barter_1">
 		<text>This is what I've got: four mags of 9x18 for five bottles, two 5.45x39 mags for five bottles, four 5.45x39 mags for ten bottles, three packs of 12x70 for ten bottles, one mag of 7.62x54 7N1 for ten bottles, three box mags for the PKP for fifteen bottles and seven thousand rubles, and a Berill suit for twenty bottles.</text>
 	</string>
-	
+
 	<string id="pri_special_trader_mlr1_0">
 		<text>Who are you?</text>
 	</string>
 	<string id="pri_special_trader_mlr1_1">
 		<text>A new client... Understand that I'm not interested in who you are or where you come from - you choose what you need from the list and wait exactly one day until I get the goods. Moreover, I do not accept refusals - I don't have time for games, or bullshit, and I work without prepayments. Everything will be exactly on time, and you can order no more than one item.</text>
 	</string>
-	
+
 	<string id="pri_special_trader_mlr4_0">
 		<text>How do you cooperate with the Monolith and how do you manage to get such unique armor and weapons?</text>
 	</string>
 	<string id="pri_special_trader_mlr4_1">
 		<text>If I'm not interested in who you are, then the feeling should be mutual, right? I'll tell you this only your reassurance: I'm an intermediary. You're lucky that I decided to cooperate with you, as I can be very selective with my clients. Believe me.</text>
 	</string>
-	
+
 	<string id="pri_special_trader_mlr2_0">
 		<text>I want to place an order.</text>
 	</string>
 	<string id="pri_special_trader_mlr2_1">
 		<text>Choose what interests you.</text>
 	</string>
-		
+
 		<string id="pri_special_trader_mlr2_2">
 			<text>Pistols.</text>
 		</string>
@@ -1006,7 +1006,7 @@
 		<string id="pri_special_trader_mlr2_10">
 			<text>March - modified UDP Compact, high caliber and quick-firing. It'll cost you seven thousand..</text>
 		</string>
-		
+
 		<string id="pri_special_trader_mlr2_3">
 			<text>Shotguns and SMGs.</text>
 		</string>
@@ -1025,7 +1025,7 @@
 		<string id="pri_special_trader_mlr2_15">
 			<text>I didn't find what I was looking for.</text>
 		</string>
-		
+
 		<string id="pri_special_trader_mlr2_4">
 			<text>Sniper and assault rifles.</text>
 		</string>
@@ -1053,7 +1053,7 @@
 		<string id="pri_special_trader_mlr2_27">
 			<text>Gauss rifle. A trophy weapon - you can count the number of these in the Zone on your fingers. Absolute accuracy and damage with almost no recoil included. The price is one-hundred and fifty thousand.</text>
 		</string>
-		
+
 		<string id="pri_special_trader_mlr2_5">
 			<text>Suits.</text>
 		</string>
@@ -1075,18 +1075,18 @@
 		<string id="pri_special_trader_mlr2_26">
 			<text>A Mercenary suit with a closed breathing system. Excellent protection from anomalies and a real rarity for the average stalker. It'll cost you fifty thousand.</text>
 		</string>
-		
+
 	<string id="pri_special_trader_mlr2_6">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="pri_special_trader_mlr3_0">
 		<text>I want to order.</text>
 	</string>
 	<string id="pri_special_trader_mlr3_1">
 		<text>Hope you have the funds to afford these.</text>
 	</string>
-		
+
 		<string id="pri_special_trader_mlr3_2">
 			<text>Yeah, give me the Steppe Eagle.</text>
 		</string>
@@ -1144,37 +1144,37 @@
 		<string id="pri_special_trader_mlr3_19">
 			<text>Gauss rifle. Right now.</text>
 		</string>
-		
+
 	<string id="pri_special_trader_mlr3_21">
 		<text>Forget it.</text>
 	</string>
-	
+
 	<string id="mechanic_monolith_jup_depo_start_0">
 		<text>Salutations, fellow brother. My duty is to provide technical support for our brethren in the area.</text>
 	</string>
-	
+
 	<string id="mechanic_monolith_kbo_start_0">
 		<text>Greetings, brother. I carry out Its will by preserving the equipment of our brotherhood.</text>
 	</string>
-	
+
 	<string id="trucks_cemetery_bandit_mechanic_start_0">
 		<text>'Sup, homie? Armor and weapon repairs - all by me.</text>
 	</string>
-	
+
 	<string id="ashot_price_for_pathes_duty_0">
 		<text>They say you have interesting goods in exchange for Duty patches.</text>
 	</string>
 	<string id="ashot_price_for_pathes_duty_1">
 		<text>Of course! I can offer two hundred and ten 5.56 rounds for twenty patches, fifty 7.62 rounds for fifteen patches, twenty M209 underbarrel grenades for fifty patches, a scientific Freedom suit for fifty patches, a Freedom exoskeleton for sixty-five patches and a unique SVD for a hundred patches.</text>
 	</string>
-	
+
 	<string id="ashot_price_for_pathes_duty1_0">
 		<text>I've got the patches.</text>
 	</string>
 	<string id="ashot_price_for_pathes_duty1_1">
 		<text>Awesome, dude! Take your pick - two hundred and ten 5.56 rounds for twenty patches, fifty 7.62 rounds for fifteen patches, twenty M209 underbarrel grenades for fifty patches, a scientific Freedom suit for fifty patches, a Freedom exoskeleton for sixty-five patches and a unique SVD for a hundred patches!</text>
 	</string>
-		
+
 		<string id="ashot_price_for_pathes_duty1_2">
 			<text>Two hundred and ten rounds of 5.56.</text>
 		</string>
@@ -1193,18 +1193,18 @@
 		<string id="ashot_price_for_pathes_duty1_7">
 			<text>Let me have that unique-looking SVD.</text>
 		</string>
-		
+
 	<string id="ashot_price_for_pathes_duty1_8">
 		<text>I won't take anything. I've changed my mind.</text>
 	</string>
-	
+
 	<string id="barter_povar_army_0">
 		<text>I've brought some vodka.</text>
 	</string>
 	<string id="barter_povar_army_1">
 		<text>That's great! Is there anything particular you want?</text>
 	</string>
-		
+
 		<string id="barter_povar_army_2">
 			<text>Six 9x18 mags.</text>
 		</string>
@@ -1226,7 +1226,7 @@
 		<string id="barter_povar_army_8">
 			<text>The Berill.</text>
 		</string>
-		
+
 	<string id="barter_povar_army_10">
 		<text>I've signalled to my guys - take it.</text>
 	</string>
@@ -1251,7 +1251,7 @@
 	<string id="barter_povar_army_9">
 		<text>I've signalled to my guys - take it.</text>
 	</string>
-	
+
 	<string id="meet_povar_army_0">
 		<text>Who are you?</text>
 	</string>
@@ -1267,7 +1267,7 @@
 	<string id="meet_povar_army_4">
 		<text>I'll consider it. Thank you.</text>
 	</string>
-	
+
 	<string id="baraholka_trader_talking_0">
 		<text>What kind of place is this?</text>
 	</string>
@@ -1280,7 +1280,7 @@
 	<string id="baraholka_trader_talking_3">
 		<text>Me? Of course not! There are other people here making deals and stuff. We do have one rule, though: nothing major's traded before sunset. When the sun's up, I'm around here - my goods are low cost, and I only have a humble amount of wares to offer. At night, though, the real life begins - the goods are completely different and top tier.</text>
 	</string>
-	
+
 	<string id="army_yan_mec_about_tool_0">
 		<text>Who are you?</text>
 	</string>
@@ -1296,7 +1296,7 @@
 	<string id="army_yan_mec_about_tool_4">
 		<text>Well, this is the Zone, you never know what'll happen. Anyway, best wishes.</text>
 	</string>
-	
+
 	<string id="bar_dolg_medic_talking_0">
 		<text>Who are you?</text>
 	</string>
@@ -1312,43 +1312,43 @@
 	<string id="bar_dolg_medic_talking_4">
 		<text>Thanks.</text>
 	</string>
-	
+
 	<string id="bar_dolg_medic_dialog_0">
 		<text>I need medical assistance.</text>
 	</string>
 	<string id="bar_dolg_medic_dialog_1">
 		<text>Yeah, I'll fix you up - for a fee.</text>
 	</string>
-		
+
 		<string id="bar_dolg_medic_dialog_4">
 			<text>You're fit as a fiddle. Now go, I'm busy.</text>
 		</string>
-		
+
 	<string id="bar_dolg_medic_dialog_3">
 		<text>How bad is it?</text>
 	</string>
 	<string id="bar_dolg_medic_dialog_4">
 		<text>You're fine. The door's that way. Also, don't forget to take your "medicine".</text>
 	</string>
-	
+
 	<string id="zbar_dolg_medic_hello_0">
 		<text>What is it?</text>
 	</string>
-	
+
 	<string id="brain_on_staff_1_0">
 		<text>Professor, you must have something that interests you more than anything else.</text>
 	</string>
 	<string id="brain_on_staff_1_1">
 		<text>Yes, I do have something. I require fresh brain tissue from a controller in order to conduct extensive research into the psy-emission phenomenon. In exchange, I will offer you ten scientist medkits, ten military medkits, a Veles detector and three packs of anabiotics. Provided you return, of course.</text>
 	</string>
-	
+
 	<string id="brain_on_staff_0">
 		<text>I'm back, and with the brain issue as well. Here, Professor.</text>
 	</string>
 	<string id="brain_on_staff_1">
 		<text>Splendid! Now, I can offer you four scientific first-aid kits, five army kits, a Veles-class detector or two packs of anabiotics. The choice is yours.</text>
 	</string>
-		
+
 		<string id="brain_on_staff_2">
 			<text>I'll take four scientific medkits.</text>
 		</string>
@@ -1361,18 +1361,18 @@
 		<string id="brain_on_staff_5">
 			<text>Anabiotics would be preferred.</text>
 		</string>
-		
+
 	<string id="brain_on_staff_6">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="talk_to_aslan_on_main_base_merk_0">
 		<text>Tell me about yourself.</text>
 	</string>
 	<string id="talk_to_aslan_on_main_base_merk_1">
 		<text>What's there to tell? I'm the local bartender and doctor - but who can tell amidst this crap, yeah? We've been stuck here for days, barely maintaining ourselves. I took part in the defense of the president's palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days... During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who've been in Afghanistan and Georgia. But people from the Baltic aren't too eager to come, never mind the first world countries.</text>
 	</string>
-	
+
 	<string id="talk_to_aslan_about_lottery_0">
 		<text>Heard that you're interested in faction patches.</text>
 	</string>
@@ -1385,14 +1385,14 @@
 	<string id="talk_to_aslan_about_lottery_3">
 		<text>I collect them. Not your business - since I organized this "lottery", why should it be?</text>
 	</string>
-	
+
 	<string id="lottery_ds_aslan_mlr_0">
 		<text>I have some patches.</text>
 	</string>
 	<string id="lottery_ds_aslan_mlr_1">
 		<text>Excellent, which ones?</text>
 	</string>
-		
+
 		<string id="lottery_ds_aslan_mlr_2">
 			<text>Clear Sky, ten patches.</text>
 		</string>
@@ -1441,11 +1441,11 @@
 		<string id="lottery_ds_aslan_mlr_18">
 			<text>Military, fifty patches.</text>
 		</string>
-		
+
 	<string id="lottery_ds_aslan_mlr_10">
 		<text>Changed my mind.</text>
 	</string>
-	
+
 	<string id="lottery_ds_aslan_mlr_19">
 		<text>Here, take your artifact.</text>
 	</string>
@@ -1509,7 +1509,7 @@
 	<string id="lottery_ds_aslan_mlr_41">
 		<text>Ideal for long-range attacks.</text>
 	</string>
-	
+
 	<string id="mil_freedom_guid_meet_0">
 		<text>Hey, what's up?</text>
 	</string>
@@ -1525,14 +1525,14 @@
 	<string id="mil_freedom_guid_meet_4">
 		<text>I'll keep that in mind.</text>
 	</string>
-	
+
 	<string id="mil_freedom_guid_go_0">
 		<text>Lead me somewhere.</text>
 	</string>
 	<string id="mil_freedom_guid_go_1">
 		<text>Sure, man. Where to?</text>
 	</string>
-		
+
 		<string id="mil_freedom_guid_go_2">
 			<text>To Yanov. %c[255,238,153,26][6000 RU]</text>
 		</string>
@@ -1542,7 +1542,7 @@
 		<string id="mil_freedom_guid_go_8">
 			<text>Here, all yours.</text>
 		</string>
-		
+
 		<string id="mil_freedom_guid_go_3">
 			<text>To the Cordon. %c[255,238,153,26][4500 RU]</text>
 		</string>
@@ -1552,7 +1552,7 @@
 		<string id="mil_freedom_guid_go_9">
 			<text>Here, keep it.</text>
 		</string>
-		
+
 		<string id="mil_freedom_guid_go_4">
 			<text>To Yantar. %c[255,238,153,26][5000 RU]</text>
 		</string>
@@ -1562,28 +1562,28 @@
 		<string id="mil_freedom_guid_go_10">
 			<text>Of course. Here.</text>
 		</string>
-		
+
 	<string id="mil_freedom_guid_go_11">
 		<text>Forgot it.</text>
 	</string>
 	<string id="mil_freedom_guid_go_12">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="guid_esc_mlr_military_0">
 		<text>I need a heli. Is this possible to organize?</text>
 	</string>
 	<string id="guid_esc_mlr_military_1">
 		<text>It is, but we won't be using up fuel just for you. You'll have to prove that you're worth the lift.</text>
 	</string>
-	
+
 	<string id="guid_esc_mlr_military_list_0">
 		<text>To which places do you offer transport?</text>
 	</string>
 	<string id="guid_esc_mlr_military_list_1">
 		<text>To our base in Agroprom for five thousand rubles, as well as the gas station in the Darkscape for three thousand and the mobile lab at lake Yantar for ten thousand.</text>
 	</string>
-	
+
 	<string id="guid_esc_mlr_military_vert_0">
 		<text>I could use a lift.</text>
 	</string>
@@ -1602,21 +1602,21 @@
 	<string id="guid_esc_mlr_military_vert_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="guid_agr_mlr_military_0">
 		<text>Can you organize a trip? There's somewhere I need to fly.</text>
 	</string>
 	<string id="guid_agr_mlr_military_1">
 		<text>Yeah, I can take you to the Cordon and Yantar... Wait, who are you, even? I offer transport, but not for an ordinary soldier like you. Shoo.</text>
 	</string>
-	
+
 	<string id="guid_agr_mlr_military_list_0">
 		<text>Where do you fly to, again?</text>
 	</string>
 	<string id="guid_agr_mlr_military_list_1">
 		<text>To our checkpoint in the Cordon for five thousand rubles, as well as the base in Yantar for seven thousand.</text>
 	</string>
-	
+
 	<string id="guid_agr_mlr_military_vert_0">
 		<text>I require a pilot.</text>
 	</string>
@@ -1632,21 +1632,21 @@
 	<string id="guid_agr_mlr_military_vert_4">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_marsh_csky_0">
 		<text>Hey, why are you standing there?</text>
 	</string>
 	<string id="meet_guid_marsh_csky_1">
 		<text>If I want to stand, then that's my own business... Just kidding. I have to be in constant sight, since I'm a local guide. And please, don't stare at my equipment - it'll be easier for me that way. I can take you to a few places if you want, namely the observation outpost here in the swamp, as well as the pump station, the old church and the machine yard. I also offer trips to the rookie village in the Cordon, as well as to Agroprom and the Bar. All of it will cost you.</text>
 	</string>
-	
+
 	<string id="meet_guid_marsh_csky_list_0">
 		<text>Can you repeat your routes?</text>
 	</string>
 	<string id="meet_guid_marsh_csky_list_1">
 		<text>These are the routes I take: the observation outpost for three hundred rubles, the pump station and the old church both for five hundred, the machine yard for eight hundred, the rookie village in the Cordon for fifteen hundred, Agroprom for two thousand and the Bar for four thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_marsh_csky_0">
 		<text>I'd like to use your services.</text>
 	</string>
@@ -1677,14 +1677,14 @@
 	<string id="travel_guid_marsh_csky_9">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_dv_bandit_0">
 		<text>What do you do around here?</text>
 	</string>
 	<string id="meet_guid_dv_bandit_1">
 		<text>You blind or something? I'm the local guide here. I can take you to our outpost in the Truck Cemetery, as well as our warehouse in Jupiter. It'll cost you.</text>
 	</string>
-	
+
 	<string id="travel_guid_dv_bandit_0">
 		<text>Let's go.</text>
 	</string>
@@ -1700,21 +1700,21 @@
 	<string id="travel_guid_dv_bandit_4">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_pri_stalker_0">
 		<text>You're a guide, right?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_1">
-		<text>Yeah, they call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no stalkers know about. Anyway, here's where I can take you: to the Nuclear Power Plant for twelve thousand rubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
+		<text>Yeah, they call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no other stalkers know about. Anyway, here's where I can take you: to the Nuclear Power Plant for twelve thousand rubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
 	</string>
-	
+
 	<string id="meet_guid_pri_stalker_list_0">
-		<text>Where do you travel to, again?</text>
+		<text>Where do you travel to again?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_list_1">
 		<text>To the Nuclear Power Plant for twelve thousand rubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_pri_stalker_0">
 		<text>Guide me.</text>
 	</string>
@@ -1742,21 +1742,21 @@
 	<string id="travel_guid_pri_stalker_8">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_jup_0">
 		<text>Who are you?</text>
 	</string>
 	<string id="meet_guid_jup_1">
 		<text>Nice to meet you, bro. Name's Garry, and I'm a guide - usually roam around the center of the Zone. I can take you to the Bar, Pripyat, the Red Forest, Zaton and the Jupiter Underground.</text>
 	</string>
-	
+
 	<string id="meet_guid_jup_list_0">
 		<text>Forgot. Where can you lead me?</text>
 	</string>
 	<string id="meet_guid_jup_list_1">
 		<text>I can offer trips to the Bar for six thousand rubles, Pripyat for three thousand, the Red Forest for twenty-five hundred, the Skadovsk in Zaton for two thousand and the Jupiter Underground for fifteen hundred.</text>
 	</string>
-	
+
 	<string id="travel_guid_jup_0">
 		<text>Take me somewhere.</text>
 	</string>
@@ -1781,21 +1781,21 @@
 	<string id="travel_guid_jup_7">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_zat_0">
 		<text>You look like an interesting character.</text>
 	</string>
 	<string id="meet_guid_zat_1">
 		<text>Pathfinder Pilot at your service. There aren't many places I can take you, but it'll definitely be much faster and safer. I offer services to Pripyat as well as its outskirts via fellow guide Garry, though I can take you to Jupiter myself.</text>
 	</string>
-	
+
 	<string id="meet_guid_zat_list_0">
 		<text>Give me your travel list again.</text>
 	</string>
 	<string id="meet_guid_zat_list_1">
 		<text>I can talk to Garry about leading you to Pripyat for four thousand, as well as the outskirts for five thousand. I can lead you to Yanov station in Jupiter by myself, for two thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_zat_0">
 		<text>Take me places.</text>
 	</string>
@@ -1814,21 +1814,21 @@
 	<string id="travel_guid_zat_5">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="meet_guid_bar_0">
 		<text>Are you a guide?</text>
 	</string>
 	<string id="meet_guid_bar_1">
-		<text>Yep - Navigator's the name. Can take you to a few places for a modest fee. Rookies are my customers most of the time, but I can lead any experienced stalker as well - no shame in it. I'll break it down: you pay, I get you wherever you want to go and I return here. I can take you to Yantar, the Great Swamp, the Army Warehouses, the Garbage, the Cordon and Jupiter.</text>
+		<text>Yep, Navigator's the name. Can take you to a few places for a modest fee. Rookies are my customers most of the time, but I can lead any experienced stalker as well - no shame in it. I'll break it down: you pay, I get you wherever you want to go and I return here. I can take you to Yantar, the Great Swamp, the Army Warehouses, the Garbage, the Cordon and Jupiter.</text>
 	</string>
-	
+
 	<string id="meet_guid_bar_list_0">
 		<text>Sorry, where can you escort me?</text>
 	</string>
 	<string id="meet_guid_bar_list_1">
 		<text>To the the Garbage for seven hundred, the Army Warehouses for one thousand, the Rookie Village in the Cordon for three thousand, Yantar for thirty-five hundred, Yanov station in Jupiter for six thousand and the Great Swamp, also for six thousand.</text>
 	</string>
-	
+
 	<string id="travel_guid_bar_0">
 		<text>Need to be lead somewhere.</text>
 	</string>
@@ -1856,7 +1856,7 @@
 	<string id="travel_guid_bar_8">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="hunter_trader_meet_0">
 		<text>Are you another bandit? Why haven't you opened fire yet?</text>
 	</string>
@@ -1878,19 +1878,19 @@
 	<string id="hunter_trader_meet_6">
 		<text>I'll keep that in mind.</text>
 	</string>
-	
+
 	<string id="about_baraholka_hunter_trader_0">
 		<text>Why don't the traders and guards at the flea market live in the hangar? It seems a lot safer, and more habitable.</text>
 	</string>
 	<string id="about_baraholka_hunter_trader_1">
 		<text>The stalkers at the flea market have been around for a few years at this point, while we've only gotten here recently... though, they were dispersed by Duty because they usually sell things considered "dangerous". What a fucking joke. Apparently, they somehow made an agreement with them. They really don't have anything to do here and they don't understand us, and frankly we don't understand them and their ideals. We hunt to survive, while they sit at their flea market like owls, collecting goodies and artifacts. Generally, those guys are pretty strange... but they're alright.</text>
 	</string>
-	
+
 	<string id="about_monsters_trader_hangar_0">
 		<text>Since you're an expert hunter, I'd like to know some more about mutants.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_1">
-		<text>There are a few cute rodents in the Zone, called "tushkanos" - you've seen them for sure. They don't really appear dangerous, but in packs, they can easily kill even an experienced stalker. There was a case where a special squad of Dutyers went to sweep a bloodsucker lair. Those idiots made camp somewhere in the middle of the Agroprom complex... One of the guys took off somewhere while another screwed around on his PDA. No one was keeping the night watch. Morning came, and no one was there - something was wrong. The first people to enter that room were in for a big surprise... The throats of the squad members had been all chewed up. Typical tushkano traces. God knows why the rodents just up and left their meal. Anyway, the rest of the soldiers decided to head to the lair and finish the job, writing off the deaths of their comrades afterwards. That's how those men perished. Some stalker ended up retrieving their PDAs, having a new story to tell in the Bar for shits and giggles.</text>
+		<text>There are a few cute rodents in the Zone, called "tushkanos". You've seen them for sure. They don't really appear dangerous, but in packs, they can easily kill even an experienced stalker. There was a case where a special squad of Dutyers went to sweep a bloodsucker lair. Those idiots made camp somewhere in the middle of the Agroprom complex... One of the guys took off somewhere while another screwed around on his PDA. No one was keeping the night watch. Morning came, and no one was there - something was wrong. The first people to enter that room were in for a big surprise... The throats of the squad members had been all chewed up. Typical tushkano traces. God knows why the rodents just up and left their meal. Anyway, the rest of the soldiers decided to head to the lair and finish the job, writing off the deaths of their comrades afterwards. That's how those men perished. Some stalker ended up retrieving their PDAs, having a new story to tell in the Bar for shits and giggles.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_2">
 		<text>Every rookie encounters a few dogs at the Cordon, as well as in the Great Land. They don't really differ that much from their "prototypes", so to speak - except they're blind, but that doesn't really keep them down, since their other senses have evolved... especially their ability to smell. They can take out newbies like fish in a barrel, and sometimes more experienced stalkers, too, mostly thanks to their maneuverability and sudden strikes. Hey, here's a story for you... Somebody made it a habit to snatch some sausage from the Bar. Everyone raised some fuss, tore up the security, and some men from Duty even ended up keeping watch and check who was stealing. Eventually, they saw a dog run in through a hole in the fence and, naturally, shot it down. In the morning, a solemn-looking stalker comes into the Bar and asks about the dog... Barman realizes what's happening and tells him to ask the guys from Duty. Turns out the fresh-faced lad was moving to the Zone with that dead dog, who was his pet. They went though a lot... The guy was also an orphan, and then this happens to him. Ever since that moment, any wise guy who crosses the border into the Zone with a pet either keeps moving or makes dinner out of his "little friend" for other stalkers... just to keep tensions low. By the way, all that sausage was actually stolen by a local alcoholic.</text>
@@ -1934,28 +1934,28 @@
 	<string id="about_monsters_trader_hangar_15">
 		<text>Karliks... Thanks for helping me gather information about them - here's what I've jotted down. They mainly reside in underground complexes, most of which have previously been used for experiments on people. Apparently, Karliks are the result of such experiments. They possess supernatural strength, good speed and attack most often in groups. At the moment, only one subspecies has been discovered – smoked ones. Dirty, mutated by anomalies, they emit dangerous radiation, it is better not to go near them without a Wrenched or a Bubble in your pocket.</text>
 	</string>
-	
+
 	<string id="request_to_no_trade_dialog_0">
 		<text>Can I buy extra equipment?</text>
 	</string>
 	<string id="request_to_no_trade_dialog_1">
 		<text>That's certainly possible, but nobody right now will want to sell you anything extra. You'll have to gain some trust and experience, and after that you can buy equipment wholesale.</text>
 	</string>
-	
+
 	<string id="request_to_no_trade_dialog_monolith_0">
 		<text>May I purchase more equipment from you, brother?</text>
 	</string>
 	<string id="request_to_no_trade_dialog_monolith_1">
 		<text>You may, although not at this point in time. First, I must see to it that you continue to carry the will of the Monolith towards the infidel masses. We may talk about this transaction when you gain more experience.</text>
 	</string>
-	
+
 	<string id="low_level_of_buy_equpments_0">
 		<text>I'd like to purchase some extra equipment.</text>
 	</string>
 	<string id="low_level_of_buy_equpments_1">
 		<text>What are you interested in?</text>
 	</string>
-		
+
 		<string id="low_level_of_buy_equpments_2">
 			<text>Medical supplies.</text>
 		</string>
@@ -1974,18 +1974,18 @@
 		<string id="low_level_of_buy_equpments_7">
 			<text>Choose.</text>
 		</string>
-		
+
 	<string id="low_level_of_buy_equpments_25">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="ussr_level_of_buy_equpments_0">
 		<text>I'd like to purchase some extra equipment.</text>
 	</string>
 	<string id="ussr_level_of_buy_equpments_1">
 		<text>What are you interested in?</text>
 	</string>
-		
+
 		<string id="ussr_level_of_buy_equpments_2">
 			<text>Medical supplies.</text>
 		</string>
@@ -2004,18 +2004,18 @@
 		<string id="ussr_level_of_buy_equpments_7">
 			<text>Choose.</text>
 		</string>
-		
+
 	<string id="ussr_level_of_buy_equpments_28">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="euro_level_of_buy_equpments_0">
 		<text>I'd like to purchase some extra equipment.</text>
 	</string>
 	<string id="euro_level_of_buy_equpments_1">
 		<text>What are you interested in?</text>
 	</string>
-		
+
 		<string id="euro_level_of_buy_equpments_2">
 			<text>Medical supplies.</text>
 		</string>
@@ -2034,18 +2034,18 @@
 		<string id="euro_level_of_buy_equpments_7">
 			<text>Choose.</text>
 		</string>
-		
+
 	<string id="euro_level_of_buy_equpments_30">
 		<text>I've changed my mind.</text>
 	</string>
-	
+
 	<string id="in_freedom_0">
 		<text>I've heard a lot about you guys, but I wasn't sure it was true. Tell me about your faction.</text>
 	</string>
 	<string id="in_freedom_1">
 		<text>Not to toot my own horn, but we're actually one of the strongest factions in the Zone, heh. We control and guard the Barrier, and we try to prevent those Duty assholes from coming here, because the goals we have are, in fact, very different. We want to co-exist with the Zone, in the best sense of the word - we believe that it is a gift to humanity. You ask how? Look around! This whole place is like a fairy tale. Anomalies that violently violate the laws of physics and creatures with amazing "properties", none of which I believe should be wiped out. Perhaps they can somehow coexist with us, or maybe we can at least borrow something from them. Nevertheless, we don't recognize the "official" approach to the Zone. Scientists may be doing a noble job, sure, but, like... All that stuff is gonna be kept by oligarchs, so what's left for common folk, you know? We just want to share the wonders of the Zone with the public, so that people won't be afraid of what they hear from the mainstream media. Instead, they'll start respecting it. Can you imagine how we, and only we, can advance in development? And what's worse is that the heads of the government can potentially develop some kind of weapon if they understand the psy-stuff that goes on around here. Anyway, we have no rules here, but discipline is still needed for banal survival, so during operations, our fighters obey the commands of the senior and experienced stalkers in the detachment. But all this is nothing more than a necessity. Are you interested in joining? We're always in need of stalkers who share our vision.</text>
 	</string>
-	
+
 	<string id="in_freedom_1_0">
 		<text>Sounds like my type of gig. I'd like to join.</text>
 	</string>
@@ -2055,68 +2055,68 @@
 	<string id="in_freedom_1_2">
 		<text>Thanks, bro. Take care.</text>
 	</string>
-	
+
 	<string id="out_freedom_0">
 		<text>This isn't working out, man. I think I'd like to depart from Freedom.</text>
 	</string>
 	<string id="out_freedom_1">
 		<text>Oh... shit. Yeah, man, no worries. Sorry things didn't work out. You be on your way - I'll tell command.</text>
 	</string>
-	
+
 	<string id="monolith_show_path_0">
 		<text>Greetings, brother. Do you have knowledge of any particular routes?</text>
 	</string>
 	<string id="monolith_show_path_1">
 		<text>I know one. I can assist you in exchange for a Flash to the Monolith.</text>
 	</string>
-		
+
 		<string id="monolith_show_path_9">
 			<text>Here.</text>
 		</string>
 		<string id="monolith_show_path_10">
 			<text>This item is not in my possession.</text>
 		</string>
-		
+
 	<string id="monolith_show_path_2">
 		<text>I may give you what you seek in exchange for a gift to the Monolith - a Moonlight.</text>
 	</string>
-		
+
 		<string id="monolith_show_path_11">
 			<text>Here.</text>
 		</string>
 		<string id="monolith_show_path_12">
 			<text>Sorry, I don't have anything.</text>
 		</string>
-		
+
 	<string id="monolith_show_path_3">
 		<text>I do know, brother. I will share it with you only in exchange for a Soul artifact.</text>
 	</string>
-		
+
 		<string id="monolith_show_path_13">
 			<text>Here.</text>
 		</string>
 		<string id="monolith_show_path_14">
 			<text>Sorry, I don't have anything.</text>
 		</string>
-		
+
 	<string id="monolith_show_path_4">
 		<text>I may be able to assist you in exchange for a Wrenched.</text>
 	</string>
-		
+
 		<string id="monolith_show_path_15">
 			<text>Here.</text>
 		</string>
 		<string id="monolith_show_path_16">
 			<text>Sorry, I don't have it.</text>
 		</string>
-		
+
 	<string id="monolith_show_path_6">
 		<text>No, I do not know.</text>
 	</string>
 	<string id="monolith_show_path_7">
 		<text>I don't know, brother.</text>
 	</string>
-	
+
 	<string id="buy_perehod_0">
 		<text>I'd like to purchase info on any hidden routes.</text>
 	</string>
@@ -2129,57 +2129,57 @@
 	<string id="buy_perehod_10">
 		<text>That's a bit expensive for me.</text>
 	</string>
-	
+
 	<string id="buy_perehod_2_0">
 		<text>I'd like to purchase info on any hidden routes.</text>
 	</string>
 	<string id="buy_perehod_2_2">
 		<text>I can give you what I have for a Moonlight.</text>
 	</string>
-		
+
 		<string id="buy_perehod_2_11">
 			<text>Here.</text>
 		</string>
 		<string id="buy_perehod_2_12">
 			<text>Don't have it, sorry.</text>
 		</string>
-		
+
 	<string id="buy_perehod_2_3">
 		<text>Certainly. I can mark one on your PDA for a Soul.</text>
 	</string>
-		
+
 		<string id="buy_perehod_2_13">
 			<text>Here.</text>
 		</string>
 		<string id="buy_perehod_2_14">
 			<text>Don't have it.</text>
 		</string>
-		
+
 	<string id="buy_perehod_3_0">
 		<text>I'd like to purchase info on any hidden routes.</text>
 	</string>
 	<string id="buy_perehod_3_3">
 		<text>Certainly. I can mark one on your PDA for a Soul.</text>
 	</string>
-		
+
 		<string id="buy_perehod_3_13">
 			<text>Here.</text>
 		</string>
 		<string id="buy_perehod_3_14">
 			<text>I do not have one.</text>
 		</string>
-		
+
 	<string id="buy_perehod_3_4">
 		<text>I'll mark one on your PDA in exchange for a Wrenched.</text>
 	</string>
-		
+
 		<string id="buy_perehod_3_15">
 			<text>Here.</text>
 		</string>
 		<string id="buy_perehod_3_16">
 			<text>I don't have it.</text>
 		</string>
-		
+
 	<string id="buy_perehod_4_0">
 		<text>I'd like to purchase info on any hidden routes.</text>
 	</string>
@@ -2192,7 +2192,7 @@
 	<string id="buy_perehod_4_7">
 		<text>I don't have that kind of stuff, but the traders probably do.</text>
 	</string>
-	
+
 	<string id="kridit1_me_0">
 		<text>Sir, I need to borrow some cash.</text>
 	</string>
@@ -2226,7 +2226,7 @@
 	<string id="kridit1_me_10">
 		<text>Here's 15000 - I'll be expecting 22500 in return.</text>
 	</string>
-	
+
 	<string id="kridit2_me_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2236,7 +2236,7 @@
 	<string id="kridit2_me_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit3_me_0">
 		<text>Here's the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2246,7 +2246,7 @@
 	<string id="kridit3_me_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit4_me_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2256,7 +2256,7 @@
 	<string id="kridit4_me_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit1_kil_0">
 		<text>Dushman, I need some money to borrow.</text>
 	</string>
@@ -2290,7 +2290,7 @@
 	<string id="kridit1_kil_10">
 		<text>You'll return 22500.</text>
 	</string>
-	
+
 	<string id="kridit2_kil_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2300,7 +2300,7 @@
 	<string id="kridit2_kil_2">
 		<text>Understood.</text>
 	</string>
-	
+
 	<string id="kridit3_kil_0">
 		<text>Here's the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2310,7 +2310,7 @@
 	<string id="kridit3_kil_2">
 		<text>Understood.</text>
 	</string>
-	
+
 	<string id="kridit4_kil_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2320,7 +2320,7 @@
 	<string id="kridit4_kil_2">
 		<text>Understood.</text>
 	</string>
-	
+
 	<string id="kridit1_b_0">
 		<text>Olivius, I need some money to borrow.</text>
 	</string>
@@ -2354,7 +2354,7 @@
 	<string id="kridit1_b_10">
 		<text>Next time I see you here, you better put 22500 on this table.</text>
 	</string>
-	
+
 	<string id="kridit2_b_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2364,7 +2364,7 @@
 	<string id="kridit2_b_2">
 		<text>Already going.</text>
 	</string>
-	
+
 	<string id="kridit3_b_0">
 		<text>Here's the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2374,7 +2374,7 @@
 	<string id="kridit3_b_3">
 		<text>Already going.</text>
 	</string>
-	
+
 	<string id="kridit4_b_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2384,7 +2384,7 @@
 	<string id="kridit4_b_4">
 		<text>Already going.</text>
 	</string>
-	
+
 	<string id="kridit1_cs_0">
 		<text>Librarian, I need some money to borrow.</text>
 	</string>
@@ -2418,7 +2418,7 @@
 	<string id="kridit1_cs_10">
 		<text>Here's 15000. Come back with 22500 in your hands.</text>
 	</string>
-	
+
 	<string id="kridit2_cs_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2428,7 +2428,7 @@
 	<string id="kridit2_cs_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit3_cs_0">
 		<text>Here's the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2438,7 +2438,7 @@
 	<string id="kridit3_cs_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit4_cs_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2448,7 +2448,7 @@
 	<string id="kridit4_cs_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit1_dolg_0">
 		<text>Barman, I need some money to borrow.</text>
 	</string>
@@ -2482,7 +2482,7 @@
 	<string id="kridit1_dolg_10">
 		<text>Here. You'll be returning 22500.</text>
 	</string>
-	
+
 	<string id="kridit2_dolg_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2492,7 +2492,7 @@
 	<string id="kridit2_dolg_2">
 		<text>Great.</text>
 	</string>
-	
+
 	<string id="kridit3_dolg_0">
 		<text>Here's the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2502,7 +2502,7 @@
 	<string id="kridit3_dolg_2">
 		<text>Great.</text>
 	</string>
-	
+
 	<string id="kridit4_dolg_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2512,7 +2512,7 @@
 	<string id="kridit4_dolg_2">
 		<text>Great.</text>
 	</string>
-	
+
 	<string id="kridit1_fr_0">
 		<text>Skinflint, I need to borrow some money..</text>
 	</string>
@@ -2546,7 +2546,7 @@
 	<string id="kridit1_fr_10">
 		<text>Here you go, 15000. I wanna see you with 22500 next time you're here.</text>
 	</string>
-	
+
 	<string id="kridit2_fr_0">
 		<text>Here's the money. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2556,7 +2556,7 @@
 	<string id="kridit2_fr_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit3_fr_0">
 		<text>Here's the money. %c[255,238,153,26][1500 RU]</text>
 	</string>
@@ -2566,7 +2566,7 @@
 	<string id="kridit3_fr_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit4_fr_0">
 		<text>Here's the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2576,7 +2576,7 @@
 	<string id="kridit4_fr_2">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="kridit1_mon_0">
 		<text>Brother, this servant of the Monolith needs money to borrow.</text>
 	</string>
@@ -2610,7 +2610,7 @@
 	<string id="kridit1_mon_10">
 		<text>Here are 15000 rubles. Use them wisely - we hope to see you return with 22500.</text>
 	</string>
-	
+
 	<string id="kridit2_mon_0">
 		<text>Here is the money, brother. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2620,7 +2620,7 @@
 	<string id="kridit2_mon_2">
 		<text>For the Monolith.</text>
 	</string>
-	
+
 	<string id="kridit3_mon_0">
 		<text>Here is the money, brother. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2630,7 +2630,7 @@
 	<string id="kridit3_mon_2">
 		<text>For the Monolith.</text>
 	</string>
-	
+
 	<string id="kridit4_mon_0">
 		<text>Here is the money, brother. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2640,7 +2640,7 @@
 	<string id="kridit4_mon_2">
 		<text>For the Monolith.</text>
 	</string>
-	
+
 	<string id="kridit1_sak_0">
 		<text>Professor, I need some money to borrow.</text>
 	</string>
@@ -2674,7 +2674,7 @@
 	<string id="kridit1_sak_10">
 		<text>Here are your 15000 rubles - please return with 22500 when the possibility arises.</text>
 	</string>
-	
+
 	<string id="kridit2_sak_0">
 		<text>Here's the money, professor. %c[255,238,153,26][7500 RU]</text>
 	</string>
@@ -2684,7 +2684,7 @@
 	<string id="kridit2_sak_2">
 		<text>Thank you, professor.</text>
 	</string>
-	
+
 	<string id="kridit3_sak_0">
 		<text>Here's the money, professor. %c[255,238,153,26][15000 RU]</text>
 	</string>
@@ -2694,7 +2694,7 @@
 	<string id="kridit3_sak_2">
 		<text>Thank you, professor.</text>
 	</string>
-	
+
 	<string id="kridit4_sak_0">
 		<text>Here's the money, professor. %c[255,238,153,26][22500 RU]</text>
 	</string>
@@ -2708,19 +2708,19 @@
 	<string id="mlr_inventory_box_unuse">
 		<text>Locked stash</text>
 	</string>
-	
+
 	<string id="mil_freedom_leader_name_mlr">
 		<text>Miklukha</text>
 	</string>
-	
+
 	<string id="st_itm_actor_backpack_desc_mlr">
 		<text>Often used by stalkers as a fallback in case of unforeseen circumstances. Its features are simple, consisting of a strap which can be dropped along with the backpack at any moment, in order to run away quickly. Quite compact and capacious. Practically, it allows you to reset your backpack along with some content.</text>
 	</string>
-	
+
 	<string id="st_dont_has_knife">
 		<text>Get a knife</text>
 	</string>
-	
+
 	<string id="bridge_down_red_forest_tips">
 		<text>Lower bridge ($$ACTION_USE$$)</text>
 	</string>
@@ -2730,11 +2730,11 @@
 	<string id="bridge_up_red_forest_tips">
 		<text>Raise bridge ($$ACTION_USE$$)</text>
 	</string>
-	
+
 	<string id="totaliz_helper_mlr_text">
 		<text>For a different perspective on the area, press the tilde key or \ to open the console, and enter: demo_record 1. The camera is controlled using the W, A, S and D keys along with CTRL. To exit, press the ESC key.</text>
 	</string>
-	
+
 	<string id="hunter_gar_trader_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -2750,7 +2750,7 @@
 	<string id="hunter_gar_trader_task_2_fetch_finish">
 		<text>Some fine chow you've gathered. Well done, hunter.</text>
 	</string>
-	
+
 	<string id="ui_mm_transitions_closed_disable">
 		<text>Open level passageways</text>
 	</string>
@@ -2768,11 +2768,11 @@
 	</string>
 	<string id="ui_mm_show_tip_reputation_option">
 		<text>Reputation messages</text>
-	</string>	
+	</string>
 	<string id="ui_mm_fake_news_option">
 		<text>PDA network (untranslated)</text>
 	</string>
-	
+
 	<string id="task_noah_2_1">
 		<text>Benefactor: dive into the teleporter</text>
 	</string>
@@ -2794,7 +2794,7 @@
 	<string id="task_noah_1_descr">
 		<text>Noah wants my help getting an Armsel Protecta so that he can rest easy at night.</text>
 	</string>
-	
+
 	<string id="fanat_kmb_3_1">
 		<text>Basic training: clear out the vehicle station</text>
 	</string>
@@ -2846,14 +2846,14 @@
 	<string id="task_fanat_kmb_1_descr">
 		<text>Fanatic seems to be one of the more experienced stalkers in the village. He has decided to teach me a trick or two.</text>
 	</string>
-	
+
 	<string id="mlr_strelok_item_01">
 		<text>Worn notebook</text>
 	</string>
 	<string id="mlr_strelok_item_01_desc">
 		<text>A notebook, likely owned by Strelok himself. It describes in detail how to get into an underground complex called X18.</text>
 	</string>
-	
+
 	<string id="item_pda_map_mlr_name">
 		<text>PDA</text>
 	</string>
@@ -2863,25 +2863,25 @@
 	<string id="st_pda_mlr_descr">
 		<text>A PDA containing possible information on routes between different areas. Its message history is inaccessible due to the presence of a password lock.</text>
 	</string>
-	
+
 	<string id="st_new_path_mlr">
 		<text>A route between two areas has become accessible.</text>
 	</string>
-	
+
 	<string id="blackbox_mlr">
 		<text>Flight recorder</text>
 	</string>
 	<string id="blackbox_mlr_descr">
 		<text>A flight data recorder, or a "black box". Flight recorders are used to record the status of internal systems and crew conversations, and can provide vital information in the event of an accident. In the Zone, stalker and military personnel alike are interested in these devices.</text>
 	</string>
-	
+
 	<string id="st_af_misery_bread_name">
 		<text>Anomalous bread</text>
 	</string>
 	<string id="st_af_misery_bread_descr">
 		<text>A piece of bread as dark as the soul of the person that left it.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] artifact\n%c[0,153,255,255] • %c[0,140,140,140] attachable</text>
 	</string>
-	
+
 	<string id="merc_pri_grifon_mlr_task_2_name">
 		<text>Find a Soul artifact</text>
 	</string>
@@ -2894,7 +2894,7 @@
 	<string id="merc_pri_grifon_mlr_task_2_fetch_finish">
 		<text>You actually found one? I can't believe it... Thank you, stalker! This will help the others. And don't go without your reward.</text>
 	</string>
-	
+
 	<string id="esc_2_12_stalker_fanat_task_2_name">
 		<text>Find a Battery artifact</text>
 	</string>
@@ -2907,7 +2907,7 @@
 	<string id="esc_2_12_stalker_fanat_task_2_fetch_finish">
 		<text>Ah, you've found a Battery? Excellent. I think the stalker will be happy - I sure don't need him whining and sobbing all day... Gets annoying putting up with all of that. Anyway, thanks for the help.</text>
 	</string>
-	
+
 	<string id="yan_stalker_sakharov_task_3_name">
 		<text>Find two controller brain tissues</text>
 	</string>
@@ -2920,7 +2920,7 @@
 	<string id="yan_stalker_sakharov_task_3_fetch_finish">
 		<text>Excellent, please show them! Rather unpleasant, isn't it? That's just my job, however. Thank you for the help! Oh, and here's your reward.</text>
 	</string>
-	
+
 	<string id="yan_stalker_sakharov_task_5_name">
 		<text>Find the Compass artifact</text>
 	</string>
@@ -2933,7 +2933,7 @@
 	<string id="yan_stalker_sakharov_task_5_fetch_finish">
 		<text>Thank you for your assistance. You may have one of our best suits - I'm sure that it will save your life, likely more than once.</text>
 	</string>
-	
+
 	<string id="merc_pri_grifon_mlr_task_3_name">
 		<text>Clean out the grocery store</text>
 	</string>
@@ -2946,7 +2946,7 @@
 	<string id="merc_pri_grifon_mlr_task_3_finish">
 		<text>Thank you, great work. Here's some money for your trouble.</text>
 	</string>
-	
+
 	<string id="merc_pri_grifon_mlr_task_1_name">
 		<text>Collect %s</text>
 	</string>
@@ -2962,7 +2962,7 @@
 	<string id="merc_pri_grifon_mlr_task_1_fetch_finish">
 		<text>Thanks, stalker. Here's that little toy I promised you.</text>
 	</string>
-	
+
 	<string id="esc_2_12_stalker_fanat_task_1_name">
 		<text>Destroy the mutant lair</text>
 	</string>
@@ -2975,7 +2975,7 @@
 	<string id="esc_2_12_stalker_fanat_task_1_finish">
 		<text>Great work. Thanks to you, the area will be safer for the rookies. Here's your reward.</text>
 	</string>
-	
+
 	<string id="cit_killers_merc_barman_mlr_task_2_name">
 		<text>Collect %s</text>
 	</string>
@@ -2991,7 +2991,7 @@
 	<string id="cit_killers_merc_barman_mlr_task_2_fetch_finish">
 		<text>Well done. Here's your money.</text>
 	</string>
-	
+
 	<string id="zat_stancia_trader_merc_task_1_name">
 		<text>Collect %s</text>
 	</string>
@@ -3007,7 +3007,7 @@
 	<string id="zat_stancia_trader_merc_task_1_fetch_finish">
 		<text>That's what I'm talking about! Here's your money.</text>
 	</string>
-	
+
 	<string id="lider_monolith_haron_task_2_name">
 		<text>Collect %s</text>
 	</string>
@@ -3023,7 +3023,7 @@
 	<string id="lider_monolith_haron_task_2_fetch_finish">
 		<text>Outstanding, brother. This is for you, from the Monolith.</text>
 	</string>
-	
+
 	<string id="esc_3_16_military_trader_task_1_name">
 		<text>Collect %s</text>
 	</string>
@@ -3039,7 +3039,7 @@
 	<string id="esc_3_16_military_trader_task_1_fetch_finish">
 		<text>Hah, you're certainly no slouch. Nice work - here's your reward.</text>
 	</string>
-	
+
 	<string id="baraholka_trader_night_task_1_name">
 		<text>Find the %s artifact</text>
 	</string>
@@ -3055,7 +3055,7 @@
 	<string id="baraholka_trader_night_task_1_fetch_finish">
 		<text>Ah, great work, stalker. Here, for you.</text>
 	</string>
-	
+
 	<string id="bar_dolg_general_petrenko_stalker_task_4_name">
 		<text>Find %s</text>
 	</string>
@@ -3071,7 +3071,7 @@
 	<string id="bar_dolg_general_petrenko_stalker_task_4_fetch_finish">
 		<text>You've earned a big "thank you", and a reward.</text>
 	</string>
-	
+
 	<string id="yan_stalker_sakharov_task_2_name">
 		<text>Find the %s artifact</text>
 	</string>
@@ -3087,7 +3087,7 @@
 	<string id="yan_stalker_sakharov_task_2_fetch_finish">
 		<text>On behalf of the scientific community, I thank you. Here is the reward, as promised.</text>
 	</string>
-	
+
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_name">
 		<text>Find the %s artifact</text>
 	</string>
@@ -3103,7 +3103,7 @@
 	<string id="jup_b6_scientist_nuclear_physicist_task_1_fetch_finish">
 		<text>Thank you very much.</text>
 	</string>
-	
+
 	<string id="hunter_gar_trader_task_2_name">
 		<text>Bring %s</text>
 	</string>
@@ -3119,7 +3119,7 @@
 	<string id="hunter_gar_trader_task_2_fetch_finish">
 		<text>Excellent work, hunter.</text>
 	</string>
-	
+
 	<string id="killer_bridge_trader_mlr_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3135,7 +3135,7 @@
 	<string id="killer_bridge_trader_mlr_task_1_fetch_finish">
 		<text>Thank you, here's your reward.</text>
 	</string>
-	
+
 	<string id="killer_bridge_trader_mlr_task_2_name">
 		<text>Find a %s artifact</text>
 	</string>
@@ -3151,7 +3151,7 @@
 	<string id="killer_bridge_trader_mlr_task_2_fetch_finish">
 		<text>Many thanks. Here, have this.</text>
 	</string>
-	
+
 	<string id="bar_visitors_barman_stalker_trader_task_1_name">
 		<text>Find the %s artifact</text>
 	</string>
@@ -3167,7 +3167,7 @@
 	<string id="bar_visitors_barman_stalker_trader_task_1_fetch_finish">
 		<text>Well done, stalker. Here is your reward.</text>
 	</string>
-	
+
 	<string id="lider_monolith_haron_task_1_name">
 		<text>Destroy the enemy</text>
 	</string>
@@ -3180,7 +3180,7 @@
 	<string id="lider_monolith_haron_task_1_finish">
 		<text>Blessings of the Monolith upon you, brother! Take what you deserve.</text>
 	</string>
-	
+
 	<string id="yan_stalker_sakharov_task_4_name">
 		<text>Clear the area</text>
 	</string>
@@ -3193,14 +3193,14 @@
 	<string id="yan_stalker_sakharov_task_4_finish">
 		<text>Excellent. Now, all that remains for us is to conduct an educational program for the idiotic masses moving into the Zone and any other psy-emissive areas.</text>
 	</string>
-	
+
 	<string id="st_pri_special_trader_mlr_message2">
 		<text>Meeker:\nYour order has arrived, stalker. Come and pick it up.</text>
 	</string>
 	<string id="st_pri_special_trader_mlr_message">
 		<text>Griffin:\nStalker, you are in the territory of the Syndicate. You won't be attacked, but we expect proper behavior of you. If you're looking for work, I may have a few things for you.</text>
 	</string>
-	
+
 	<string id="bar_visitors_barman_stalker_trader_task_3_name">
 		<text>Destroy the mutants</text>
 	</string>
@@ -3213,7 +3213,7 @@
 	<string id="bar_visitors_barman_stalker_trader_task_3_finish">
 		<text>Good work, here's the money.</text>
 	</string>
-	
+
 	<string id="hunter_gar_trader_task_1_name">
 		<text>Destroy mutants</text>
 	</string>
@@ -3226,7 +3226,7 @@
 	<string id="hunter_gar_trader_task_1_finish">
 		<text>Good work, here's the money.</text>
 	</string>
-	
+
 	<string id="cit_killers_merc_barman_mlr_task_1_name">
 		<text>Eliminate the target</text>
 	</string>
@@ -3239,7 +3239,7 @@
 	<string id="cit_killers_merc_barman_mlr_task_1_finish">
 		<text>Well done, here's your money.</text>
 	</string>
-	
+
 	<string id="bar_visitors_barman_stalker_trader_task_2_name">
 		<text>Assassinate stalker</text>
 	</string>
@@ -3252,7 +3252,7 @@
 	<string id="bar_visitors_barman_stalker_trader_task_2_finish">
 		<text>Here is your money, just don't get carried away with murdering too much.</text>
 	</string>
-	
+
 	<string id="ui_st_red_forest_vagon_csky">
 		<text>Camp of the Marque (Red Forest)</text>
 	</string>
@@ -3283,7 +3283,7 @@
 	<string id="ui_st_l13_generators">
 		<text>Military laboratory (Generators)</text>
 	</string>
-	
+
 	<string id="st_bar100rent_name">
 		<text>100 Rads bar</text>
 	</string>
@@ -3419,7 +3419,7 @@
 	<string id="st_dasc_treesucker_state_name">
 		<text>Sawmill</text>
 	</string>
-	
+
 	<string id="st_bandage_opt">
 		<text>Bandages, twenty pieces.</text>
 	</string>
@@ -3507,10 +3507,10 @@
 	<string id="st_ammo_m209_opt">
 		<text>M381 HE grenades, ten units.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 1 TOOLKIT FOR MONOLITH MLR TASK -->
-	
+
 	<string id="mechanic_monolith_kbo_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3526,10 +3526,10 @@
 	<string id="mechanic_monolith_kbo_task_1_fetch_finish">
 		<text>Excellent work, brother. Everything we gain from future improvements will go to our charity, and your contribution will grant you a small discount.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 2 TOOLKIT FOR MONOLITH MLR TASK -->
-	
+
 	<string id="mechanic_monolith_kbo_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3545,10 +3545,10 @@
 	<string id="mechanic_monolith_kbo_task_2_fetch_finish">
 		<text>Excellent work, brother. Everything we gain from future improvements will go to our charity, and your contribution will grant you an additional discount.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 3 TOOLKIT FOR MONOLITH MLR TASK -->
-	
+
 	<string id="mechanic_monolith_kbo_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3564,10 +3564,10 @@
 	<string id="mechanic_monolith_kbo_task_3_fetch_finish">
 		<text>Outstanding work, brother. Rest assured, I will mention your contribution to our brothers... and I promise to provide any assistance within my ability.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 1 TOOLKIT FOR MONOLITH MLR2 TASK -->
-	
+
 	<string id="mechanic_monolith_jup_depo_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3583,10 +3583,10 @@
 	<string id="mechanic_monolith_jup_depo_task_1_fetch_finish">
 		<text>Excellent. This will help us gain a foothold and grow in strength... I believe you deserve a discount.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 2 TOOLKIT FOR MONOLITH MLR2 TASK -->
-	
+
 	<string id="mechanic_monolith_jup_depo_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3602,10 +3602,10 @@
 	<string id="mechanic_monolith_jup_depo_task_2_fetch_finish">
 		<text>Good work. The equipment supplied to our brothers will prove to be dominant over all others in the area... You will be getting an additional reduction in fees.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 3 TOOLKIT FOR MONOLITH MLR2 TASK -->
-	
+
 	<string id="mechanic_monolith_jup_depo_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3621,10 +3621,10 @@
 	<string id="mechanic_monolith_jup_depo_task_3_fetch_finish">
 		<text>It is settled. With these recent discoveries, we shall conquer the surrounding areas. From here on out, my services for you will be provided to the best of my capability.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 1 TOOLKIT FOR BANDIT MLR TASK -->
-	
+
 	<string id="trucks_cemetery_bandit_mechanic_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3640,10 +3640,10 @@
 	<string id="trucks_cemetery_bandit_mechanic_task_1_fetch_finish">
 		<text>Oooh, yeah... That's what I'm talkin' about. Tell ya what - since you helped me out, Imma help you out with a discount.</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 2 TOOLKIT FOR BANDIT MLR TASK -->
-	
+
 	<string id="trucks_cemetery_bandit_mechanic_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3659,10 +3659,10 @@
 	<string id="trucks_cemetery_bandit_mechanic_task_2_fetch_finish">
 		<text>Oh, fuck. You're the best, man. You'll definitely be getting another discount for that!</text>
 	</string>
-	
-	
+
+
 	<!-- FIND LEVEL 3 TOOLKIT FOR BANDIT BANDIT TASK -->
-	
+
 	<string id="trucks_cemetery_bandit_mechanic_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3678,7 +3678,7 @@
 	<string id="trucks_cemetery_bandit_mechanic_task_3_fetch_finish">
 		<text>Wow, you actually fuckin' did it! Thanks, pal, you're the best. Biggest discount goes to you, enjoy it!</text>
 	</string>
-	
+
 	<string id="army_south_mechan_mlr_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3694,7 +3694,7 @@
 	<string id="army_south_mechan_mlr_task_1_fetch_finish">
 		<text>Thank you so much! I will give you a discount.</text>
 	</string>
-	
+
 	<string id="army_south_mechan_mlr_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3710,7 +3710,7 @@
 	<string id="army_south_mechan_mlr_task_2_fetch_finish">
 		<text>Much appreciated. A big "thank you" from everybody here.</text>
 	</string>
-	
+
 	<string id="army_south_mechan_mlr_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3726,7 +3726,7 @@
 	<string id="army_south_mechan_mlr_task_3_fetch_finish">
 		<text>Amazing. Never thought I'd see such sophisticated technology again... Especially around here. And you won't stop me from giving you a fine discount.</text>
 	</string>
-	
+
 	<string id="jup_cont_mech_bandit_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3742,7 +3742,7 @@
 	<string id="jup_cont_mech_bandit_task_1_fetch_finish">
 		<text>Ah, beautiful! Someone's getting a discount.</text>
 	</string>
-	
+
 	<string id="jup_cont_mech_bandit_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3758,7 +3758,7 @@
 	<string id="jup_cont_mech_bandit_task_2_fetch_finish">
 		<text>Thanks, man. You're a real guy, you know that?</text>
 	</string>
-	
+
 	<string id="jup_cont_mech_bandit_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3774,7 +3774,7 @@
 	<string id="jup_cont_mech_bandit_task_3_fetch_finish">
 		<text>Well, fuck me sideways! What a rarity... a real rarity. I'll give you another discount, you deserve it. Thanks, bro.</text>
 	</string>
-	
+
 	<string id="zat_stancia_mech_merc_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3790,7 +3790,7 @@
 	<string id="zat_stancia_mech_merc_task_1_fetch_finish">
 		<text>Damn, you deserve a discount. Thanks.</text>
 	</string>
-	
+
 	<string id="zat_stancia_mech_merc_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3806,7 +3806,7 @@
 	<string id="zat_stancia_mech_merc_task_2_fetch_finish">
 		<text>Thank you. Let's see how much I can help you and the others out with this!</text>
 	</string>
-	
+
 	<string id="zat_stancia_mech_merc_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3822,7 +3822,7 @@
 	<string id="zat_stancia_mech_merc_task_3_fetch_finish">
 		<text>Oh, fuck... You are the hero of every technician! Well done indeed... I'll be doubling your discount.</text>
 	</string>
-	
+
 	<string id="merc_pri_a18_mech_mlr_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3838,7 +3838,7 @@
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
 		<text>Thank you - won't be as stressful for the guys here anymore. I'll give you a discount.</text>
 	</string>
-	
+
 	<string id="merc_pri_a18_mech_mlr_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3854,7 +3854,7 @@
 	<string id="merc_pri_a18_mech_mlr_task_2_fetch_finish">
 		<text>Well done. Now I have a full set, and you can have all the discounts you're entitled to.</text>
 	</string>
-	
+
 	<string id="dasc_tech_mlr_task_1_name">
 		<text>Find %s</text>
 	</string>
@@ -3870,7 +3870,7 @@
 	<string id="dasc_tech_mlr_task_1_fetch_finish">
 		<text>Thanks... Things are going to be much easier. Keep this artifact - it's called a Pellicle. Quite rare.</text>
 	</string>
-	
+
 	<string id="dasc_tech_mlr_task_2_name">
 		<text>Find %s</text>
 	</string>
@@ -3886,7 +3886,7 @@
 	<string id="dasc_tech_mlr_task_2_fetch_finish">
 		<text>Thank you, thank you. Here's a small discount.</text>
 	</string>
-	
+
 	<string id="dasc_tech_mlr_task_3_name">
 		<text>Find %s</text>
 	</string>
@@ -3902,10 +3902,10 @@
 	<string id="dasc_tech_mlr_task_3_fetch_finish">
 		<text>Thank you for everything. Perhaps this wretched place will turn into a fully fledged camp someday.</text>
 	</string>
-	
-	
+
+
 	<!-- By Nik71rus -->
-	
+
 	<string id="talk_to_maps_0">
 		<text>Any free info can you share about the surrounding area?</text>
 	</string>
@@ -3927,7 +3927,7 @@
 	<string id="talk_to_maps_6">
 		<text>Thanks for the info.</text>
 	</string>
-	
+
 	<string id="story_dolg_0">
 		<text>What's the current situation?</text>
 	</string>
@@ -3949,7 +3949,7 @@
 	<string id="story_dolg_6">
 		<text>Understood.</text>
 	</string>
-	
+
 	<string id="story_dolg_m_0">
 		<text>Tell me about yourself.</text>
 	</string>
@@ -3965,7 +3965,7 @@
 	<string id="story_dolg_m_4">
 		<text>I'll see if I have anything.</text>
 	</string>
-	
+
 	<string id="story_b_cs_0">
 		<text>What can you tell me about Cold?</text>
 	</string>
@@ -3976,7 +3976,7 @@
 		<text>How did he earn that respect?</text>
 	</string>
 	<string id="story_b_cs_3">
-		<text>You see, there was some controversy regarding Lebedev, our former leader - who, by the way, I personally never met - and he didn't seem to take the opinions of the faction members into account during their crusade towards the CNPP. That mercenary certainly helped us out, but in the end, it just wasn't worth it. Those who remained at the base were unable to fight back against a resurgence by the Renegades. The significance of our struggle in the swamps was reduced to zero... and the sacrifices on the way to the Chernobyl NPP, as well as the swamps, turned out to be in vain.</text>
+		<text>You see, there was some controversy regarding Lebedev, our former leader - who, by the way, I personally never met - and he didn't seem to take the opinions of the faction members into account during their crusade towards the CNPP. That mercenary certainly helped us out, but in the end, it just wasn't worth it. Those who remained at the base were unable to fight back against a resurgence made by the Renegades. The significance of our struggle in the swamps was reduced to zero... and the sacrifices on the way to the Chernobyl NPP, as well as the swamps, turned out to be in vain.</text>
 	</string>
 	<string id="story_b_cs_4">
 		<text>It seems like the faction's resentment towards their leader at that time was justified.</text>
@@ -3993,7 +3993,7 @@
 	<string id="story_b_cs_8">
 		<text>Deal.</text>
 	</string>
-	
+
 	<string id="story_dog_0">
 		<text>Whose pseudodog is that?</text>
 	</string>
@@ -4021,7 +4021,7 @@
 	<string id="story_dog_8">
 		<text>I'll check if possible.</text>
 	</string>
-	
+
 	<string id="owl_story_0">
 		<text>Tell me about this quiet harbor.</text>
 	</string>
@@ -4037,7 +4037,7 @@
 	<string id="owl_story_4">
 		<text>So the North is afraid... Got it.</text>
 	</string>
-	
+
 	<string id="boroda_story_0">
 		<text>You must be Beard.</text>
 	</string>
@@ -4053,7 +4053,7 @@
 	<string id="boroda_story_4">
 		<text>Thank you.</text>
 	</string>
-	
+
 	<string id="aslan_st_0">
 		<text>What's the current situation?</text>
 	</string>
@@ -4081,7 +4081,7 @@
 	<string id="aslan_st_8">
 		<text>Understood, thanks for the info.</text>
 	</string>
-	
+
 	<string id="sultan_st_0">
 		<text>Who are you?</text>
 	</string>
@@ -4115,7 +4115,7 @@
 	<string id="sultan_st_10">
 		<text>Alright, whatever. Thanks for the help, boss.</text>
 	</string>
-	
+
 	<string id="bandit_trader_st_0">
 		<text>Why is your nickname so lousy?</text>
 	</string>
@@ -4155,7 +4155,7 @@
 	<string id="bandit_trader_st_12">
 		<text>Thanks for the history lesson. Sorry once again.</text>
 	</string>
-	
+
 	<string id="bandit_mechanic_st_0">
 		<text>Share your story, brother.</text>
 	</string>
@@ -4195,7 +4195,7 @@
 	<string id="bandit_mechanic_st_12">
 		<text>That's quite a story.</text>
 	</string>
-	
+
 	<string id="army_south_mechan_mlr_st_0">
 		<text>Who are you?</text>
 	</string>
@@ -4229,7 +4229,7 @@
 	<string id="army_south_mechan_mlr_st_10">
 		<text>I'll keep that in mind.</text>
 	</string>
-	
+
 	<string id="loki_st_0">
 		<text>Are you in charge here?</text>
 	</string>
@@ -4269,7 +4269,7 @@
 	<string id="loki_st_12">
 		<text>Thanks. I'll keep that in mind.</text>
 	</string>
-	
+
 	<string id="task_look_for_cs_history_part_1_1">
 		<text>Find and kill the bloodsuckers</text>
 	</string>
@@ -4279,14 +4279,14 @@
 	<string id="task_look_for_cs_history_part_1_3">
 		<text>So, he's afraid to send me "this way", but it's okay if I'm going to fight against swamp bloodsuckers? Cheap salesmen even in Clear Sky, I see..</text>
 	</string>
-	
+
 	<string id="task_look_for_cs_history_part_2_1">
 		<text>Following the tracks of Clear Sky: talk with Forester</text>
 	</string>
 	<string id="task_look_for_cs_history_part_descr_2_1">
 		<text>Cold told me that the immediate participant of those events is Forester and gave me his coordinates. I have to talk to him and get to Limansk.</text>
 	</string>
-	
+
 	<string id="task_look_for_cs_history_part_3_1">
 		<text>Following the tracks of Clear Sky: find Leshiy</text>
 	</string>
@@ -4299,7 +4299,7 @@
 	<string id="task_look_for_cs_history_part_descr_3_2">
 		<text>I only have to reach an agreement with Leshiy himself, I hope this will end my quest.</text>
 	</string>
-	
+
 	<string id="task_look_for_cs_history_part_4_1">
 		<text>Following the tracks of Clear Sky: collect 150000 RU and bring it to Leshiy</text>
 	</string>
@@ -4309,15 +4309,15 @@
 	<string id="task_look_for_cs_history_part_4_4">
 		<text>Following the tracks of Clear Sky: speak with Gatekeeper</text>
 	</string>
-	
+
 	<string id="task_look_for_cs_history_part_descr_4_1">
 		<text>Finally, soon I'll be on the other side of the bridge and those running errands will end.</text>
 	</string>
-	
+
 	<string id="st_bridge_is_open_message">
 		<text>Gatekeeper:\nI see someone. Hey, stalker! Come over here, got a few words for you.</text>
 	</string>
-	
+
 	<string id="simulation_task_41_name">
 		<text>Collect %s</text>
 	</string>
@@ -4333,7 +4333,7 @@
 	<string id="simulation_task_41_fetch_finish">
 		<text>Good job, man. My respect and artifact to you.</text>
 	</string>
-	
+
 	<string id="simulation_task_40_name">
 		<text>Collect %s</text>
 	</string>
@@ -4349,7 +4349,7 @@
 	<string id="simulation_task_40_fetch_finish">
 		<text>Thank you, brother, friend and helper. Here's your artifact.</text>
 	</string>
-	
+
 	<string id="simulation_task_39_name">
 		<text>Collect %s</text>
 	</string>
@@ -4365,7 +4365,7 @@
 	<string id="simulation_task_39_fetch_finish">
 		<text>Good job, man. Here, take this artifact before someone sees us.</text>
 	</string>
-	
+
 	<string id="simulation_task_38_name">
 		<text>Collect %s</text>
 	</string>
@@ -4381,7 +4381,7 @@
 	<string id="simulation_task_38_fetch_finish">
 		<text>Maximum respect, bro! Hold on to this artifact.</text>
 	</string>
-	
+
 	<string id="zat_b7_bandit_boss_sultan_task_4_name">
 		<text>Collect %s</text>
 	</string>
