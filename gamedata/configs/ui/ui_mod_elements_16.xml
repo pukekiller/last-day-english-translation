@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <w>
-<!-----[Карточная игра: 21 очко]------>
+<!-----[Card game: Blackjack]------>
 <card_game_21_point_form x="239" y="136" width="545" height="496">
         <texture>ui_mod_card_game_21_point_wnd</texture>
 	<form_title x="218" y="5" width="108" height="26">
@@ -21,10 +21,10 @@
 	<rate_field x="128" y="375" width="289" height="21">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</rate_field>
-        <check_save_rate x="140" y="376" width="32" height="21" hint="Запоминать ставку">
+        <check_save_rate x="140" y="376" width="32" height="21" hint="Remember the bet">
                 <texture>ui_inGame2_checkbox</texture>
         </check_save_rate>
-        <check_increasing x="382" y="376" width="32" height="21" hint="Шаг повышения ставки - 200">
+        <check_increasing x="382" y="376" width="32" height="21" hint="Increase bet by 200">
                 <texture>ui_inGame2_checkbox</texture>
         </check_increasing>
 	<btn_rate_minus x="245" y="403" width="31" height="28">
@@ -41,37 +41,37 @@
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Принять ставки</text>
+		<text font="letterica16" align="c" vert_align="c">Accept the bet</text>
 	</btn_take_rate>
 	<btn_play_game x="2" y="454" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Начать игру</text>
+		<text font="letterica16" align="c" vert_align="c">Start the game</text>
 	</btn_play_game>
 	<btn_exit_game x="409" y="454" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Выход</text>
+		<text font="letterica16" align="c" vert_align="c">Exit</text>
 	</btn_exit_game>
 	<btn_take_else x="134" y="403" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Взять ещё</text>
+		<text font="letterica16" align="c" vert_align="c">Take more</text>
 	</btn_take_else>
 	<btn_send_move x="275" y="403" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Передать ход</text>
+		<text font="letterica16" align="c" vert_align="c">Transfer the move</text>
 	</btn_send_move>
 	<btn_continue_game x="2" y="454" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Продолжить</text>
+		<text font="letterica16" align="c" vert_align="c">Continue</text>
 	</btn_continue_game>
         <self_card_1 x="40" y="41" width="80" height="104">
                 <texture>ui_mod_card_hide_side</texture>
@@ -122,52 +122,52 @@
                 <texture>ui_mod_left_red_diod</texture>
         </l_red_diod>
 </card_game_21_point_form>
-<!-----[Мини-игра: Зачем? Под кем? Во сколько?]------>
+<!-----[Mini-game: Why? By whom? In what time?]------>
 <question_game_form x="192" y="140" width="638" height="499">
         <texture>ui_mod_question_game_wnd</texture>
 	<form_title x="96" y="5" width="448" height="16">
 		<text r="240" g="217" b="182" a="120" align="c" vert_align="c" font="letterica16"></text>
 	</form_title>
-	<question_number_field x="301" y="17" width="36" height="16" complex_mode="1" hint="Номер вопроса">
+	<question_number_field x="301" y="17" width="36" height="16" complex_mode="1" hint="Question number">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</question_number_field>
-	<correct_series_field x="34" y="475" width="36" height="16" complex_mode="1" hint="Серия правильных ответов">
+	<correct_series_field x="34" y="475" width="36" height="16" complex_mode="1" hint="A series of correct answers">
 		<text r="240" g="217" b="182" a="170" align="c" vert_align="c" font="letterica16"></text>
 	</correct_series_field>
-	<question_field x="49" y="43" width="535" height="233" complex_mode="1" hint="Текущий вопрос">
+	<question_field x="49" y="43" width="535" height="233" complex_mode="1" hint="Current question">
 		<text r="50" g="200" b="0" a="155" align="c" vert_align="c" font="letterica25"></text>
 	</question_field>
-	<answer_a_field x="29" y="293" width="135" height="25" complex_mode="1" hint="Вариант ответа: A">
+	<answer_a_field x="29" y="293" width="135" height="25" complex_mode="1" hint="Answer: A">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</answer_a_field>
-	<answer_b_field x="177" y="293" width="135" height="25" complex_mode="1" hint="Вариант ответа: B">
+	<answer_b_field x="177" y="293" width="135" height="25" complex_mode="1" hint="Answer: B">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</answer_b_field>
-	<answer_c_field x="325" y="293" width="135" height="25" complex_mode="1" hint="Вариант ответа: C">
+	<answer_c_field x="325" y="293" width="135" height="25" complex_mode="1" hint="Answer: C">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</answer_c_field>
-	<answer_d_field x="473" y="293" width="135" height="25" complex_mode="1" hint="Вариант ответа: D">
+	<answer_d_field x="473" y="293" width="135" height="25" complex_mode="1" hint="Answer: D">
 		<text r="240" g="217" b="182" a="155" align="c" vert_align="c" font="letterica16"></text>
 	</answer_d_field>
-	<btn_exit_game x="470" y="453" width="135" height="35" hint="Выход из мини-игры">
+	<btn_exit_game x="470" y="453" width="135" height="35" hint="Exit the mini-game">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Выход</text>
+		<text font="letterica16" align="c" vert_align="c">Exit</text>
 	</btn_exit_game>
-	<btn_continue_game x="249" y="376" width="135" height="35" hint="Переход к следующему вопросу">
+	<btn_continue_game x="249" y="376" width="135" height="35" hint="Go to the next question">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Продолжить</text>
+		<text font="letterica16" align="c" vert_align="c">Continue</text>
 	</btn_continue_game>
-	<btn_start_game x="326" y="453" width="135" height="35" hint="Запуск мини-игры">
+	<btn_start_game x="326" y="453" width="135" height="35" hint="The launch of the mini-game">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Новая игра</text>
+		<text font="letterica16" align="c" vert_align="c">New game</text>
 	</btn_start_game>
-	<btn_manual x="45" y="453" width="15" height="15" hint="Подсказка">
+	<btn_manual x="45" y="453" width="15" height="15" hint="Hint">
 		<texture_e>ui_mod_help_e</texture_e>
 		<texture_t>ui_mod_help_t</texture_t>
 		<texture_h>ui_mod_help_h</texture_h>
@@ -176,25 +176,25 @@
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Вариант A</text>
+		<text font="letterica16" align="c" vert_align="c">Answer: A</text>
 	</btn_answer_a>
 	<btn_answer_b x="177" y="329" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Вариант B</text>
+		<text font="letterica16" align="c" vert_align="c">Answer: B</text>
 	</btn_answer_b>
 	<btn_answer_c x="324" y="329" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Вариант C</text>
+		<text font="letterica16" align="c" vert_align="c">Answer: C</text>
 	</btn_answer_c>
 	<btn_answer_d x="473" y="329" width="135" height="35">
 		<texture_e>ui_mod_button2_e</texture_e>
 		<texture_t>ui_mod_button2_t</texture_t>
 		<texture_h>ui_mod_button2_h</texture_h>
-		<text font="letterica16" align="c" vert_align="c">Вариант D</text>
+		<text font="letterica16" align="c" vert_align="c">Answer: D</text>
 	</btn_answer_d>
 </question_game_form>
 </w>
