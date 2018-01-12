@@ -51,7 +51,7 @@ Translation progress by individual files can be found below.
 	- [st_items_artefacts2.xml](gamedata/configs/text/eng/st_items_artefacts2.xml)
 		- unrevised
 	- [st_items_awr.xml](gamedata/configs/text/eng/st_items_awr.xml)
-		- incomplete
+		- unrevised
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
 		- done
 	- [st_items_fieldcraft.xml](gamedata/configs/text/eng/st_items_fieldcraft.xml)
