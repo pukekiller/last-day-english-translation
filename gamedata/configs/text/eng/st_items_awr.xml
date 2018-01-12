@@ -440,7 +440,7 @@
 		<text>Worn sliding bolt carrier with locking bolt</text>
 	</string>
 	<string id="st_bolt_carrier_6_worn_descr">
-		<text>Worn sliding bolt carrier with locking bolt. Между дном чашечки и срезом ствола имеется небольшой зазор. Досылатель и сам затвор немного покрыты коррозией. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn sliding bolt carrier with locking bolt. There is a small gap between the bottom of the calyx and the trunk cut. The dispenser and the shutter itself are slightly covered with corrosion. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_6_rusty">
 		<text>Rusty sliding bolt carrier with locking bolt</text>
@@ -470,7 +470,7 @@
 		<text>Functional chock from double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_carrier_8_good_descr">
-		<text>Functional chock from double-barrel shotgun. Appears in good condition. There are no traces of corrosion. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional chock from double-barrel shotgun. Appears to be in good condition. There are no traces of corrosion. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_8_worn">
 		<text>Worn chock from double-barrel shotgun [R]</text>
@@ -488,7 +488,7 @@
 		<text>Functional chock from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_carrier_9_good_descr">
-		<text>Functional chock from a double-barrel shotgun. Appears in good condition. There are no traces of corrosion. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional chock from a double-barrel shotgun. Appears to be in good condition. There are no traces of corrosion. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_9_worn">
 		<text>Worn chock from a double-barrel shotgun [R]</text>
@@ -512,7 +512,7 @@
 		<text>Worn longitudinally-sliding breech block with lock turn [NATO]</text>
 	</string>
 	<string id="st_bolt_carrier_10_worn_descr">
-		<text>Worn longitudinally-sliding breech block with lock turn, производства стран NATO от крупнокалиберной автоматической винтовки. The bolt and bolt carrier are minor traces of corrosion. The bevel of the bolt is a little worn. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn longitudinally-sliding breech block with lock turn, product of NATO countries for a large-caliber automatic rifle. The bolt and bolt carrier are minor traces of corrosion. The bevel of the bolt is a little worn. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_10_rusty">
 		<text>Rusty sliding bolt carrier with turning bolt lock [NATO]</text>
@@ -543,312 +543,312 @@
 		Breech heads
 	-->
 	<string id="st_bolt_1_good">
-		<text>Functional клин затвора [R]</text>
+		<text>Functional dropping-block breech [R]</text>
 	</string>
 	<string id="st_bolt_1_good_descr">
-		<text>Properly functioning клин затвора от гладкоствольного помпового ружья или ружья с рычажным запиранием. На вид, выступы клина в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. In appearance, the ledges of the wedge are in good condition, without strong workings \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_1_worn">
-		<text>Worn клин затвора [R]</text>
+		<text>Worn dropping-block breech [R]</text>
 	</string>
 	<string id="st_bolt_1_worn_descr">
-		<text>Worn клин затвора от гладкоствольного помпового ружья или ружья с рычажным запиранием. Выступы клина имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. The ledges of the wedge have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_1_rusty">
-		<text>Rusty клин затвора [R]</text>
+		<text>Rusty dropping-block breech [R]</text>
 	</string>
 	<string id="st_bolt_1_rusty_descr">
-		<text>Сильно проржавевший клин затвора от гладкоствольного помпового ружья или ружья с рычажным запиранием. Выступы клина практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Strongly rusted dropping-block breech from a smooth-bore shotgun or rifle with lever locking mechanism. The ledges of the wedge are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_2_good">
-		<text>Functional поворотная личинка [2 упора][P]</text>
+		<text>Functional rotating locking head [2 locks][P]</text>
 	</string>
 	<string id="st_bolt_2_good_descr">
-		<text>Functional боевая личинка с двумя упорами, от пулемета, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without big signs of usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_2_worn">
-		<text>Worn поворотная личинка [2 упора][P]</text>
+		<text>Worn rotating locking head [2 locks][P]</text>
 	</string>
 	<string id="st_bolt_2_worn_descr">
-		<text>Worn боевая личинка с двумя упорами, от пулемета, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_2_rusty">
-		<text>Rusty поворотная личинка [2 упора][P]</text>
+		<text>Rusty rotating locking head [2 locks]][P]</text>
 	</string>
 	<string id="st_bolt_2_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с двумя упорами, от пулемета, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotary cylinders with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_3_good">
-		<text>Functional поворотная личинка [2 упора][K]</text>
+		<text>Functional rotating locking head [2 locks][K]</text>
 	</string>
 	<string id="st_bolt_3_good_descr">
-		<text>Functional боевая личинка с двумя упорами, от автоматического или полуавтоматического гладкоствольного карабина, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from either automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_3_worn">
-		<text>Worn поворотная личинка [2 упора][K]</text>
+		<text>Worn rotating locking head [2 locks][K]</text>
 	</string>
 	<string id="st_bolt_3_worn_descr">
-		<text>Worn боевая личинка с двумя упорами, от автоматического или полуавтоматического гладкоствольного карабина, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two stops, from either automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_3_rusty">
-		<text>Rusty поворотная личинка [2 упора][K]</text>
+		<text>Rusty rotating locking head [2 locks][K]</text>
 	</string>
 	<string id="st_bolt_3_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с двумя упорами, от автоматического или полуавтоматического гладкоствольного карабина, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with two stops, from either automatic or semi-automatic smoothbore rifle, with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_4_good">
-		<text>Functional поворотная личинка [2 упора][V]</text>
+		<text>Functional rotating locking head [2 locks][V]</text>
 	</string>
 	<string id="st_bolt_4_good_descr">
-		<text>Functional боевая личинка с двумя упорами, от винтовки, под longitudinally-sliding breech block with a locking bias и продольно-скользящий затвор с "болтовым" запиранием. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_4_worn">
-		<text>Worn поворотная личинка [2 упора][V]</text>
+		<text>Worn rotating locking head [2 locks][V]</text>
 	</string>
 	<string id="st_bolt_4_worn_descr">
-		<text>Worn боевая личинка с двумя упорами, от винтовки, под longitudinally-sliding breech block with a locking bias и продольно-скользящий затвор с "болтовым" запиранием. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_4_rusty">
-		<text>Rusty поворотная личинка [2 упора][V]</text>
+		<text>Rusty rotating locking head [2 locks][V]</text>
 	</string>
 	<string id="st_bolt_4_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с двумя упорами, от винтовки, под longitudinally-sliding breech block with a locking bias и продольно-скользящий затвор с "болтовым" запиранием. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with a locking bias and a longitudinally-sliding shutter with a "bolt" lock. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_5_good">
-		<text>Functional поворотная личинка [3 упора][V]</text>
+		<text>Functional rotating locking head [3 locks][V]</text>
 	</string>
 	<string id="st_bolt_5_good_descr">
-		<text>Functional боевая личинка с тремя упорами, от винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_5_worn">
-		<text>Worn поворотная личинка [3 упора][V]</text>
+		<text>Worn rotating locking head [3 locks][V]</text>
 	</string>
 	<string id="st_bolt_5_worn_descr">
-		<text>Worn боевая личинка с тремя упорами, от винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_5_rusty">
-		<text>Rusty поворотная личинка [3 упора][V]</text>
+		<text>Rusty rotating locking head [3 locks][V]</text>
 	</string>
 	<string id="st_bolt_5_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с тремя упорами, от винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with two stops from a rifle with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_6_good">
-		<text>Functional поворотная личинка [2 упора][А]</text>
+		<text>Functional rotating locking head [2 locks][А]</text>
 	</string>
 	<string id="st_bolt_6_good_descr">
-		<text>Functional боевая личинка с двумя упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_6_worn">
-		<text>Worn поворотная личинка [2 упора][А]</text>
+		<text>Worn rotating locking head [2 locks][А]</text>
 	</string>
 	<string id="st_bolt_6_worn_descr">
-		<text>Worn боевая личинка с двумя упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_6_rusty">
-		<text>Rusty поворотная личинка [2 упора][А]</text>
+		<text>Rusty rotating locking head [2 locks][А]</text>
 	</string>
 	<string id="st_bolt_6_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с двумя упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with two stops from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_7_good">
-		<text>Functional поворотная личинка [4 упора][AS]</text>
+		<text>Functional rotating locking head [4 locks][AS]</text>
 	</string>
 	<string id="st_bolt_7_good_descr">
-		<text>Functional боевая личинка с четырьмя упорами, от специальной автоматической винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_7_worn">
-		<text>Worn поворотная личинка [4 упора][AS]</text>
+		<text>Worn rotating locking head [4 locks][AS]</text>
 	</string>
 	<string id="st_bolt_7_worn_descr">
-		<text>Worn боевая личинка с четырьмя упорами, от специальной автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_7_rusty">
-		<text>Rusty поворотная личинка [4 упора][AS]</text>
+		<text>Rusty rotating locking head [4 locks][AS]</text>
 	</string>
 	<string id="st_bolt_7_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с четырьмя упорами, от специальной автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with four locks from a special automatic rifle with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_8_good">
-		<text>Functional вращающаяся личинка [6 упоров][А]</text>
+		<text>Functional rotating locking head [6 locks][А]</text>
 	</string>
 	<string id="st_bolt_8_good_descr">
-		<text>Functional боевая личинка с шестью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_8_worn">
-		<text>Worn вращающаяся личинка [6 упоров][А]</text>
+		<text>Worn rotating locking head [6 locks][А]</text>
 	</string>
 	<string id="st_bolt_8_worn_descr">
-		<text>Worn боевая личинка с шестью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_8_rusty">
-		<text>Rusty вращающаяся личинка [6 упоров][А]</text>
+		<text>Rusty rotating locking head [6 locks][А]</text>
 	</string>
 	<string id="st_bolt_8_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с шестью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with six locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_9_good">
-		<text>Functional вращающаяся личинка [7 упоров][А]</text>
+		<text>Functional rotating locking head [7 locks][А]</text>
 	</string>
 	<string id="st_bolt_9_good_descr">
-		<text>Functional боевая личинка с семью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_9_worn">
-		<text>Worn вращающаяся личинка [7 упоров][А]</text>
+		<text>Worn rotating locking head [7 locks][А]</text>
 	</string>
 	<string id="st_bolt_9_worn_descr">
-		<text>Worn боевая личинка с семью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_9_rusty">
-		<text>Rusty вращающаяся личинка [7 упоров][А]</text>
+		<text>Rusty rotating locking head [7 locks][А]</text>
 	</string>
 	<string id="st_bolt_9_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с семью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with seven locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_10_good">
-		<text>Functional вращающаяся личинка с [8 упоров][А]</text>
+		<text>Functional rotating locking head [8 locks][А]</text>
 	</string>
 	<string id="st_bolt_10_good_descr">
-		<text>Functional боевая личинка с восемью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_10_worn">
-		<text>Worn вращающаяся личинка с [8 упоров][А]</text>
+		<text>Worn rotating locking head [8 locks][А]</text>
 	</string>
 	<string id="st_bolt_10_worn_descr">
-		<text>Worn боевая личинка с восемью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_10_rusty">
-		<text>Rusty вращающаяся личинка с [8 упоров][А]</text>
+		<text>Rusty rotating locking head [8 locks][А]</text>
 	</string>
 	<string id="st_bolt_10_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с восемью упорами, от автоматической винтовки, под longitudinally-sliding breech block with lock turn. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with eight locks from a machine gun with a longitudinally-sliding breech block with lock turn. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_11_good">
-		<text>Исправные нагнетатели с ударником от бокфлинта [R]</text>
+		<text>Functional supercharger with hammer from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_11_good_descr">
-		<text>Правый и левый нагнетатели с ударником от бокфлинта. На вид, в хорошем состоянии. Следов износа нет, пружина еще не просела. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Right and left supercharger with hammer from a double-barrel shotgun. In appearence, in good condition. There are no signs of wear, the spring has not yet sunk. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_11_worn">
-		<text>Изношенные нагнетатели с ударником от бокфлинта [R]</text>
+		<text>Worn supercharger with hammer from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_11_worn_descr">
-		<text>Правый и левый нагнетатели с ударником от бокфлинта. Имеют некоторые следы износа, пружина немного ослабла. \nПри небольшой доводке, детали еще могут послужить, но использовать их "as is" лучше не стоит. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Right and left supercharger with hammer from a double-barrel shotgun. They have some traces of wear, the spring has weakened slightly. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_11_rusty">
-		<text>Ржавые нагнетатели с ударником от бокфлинта [R]</text>
+		<text>Rusty supercharger with hammer from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_11_rusty_descr">
-		<text>Правый и левый нагнетатели с ударником от бокфлинта. Подверглись сильной коррозии, одна пружина потеряна, вторая полностью потеряла свою гибкость. \nВосстановить или использовать такие детали невозможно. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Right and left supercharger with hammer from a double-barrel shotgun. They were severely corroded, one spring is missing, the other completely lost its flexibility. \nIt is impossible to restore or use such parts. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_12_good">
-		<text>Исправные курки от курковки [R]</text>
+		<text>Functional hammers from a hammer-type double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_12_good_descr">
-		<text>Правый и левый курки от двуствольной горизонтальной курковки. Appears in good condition. Следов износа нет. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Right and left hammers from the double-barreled horizontal shotgun. Appears to be in good condition. There are no signs of wear. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_12_worn">
-		<text>Изношенные курки от курковки [R]</text>
+		<text>Worn hammers from a hammer-type double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_12_worn_descr">
-		<text>Правый и левый курки от двуствольной горизонтальной курковки. Имеют некоторые следы износа. \nПри небольшой доводке, детали еще могут послужить, но использовать их "as is" лучше не стоит. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Right and left hammers from the double-barreled horizontal shotgun. There are some marks of wear. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_12_rusty">
-		<text>Ржавые курки от курковки [R]</text>
+		<text>Rusty hammers from a hammer-type double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_bolt_12_rusty_descr">
-		<text>Правый и левый курки от двуствольной горизонтальной курковки. Подверглись сильной коррозии. Верхняя часть левого курка погнута. \nВосстановить или использовать такие детали невозможно. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Right and left hammers from the double-barreled horizontal shotgun. Strong corrosion can be observed. The upper part of the left hammer is bent. \nIt is impossible to restore or use such parts. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_13_good">
-		<text>Functional поворотная личинка [2 упора][А][NATO]</text>
+		<text>Functional rotating locking head [2 locks][А][NATO]</text>
 	</string>
 	<string id="st_bolt_13_good_descr">
-		<text>Functional боевая личинка с двумя упорами, от крупнокалиберной автоматической винтовки производства стран NATO, под sliding bolt carrier with turning bolt lock. На вид, упоры личинки в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head with two stops from a large-caliber automatic rifle produced by NATO countries with a sliding bolt carrier with turning bolt lock. In appearence, locking heads are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_13_worn">
-		<text>Worn поворотная личинка [2 упора][А][NATO]</text>
+		<text>Worn rotating locking head [2 locks][А][NATO]</text>
 	</string>
 	<string id="st_bolt_13_worn_descr">
-		<text>Worn боевая личинка с двумя упорами, от крупнокалиберной автоматической винтовки производства стран NATO, под sliding bolt carrier with turning bolt lock. Упоры личинки имеют небольшую выработку, вследствие чего может возникать люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head with two stops from a large-caliber automatic rifle produced by NATO countries with a sliding bolt carrier with turning bolt lock. Locking heads have a small signs of usage, as a result of which there may be a backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_13_rusty">
-		<text>Rusty поворотная личинка [2 упора][А][NATO]</text>
+		<text>Rusty rotating locking head [2 locks][А][NATO]</text>
 	</string>
 	<string id="st_bolt_13_rusty_descr">
-		<text>Сильно проржавевшая боевая личинка с двумя упорами, от крупнокалиберной автоматической винтовки производства стран NATO, под sliding bolt carrier with turning bolt lock. Упоры личинки практически полностью "съело" коррозией. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head with two stops from a large-caliber automatic rifle produced by NATO countries with a sliding bolt carrier with turning bolt lock. Locking heads are almost completely "eaten" by corrosion. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_14_good">
-		<text>Functional роликовая личинка [А/PP]</text>
+		<text>Functional rotating locking head [А/PP]</text>
 	</string>
 	<string id="st_bolt_14_good_descr">
-		<text>Functional роликовая личинка, от ПП или автоматической винтовки, под longitudinal-a half-free sliding bolt carrier. На вид, ролики в хорошем состоянии, без сильной выработки. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional rotating locking head from either the PP or an automatic rifle with a longitudinal-a half-free sliding bolt carrier. In appearence, rollers are in good condition, without signs of strong usage. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_14_worn">
-		<text>Worn роликовая личинка [А/PP]</text>
+		<text>Worn rotating locking head [А/PP]</text>
 	</string>
 	<string id="st_bolt_14_worn_descr">
-		<text>Worn роликовая личинка, от автоматической винтовки, под longitudinal-a half-free sliding bolt carrier. Ролики слегка покрыты коррозией и имеют небольшой люфт. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn rotating locking head from a machine gun with a longitudinal-a half-free sliding bolt carrier. The rollers are slightly corroded and have a slight backlash. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_14_rusty">
-		<text>Rusty роликовая личинка [А]</text>
+		<text>Rusty rotating locking head [А]</text>
 	</string>
 	<string id="st_bolt_14_rusty_descr">
-		<text>Сильно проржавевшая роликовая личинка, от автоматической винтовки, под longitudinal-a half-free sliding bolt carrier. Имеет сильную выработку, как с внешней, так и с внутренней стороны, один ролик, похоже, потерян. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted rotating locking head from a machine gun with a longitudinal-a half-free sliding bolt carrier. Has a strong signs of usage both from the outside and from the inside, one roller seems to be lost. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 
 	<string id="st_bolt_15_good">
-		<text>Properly functioning ударник с боевой пружиной [PP]</text>
+		<text>Functional drummer with the mainspring [PP]</text>
 	</string>
 	<string id="st_bolt_15_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то отечественного ПП под longitudinal-a sliding free bolt carrier. Appears in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning drummer with the mainspring from some domestic PP with a longitudinal-a sliding free bolt carrier. Appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_15_worn">
-		<text>Worn ударник с боевой пружиной [PP]</text>
+		<text>Worn drummer with the mainspring [PP]</text>
 	</string>
 	<string id="st_bolt_15_worn_descr">
-		<text>Worn ударник с боевой пружиной от какого-то отечественного ПП, под longitudinal-a sliding free bolt carrier. Пружина немного ослабла, но в целом состояние удовлетворительное. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some domestic PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it's in decent condition. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_15_rusty">
-		<text>Rusty ударник с боевой пружиной [PP]</text>
+		<text>Rusty drummer with the mainspring [PP]</text>
 	</string>
 	<string id="st_bolt_15_rusty_descr">
-		<text>Сильно проржавевшый ударник с боевой пружиной от какого-то отечественного ПП, под longitudinal-a sliding free bolt carrier. Ударник немного погнут, пружина потеряна. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted drummer with the mainspring from some domestic PP, with a longitudinal-a sliding free bolt carrier. The drummer is a little bent, the spring is lost. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_16_good">
-		<text>Properly functioning ударник с боевой пружиной [PP][NATO]</text>
+		<text>Functional drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то импортного ПП под longitudinal-a sliding free bolt carrier. Appears in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning drummer with the mainspring from some imported PP with a longitudinal-a sliding free bolt carrier. Appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_16_worn">
-		<text>Worn ударник с боевой пружиной [PP][NATO]</text>
+		<text>Worn drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_worn_descr">
-		<text>Worn ударник с боевой пружиной от какого-то импортного ПП, под longitudinal-a sliding free bolt carrier. Пружина немного ослабла, но в целом состояние удовлетворительное. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some imported PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it's in decent condition. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_16_rusty">
-		<text>Rusty ударник с боевой пружиной [PP][NATO]</text>
+		<text>Rusty drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_rusty_descr">
-		<text>Сильно проржавевшый ударник с боевой пружиной от какого-то импортного ПП, под longitudinal-a sliding free bolt carrier. Ударник немного погнут, пружина потеряна. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted drummer with the mainspring from some imported PP, with a longitudinal-a sliding free bolt carrier. The drummer is a little bent, the spring is lost. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 
 	<string id="st_bolt_17_good">
-		<text>Properly functioning ударник с боевой пружиной [PP][PPSh]</text>
+		<text>Properly functioning drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_good_descr">
-		<text>Properly functioning ударник с боевой пружиной от какого-то советского ПП, вроде ПП системы Шпагина, под longitudinal-a sliding free bolt carrier. Appears in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning drummer with the mainspring from some Soviet PP, like the PP of Shpagin's system with a longitudinal-a sliding free bolt carrier. Appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_17_worn">
-		<text>Worn ударник с боевой пружиной [PP][PPSh]</text>
+		<text>Worn drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_worn_descr">
-		<text>Worn ударник с боевой пружиной от какого-то советского ПП, вроде ПП системы Шпагина, под longitudinal-a sliding free bolt carrier. Пружина немного ослабла, но в целом состояние удовлетворительное. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some Soviet PP, like the PP of Shpagin's system with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it's in decent condition. \nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_17_rusty">
-		<text>Rusty ударник с боевой пружиной [PP][PPSh]</text>
+		<text>Rusty drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_rusty_descr">
-		<text>Сильно проржавевшый ударник с боевой пружиной от какого-то советского ПП, вроде ПП системы Шпагина, под longitudinal-a sliding free bolt carrier. Ударник немного погнут, пружина потеряна. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted drummer with the mainspring from some Soviet PP, like the PP of Shpagin's system with a longitudinal-a sliding free bolt carrier. The drummer is a little bent, the spring is lost. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 
 
@@ -860,7 +860,7 @@
 		<text>Functional gas tube [K]</text>
 	</string>
 	<string id="st_gas_tube_1_good_descr">
-		<text>Functional gas tube from a smoothbore carbine. Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a smoothbore carbine. Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_1_worn">
 		<text>Worn gas tube [K]</text>
@@ -878,7 +878,7 @@
 		<text>Functional handguard [R]</text>
 	</string>
 	<string id="st_gas_tube_2_good_descr">
-		<text>Functional подвижное handguard от помпового ружья. На вид, в хорошем состоянии. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional with aвижное handguard от помпового ружья. In appearence, in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_2_worn">
 		<text>Worn handguard [R]</text>
@@ -896,7 +896,7 @@
 		<text>Functional gas tube [V]</text>
 	</string>
 	<string id="st_gas_tube_3_good_descr">
-		<text>Functional gas tube from a self-loading rifle. Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a self-loading rifle. Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_3_worn">
 		<text>Worn gas tube [V]</text>
@@ -914,7 +914,7 @@
 		<text>Functional gas tube [AS/PP]</text>
 	</string>
 	<string id="st_gas_tube_4_good_descr">
-		<text>Functional gas tube from a special automatic rifle. 9mm. Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a special automatic rifle. 9mm. Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_4_worn">
 		<text>Worn gas tube [AS/PP]</text>
@@ -932,7 +932,7 @@
 		<text>Functional gas tube [A|V][Russia]</text>
 	</string>
 	<string id="st_gas_tube_5_good_descr">
-		<text>Functional gas tube from a semi-automatic or automatic rifle (Russia). Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a semi-automatic or automatic rifle (Russia). Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_5_worn">
 		<text>Worn gas tube [A|V][Russia]</text>
@@ -950,7 +950,7 @@
 		<text>Functional gas tube [A|V][NATO]</text>
 	</string>
 	<string id="st_gas_tube_6_good_descr">
-		<text>Functional gas tube from a semi-automatic or automatic rifle (NATO). Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a semi-automatic or automatic rifle (NATO). Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_6_worn">
 		<text>Worn gas tube [A|V][NATO]</text>
@@ -968,7 +968,7 @@
 		<text>Functional gas tube [P]</text>
 	</string>
 	<string id="st_gas_tube_7_good_descr">
-		<text>Functional gas tube from a machine gun. Appears in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional gas tube from a machine gun. Appears to be in good condition. The diametric clearance between the gas tube and the gas piston does not exceed 0.15mm. The inside of the tube is clean, the chrome finish is not damaged. Thread smooth, without torn edges or signs of constriction. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_7_worn">
 		<text>Worn gas tube [P]</text>
@@ -986,7 +986,7 @@
 		<text>Functional ejector [V]</text>
 	</string>
 	<string id="st_gas_tube_8_good_descr">
-		<text>Functional ejector from a rifle with a sliding bolt carrier with locking bolt. Appears in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Functional ejector from a rifle with a sliding bolt carrier with locking bolt. Appears to be in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_8_worn">
 		<text>Worn ejector [V]</text>
@@ -1004,7 +1004,7 @@
 		<text>Properly functioning ejector from over-under double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_gas_tube_9_good_descr">
-		<text>Properly functioning ejector (extractor) from an over-under double barrel shotgun. Appears in good condition. There are no signs of wear. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ejector (extractor) from an over-under double barrel shotgun. Appears to be in good condition. There are no signs of wear. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_9_worn">
 		<text>Worn ejector from an over-under double-barrel shotgun [R]</text>
@@ -1022,7 +1022,7 @@
 		<text>Properly functioning ejector from an over-under double barrel shotgun [R]</text>
 	</string>
 	<string id="st_gas_tube_10_good_descr">
-		<text>Properly functioning ejector from an over-under double barrel shotgun. Appears in good condition. There are no signs of wear. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning ejector from an over-under double barrel shotgun. Appears to be in good condition. There are no signs of wear. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_10_worn">
 		<text>Worn ejector from an over-under double barrel shotgun [R]</text>
@@ -1041,19 +1041,19 @@
 		<text>Functional gas tube [PP]</text>
 	</string>
 	<string id="st_gas_tube_11_good_descr">
-		<text>Исправная газовая трубка от пистолета-пулемета MP5 с рукояткой. На вид, в хорошем состоянии. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning gas tube from the MP5 submachine gun with a handle. In appearence, in good condition. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_11_worn">
 		<text>Worn gas tube [PP]</text>
 	</string>
 	<string id="st_gas_tube_11_worn_descr">
-		<text>Изношенная газовая трубка от пистолета-пулемета MP5 с рукояткой.\nПри небольшой доводке, деталь еще может послужить, но использовать ее "as is" лучше не стоит. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn gas tube from the MP5 submachine gun with a handle.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_11_rusty">
 		<text>Rusty gas tube [PP]</text>
 	</string>
 	<string id="st_gas_tube_11_rusty_descr">
-		<text>Ржавая газовая трубка от пистолета-пулемета MP5 с рукояткой.\nВосстановить или использовать такую деталь очень сложно. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Rusty gas tube from the MP5 submachine gun with a handle.\nIt is very difficult to restore or use such a detail. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	
 	
@@ -1064,7 +1064,7 @@
 		<text>12mm double-barrel shotgun repair kit</text>
 	</string>
 	<string id="st_barrelkit_db_vertical_descr">
-		<text>A special kit with tools designed for replacing weapon barrels гладкоствольных двуствольных бокфлинтов at a mechanic's workshop. Включает в себя набор прецизионных калибров 2 класса точности, нутромер, микрометр, а также комплект специального инструмента и паяльный набор. Может быть использован только для замены стволов 12 калибра at a mechanic's workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+		<text>A special kit with tools designed for replacing weapon barrels of smooth-bore double-barrel at a mechanic's workshop. Includes a set of precision calibers grade 2 accuracy, a micrometer, as well as a set of special tools and a soldering kit. Can only be used to replace 12 gauge barrels at a mechanic's workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
 	</string>
 	<string id="st_barrelkit_db_horizontal">
 		<text>12mm hammer type double-barrel shotgun repair kit</text>
