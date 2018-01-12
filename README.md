@@ -121,11 +121,11 @@ Translation progress by individual files can be found below.
 	- [ui_itm_main.xml](gamedata/configs/ui/ui_itm_main.xml)
 		- done
 	- [ui_mod_elements.xml](gamedata/configs/ui/ui_mod_elements.xml)
-		- incomplete
+		- unrevised
 	- [ui_mod_elements_16.xml](gamedata/configs/ui/ui_mod_elements_16.xml)
-		- incomplete
+		- unrevised
 	- [ui_pda_fonswong.xml](gamedata/configs/ui/ui_pda_fonswong.xml)
-		- incomplete
+		- unrevised
 
 - **scripts:**
 	- [dialogs_jupiter.script](gamedata/scripts/dialogs_jupiter.script)
