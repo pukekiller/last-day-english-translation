@@ -33,10 +33,11 @@ character_desc_marsh.xml          - seems same, just different spacing?				} POS
 character_desc_military.xml       - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
 character_desc_pripyat.xml        - seems same, just different spacing?				} POSSIBLE MINOR CHANGES	
 
-character_desc_jupiter.xml        - 1 different line 
+character_desc_jupiter.xml        - minor change
+character_desc_yantar.xml         - minor change 
 character_desc_red_forest.xml     - some lines changed 	
 character_desc_simulation.xml     - some changes to rank lines
-character_desc_yantar.xml         - minor change 
+
 
 character_desc_escape.xml         - new lines added
 character_desc_zaton.xml          - new lines added 
