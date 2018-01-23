@@ -1,6 +1,7 @@
 List of changed files:
 
 gamedata\configs\text\rus:
+
 mlr_addon.xml                  - minor changes
 st_characters.xml              - minor changes
 st_dialog_manager.xml          - minor changes
@@ -22,7 +23,8 @@ st_dialogs_yantar.xml          - bigger changes
 ui_st_pda.xml                  - bigger changes
 ui_st_screen.xml               - totally different 
 
-gamedata\configs\gameplay
+gamedata\configs\gameplay:
+
 character_desc_agroprom.xml       - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
 character_desc_bar.xml            - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
 character_desc_darkvalley.xml     - seems same, just different spacing?		    } POSSIBLE MINOR CHANGES
