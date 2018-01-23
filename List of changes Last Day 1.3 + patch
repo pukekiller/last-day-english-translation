@@ -23,8 +23,8 @@ ui_st_screen.xml - totally different
 
 gamedata\configs\gameplay
 character_desc_agroprom.xml - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
-character_desc_bar.xml  - seems same, just different spacing?					} POSSIBLE MINOR CHANGES
-character_desc_darkvalley.xml  - seems same, just different spacing?			} POSSIBLE MINOR CHANGES
+character_desc_bar.xml  - seems same, just different spacing?					  } POSSIBLE MINOR CHANGES
+character_desc_darkvalley.xml  - seems same, just different spacing?		} POSSIBLE MINOR CHANGES
 character_desc_deadcity.xml - seems same, just different spacing?				} POSSIBLE MINOR CHANGES			
 character_desc_escape.xml  - new lines added, different spacing
 character_desc_general.xml - a lot of new stuff
