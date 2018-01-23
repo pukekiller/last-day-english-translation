@@ -27,7 +27,7 @@ gamedata\configs\gameplay:
 
 character_desc_agroprom.xml       - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
 character_desc_bar.xml            - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
-character_desc_darkvalley.xml     - seems same, just different spacing?		            } POSSIBLE MINOR CHANGES
+character_desc_darkvalley.xml     - seems same, just different spacing?		                  } POSSIBLE MINOR CHANGES
 character_desc_deadcity.xml       - seems same, just different spacing?				} POSSIBLE MINOR CHANGES			
 character_desc_marsh.xml          - seems same, just different spacing?				} POSSIBLE MINOR CHANGES	
 character_desc_military.xml       - seems same, just different spacing?				} POSSIBLE MINOR CHANGES
