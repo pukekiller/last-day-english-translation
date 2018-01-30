@@ -362,11 +362,11 @@
 		<dont_has_info>meet_ds_killer_guide_main_base_over</dont_has_info>
 		<phrase_list>
 			<phrase id="0">
-				<text>meet_ds_killer_guide_main_base_0</text>
+				<text>meet_ds_killer_guide_main_base_0</text> <!-- trx, this has been edited in LD 1.3 +patch -->
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>meet_ds_killer_guide_main_base_1</text>
+				<text>meet_ds_killer_guide_main_base_1</text> <!-- trx, this has been edited in LD 1.3 +patch -->
 				<give_info>meet_ds_killer_guide_main_base_over</give_info>
 			</phrase>
 		</phrase_list>
@@ -1063,449 +1063,451 @@
 		</phrase_list>
 	</dialog>
 	
+	
+	<!-- new dialog from LD 1.3 +patch starts here -->
 	<!--g0dl1ke-->
-<dialog id="svarog_1_dialog">
-<dont_has_info>svarog_start</dont_has_info>
-<!--  <precondition>actor_svarog_ready</precondition>  -->
-<phrase_list>
-    <phrase id="0">
-        <text>Профессор, есть ли у вас какие-нибудь новые изобретения, которые помогут мне выжить в Зоне?</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Да, молодой человек. Моё долгое пребывание в этом бункере посреди этого болота даёт свои плоды. Но все разработанные мною приборы и лекарства находятся чуть ли не в единственном числе. Эх, имей бы я больше ресурсов... Предыдущая группа сталкеров, которая отправилась за артефактами, сгинула. Вторая же группа не слишком опытна и толку от них пока мало. Новый детектор доверить я им не могу...</text>
-    <next>2</next>
-    </phrase>
-    <phrase id="2">
-        <text>Новый детектор?</text>
-    <next>3</next>
-    </phrase>
-    <phrase id="3">
-        <text>Ну вот, опять проговорился. Эх, седая моя голова. Да, ко мне попало два детектора "Сварог", которые изобрели мои коллеги с окресностей Юпитера. Предыдущей группе я доверил одно из этих сокровищ, взамен они приносили мне доселе неизученные артефакты с невероятными свойствами.</text>
-    <next>4</next>
-    </phrase>
-    <phrase id="4">
-        <text>Могу ли я преобрести этот детектор?</text>
-    <next>5</next>
-    </phrase>	
-    <phrase id="5">
-        <text>Простите, но он последний и поэтому не продаётся. А частей, для самостоятельного изготовления, у меня нет. Тем более, хоть вы и опытный сталкер, но я вас совершенно не знаю. Прошу меня простить.</text>
-    <next>6</next>
-    </phrase>		
-	<phrase id="6">
-        <text>Я могу помочь достать вам новые части, для изготовления детектора, если вы согласитесь мне его потом продать.</text>
-    <next>7</next>
-    </phrase>
-    <phrase id="7">
-        <text>Хорошо, в таком случае мне понадобятся части редких мутантов. Начнём пока с этого. Принесите мне 4 руки контролёра, 4 руки бюрера, 4 щупальца кровососа, 4 рога химеры и 4 стопы снорка. Они понадобятся мне для опытов, так как самостоятельно я ещё не пробовал изготавливать "Сварог".</text>
-    <next>8</next>
-	<next>9</next>
-    </phrase>
-    <phrase id="8">
-        <text>Хорошо, я достану это, если конечно меня не сожрут эти милые зверюшки.</text>
-		<give_info>svarog_start</give_info>
-    </phrase>
-    <phrase id="9">
-        <text>Да ты чё, охренел, дед? Мне моя шкура дороже, иди ты с такими запросами в мясорубку.</text>
-    </phrase>
-</phrase_list>
-</dialog>
-	
-<dialog id="devushka_1_start">
-<dont_has_info>devushka_1_give</dont_has_info>
-<dont_has_info>devushka_1_cancel</dont_has_info>
-<phrase_list>
-    <phrase id="0">
-        <text>Hey, dude, hello. What's up?</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Hey. Not so bad. And you... How did you even get here? Ba... uhhh... a woman in the zone is a rarity.</text>
-	<next>2</next>
-    </phrase>
-    <phrase id="2">
-        <text>I was a member of Freedom, but I left them... I had some reasons... Will you help me?  I have only PM left and I would have some kind of shotgun, preferably from the TOZ family - used to them. I had a TOZ with optics. </text>
-	<next>3</next>
-	<next>4</next>
-	<next>6</next>
-	</phrase>
-    <phrase id="3">
-        <text>Yeah, I'll help you, let's go!</text>
-		<action>dialogs_mlr.hip_moovie_1</action>
-	<next>5</next>
-    </phrase>
-	<phrase id="4">
-        <text>No, I have things to do.</text>
-    </phrase>
-	<phrase id="6">
-        <text>And will you pay in kind?</text>
-		<action>dialogs_mlr.poluchit_po_litsu</action>
-    </phrase>
-	<phrase id="5">
-        <text>I have something for you prepared. Don't worry about it.text>
-		<give_info>devushka_1_give</give_info>
-		<action>dialogs_mlr.give_task_devushka_1</action>
-	</phrase>
-</phrase_list>
-</dialog>
-	
-<dialog id="devushka_2_start">
-<has_info>devushka_1_give</has_info>
-<dont_has_info>devushka_1_done</dont_has_info>
-<precondition>dialogs_mlr.devushka_1_has</precondition>
-<precondition>dialogs_mlr.devushka_2_has</precondition>
-<phrase_list>
-    <phrase id="0">
-        <text>Here you go. Found you that gun. And ammunition. Why didn't you buy ammunition from Sidorovich? </text>
-		<give_info>devushka_1_done</give_info>
-		<action>dialogs_mlr.devushka_1_done</action>
-		<action>dialogs_mlr.devushka_2_done</action>
-		<next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Thanks man. Sidorovich wants me to leave the Zone and go back to my mother. He thinks this isn't a place for me. Anyway, here you go, as promised. I rummaged around a bit and stumbled across a stash of local technician - I hope it will come in handy!</text>
-		<give_info>devushka_1_done</give_info>
-    </phrase>
-</phrase_list>
-</dialog>
-
-<dialog id="devushka_0_dialog">
-<has_info>devushka_1_done</has_info>
-<dont_has_info>devushka_0_done</dont_has_info>
-<phrase_list>
-    <phrase id="0">
-        <text>So, how's it going? You look kind of sick, to be honest.</text>
-		<next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Yeah, I haven't eaten in a long time. Hey, do you have anything to eat? I'm starving... And all those preserves over there...</text>
-		<next>2</next>
-		<next>3</next>
-		<next>4</next>
-    </phrase>
-    <phrase id="2">
-        <text>Here, take it, I don't mind giving it to you.</text>
-		<precondition>dialogs_mlr.actor_has_tushonka</precondition>
-		<action>dialogs_mlr.give_hip_tushonka</action>
-		<next>5</next>
-    </phrase>
-    <phrase id="3">
-        <text>I'm sorry, but the supplies are tight, there's nothing to eat.</text>
-    </phrase>
-    <phrase id="4">
-        <text>How dare you ask me to bring you food after what I've done for you? Fetch you a weapon, buy you ammunition, do you even know how to do anything by yourself? Litter Freedom...</text>
-		<action>dialogs_mlr.poluchit_po_litsu</action>
-    </phrase>
-    <phrase id="5">
-        <text>Respect, man. Thanks in general.</text>
-	<give_info>devushka_0_done</give_info>
-	</phrase>
-</phrase_list>
-</dialog>
-
-<dialog id="devushka_1_dialog">
-<has_info>devushka_3_give</has_info>
-<phrase_list>
-    <phrase id="0">
-        <text>Tell me about yourself again.</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>What can I tell you... My family was unsuccessful. My mother always drank and fucked with the left-wing peasants, I did not know my father. My stepfather was an asshole, he beat me up all the time. Once, after another beating, he wanted to rape me. I did not give up and broke a bottle on his head. I hated him so much that in a fit of anger I stabbed him with a piece. Woke up, all hands in blood. My stepfather was no longer breathing... I had to escape, I really didn't want to go to jail.</text>
-		<next>2</next>
-    </phrase>
-	<phrase id="2">
-        <text>And you went into the Zone here, alone?</text>
-		<next>3</next>
-    </phrase>
-	<phrase id="3">
-        <text>No, I had a friend ...  Sprat was the name. We went to the Zone together, she had a guy here who was a Freedom member. She didn't make it, she died in an anomaly. I brought her bag to the guy. He was cool, didn't let anybody touch me. He was a good person, he mourned Sprat a lot. Unfortunately he got shot by Duty. After his death every man tried to get closer to me. I had to leave.</text>
-    <next>4</next>
-	</phrase>
-    <phrase id="4">
-        <text>I see.</text>
-    </phrase>
-</phrase_list>
-</dialog>
-
-<dialog id="devushka_heal">
-<precondition>dialogs_axr_companion.is_actor_companion</precondition>
-<precondition>dialogs.actor_have_medkit</precondition>
-<phrase_list>
-    <phrase id="0">
-        <text>Wait, let's treat you.</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Come on, I'm fine. Don't worry.</text>
-		<next>2</next>
-		<next>3</next>
-    </phrase>
-	<phrase id="2">
-		<text>Someone promised to do what I say, probie. Remember?</text>
-		<action>dialogs.give_hip_medic_potion</action>
-		<action>dialogs.transfer_medkit_to_hip</action>
-		<next>4</next>
-    </phrase>
-	<phrase id="3">
-        <text>Right? Well, look, if anything - shout.</text>
-	</phrase>
-    <phrase id="4">
-        <text>Yeah yeah, I remember. Thanks.</text>
-    </phrase>
-</phrase_list>
-</dialog>
-
-
-<dialog id="devushka_2_dialog">
-<has_info>devushka_0_done</has_info>
-<dont_has_info>devushka_3_give</dont_has_info>
-<phrase_list>
-    <phrase id="0">
-        <text>Чем планируешь заняться?</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Да вот, выпросила у Сидоровича задание, на поиск артефактов. А чего спрашиваешь? Помочь хочешь?</text>
-		<next>2</next>
-    </phrase>
-	<phrase id="2">
-        <text>Да так. Мне пора. Удачи, Хип.</text>
-		<next>3</next>
-    </phrase>
-	<phrase id="3">
-        <text>*...всхлипывает...*</text>
-		<next>4</next>
-	</phrase>
-	<phrase id="4">
-        <text>Ну ты чего так расстроилась то?</text>
-		<next>5</next>
-	</phrase>
-	<phrase id="5">
-        <text>Не уходи, пожалуйста. Не броса-аа-ай...*...плачет...*</text>
-		<next>6</next>
-	</phrase>
-	<phrase id="6">
-        <text>Домой тебе надо, Хип. Давай я переговорю с Сидоровичем, может он поможет переправить тебя за Кордон. Родители, небось, с ума сходят.</text>
-		<next>7</next>
-	</phrase>
+	<dialog id="svarog_1_dialog">
+	<dont_has_info>svarog_start</dont_has_info>
+	<!--  <precondition>actor_svarog_ready</precondition>  -->
+	<phrase_list>
+		<phrase id="0">
+			<text>svarog_1_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>svarog_1_dialog_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>svarog_1_dialog_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>svarog_1_dialog_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>svarog_1_dialog_4</text>
+			<next>5</next>
+		</phrase>	
+		<phrase id="5">
+			<text>svarog_1_dialog_5</text>
+			<next>6</next>
+		</phrase>		
+		<phrase id="6">
+			<text>svarog_1_dialog_6</text>
+			<next>7</next>
+		</phrase>
 		<phrase id="7">
-        <text>Они с ума сходят, если на опохмел бабла не насобирают! Семья у меня была неблагополучная. Мать постоянно пила и гуляла с левыми мужиками, отца я не знала, а отчим был тем ещё мудаком, избивал меня постоянно. Один раз, после очередного побоя, захотел меня изнасиловать, я не далась и разбила ему бутылку о голову. Я его так ненавидела, что в порыве гнева заколола его осколком. Очнулась, все руки в крови, отчим уже не дышал, да и нечем было ему... Пришлось сбежать, не очень хотелось в тюрьму.</text>
-		<next>8</next>
-	</phrase>
-	<phrase id="8">
-        <text>Сильно... И ты одна пошла в Зону вот так, в одиночку?</text>
-		<next>9</next>
-    </phrase>
-	<phrase id="9">
-        <text>Нет, была у меня подружка... Килькой звали. Мы вместе в Зону пошли, у неё тут парень был свободовец. Только не дошла Килька, убило её в аномалии. Принесла я тому парню сумку её, он крутой был, никому меня трогать не позволял. Хороший был, по Кильке сильно убивался. Его потом долг застрелил и стала ко мне всякая мразь лезть. Ушла я оттуда. Никого у меня теперь нет.</text>
-    <next>10</next>
-	</phrase>	
-	<phrase id="10">
-        <text>И что я должен сделать?</text>
-		<next>11</next>
-    </phrase>
-	<phrase id="11">
-        <text>Помоги мне с заданием, расскажи, как выживать в Зоне... Ты крутой сталкер, классный, много знаешь. Я всё делать буду! Не бросай меня только! Ты самый классный, ты... первый настоящий человек здесь.</text>
-		<next>16</next>
-    </phrase>
-	<phrase id="16">
-        <text>Ты хоть понимаешь, что такое по Зоне лазить? Что такое ночь, например, в Лощине, а не в уютной деревне новичков под присмотром Фаната? Убегала ли ты от стаи слепых псов по незнакомой местности, где аномалий больше, чем у дурака фантиков? Нет? А посмотри на зомби. Ходят, ёбла перекошенные, красавчики, правда? Учти, с твоей симпатичной мордашкой то же самое может случится.</text>
-		<next>17</next>
-    </phrase>
-	<phrase id="17">
-        <text>Да всё ништяк. Я сильная и умная. Я выдержу, не смотри, что девочка. Возьми с собой, сталкер. Выгнать всегда успеешь.</text>
-		<next>12</next>
-		<next>13</next>
-    </phrase>
-	<phrase id="12">
-        <text>Ох... Ладно, хорошо. Урок первый: забудь, что ты была в "Свободе". Дальнейшее путушествие без свободовских штучек и фразочек! Хорошо, хоть нашивки оторвала, а то доказывай потом долговцам, что ты не верблюд. Какие артефакты нужны? А детектор есть?</text>
-		<action>dialogs_axr_companion.become_actor_companion</action>
-		<action>dialogs_mlr.give_task_devushka_3</action>
-		<give_info>devushka_3_give</give_info>
-		<next>14</next>
-    </phrase>
-	<phrase id="13">
-        <text>Извини, Хип, но нет.</text>
-    </phrase>
-	<phrase id="14">
-        <text>"Лунный свет", "Огненный шар" и "Выверт". Детектор есть, "Отклик".</text>
-		<next>15</next>
-    </phrase>
-	<phrase id="15">
-        <text>Ну это ещё ничего... Сойдёт, но при случае надо будет тебе более функциональный заиметь. Пошли, стажёр!</text>
-    </phrase>
-</phrase_list>
-</dialog>
+			<text>svarog_1_dialog_7</text>
+			<next>8</next>
+			<next>9</next>
+		</phrase>
+		<phrase id="8">
+			<text>svarog_1_dialog_8</text>
+			<give_info>svarog_start</give_info>
+		</phrase>
+		<phrase id="9">
+			<text>svarog_1_dialog_9</text>
+		</phrase>
+	</phrase_list>
+	</dialog>
+	
+	<dialog id="devushka_1_start">
+	<dont_has_info>devushka_1_give</dont_has_info>
+	<dont_has_info>devushka_1_cancel</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_1_start_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_1_start_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_1_start_2</text>
+			<next>3</next>
+			<next>4</next>
+			<next>6</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_1_start_3</text>
+			<action>dialogs_mlr.hip_moovie_1</action>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_1_start_4</text>
+		</phrase>
+		<phrase id="6">
+			<text>devushka_1_start_6</text>
+			<action>dialogs_mlr.poluchit_po_litsu</action>
+		</phrase>
+		<phrase id="5">
+			<text>devushka_1_start_5</text>
+			<give_info>devushka_1_give</give_info>
+			<action>dialogs_mlr.give_task_devushka_1</action>
+		</phrase>
+	</phrase_list>
+	</dialog>
+	
+	<dialog id="devushka_2_start">
+	<has_info>devushka_1_give</has_info>
+	<dont_has_info>devushka_1_done</dont_has_info>
+	<precondition>dialogs_mlr.devushka_1_has</precondition>
+	<precondition>dialogs_mlr.devushka_2_has</precondition>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_2_start_0</text>
+			<give_info>devushka_1_done</give_info>
+			<action>dialogs_mlr.devushka_1_done</action>
+			<action>dialogs_mlr.devushka_2_done</action>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_2_start_1</text>
+			<give_info>devushka_1_done</give_info>
+		</phrase>
+	</phrase_list>
+	</dialog>
 
-<dialog id="devushka_3_quest">
-<dont_has_info>devushka_3_done</dont_has_info>
-<precondition>dialogs_mlr.devushka_31_has</precondition>
-<precondition>dialogs_mlr.devushka_32_has</precondition>
-<precondition>dialogs_mlr.devushka_33_has</precondition>
-<has_info>devushka_3_give</has_info>
-<phrase_list>
-    <phrase id="0">
-        <text>Сидорович, я тут Хип с твоим заданием помог, принимай товар.</text>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Хм. Мда, ну ладно, уговор есть уговор. Я в ваши с ней дела не полезу, мне оно 100 лет не надо. Держи, за работу. Да ей отсыпать не забудь. Постой. И ещё... Пока вы артефакты искали, в деревню приходили свободовцы, Хип спрашивали. Но я сказал, что не было здесь такой. Ты уже не обессудь, но лучше ей из деревни слинять по-тихому. Если заявятся снова и ей плохо будет, видок у них был отбитый, и мне как-то доверие "Свободы" подрывать не хочется.</text>
-    <give_info>devushka_3_done</give_info>
-	<action>dialogs_mlr.devushka_31_done</action>
-	<action>dialogs_mlr.devushka_32_done</action>
-	<action>dialogs_mlr.devushka_33_done</action>
-	<next>2</next>
-	</phrase>
-    <phrase id="2">
-        <text>Мля, ну и влипли. Ладно, уйдём ночью, без шума и пыли. Спасибо, что прикрыл.</text>
-    <next>3</next>
-    </phrase>
-	<phrase id="3">
-        <text>Хорошо всё таки, что ты за ней присмотреть решил. А то пропадёт девка в Зоне, жалко будет.</text>
-    </phrase>
-</phrase_list>
-</dialog>
+	<dialog id="devushka_0_dialog">
+	<has_info>devushka_1_done</has_info>
+	<dont_has_info>devushka_0_done</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_0_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_0_dialog_1</text>
+			<next>2</next>
+			<next>3</next>
+			<next>4</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_0_dialog_2</text>
+			<precondition>dialogs_mlr.actor_has_tushonka</precondition>
+			<action>dialogs_mlr.give_hip_tushonka</action>
+			<next>5</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_0_dialog_3</text>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_0_dialog_4</text>
+			<action>dialogs_mlr.poluchit_po_litsu</action>
+		</phrase>
+		<phrase id="5">
+			<text>devushka_0_dialog_5</text>
+		<give_info>devushka_0_done</give_info>
+		</phrase>
+	</phrase_list>
+	</dialog>
 
-<dialog id="devushka_3_quest_money">
-<has_info>devushka_3_done</has_info>
-<dont_has_info>devushka_3_done_money</dont_has_info>
-<precondition>dialogs_mlr.devushka_3_has_money</precondition>
-<phrase_list>
-    <phrase id="0">
-        <text>Вот, держи свою честно отработанную половину.</text>
-		<action>dialogs_mlr.devushka_3_done_money</action>
-    <next>1</next>
-    </phrase>
-    <phrase id="1">
-        <text>Первая моя серьёзная ходка! Спасибо тебе большое!</text>
-    <give_info>devushka_3_done_money</give_info>
-	</phrase>
-</phrase_list>
-</dialog>
+	<dialog id="devushka_1_dialog">
+	<has_info>devushka_3_give</has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_1_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_1_dialog_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_1_dialog_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_1_dialog_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_1_dialog_4</text>
+		</phrase>
+	</phrase_list>
+	</dialog>
 
-<dialog id="devushka_3_dialog">
-<dont_has_info>devushka_leave_village</dont_has_info>
-<has_info>devushka_3_done_money</has_info>
-<phrase_list>
-	<phrase id="0">
-        <text>Тут от Сидоровича информация поступила, что за тобой свободовцы приходили в деревню. Сидор не выдал нас, но теперь отсюда уйти придётся. Пока иди, отдохни, выступаем ночью, а я ещё подумаю, как нам лучше поступить.</text>
-    <next>1</next>
-    </phrase>
-	<phrase id="1">
-        <text>Ох, а я надеялась, что они наконец оставят меня впокое, ублюдки, даже здесь нашли. Хорошо, пойдём ночью...</text>
-		<give_info>devushka_leave_village</give_info>
-	    <next>2</next>
-    </phrase>
-	<phrase id="2">
-        <text>Пойдём к костру передохнём пока.</text>
-	<action>dialogs_mlr.devushka_1_info</action>
-    </phrase>
-</phrase_list>
-</dialog>
+	<dialog id="devushka_heal">
+	<precondition>dialogs_axr_companion.is_actor_companion</precondition>
+	<precondition>dialogs.actor_have_medkit</precondition>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_heal_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_heal_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_heal_2</text>
+			<action>dialogs.give_hip_medic_potion</action>
+			<action>dialogs.transfer_medkit_to_hip</action>
+			<next>4</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_heal_3</text>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_heal_4</text>
+		</phrase>
+	</phrase_list>
+	</dialog>
 
-<dialog id="devushka_4_dialog">
-<has_info>devushka_leave_village</has_info>
-<dont_has_info>devushka_wait</dont_has_info>
-<phrase_list>
-	<phrase id="0">
-        <text>Всё, сиди здесь тихо, никуда не уходи. Ночью я за тобой приду.</text>
-    <next>1</next>
-    </phrase>
-	<phrase id="1">
-        <text>Хорошо, буду ждать тебя.</text>
-		<action>dialogs_axr_companion.remove_companions_from_squad</action>
-		<give_info>devushka_wait</give_info>
-	</phrase>
-</phrase_list>
-</dialog>
 
-<dialog id="devushka_4_quest">
-<precondition>xr_conditions.is_night</precondition>
-<has_info>devushka_wait</has_info>
-<dont_has_info>devushka_4_give</dont_has_info>
-<dont_has_info>devushka_5_give</dont_has_info>
-<phrase_list>
-	<phrase id="0">
-        <text>Как ты? Готова? У меня появилось парочка идей, как мы поступим.</text>
-    <next>1</next>
-    </phrase>
-	<phrase id="1">
-        <text>Готова вроде... И что мы будем делать?</text>
-	<next>2</next>
-	<next>3</next>
-	</phrase>
-	<phrase id="2">
-        <text>Думаю, что нам стоит обратиться к Бармену, который обитает в баре "100 рентген", он нам подскажет, что делать. Я не люблю свободовцев и не хочется идти с ними на прямой контакт.</text>
-		<give_info>devushka_4_give</give_info>
+	<dialog id="devushka_2_dialog">
+	<has_info>devushka_0_done</has_info>
+	<dont_has_info>devushka_3_give</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_2_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_2_dialog_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_2_dialog_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_2_dialog_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_2_dialog_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>devushka_2_dialog_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>devushka_2_dialog_6</text>
+			<next>7</next>
+		</phrase>
+			<phrase id="7">
+			<text>devushka_2_dialog_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>devushka_2_dialog_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>devushka_2_dialog_9</text>
+			<next>10</next>
+		</phrase>	
+		<phrase id="10">
+			<text>devushka_2_dialog_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>devushka_2_dialog_11</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>devushka_2_dialog_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>devushka_2_dialog_17</text>
+			<next>12</next>
+			<next>13</next>
+		</phrase>
+		<phrase id="12">
+			<text>devushka_2_dialog_12</text>
 			<action>dialogs_axr_companion.become_actor_companion</action>
-	<next>4</next>
-	</phrase>
-	<phrase id="3">
-        <text>Думаю, что свободовцы нормальные чуваки и мы сможем с ними договориться. Пойдём на Армейские склады к Миклухе и всё решим. Не переживай, если что я тебя смогу защитить.</text>
-		<give_info>devushka_5_give</give_info>
-			<action>dialogs_axr_companion.become_actor_companion</action>
-	<next>5</next>
-	</phrase>
-	<phrase id="4">
-        <text>Хорошо, пойдём. Мне тоже не хочется на военные склады тащиться, чтобы опять увидеть этих мразей, которые ко мне лезли.</text>
-		<action>dialogs_mlr.give_task_devushka_4</action>
-	</phrase>
-	<phrase id="5">
-        <text>Окей... Миклуха, конечно, среди них самый адекватный. Я и не переживаю.</text>
-		<action>dialogs_mlr.give_task_devushka_5</action>
-	</phrase>
-</phrase_list>
-</dialog>
+			<action>dialogs_mlr.give_task_devushka_3</action>
+			<give_info>devushka_3_give</give_info>
+			<next>14</next>
+		</phrase>
+		<phrase id="13">
+			<text>devushka_2_dialog_13</text>
+		</phrase>
+		<phrase id="14">
+			<text>devushka_2_dialog_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>devushka_2_dialog_15</text>
+		</phrase>
+	</phrase_list>
+	</dialog>
 
-<dialog id="devushka_4_help">
-<has_info>devushka_4_give</has_info>
-<dont_has_info>devushka_4_done</dont_has_info>
+	<dialog id="devushka_3_quest">
+	<dont_has_info>devushka_3_done</dont_has_info>
+	<precondition>dialogs_mlr.devushka_31_has</precondition>
+	<precondition>dialogs_mlr.devushka_32_has</precondition>
+	<precondition>dialogs_mlr.devushka_33_has</precondition>
+	<has_info>devushka_3_give</has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_3_quest_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_3_quest_1</text>
+			<give_info>devushka_3_done</give_info>
+			<action>dialogs_mlr.devushka_31_done</action>
+			<action>dialogs_mlr.devushka_32_done</action>
+			<action>dialogs_mlr.devushka_33_done</action>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_3_quest_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_3_quest_3</text>
+		</phrase>
+	</phrase_list>
+	</dialog>
+
+	<dialog id="devushka_3_quest_money">
+	<has_info>devushka_3_done</has_info>
+	<dont_has_info>devushka_3_done_money</dont_has_info>
+	<precondition>dialogs_mlr.devushka_3_has_money</precondition>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_3_quest_money_0</text>
+			<action>dialogs_mlr.devushka_3_done_money</action>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_3_quest_money_1</text>
+			<give_info>devushka_3_done_money</give_info>
+		</phrase>
+	</phrase_list>
+	</dialog>
+
+	<dialog id="devushka_3_dialog">
+	<dont_has_info>devushka_leave_village</dont_has_info>
+	<has_info>devushka_3_done_money</has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_3_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_3_dialog_1</text>
+			<give_info>devushka_leave_village</give_info>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_3_dialog_2</text>
+			<action>dialogs_mlr.devushka_1_info</action>
+		</phrase>
+	</phrase_list>
+	</dialog>
+
+	<dialog id="devushka_4_dialog">
+	<has_info>devushka_leave_village</has_info>
+	<dont_has_info>devushka_wait</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_4_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_4_dialog_1</text>
+			<action>dialogs_axr_companion.remove_companions_from_squad</action>
+			<give_info>devushka_wait</give_info>
+		</phrase>
+	</phrase_list>
+	</dialog>
+
+	<dialog id="devushka_4_quest">
+	<precondition>xr_conditions.is_night</precondition>
+	<has_info>devushka_wait</has_info>
+	<dont_has_info>devushka_4_give</dont_has_info>
+	<dont_has_info>devushka_5_give</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>devushka_4_quest_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>devushka_4_quest_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>devushka_4_quest_2</text>
+			<give_info>devushka_4_give</give_info>
+			<action>dialogs_axr_companion.become_actor_companion</action>
+			<next>4</next>
+		</phrase>
+		<phrase id="3">
+			<text>devushka_4_quest_3</text>
+			<give_info>devushka_5_give</give_info>
+			<action>dialogs_axr_companion.become_actor_companion</action>
+		<next>5</next>
+		</phrase>
+		<phrase id="4">
+			<text>devushka_4_quest_4</text>
+			<action>dialogs_mlr.give_task_devushka_4</action>
+		</phrase>
+		<phrase id="5">
+			<text>devushka_4_quest_5</text>
+			<action>dialogs_mlr.give_task_devushka_5</action>
+		</phrase>
+	</phrase_list>
+	</dialog>
+
+	<dialog id="devushka_4_help">
+	<has_info>devushka_4_give</has_info>
+	<dont_has_info>devushka_4_done</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Здорова. Как жизнь? Есть пара вопросов, насчёт моей напарницы, какие-то проблемы со свободовцами...</text>
+                <text>devushka_4_help_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Ну проходи, вот выпей кружечку за счёт заведения, и даму угости! Дела идут прекрасно. Проблемы со свободовцами, говоришь? В курсе я, насчёт ваших проблем. Баб в Зоне мало и новости о них разлетаются быстро. Твою Хип ищет несколько отморозков, из-за которых она вероятно и ушла из "Свободы". Могу связаться с Лукашом и всё уладить, он там их мигом построит, но, как говорится, услуга за услугу.</text>
+                <text>devushka_4_help_1</text>
 				<action>dialogs_mlr.devushka_4_done</action>
 				<give_info>devushka_4_done</give_info>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_5_help">
-<has_info>devushka_5_give</has_info>
-<dont_has_info>devushka_5_done</dont_has_info>
+	<dialog id="devushka_5_help">
+	<has_info>devushka_5_give</has_info>
+	<dont_has_info>devushka_5_done</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Здорова. Как жизнь? Есть пара вопросов, насчёт моей напарницы, я думаю ты с ней знаком.</text>
+                <text>devushka_5_help_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Ну проходи, вот держи, курни, бро. Расслабься. Дела идут неплохо, хоть и нечисти, которая прёт с Барьера не уменьшилось. И конечно, я узнал Хип. О ней среди группировки много разговоров ходило. Некоторые даже таранили морды друг другу из-за неё.</text>
+                <text>devushka_5_help_1</text>
 				<action>dialogs_mlr.devushka_5_done</action>
 				<give_info>devushka_5_done</give_info>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_help">
-<has_info>devushka_4_done</has_info>
-<dont_has_info>devushka_help_1_give</dont_has_info>
-<dont_has_info>devushka_semeckiy</dont_has_info>
+	<dialog id="devushka_help">
+	<has_info>devushka_4_done</has_info>
+	<dont_has_info>devushka_help_1_give</dont_has_info>
+	<dont_has_info>devushka_semeckiy</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>И в чём заключается твоя просьба?</text>
+                <text>devushka_help_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Да так, сущий пустяк. Отнеси эти контейнеры для артефактов Бороде на Скадовск. Он в них особо радиоактивные артефакты хранить будет, а то бывает иногда такое притащут, что фонит как на ЧАЭС. Учти только, они тяжёлые. Ну как, осилишь?</text>
+                <text>devushka_help_1</text>
 				<next>2</next>
 				<next>3</next>
             </phrase>
             <phrase id="2">
-                <text>Осилим, давай свои контейнеры.</text>
+                <text>devushka_help_2</text>
 				<give_info>devushka_help_1_give</give_info>
 				<action>dialogs_mlr.give_task_devushka_help_1</action>
 				<action>dialogs_mlr.barmen_give_container</action>
@@ -1513,27 +1515,27 @@
 				<give_info>devushka_semeckiy</give_info>
             </phrase>
             <phrase id="3">
-                <text>Погоди, нам нужно немного подготовиться.</text>
+                <text>devushka_help_3</text>
             </phrase>
         </phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_help1">
-<has_info>devushka_5_done</has_info>
-<dont_has_info>devushka_help_2_give</dont_has_info>
-<dont_has_info>devushka_semeckiy</dont_has_info>
+	<dialog id="devushka_help1">
+	<has_info>devushka_5_done</has_info>
+	<dont_has_info>devushka_help_2_give</dont_has_info>
+	<dont_has_info>devushka_semeckiy</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>За Хип таскается пара твоих ребят, приходили в деревню новичков, искали её. Тебе известно об этом что-то?</text>
+                <text>devushka_help1_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Пара ребят, говоришь? Хм... Есть у меня мысль, кто это мог быть. В прочем, я с ними разберусь, не переживай. Не хватало ещё, чтобы "Свобода" прославилась тем, что насилует беззащитных девушек. Хотя Хип имеет пару скорпионов в рукаве, беззащитной её особо не назовёшь. Но, чувак, с тебя тоже должок, так как ты увёл из моей группировки отличный кадр. Релакс, релакс, не кипятись, шучу. Сможете доставить груз Локи на Янов? Там пара сумок с медикаментами. С оплатой не обидим. Возьмётесь?</text>
+                <text>devushka_help1_1</text>
 				<next>2</next>
 				<next>3</next>
             </phrase>
             <phrase id="2">
-                <text>Отчего бы и не взяться, раз ты нам так охотно помог. Давай свои медикаменты.</text>
+                <text>devushka_help1_2</text>
 				<give_info>devushka_help_2_give</give_info>
 				<action>dialogs_mlr.give_task_devushka_help_2</action>
 				<action>dialogs_mlr.mikluha_give_medkit_bags</action>
@@ -1541,238 +1543,239 @@
 				<give_info>devushka_semeckiy</give_info>
             </phrase>
             <phrase id="3">
-                <text>Погоди, нам нужно немного подготовиться.</text>
+                <text>devushka_help1_3</text>
             </phrase>
         </phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_boroda_help">
-<dont_has_info>devushka_help_done</dont_has_info>
-<precondition>dialogs_mlr.devushka_help_1_has</precondition>
-<has_info>devushka_help_1_give</has_info>
+	<dialog id="devushka_boroda_help">
+	<dont_has_info>devushka_help_done</dont_has_info>
+	<precondition>dialogs_mlr.devushka_help_1_has</precondition>
+	<has_info>devushka_help_1_give</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Здорова. Как успехи? Мы к тебе с гостинцами от Бармена пожаловали, принимай свои контейнеры.</text>
+                <text>devushka_boroda_help_0</text>
 				<action>dialogs_mlr.devushka_help_1_done</action>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Привет. Ну спасибо, что доставил, держи пару сувениров.</text>
+                <text>devushka_boroda_help_1</text>
 				<give_info>devushka_help_done</give_info>
 				<action>dialogs_mlr.devushka_3_info</action>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_loki_help">
-<dont_has_info>devushka_help_done</dont_has_info>
-<precondition>dialogs_mlr.devushka_help_2_has</precondition>
-<has_info>devushka_help_2_give</has_info>
+	<dialog id="devushka_loki_help">
+	<dont_has_info>devushka_help_done</dont_has_info>
+	<precondition>dialogs_mlr.devushka_help_2_has</precondition>
+	<has_info>devushka_help_2_give</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Здорова. Как жизнь, мэн? Мы к тебе с гостинцами от Миклухи пожаловали, принимай свои медикаменты.</text>
+                <text>devushka_loki_help_0</text>
 				<action>dialogs_mlr.devushka_help_2_done</action>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Привет. Спасибо, чувак. Держи бонус, Миклуха распорядился выдать.</text>
+                <text>devushka_loki_help_1</text>
 				<give_info>devushka_help_done</give_info>
 				<action>dialogs_mlr.devushka_4_info</action>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="give_devushka_medved">
-<dont_has_info>devushka_have_medved</dont_has_info>
-<precondition>dialogs_mlr.actor_has_medved</precondition>
-<has_info>devushka_3_give</has_info>
+	<dialog id="give_devushka_medved">
+	<dont_has_info>devushka_have_medved</dont_has_info>
+	<precondition>dialogs_mlr.actor_has_medved</precondition>
+	<has_info>devushka_3_give</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Эй, стажёр. Вот, держи хороший детектор, получше твоего "Отклика" будет.</text>
+                <text>give_devushka_medved_0</text>
 				<action>dialogs_mlr.give_devushka_medved</action>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Спасибо, теперь я точно что-то крутое найду!</text>
+                <text>give_devushka_medved_1</text>
 				<give_info>devushka_have_medved</give_info>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_give_present">
-<dont_has_info>devushka_give_present</dont_has_info>
-<has_info>devushka_help_done</has_info>
+	<dialog id="devushka_give_present">
+	<dont_has_info>devushka_give_present</dont_has_info>
+	<has_info>devushka_help_done</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Ну вот и всё. Одной проблемой стало меньше, правда в процессе её решения нас занесло на север Зоны. Тут чрезвычайно опасно, гораздо опаснее, чем в южных районах, но можно разжиться очень хорошим хабаром.</text>
+                <text>devushka_give_present_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Артефактами?</text>
+                <text>devushka_give_present_1</text>
 				<next>2</next>
             </phrase>
 			<phrase id="2">
-                <text>Да, но такими, за которые учёные готовы заплатить огромные деньги. Это тебе не три простых артефакта Сидоровичу принести. Тут специальный детектор нужен. Но и простых артефактов здесь тоже много.</text>
+                <text>devushka_give_present_2</text>
 				<next>3</next>
             </phrase>
             <phrase id="3">
-                <text>Круто! Ну что, пошли искать?</text>
+                <text>devushka_give_present_3</text>
 				<next>4</next>
             </phrase>
             <phrase id="4">
-                <text>Знаешь что, стажёр... нужно нам с тобой с Зоной завязывать. Чужая она для нас, Зона эта, тут только мертвяки, кровососы и прочая нечисть жить может, не для людей она.</text>
+                <text>devushka_give_present_4</text>
 				<next>5</next>
             </phrase>
             <phrase id="5">
-                <text>Как же так? Почему? Мы больше не будем искать артефакты? И я не буду сталкером?</text>
+                <text>devushka_give_present_5</text>
 				<next>6</next>
             </phrase>
             <phrase id="6">
-                <text>Далось тебе это сталкерство. Что в нём хорошего? Со смертью играть каждый день краплёными картами? Козыри, девочка, в этой игре редко перепадают. И чего ради? Бабок заработать? Да провались она пропадом, грязь эта. Нервы пощекотать? Пойми, там смерть на каждом шагу, за каждым углом, тошнит уже от неё.</text>
+                <text>devushka_give_present_6</text>
 				<next>7</next>
             </phrase>
             <phrase id="7">
-                <text>Ты за меня боишься, да?</text>
+                <text>devushka_give_present_7</text>
 				<next>8</next>
             </phrase>
             <phrase id="8">
-                <text>Да, боюсь. Не хочу, чтобы ты была сталкером.</text>
+                <text>devushka_give_present_8</text>
 				<next>9</next>
             </phrase>
             <phrase id="9">
-                <text>Не знаю, что ты себе такого придумал, пока мы шли сюда. Но сдаётся мне, что тебя уже тянет в Зону. Ведь сталкер - это навсегда. И для меня тоже.</text>
+                <text>devushka_give_present_9</text>
 				<next>11</next>
 				<next>10</next>
             </phrase>
             <phrase id="10">
-                <text>Ну, тогда ищи себе другого учителя.</text>
+                <text>devushka_give_present_10</text>
 				<next>12</next>
             </phrase>
             <phrase id="12">
-                <text>Как скажешь.</text>
+                <text>devushka_give_present_12</text>
 				<action>dialogs_axr_companion.remove_companions_from_squad</action>
 				<give_info>devushka_give_present</give_info>
             </phrase>
             <phrase id="11">
-                <text>Ох, что же ты со мной делаешь? Ладно... Передохнём и пойдём посмотрим, что здесь интересного. Такого ты ещё не видела.</text>
+                <text>devushka_give_present_11</text>
 				<next>13</next>
             </phrase>
             <phrase id="13">
-                <text>Постой, у меня для тебя есть кое-что. Вот, это тебе! И ещё, если вдруг ты захочешь побыть один - отведи меня в деревню новичков, буду ждать тебя там.</text>
+                <text>devushka_give_present_13</text>
 				<action>dialogs_mlr.devushka_give_present</action>
 				<give_info>devushka_give_present</give_info>
 				<next>14</next>
             </phrase>
             <phrase id="14">
-                <text>Ну и ну! Ай да стажёр. И когда только успела? Вроде всегда была рядом. Быстро учишься!</text>
+                <text>devushka_give_present_14</text>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_go_village">
-<precondition>dialogs_axr_companion.is_actor_companion</precondition>
-<has_info>devushka_give_present</has_info>
+	<dialog id="devushka_go_village">
+	<precondition>dialogs_axr_companion.is_actor_companion</precondition>
+	<has_info>devushka_give_present</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Стажёр, я тебя на время покину. Не переживай, не навсегда.</text>
+                <text>devushka_go_village_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Уверен?</text>
+                <text>devushka_go_village_1</text>
 				<next>2</next>
 				<next>3</next>
             </phrase>
             <phrase id="2">
-                <text>Да, отдохни пока.</text>
+                <text>devushka_go_village_2</text>
 				<next>4</next>
             </phrase>
             <phrase id="3">
-                <text>В прочем, пошли дальше.</text>
+                <text>devushka_go_village_3</text>
             </phrase>
             <phrase id="4">
-                <text>Хорошо. Буду ждать твоего возвращения.</text>
+                <text>devushka_go_village_4</text>
 				<action>dialogs_axr_companion.remove_companions_from_squad</action>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="adventure_time_with_hip">
-<precondition>dialogs_axr_companion.is_not_actor_companion</precondition>
-<has_info>devushka_give_present</has_info>
+	<dialog id="adventure_time_with_hip">
+	<precondition>dialogs_axr_companion.is_not_actor_companion</precondition>
+	<has_info>devushka_give_present</has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Ну что, пойдём, стажёр?</text>
+                <text>adventure_time_with_hip_0</text>
 				<action>dialogs_axr_companion.become_actor_companion</action>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Ну ты даёшь! Я тут от скуки уже на стену лезу. Пойдём скорее!</text>
+                <text>adventure_time_with_hip_1</text>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_about_semeckiy">
-<has_info>devushka_semeckiy</has_info>
-<dont_has_info>devushka_about_semeckiy_know</dont_has_info>
+	<dialog id="devushka_about_semeckiy">
+	<has_info>devushka_semeckiy</has_info>
+	<dont_has_info>devushka_about_semeckiy_know</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Ты знаешь, кто такой Юра Семецкий? И почему он умирает каждый день по несколько раз.</text>
+                <text>devushka_about_semeckiy_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Ну так. В "Свободе" говорили, что это вирус, который запустили в сталкерскую Сеть.</text>
+                <text>devushka_about_semeckiy_1</text>
 				<next>2</next>
             </phrase>
 			<phrase id="2">
-                <text>Никакой это не вирус. Самые первые сталкеры, которые сумели добраться до мифического Монолита - Исполнителя Желаний, похороненного где-то в недрах четвертого энергоблока ЧАЭС, становились Призраками Зоны. Монолит якобы действительно осуществлял их мечту, но обязательно с какой-нибудь заковыркой. Юра Семецкий - один из первых сталкеров, ступивших на зараженные земли еще в 2007-м, - согласно легенде, добрался-таки до Исполнителя Желаний и заказал себе ни много ни мало - вечную жизнь.</text>
+                <text>devushka_about_semeckiy_2</text>
 				<next>3</next>
 			</phrase>
 			<phrase id="3">
-                <text>И что же в итоге?</text>
+                <text>devushka_about_semeckiy_3</text>
 				<next>4</next>
             </phrase>
 			<phrase id="4">
-                <text>С тех пор каждый день в сталкерской Сети выскакивает сообщение о смерти сталкера с таким именем. Вот так он и живет. Вечно, блин. </text>
+                <text>devushka_about_semeckiy_4</text>
 				<next>5</next>
             </phrase>
 			<phrase id="5">
-                <text>Вот это да, а мы всё хихикали над феерическими способами его умерщвления. Думали - вирус или чья-то шутка.</text>
+                <text>devushka_about_semeckiy_5</text>
 				<give_info>devushka_about_semeckiy_know</give_info>
             </phrase>
 		</phrase_list>
-</dialog>
+	</dialog>
 
-<dialog id="devushka_about_artefact">
-<has_info>devushka_3_give</has_info>
-<dont_has_info>devushka_about_artefact_know</dont_has_info>
+	<dialog id="devushka_about_artefact">
+	<has_info>devushka_3_give</has_info>
+	<dont_has_info>devushka_about_artefact_know</dont_has_info>
         <phrase_list>
             <phrase id="0">
-                <text>Ты знаешь, где артефакты появляются, которые мы для Сидоровича ищем?</text>
+                <text>devushka_about_artefact_0</text>
 				<next>1</next>
             </phrase>
             <phrase id="1">
-                <text>Ну так. Знаю, что "Лунный свет" в электре нужно смотреть, "Выверт" в гравитационных аномалиях появляется, а "Огненный шар" - в аномалиях с жарками.</text>
+                <text>devushka_about_artefact_1</text>
 				<next>2</next>
             </phrase>
 			<phrase id="2">
-                <text>Неплохо, базовые знания у тебя есть. Запомни ещё, что в аномалии нельзя лезть очертя голову, желательно иметь в карманах болты, гайки и тому подобное мелкое барахло, которое хорошо швыряется. Это нужно для того, чтобы прощупывать себе дорогу. А то находятся иногда глупые сталкеры, которые вдобавок любят повторять пару самых скверных выражений в Зоне.</text>
+                <text>devushka_about_artefact_2</text>
 				<next>3</next>
 			</phrase>
 			<phrase id="3">
-                <text>Это каких?</text>
+                <text>devushka_about_artefact_3</text>
 				<next>4</next>
             </phrase>
 			<phrase id="4">
-                <text>"Авось пронесёт" да "нихрена не будет".</text>
+                <text>devushka_about_artefact_4</text>
 				<next>5</next>
             </phrase>
 			<phrase id="5">
-                <text>Я поняла.</text>
+                <text>devushka_about_artefact_5</text>
 				<give_info>devushka_about_artefact_know</give_info>
             </phrase>
 		</phrase_list>
-</dialog>
-
+	</dialog>
+	<!-- new dialog from LD 1.3 +patch ends here -->
+	
 	<dialog id="zat_b3_stalker_tech_start_mlr">
 		<phrase_list>
 			<phrase id="0">
@@ -3487,7 +3490,7 @@
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>talk_to_aslan_on_main_base_merk_1</text>
+				<text>talk_to_aslan_on_main_base_merk_1</text> <!-- trx, this has been edited in LD 1.3 +patch -->
 				<give_info>talk_to_aslan_on_main_base_merk_done</give_info>
 			</phrase>
 		</phrase_list>
@@ -6103,459 +6106,206 @@
 		</phrase_list>
 	</dialog>
 	
-	<!-- tronex: need to edit -->
-<dialog id="monolith_show_path">
-<precondition>transitions.check_rnd_transitions</precondition>
-<precondition>dialogs_mlr.check_monolith</precondition>
-<phrase_list>
-	<phrase id="0">
-		<text>monolith_show_path_0</text>
-		<next>1</next>
-		<next>2</next>
-		<next>3</next>
-		<next>4</next>
-		<next>6</next>
-		<next>7</next>
-	</phrase>
-	<phrase id="1">
-		<text>monolith_show_path_1</text>
-		<next>9</next>
-		<next>10</next>
-	</phrase>
-	<phrase id="9">
-<precondition>dialogs_mlr.has_af_electra_flash</precondition>
-		<text>monolith_show_path_9</text>
-<action>dialogs_mlr.take_af_electra_flash</action>
- 
-<action>transitions.rnd_open_transition</action>
-	</phrase>
-	<phrase id="10">
-		<text>monolith_show_path_10</text>
-	</phrase>
-	<phrase id="2">
-		<text>monolith_show_path_2</text>
-		<next>11</next>
-		<next>12</next>
-	</phrase>
-	<phrase id="11">
-<precondition>dialogs_mlr.has_af_electra_moonlight</precondition>
-		<text>monolith_show_path_11</text>
-<action>dialogs_mlr.take_af_electra_moonlight</action>
-<action>transitions.rnd_open_transition</action>
- 
-	</phrase>
-	<phrase id="12">
-		<text>monolith_show_path_12</text>
-	</phrase>
-	<phrase id="3">
-		<text>monolith_show_path_3</text>
-		<next>13</next>
-		<next>14</next>
-	</phrase>
-	<phrase id="13">
-<precondition>dialogs_mlr.has_af_soul</precondition>
-		<text>monolith_show_path_13</text>
-<action>dialogs_mlr.take_af_soul</action>
-<action>transitions.rnd_open_transition</action>
- 
-	</phrase>
-	<phrase id="14">
-		<text>monolith_show_path_14</text>
-	</phrase>
-	<phrase id="4">
-		<text>monolith_show_path_4</text>
-		<next>15</next>
-		<next>16</next>
-	</phrase>
-	<phrase id="15">
-<precondition>dialogs_mlr.has_af_vyvert</precondition>
-		<text>monolith_show_path_15</text>
-<action>dialogs_mlr.take_af_vyvert</action>
-<action>transitions.rnd_open_transition</action>
- 
-	</phrase>
-	<phrase id="16">
-		<text>monolith_show_path_16</text>
-	</phrase>
-	<phrase id="6">
-		<text>monolith_show_path_6</text>
-	 
-	</phrase>
-	<phrase id="7">
-		<text>monolith_show_path_7</text>
-	 
-	</phrase>
-</phrase_list>
-</dialog>
-
-<!-- Added by Tronex, (buy_perehod_2)(buy_perehod_3)(buy_perehod_4) are removed -->
-<dialog id="buy_perehod">
-<precondition>transitions.trx_check_all_transitions</precondition>
-<phrase_list>
-	<phrase id="0">
-		<text>buy_perehod_0</text>
-		<next>1</next>
-	</phrase>
-	<phrase id="1">
-		<text>buy_perehod_1</text>
-		<next>9</next>
-		<next>11</next>
-		<next>12</next>
-		<next>13</next>
-		<next>14</next>
-		<next>15</next>
-		<next>16</next>
-		<next>17</next>
-		<next>18</next>
-		<next>19</next>
-		<next>110</next>
-		<next>111</next>
-		<next>112</next>
-		<next>113</next>
-		<next>114</next>
-		<next>115</next>
-		<next>116</next>
-		<next>117</next>
-		<next>118</next>
-		<next>119</next>
-		<next>120</next>
-		<next>121</next>
-		<next>122</next>
-		<next>123</next>
-		<next>124</next>
-		<next>125</next>
-		<next>126</next>
-		<next>127</next>
-		<next>128</next>
-		<next>129</next>
-		<next>130</next>
-		<next>131</next>
-		<next>132</next>
-		<next>133</next>
-		<next>134</next>
-		<next>135</next>
-		<next>136</next>
-		<next>137</next>
-		<next>138</next>
-		<next>139</next>
-		<next>140</next>
-		<next>141</next>
-		<next>142</next>
-		<next>143</next>
-		<next>144</next>
-		<next>145</next>
-		<next>146</next>
-		<next>147</next>
-		<next>148</next>
-		<next>149</next>
-		<next>150</next>
-	</phrase>
-	<phrase id="9">
-		<text>buy_perehod_9</text>
-	</phrase>
-	<phrase id="11">
-		<precondition>transitions.trx_check_transition_and_money_1</precondition>
-		<text>trx_buy_perehod_1</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_1</action>
-	</phrase>
-	<phrase id="12">
-		<precondition>transitions.trx_check_transition_and_money_2</precondition>
-		<text>trx_buy_perehod_2</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_2</action>
-	</phrase>
-	<phrase id="13">
-		<precondition>transitions.trx_check_transition_and_money_3</precondition>
-		<text>trx_buy_perehod_3</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_3</action>
-	</phrase>
-	<phrase id="14">
-		<precondition>transitions.trx_check_transition_and_money_4</precondition>
-		<text>trx_buy_perehod_4</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_4</action>
-	</phrase>
-	<phrase id="15">
-		<precondition>transitions.trx_check_transition_and_money_5</precondition>
-		<text>trx_buy_perehod_5</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_5</action>
-	</phrase>
-	<phrase id="16">
-		<precondition>transitions.trx_check_transition_and_money_6</precondition>
-		<text>trx_buy_perehod_6</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_6</action>
-	</phrase>
-	<phrase id="17">
-		<precondition>transitions.trx_check_transition_and_money_7</precondition>
-		<text>trx_buy_perehod_7</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_7</action>
-	</phrase>
-	<phrase id="18">
-		<precondition>transitions.trx_check_transition_and_money_8</precondition>
-		<text>trx_buy_perehod_8</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_8</action>
-	</phrase>
-	<phrase id="19">
-		<precondition>transitions.trx_check_transition_and_money_9</precondition>
-		<text>trx_buy_perehod_9</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_9</action>
-	</phrase>
-	<phrase id="110">
-		<precondition>transitions.trx_check_transition_and_money_10</precondition>
-		<text>trx_buy_perehod_10</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_10</action>
-	</phrase>
-	<phrase id="111">
-		<precondition>transitions.trx_check_transition_and_money_11</precondition>
-		<text>trx_buy_perehod_11</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_11</action>
-	</phrase>
-	<phrase id="112">
-		<precondition>transitions.trx_check_transition_and_money_12</precondition>
-		<text>trx_buy_perehod_12</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_12</action>
-	</phrase>
-	<phrase id="113">
-		<precondition>transitions.trx_check_transition_and_money_13</precondition>
-		<text>trx_buy_perehod_13</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_13</action>
-	</phrase>
-	<phrase id="114">
-		<precondition>transitions.trx_check_transition_and_money_14</precondition>
-		<text>trx_buy_perehod_14</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_14</action>
-	</phrase>
-	<phrase id="115">
-		<precondition>transitions.trx_check_transition_and_money_15</precondition>
-		<text>trx_buy_perehod_15</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_15</action>
-	</phrase>
-	<phrase id="116">
-		<precondition>transitions.trx_check_transition_and_money_16</precondition>
-		<text>trx_buy_perehod_16</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_16</action>
-	</phrase>
-	<phrase id="117">
-		<precondition>transitions.trx_check_transition_and_money_17</precondition>
-		<text>trx_buy_perehod_17</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_17</action>
-	</phrase>
-	<phrase id="118">
-		<precondition>transitions.trx_check_transition_and_money_18</precondition>
-		<text>trx_buy_perehod_18</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_18</action>
-	</phrase>
-	<phrase id="119">
-		<precondition>transitions.trx_check_transition_and_money_19</precondition>
-		<text>trx_buy_perehod_19</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_19</action>
-	</phrase>
-	<phrase id="120">
-		<precondition>transitions.trx_check_transition_and_money_20</precondition>
-		<text>trx_buy_perehod_20</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_20</action>
-	</phrase>
-	<phrase id="121">
-		<precondition>transitions.trx_check_transition_and_money_21</precondition>
-		<text>trx_buy_perehod_21</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_21</action>
-	</phrase>
-	<phrase id="122">
-		<precondition>transitions.trx_check_transition_and_money_22</precondition>
-		<text>trx_buy_perehod_22</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_22</action>
-	</phrase>
-	<phrase id="123">
-		<precondition>transitions.trx_check_transition_and_money_23</precondition>
-		<text>trx_buy_perehod_23</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_23</action>
-	</phrase>
-	<phrase id="124">
-		<precondition>transitions.trx_check_transition_and_money_24</precondition>
-		<text>trx_buy_perehod_24</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_24</action>
-	</phrase>
-	<phrase id="125">
-		<precondition>transitions.trx_check_transition_and_money_25</precondition>
-		<text>trx_buy_perehod_25</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_25</action>
-	</phrase>
-	<phrase id="126">
-		<precondition>transitions.trx_check_transition_and_money_26</precondition>
-		<text>trx_buy_perehod_26</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_26</action>
-	</phrase>
-	<phrase id="127">
-		<precondition>transitions.trx_check_transition_and_money_27</precondition>
-		<text>trx_buy_perehod_27</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_27</action>
-	</phrase>
-	<phrase id="128">
-		<precondition>transitions.trx_check_transition_and_money_28</precondition>
-		<text>trx_buy_perehod_28</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_28</action>
-	</phrase>
-	<phrase id="129">
-		<precondition>transitions.trx_check_transition_and_money_29</precondition>
-		<text>trx_buy_perehod_29</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_29</action>
-	</phrase>
-	<phrase id="130">
-		<precondition>transitions.trx_check_transition_and_money_30</precondition>
-		<text>trx_buy_perehod_30</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_30</action>
-	</phrase>
-	<phrase id="131">
-		<precondition>transitions.trx_check_transition_and_money_31</precondition>
-		<text>trx_buy_perehod_31</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_31</action>
-	</phrase>
-	<phrase id="132">
-		<precondition>transitions.trx_check_transition_and_money_32</precondition>
-		<text>trx_buy_perehod_32</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_32</action>
-	</phrase>
-	<phrase id="133">
-		<precondition>transitions.trx_check_transition_and_money_33</precondition>
-		<text>trx_buy_perehod_33</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_33</action>
-	</phrase>
-	<phrase id="134">
-		<precondition>transitions.trx_check_transition_and_money_34</precondition>
-		<text>trx_buy_perehod_34</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_34</action>
-	</phrase>
-	<phrase id="135">
-		<precondition>transitions.trx_check_transition_and_money_35</precondition>
-		<text>trx_buy_perehod_35</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_35</action>
-	</phrase>
-	<phrase id="136">
-		<precondition>transitions.trx_check_transition_and_money_36</precondition>
-		<text>trx_buy_perehod_36</text>
-		<action>transitions.trx_spend_money_2</action>
-		<action>transitions.trx_open_transition_36</action>
-	</phrase>
-	<phrase id="137">
-		<precondition>transitions.trx_check_transition_and_money_37</precondition>
-		<text>trx_buy_perehod_37</text>
-		<action>transitions.trx_spend_money_1</action>
-		<action>transitions.trx_open_transition_37</action>
-	</phrase>
-	<phrase id="138">
-		<precondition>transitions.trx_check_transition_and_money_38</precondition>
-		<text>trx_buy_perehod_38</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_38</action>
-	</phrase>
-	<phrase id="139">
-		<precondition>transitions.trx_check_transition_and_money_39</precondition>
-		<text>trx_buy_perehod_39</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_39</action>
-	</phrase>
-	<phrase id="140">
-		<precondition>transitions.trx_check_transition_and_money_40</precondition>
-		<text>trx_buy_perehod_40</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_40</action>
-	</phrase>
-	<phrase id="141">
-		<precondition>transitions.trx_check_transition_and_money_41</precondition>
-		<text>trx_buy_perehod_41</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_41</action>
-	</phrase>
-	<phrase id="142">
-		<precondition>transitions.trx_check_transition_and_money_42</precondition>
-		<text>trx_buy_perehod_42</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_42</action>
-	</phrase>
-	<phrase id="143">
-		<precondition>transitions.trx_check_transition_and_money_43</precondition>
-		<text>trx_buy_perehod_43</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_43</action>
-	</phrase>
-	<phrase id="144">
-		<precondition>transitions.trx_check_transition_and_money_44</precondition>
-		<text>trx_buy_perehod_44</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_44</action>
-	</phrase>
-	<phrase id="145">
-		<precondition>transitions.trx_check_transition_and_money_45</precondition>
-		<text>trx_buy_perehod_45</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_45</action>
-	</phrase>
-	<phrase id="146">
-		<precondition>transitions.trx_check_transition_and_money_46</precondition>
-		<text>trx_buy_perehod_46</text>
-		<action>transitions.trx_spend_money_3</action>
-		<action>transitions.trx_open_transition_46</action>
-	</phrase>
-	<phrase id="147">
-		<precondition>transitions.trx_check_transition_and_money_47</precondition>
-		<text>trx_buy_perehod_47</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_47</action>
-	</phrase>
-	<phrase id="148">
-		<precondition>transitions.trx_check_transition_and_money_48</precondition>
-		<text>trx_buy_perehod_48</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_48</action>
-	</phrase>
-	<phrase id="149">
-		<precondition>transitions.trx_check_transition_and_money_49</precondition>
-		<text>trx_buy_perehod_49</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_49</action>
-	</phrase>
-	<phrase id="150">
-		<precondition>transitions.trx_check_transition_and_money_50</precondition>
-		<text>trx_buy_perehod_50</text>
-		<action>transitions.trx_spend_money_4</action>
-		<action>transitions.trx_open_transition_50</action>
-	</phrase>
-</phrase_list>
-</dialog>
-<!-- ends here -->
+	<dialog id="monolith_show_path">
+		<precondition>transitions.check_rnd_transitions</precondition>
+		<precondition>dialogs_mlr.check_monolith</precondition>
+		<phrase_list>
+			<phrase id="0">
+				<text>monolith_show_path_0</text>
+				<next>1</next>
+				<next>2</next>
+				<next>3</next>
+				<next>4</next>
+				<next>6</next>
+				<next>7</next>
+			</phrase>
+			<phrase id="1">
+				<text>monolith_show_path_1</text>
+				<next>9</next>
+				<next>10</next>
+			</phrase>
+			<phrase id="9">
+				<precondition>dialogs_mlr.has_af_electra_flash</precondition>
+				<text>monolith_show_path_9</text>
+				<action>dialogs_mlr.take_af_electra_flash</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="10">
+				<text>monolith_show_path_10</text>
+			</phrase>
+			<phrase id="2">
+				<text>monolith_show_path_2</text>
+				<next>11</next>
+				<next>12</next>
+			</phrase>
+			<phrase id="11">
+				<precondition>dialogs_mlr.has_af_electra_moonlight</precondition>
+				<text>monolith_show_path_11</text>
+				<action>dialogs_mlr.take_af_electra_moonlight</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="12">
+				<text>monolith_show_path_12</text>
+			</phrase>
+			<phrase id="3">
+				<text>monolith_show_path_3</text>
+				<next>13</next>
+				<next>14</next>
+			</phrase>
+			<phrase id="13">
+				<precondition>dialogs_mlr.has_af_soul</precondition>
+				<text>monolith_show_path_13</text>
+				<action>dialogs_mlr.take_af_soul</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="14">
+				<text>monolith_show_path_14</text>
+			</phrase>
+			<phrase id="4">
+				<text>monolith_show_path_4</text>
+				<next>15</next>
+				<next>16</next>
+			</phrase>
+			<phrase id="15">
+				<precondition>dialogs_mlr.has_af_vyvert</precondition>
+				<text>monolith_show_path_15</text>
+				<action>dialogs_mlr.take_af_vyvert</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="16">
+				<text>monolith_show_path_16</text>
+			</phrase>
+			<phrase id="6">
+				<text>monolith_show_path_6</text>
+			</phrase>
+			<phrase id="7">
+				<text>monolith_show_path_7</text>
+			</phrase>
+		</phrase_list>
+	</dialog>
+	
+	<dialog id="buy_perehod">
+		<precondition>transitions.check_rnd_transitions</precondition>
+		<phrase_list>
+			<phrase id="0">
+				<text>buy_perehod_0</text>
+				<next>1</next>
+			</phrase>
+			<phrase id="1">
+				<text>buy_perehod_1</text>
+				<next>9</next>
+				<next>10</next>
+			</phrase>
+			<phrase id="9">
+				<precondition>dialogs_mlr.have_money_to_radar_guid_pri</precondition>
+				<text>buy_perehod_9</text>
+				<action>dialogs_mlr.sell_money_to_radar_guid_pri</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="10">
+				<text>buy_perehod_10</text>
+			</phrase>
+		</phrase_list>
+	</dialog>
+	
+	<dialog id="buy_perehod_2">
+		<precondition>transitions.check_rnd_transitions</precondition>
+		<phrase_list>
+			<phrase id="0">
+				<text>buy_perehod_2_0</text>
+				<next>2</next>
+				<next>3</next>
+			</phrase>
+			<phrase id="2">
+				<text>buy_perehod_2_2</text>
+				<next>11</next>
+				<next>12</next>
+			</phrase>
+			<phrase id="11">
+				<precondition>dialogs_mlr.has_af_electra_moonlight</precondition>
+				<text>buy_perehod_2_11</text>
+				<action>dialogs_mlr.take_af_electra_moonlight</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="12">
+				<text>buy_perehod_2_12</text>
+			</phrase>
+			<phrase id="3">
+				<text>buy_perehod_2_3</text>
+				<next>13</next>
+				<next>14</next>
+			</phrase>
+			<phrase id="13">
+				<precondition>dialogs_mlr.has_af_soul</precondition>
+				<text>buy_perehod_2_13</text>
+				<action>dialogs_mlr.take_af_soul</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="14">
+				<text>buy_perehod_2_14</text>
+			</phrase>
+		</phrase_list>
+	</dialog>
+	
+	<dialog id="buy_perehod_3">
+		<precondition>transitions.check_rnd_transitions</precondition>
+		<phrase_list>
+			<phrase id="0">
+				<text>buy_perehod_3_0</text>
+				<next>3</next>
+				<next>4</next>
+			</phrase>
+			<phrase id="3">
+				<text>buy_perehod_3_3</text>
+				<next>13</next>
+				<next>14</next>
+			</phrase>
+			<phrase id="13">
+				<precondition>dialogs_mlr.has_af_soul</precondition>
+				<text>buy_perehod_3_13</text>
+				<action>dialogs_mlr.take_af_soul</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="14">
+				<text>buy_perehod_3_14</text>
+			</phrase>
+			<phrase id="4">
+				<text>buy_perehod_3_4</text>
+				<next>15</next>
+				<next>16</next>
+			</phrase>
+			<phrase id="15">
+				<precondition>dialogs_mlr.has_af_vyvert</precondition>
+				<text>buy_perehod_3_15</text>
+				<action>dialogs_mlr_two.take_af_vyvert</action>
+				<action>transitions.rnd_open_transition</action>
+			</phrase>
+			<phrase id="16">
+				<text>buy_perehod_3_16</text>
+			</phrase>
+		</phrase_list>
+	</dialog>
+	
+	<dialog id="buy_perehod_4">
+		<precondition>transitions.check_rnd_transitions</precondition>
+		<phrase_list>
+			<phrase id="0">
+				<text>buy_perehod_4_0</text>
+				<next>5</next>
+				<next>6</next>
+				<next>7</next>
+			</phrase>
+			<phrase id="5">
+				<text>buy_perehod_4_5</text>
+			</phrase>
+			<phrase id="6">
+				<text>buy_perehod_4_6</text>
+			</phrase>
+			<phrase id="7">
+				<text>buy_perehod_4_7</text>
+			</phrase>
+		</phrase_list>
+	</dialog>
 	
 	<dialog id="kridit1_me">
 		<dont_has_info>zaim1</dont_has_info>
