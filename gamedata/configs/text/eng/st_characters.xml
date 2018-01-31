@@ -732,4 +732,21 @@
 	<string id="hunter_gar_trader_name">
 		<text>Butcher</text>
 	</string>
+	
+	<!-- Added for (LD 1.3 +Patch) -->
+	<string id="st_dasc_tech_mlr_name">
+		<text>Polymer</text>
+	</string>
+	<string id="st_dasc_trade_mlr_name">
+		<text>Cutter</text>
+	</string>
+	<string id="st_mil_freedom_barman_mlr_name">
+		<text>Culinary</text>
+	</string>
+	<string id="st_mil_freedom_medic_name">
+		<text>Solid</text>
+	</string>
+	<string id="devushka">
+		<text>Hip</text>
+	</string>
 </string_table>
