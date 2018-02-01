@@ -3,8 +3,25 @@
 --' Made by Distemper ----------------------------------------------------------------
 --' 03.08 --------------------------------------------------------------------------------
 -- Altered by Alundaio to allow npc to keep items for an amount of time
-
-
+--' Upg by Suhar_ --------------------------------------------------------------------------
+--' 08-09.2016 -----------------------------------------------------------------------------
+--' Update ---------------------------------------------------------------------------------
+--' 12.2016 --------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+	--' accessibility upgrade function
+		--' function precondition_functor_a( param1, section )
+	--' the function of applying an upgrade (taking money from GG and the required materials)
+		--' function effect_functor_a( param2, section )
+	--' function of displaying the reasons for which the upgrade is not available (in the description)
+		--' function prereq_functor_a( param3, section )
+	--' The function of outputting the amount of money and materials necessary for installation (in the header)
+		--' function get_upgrade_cost( section )
+	--' functions for displaying upgrade properties
+		--' function property_functor_a( param1, name )
+		--' function property_functor_b( param1, name )
+		--' function property_functor_c( param1, name )
+		--'	function property_functor_d( param1, name )
+--------------------------------------------------------------------------------------------
 cur_hint = nil
 local issue_condlist = true
 local char_ini = ini_file("item_upgrades.ltx")
@@ -45,7 +62,7 @@ function lend_item_for_repair(itm,mechanic_name,rt)
 			end
 		end
 
-		--printf("mechanic name = %s [sec = %s, id = %s]  repair_time = %s",mechanic_name,itm:section(),itm:id(),rt)
+		printf("mechanic name = %s [sec = %s, id = %s]  repair_time = %s",mechanic_name,itm:section(),itm:id(),rt)
 		RepairItemList[mechanic_name][itm:id()] = {gt = game.get_game_time(), rt = rt}
 
 		local hud = get_hud()
@@ -161,7 +178,8 @@ function dm_repair_not_done(a,b)
 		local itm_sec = itm and itm:section()
 
 		local inv_name = game.translate_string(system_ini():r_string_ex(itm_sec,"inv_name") or "")
-
+		
+		--> adjustments here for english translations
 		local text = {}
 		for i=1,9 do 
 			text[#text+1] = "st_inventory_upgrade_reply_"..i
@@ -180,23 +198,23 @@ function dm_repair_not_done(a,b)
 		if (hours < 1) then
 			local m = math.floor(minutes)
 			if (m <= 1) then
-				return set_text(game.translate_string(text[9]))
+				return set_text(text[9])
 			end
 
 			if (npc:section() == "zat_a2_stalker_mechanic") then
-				return set_text(game.translate_string(text[math.random(3)]),inv_name,m)
+				return set_text(text[math.random(3)],inv_name,m)
 			end
-			return set_text(game.translate_string(text[math.random(2)]),inv_name,m)
+			return set_text(text[math.random(2)],inv_name,m)
 		elseif (hours < 2) then
 			local m = math.floor(minutes - 60)
 			if (npc:section() == "zat_a2_stalker_mechanic") then
-				return set_text(game.translate_string(text[math.random(3,#text)]),inv_name,m)
+				return set_text(text[math.random(3,#text)],inv_name,m)
 			end
-			return set_text(game.translate_string(text[7]),inv_name,m)
+			return set_text(text[7],inv_name,m)
 		else
 			local h = math.floor(hours)
 			local m = math.floor(minutes - (60*h))
-			return set_text(game.translate_string(text[8]),inv_name,h,m)
+			return set_text(text[8],inv_name,h,m)
 		end
 	end
 	return "ERROR in dm_repair_not_done no itm_id"
@@ -204,6 +222,7 @@ end
 ----------- End Dialog Func--------------------
 
 function precondition_functor_a( param1, section )
+	local actor = db.actor
 	local victim = victim_id and (db.storage[victim_id] and db.storage[victim_id].object or level.object_by_id(victim_id))
 	if not (victim) then 
 		return 2 
@@ -230,12 +249,48 @@ function precondition_functor_a( param1, section )
 	if not (db.actor) then -- needed
 		return ret 
 	end
-
-	local price = math.floor(char_ini:r_u32(section, "cost")*cur_price_percent)
-	local cash = db.actor:money()
-	if(cash<price) then
-		ret = 2
+	if actor then
+		-- We check the availability of the required amount
+		local price = math.floor(char_ini:r_u32(section, "cost")*cur_price_percent)
+		local cash = actor:money()
+		if(cash<price) then
+			ret = 2
+		end
+		-- We check the availability of necessary materials
+		-- Read the materials necessary for installation
+		local required_materials = read_string_from_section(section, "required_materials")
+		-- If the list of materials is not empty, then
+		if required_materials then
+			-- We read the number of necessary materials of each type
+			local required_materials_count = read_string_from_section(section, "required_materials_count")
+			if required_materials_count then
+				-- Let us parse the quantity line
+				required_materials_count = utils.parse_names(required_materials_count)
+			end
+			-- We will parse the list of materials
+			required_materials = utils.parse_names(required_materials)
+			-- We check to see if YY has every desired object from the list
+			for i = 1, #required_materials do
+				local count = 1
+				if required_materials_count and required_materials_count[i] then
+					count = tonumber(required_materials_count[i])
+				end
+				-- If at least one object is not enough, then we make the upgrade unavailable
+				if not check_for_have_items(actor, required_materials[i], count) and required_materials[i]~="ammo_gauss" and required_materials[i]~="ammo_gauss_cardan" and required_materials[i]~="material_cable" then
+					ret = 2
+				-- Otherwise, look at the name of the section of the required material
+				-- If the section name is a battery, then we check the required number of charges
+				elseif required_materials[i]=="ammo_gauss" and (not check_for_actor_has_battery(1, count) or not actor:object("ammo_gauss")) then
+					ret = 2
+				elseif required_materials[i]=="ammo_gauss_cardan" and (not check_for_actor_has_battery(2, count) or not actor:object("ammo_gauss_cardan")) then
+					ret = 2
+				elseif required_materials[i]=="material_cable" and (not check_for_actor_has_battery(3, count) or not actor:object("material_cable")) then
+					ret = 2
+				end
+			end
+		end
 	end
+	--
 
 	return ret
 end
@@ -245,15 +300,105 @@ function effect_functor_a( param2, section, loading ) --( string, string, int )
 		local money = char_ini:r_u32(section, "cost")
 		db.actor:give_money(math.floor(money*-1*cur_price_percent))
 		effect_funct = true
+		-- Update security variables in slots
+		-- mod_flags.last_update_time_1=time_global()
+		-- mod_flags.last_outfit_in_slot=nil
+		-- mod_flags.last_helm_in_slot=nil
+		-- Read the materials necessary for installation
+		local required_materials = read_string_from_section(section, "required_materials")
+		-- If the list of materials is not empty, then
+		if required_materials then
+			-- We read the number of necessary materials of each type
+			local required_materials_count = read_string_from_section(section, "required_materials_count")
+			if required_materials_count then
+				-- Let us parse the quantity line
+				required_materials_count = utils.parse_names(required_materials_count)
+			end
+			-- We will parse the list of materials
+			required_materials = utils.parse_names(required_materials)
+			for i = 1, #required_materials do
+				local count = 1
+				if required_materials_count and required_materials_count[i] then
+					count = tonumber(required_materials_count[i])
+				end
+				-- Remove objects from inventory
+				if required_materials[i]=="ammo_gauss" then
+					remove_actor_battery_count(1, count)
+				elseif required_materials[i]=="ammo_gauss_cardan" then
+					remove_actor_battery_count(2, count)
+				elseif required_materials[i]=="material_cable" then
+					remove_actor_battery_count(3, count)
+				else
+					remove_item_count(db.actor, required_materials[i], count)
+				end
+			end
+		end
+		-- Do I need to hide the menu after the upgrade?
+		if read_bool_from_section(section, "hide_menu") then
+			local hud = get_hud()
+			hud:HideActorMenu()
+		end
 	end
 end
 
 function get_upgrade_cost(section)
+	-- The text variable to be displayed
+	local str = " "
 	if db.actor then
+		-- Read the amount necessary for installation
 		local price = math.floor(char_ini:r_u32(section, "cost")*cur_price_percent)
-		return game.translate_string("st_upgr_cost")..": "..price
+		-- Enter into the text variable the cost of the upgrade
+		str = " "..game.translate_string("st_upgr_cost")..": "..price
+		-- Read the materials required for installation
+		local required_materials = read_string_from_section(section, "required_materials")
+		-- If the list of materials is not empty, then
+		if required_materials then
+			-- Read the number of required materials of each type
+			local required_materials_count = read_string_from_section(section, "required_materials_count")
+			-- We enter into the variable of the text a line of necessary materials (from a new line)
+			str = str.."\\n "..game.translate_string("st_upgr_required_materials")..":\\n"
+			-- We will parse the list of materials
+			required_materials = utils.parse_names(required_materials)
+			if required_materials_count then
+				-- We parse the quantity line
+				required_materials_count = utils.parse_names(required_materials_count)
+			end
+			-- We declare the variable of the name of the required material
+			local required_material_name
+			-- Enter in the line of text the name of each material from the list
+			local materials_n = #required_materials
+			for i = 1, materials_n do
+				local count = ""
+				if required_materials_count and required_materials_count[i] then
+					count = tonumber(required_materials_count[i])
+					if count>1 then
+						count = " x"..count
+					elseif required_materials[i]=="ammo_gauss" or required_materials[i]=="ammo_gauss_cardan" or required_materials[i]=="material_cable" then
+						count = " x1"
+					else
+						count = ""
+					end
+				end
+				-- We read from the section of the necessary material his name
+				if required_materials[i]=="ammo_gauss" or required_materials[i]=="ammo_gauss_cardan" then
+					required_material_name = read_string_from_section(required_materials[i], "inv_name_upg")
+					-- Enter the name of the material and the required quantity in the text line
+					str = str.." • "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_charge")..count..")"
+				elseif required_materials[i]=="material_cable" then
+					required_material_name = read_string_from_section(required_materials[i], "inv_name_short")
+					str = str.." • "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_length")..count.." "..game.translate_string("st_up_meter")..")"
+				else
+					required_material_name = read_string_from_section(required_materials[i], "inv_name_short")
+					str = str.." • "..game.translate_string(required_material_name)..count
+				end
+				-- If the material item in the list is not closing, then we put a separator in the line
+				if i~=materials_n then
+					str = str.."\\n"
+				end
+			end
+		end
 	end
-	return " "
+	return str
 end
 
 function get_possibility_string(mechanic_name, possibility_table)
@@ -292,13 +437,100 @@ function prereq_functor_a( param3, section )
 			end
 		end
 	end
-	if(db.actor) then
+	-- if(db.actor) then
+	--	local price = math.floor(char_ini:r_u32(section, "cost")*cur_price_percent)
+	--	local cash = db.actor:money()
+	--	if(cash<price) then
+	--		return str.."\\n - "..game.translate_string("st_upgr_enough_money")--.." "..price-cash.." RU"
+	--	end
+	-- end
+	
+	
+	--
+	local actor = db.actor
+	if actor then
+		-- We read from the upgrade section its price
 		local price = math.floor(char_ini:r_u32(section, "cost")*cur_price_percent)
-		local cash = db.actor:money()
-		if(cash<price) then
-			return str.."\\n - "..game.translate_string("st_upgr_enough_money")--.." "..price-cash.." RU"
+		-- Read the number of dough from YY
+		local cash = actor:money()
+		-- If the bubble is not enough, then we list the corresponding line
+		if (cash<price) then
+			str = str.."\\n - "..game.translate_string("st_upgr_enough_money").."\\n   • "..price-cash.." RU"
+		end
+		-- Read the materials required for installation
+		local required_materials = read_string_from_section(section, "required_materials")
+		-- If the list of materials is not empty, then
+		if required_materials then
+			local required_materials_count = read_string_from_section(section, "required_materials_count")
+			if required_materials_count then
+				required_materials_count = utils.parse_names(required_materials_count)
+			end
+			-- We will parse the list of materials
+			required_materials = utils.parse_names(required_materials)
+			-- We declare the variable of the name of the required material
+			local required_material_name
+			-- We declare the variable of the list of names of missing materials
+			local required_material_name_list = ""
+			-- Count the number of items in the list of required materials
+			local materials_n = #required_materials
+			-- List the name of each missing material
+			for i = 1, materials_n do
+				local count = 1
+				if required_materials_count and required_materials_count[i] then
+					count = tonumber(required_materials_count[i])
+				end
+				-- If the section of the required material refers to the batteries, then we check the availability of the required number of charges
+				if required_materials[i]=="ammo_gauss" and (not check_for_actor_has_battery(1, count) or not actor:object("ammo_gauss")) then
+					local required_battery_charge_count = count - calculate_actor_battery_charge_count(1)
+					required_battery_charge_count = " ("..game.translate_string("st_up_charge").." x"..required_battery_charge_count..")"
+					required_material_name = read_string_from_section(required_materials[i], "inv_name")
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
+					if i~=materials_n then
+						required_material_name_list = required_material_name_list.."\\n"
+					end
+				elseif required_materials[i]=="ammo_gauss_cardan" and (not check_for_actor_has_battery(2, count) or not actor:object("ammo_gauss_cardan")) then
+					local required_battery_charge_count = count - calculate_actor_battery_charge_count(2)
+					required_battery_charge_count = " ("..game.translate_string("st_up_charge").." x"..required_battery_charge_count..")"
+					required_material_name = read_string_from_section(required_materials[i], "inv_name")
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
+					if i~=materials_n then
+						required_material_name_list = required_material_name_list.."\\n"
+					end
+				elseif required_materials[i]=="material_cable" and (not check_for_actor_has_battery(3, count) or not actor:object("material_cable")) then
+					local required_battery_charge_count = count - calculate_actor_battery_charge_count(3)
+					required_battery_charge_count = " ("..game.translate_string("st_up_length").." x"..required_battery_charge_count.." "..game.translate_string("st_up_meter")..")"
+					required_material_name = read_string_from_section(required_materials[i], "inv_name")
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
+					if i~=materials_n then
+						required_material_name_list = required_material_name_list.."\\n"
+					end
+				-- If the required material is not batteries / conductor, but yy does not have the required number of the required type of object, then
+				elseif not check_for_have_items(actor, required_materials[i], count) and required_materials[i]~="ammo_gauss" and required_materials[i]~="ammo_gauss_cardan" and required_materials[i]~="material_cable" then
+					-- We read from the section of the necessary material his name (short)
+					required_material_name = read_string_from_section(required_materials[i], "inv_name")
+					local required_material_count = count - calculate_item_count(actor, required_materials[i])
+					if required_material_count>1 then
+						required_material_count = " x"..required_material_count
+					else
+						required_material_count = ""
+					end
+					-- We enter the name of the current material and the missing quantity in the list of missing materials
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_material_count
+					-- If the material item in the list is not closing, then we put a separator in the line
+					if i~=materials_n then
+						required_material_name_list = required_material_name_list.."\\n"
+					end
+				end
+			end
+			-- If the list of names of missing materials is not empty, then
+			if required_material_name_list~="" then
+				-- We enter into the variable of the text a line of missing materials (from a new line)
+				str = str.."\\n - "..game.translate_string("st_upgr_enough_materials").."\\n"..required_material_name_list
+			end
 		end
 	end
+	--
+	
 	return str
 end
 
@@ -311,6 +543,18 @@ function property_functor_a(param1, name)
 	local section = section_table[1]
 	if(section_table_n==0) then
 		return ""
+	end
+	if	name=="prop_night_vision_1"		or
+		name=="prop_night_vision_2"		or
+		name=="prop_night_vision_3"		or
+		name=="prop_sprint"				or
+		name=="prop_scanner"			or
+		name=="prop_dozimeter"			or
+		name=="prop_psy_controller"		or
+		name=="prop_binoc_zoom"			or
+		name=="prop_binoc_autolock"		or
+		name=="prop_binoc_nightvision"	then
+			return t_prorerty_name
 	end
 	local value = 0
 	local sum = 0
@@ -337,8 +581,8 @@ function property_functor_a(param1, name)
 		if(name=="prop_power") then
 			value = "+"..tonumber(value)*2
 		end
---		local str = string.format("%s %4.1f", t_prorerty_name, value)
---		return str
+ --		local str = string.format("%s %4.1f", t_prorerty_name, value)
+ --		return str
 		return t_prorerty_name.." "..value
 	elseif(name=="prop_tonnage" or name=="prop_weightoutfit" or name=="prop_weight") then
 			local str = string.format("%s %5.2f %s", t_prorerty_name, value, game.translate_string("st_kg"))
@@ -350,10 +594,29 @@ function property_functor_a(param1, name)
 			return game.translate_string(prorerty_name.."_"..tonumber(value))
 		end
 	elseif(name=="prop_no_buck" or name=="prop_autofire") then
+
 		return t_prorerty_name
 	end
-	return t_prorerty_name.." "..value.."%"
+	if	name=="prop_reliability"	or
+		name=="prop_recoil"			or
+		name=="prop_dispersion"		or
+		name=="prop_bullet_speed"	or
+		name=="prop_chem"			or
+		name=="prop_psy"			or
+		name=="prop_radio"			or
+		name=="prop_thermo"			or
+		name=="prop_electro"		or
+		name=="prop_damage"			or
+		name=="prop_armor"			or
+		name=="prop_rpm"			or
+		name=="prop_durability"		or
+		name=="prop_inertion"		then
+			value = value.."%"
+	end
+	return t_prorerty_name.." "..value
 end
+
+
 
 function property_functor_b( param1, name )
 	return issue_property( param1, name )
@@ -362,6 +625,99 @@ end
 function property_functor_c( param1, name )
 	return issue_property( param1, name )
 end
+
+--
+--
+-- Property sheet
+local property_table = {}
+-- prop_name - name of the property
+-- parameter_caption - parameter string in the section
+-- koeff - multiplier
+-- use_sign - do not use the +
+-- parameter_description - a string of characteristic values
+--|				prop_name				|	=	|		parameter_caption			|	koeff	|use_sign	|parameter_description	|
+property_table["prop_restore_health"]		=	{[1]="health_restore_speed",		[2]=10000,	[3]=false,	[4]="ui_inv_per_10sec",}
+property_table["prop_restore_bleeding"]		=	{[1]="bleeding_restore_speed",		[2]=10000,	[3]=false,	[4]="ui_inv_per_10sec",}
+property_table["prop_power"]				=	{[1]="power_restore_speed",			[2]=1000,	[3]=false,	[4]="ui_inv_per_sec",}
+property_table["prop_stamina"]				=	{[1]="power_loss",					[2]=-100,	[3]=true,	[4]="ui_inv_percent",}
+property_table["prop_restore_radiation"]	=	{[1]="radiation_restore_speed",		[2]=10000,	[3]=false,	[4]="ui_inv_per_10sec",}
+property_table["prop_chem"]					=	{[1]="chemical_burn_protection",	[2]=100,	[3]=false,	[4]="",}
+property_table["prop_psy"]					=	{[1]="telepatic_protection",		[2]=200,	[3]=false,	[4]="",}
+property_table["prop_radio"]				=	{[1]="radiation_protection",		[2]=200,	[3]=false,	[4]="",}
+property_table["prop_thermo"]				=	{[1]="burn_protection",				[2]=100,	[3]=false,	[4]="",}
+property_table["prop_electro"]				=	{[1]="shock_protection",			[2]=100,	[3]=false,	[4]="",}
+property_table["prop_damage"]				=	{[1]="wound_protection",			[2]=100,	[3]=false,	[4]="",}
+property_table["prop_armor"]				=	{[1]="armor_value",					[2]=1,		[3]=false,	[4]="",}
+property_table["prop_durability"]			=	{[1]="durability_value",			[2]=1,		[3]=false,	[4]="ui_inv_percent",}
+property_table["prop_tonnage"]				=	{[1]="additional_inventory_weight",	[2]=1,		[3]=false,	[4]="st_kg",}
+property_table["prop_weightoutfit"]			=	{[1]="inv_weight",					[2]=1,		[3]=false,	[4]="st_kg",}
+property_table["prop_weighthelm"]			=	{[1]="inv_weight",					[2]=1,		[3]=false,	[4]="st_kg",}
+property_table["prop_weight"]				=	{[1]="inv_weight",					[2]=1,		[3]=false,	[4]="st_kg",}
+property_table["prop_artefact"]				=	{[1]="artefact_count",				[2]=1,		[3]=false,	[4]="",}
+property_table["prop_max_health"]			=	{[1]="max_health_add",				[2]=100,	[3]=false,	[4]="",}
+property_table["prop_jump_speed"]			=	{[1]="jump_speed_add",				[2]=25,		[3]=false,	[4]="",}
+property_table["prop_walk_speed"]			=	{[1]="walk_accel_add",				[2]=10,		[3]=false,	[4]="",}
+property_table["prop_binoc_weight"]			=	{[1]="inv_weight",					[2]=1,		[3]=false,	[4]="st_kg",}
+property_table["prop_ammo_size"]			=	{[1]="ammo_mag_size",				[2]=1,		[3]=false,	[4]="",}
+property_table["prop_rpm"]					=	{[1]="rpm",							[2]=1,		[3]=false,	[4]="",}
+
+function property_functor_d(param1, name)
+	-- We read a line that refers to the name of the upgrade
+	local prorerty_name = char_ini:r_string(name, "name")
+	-- Convert the name string to the human form
+	local t_prorerty_name = game.translate_string(prorerty_name)
+	-- We parse the incoming line with the names of the sections used
+	local section_table = utils.parse_names(param1)
+	-- Count the number of sections
+	local section_table_n = #section_table
+	-- If no partitions are attached or there is no such property in the table,
+	if (section_table_n==0) or (not property_table[name]) then
+		-- then return an empty string
+		return ""
+	end
+	-- The numeric value that we will display in the properties
+	local value = 0
+	-- Sign
+	local sign = " +"
+	-- Characteristic values
+	local additional_parameter = game.translate_string(property_table[name][4])
+	-- Read the desired value from all the sections provided
+	for i = 1,section_table_n do
+		-- From the section we read the required parameter and add it to the already existing value
+		value = value + tonumber(char_ini:r_string(section_table[i], property_table[name][1]))
+	end
+	-- Multiply the resulting value by the calibration factor from the table
+	value = value * tonumber(property_table[name][2])
+	-- Check the sign
+	if property_table[name][3] or value<0 then
+		sign = " "
+	end
+	-- Further we will write down all characteristics of an upgrade in a line
+	local str = ""
+	-- If the property has a character of changing the weight characteristics,
+	if	name=="prop_tonnage"		or
+		name=="prop_weightoutfit"	or
+		name=="prop_weighthelm"		or
+		name=="prop_weight"			or
+		name=="prop_binoc_weight"	then
+			-- it is necessary to display the value in the form of a number with two decimal places
+			str = string.format("%s%s%4.2f %s", t_prorerty_name, sign, value, additional_parameter)
+	-- Otherwise we go according to the standard algorithm
+	else
+		-- We round the resulting value
+		value = math.floor(value)
+		-- Convert the resulting value into a string of the form "[property name] [+ / - /] [value] [value characteristic]"
+		str = string.format("%s%s%d %s", t_prorerty_name, sign, value, additional_parameter)
+	end
+	-- Return the resulting line
+	return str
+end
+--
+--
+
+
+
+
 
 function issue_property( param1, name )
 	local prorerty_name = char_ini:r_string_ex(name, "name")
