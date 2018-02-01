@@ -32,63 +32,63 @@
 	</string>
 	<!--------------------------- devushka ----------->
 	<string id="toz34_sk2_return">
-		<text>Отнести ТОЗ-34 (Зубр) Хип и патроны к нему</text>
+		<text>Return TOZ-34 Bizon and ammunition to Hip</text>
 	</string>
 	<string id="toz34_sk2_find">
-		<text>Найти ТОЗ-34 (Зубр) для Хип и патроны к нему</text>
+		<text>Find TOZ-34 Bizon and ammunition for Hip</text>
 	</string>
 	<string id="toz34_return_descr">
-		<text>Хип попросила меня отыскать ей ТОЗ-34 (Зубр) и патроны 12x70 (20 штук) Хип.. И где я это найду?</text>
+		<text>Hip asked me to find her TOZ-34 Bizon and 20 12x70 shells. And where can I find it?</text>
 	</string>
 	
 	<string id="artefacts_to_sidor_return">
-		<text>Принести артефакты Сидоровичу</text>
+		<text>Bring artefacts to Sidorovich</text>
 	</string>
 	<string id="artefacts_to_sidor_find">
-		<text>Найти артефакты для Сидоровича</text>
+		<text>Find artefacts for Sidorovich</text>
 	</string>
 	<string id="artefacts_to_sidor_return_descr">
-		<text>Хип попросила помочь ей найти артефакты для Сидоровича. ("Выверт", "Огненный шар" и "Лунный свет")</text>
+		<text>Hip asked me to help her find artifacts for Sidorovich. He wants her to bring Wrenched, Fireball and Moonlight.</text>
 	</string>	
 
 	<string id="go_to_barmen_1">
-		<text>Посетить Бармена</text>
+		<text>Visit Barman</text>
 	</string>
 	<string id="go_to_barmen_2">
-		<text>Посетить Бармена</text>
+		<text>Visit Barman</text>
 	</string>
 	<string id="go_to_barmen_descr">
-		<text>Нужно сходить вместе с Хип к Бармену, чтобы он нам помог.</text>
+		<text>We need to go with Hip to Barman. He might be able to help us.</text>
 	</string>	
 	
 	<string id="go_to_lukash_1">
-		<text>Встретиться и поговорить с Миклухой</text>
+		<text>Meet and talk to Miklukha</text>
 	</string>
 	<string id="go_to_lukash_2">
-		<text>Встретиться и поговорить с Миклухой</text>
+		<text>Meet and talk to Miklukha</text>
 	</string>
 	<string id="go_to_lukash_descr">
-		<text>Нужно сходить вместе с Хип к Миклухе и выяснить, кто преследует Хип.</text>
+		<text>Me and Hip have to go and see Miklukha to find out who's after her.</text>
 	</string>	
 	
 	<string id="go_to_boroda_1">
-		<text>Отнести Бороде контейнеры для артефактов</text>
+		<text>Take artefact containers to Beard</text>
 	</string>
 	<string id="go_to_boroda_2">
-		<text>Отнести Бороде контейнеры для артефактов</text>
+		<text>Take artefact containers to Beard</text>
 	</string>
 	<string id="go_to_boroda_descr">
-		<text>В обмен на услугу, Бармен попросил нас отнести Бороде контейнеры для артефактов.</text>
+		<text>In exchange for the service, Barman asked us to take artefact containers to Beard.</text>
 	</string>	
 	
 	<string id="go_to_loki_1">
-		<text>Отнести Локи сумки с медикаментами</text>
+		<text>Take bags with medicine to Loki</text>
 	</string>
 	<string id="go_to_loki_2">
-		<text>Отнести Локи сумки с медикаментами</text>
+		<text>Take bags with medicine to Loki</text>
 	</string>
 	<string id="go_to_loki_descr">
-		<text>В обмен на услугу, Миклуха попросил нас отнести Локи сумки с медикаментами.</text>
+		<text>In exchange for the service, Mikluha asked us to take bags with medicine to Loki.</text>
 	</string>	
 <!--------------------------- esc_2_12_stalker_nimble ----------->
 	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
