@@ -260,25 +260,25 @@
 	</string>
 	
 	<string id="kb_custom7">
-		<text>PDA map</text>
+		<text>PDA Map</text>
 	</string>
 	<string id="kb_custom8">
-		<text>PDA relations</text>
+		<text>PDA Relations</text>
 	</string>
 	<string id="kb_custom9">
-		<text>PDA contacts</text>
+		<text>PDA Contacts</text>
 	</string>
 	<string id="kb_custom10">
-		<text>PDA statistics</text>
+		<text>PDA Statistics</text>
 	</string>
 	<string id="kb_custom11">
-		<text>PDA messages</text>
+		<text>PDA Messages</text>
 	</string>
 	<string id="kb_custom12">
-		<text>PDA guide</text>
+		<text>PDA Guide</text>
 	</string>
 	
 	<string id="kb_custom13">
-		<text>Toggle suppressor</text>
+		<text>Toggle Suppressor</text>
 	</string>
 </string_table>
