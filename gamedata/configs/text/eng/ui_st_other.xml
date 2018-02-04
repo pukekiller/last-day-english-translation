@@ -652,18 +652,18 @@
 		<text>You need matches to light up your smoke</text>
 	</string>
 	<string id="st_imm_smoke_already_used">
-		<text>You can use better matches to light up your smoke</text>
+		<text>You need a lighter to light up your smoke</text>
 	</string>
 	<string id="st_imm_befor_swiss">
-		<text>In order to eat, you need something sharp to open the can</text>
+		<text>You need something sharp to open the can</text>
 	</string>
 	<string id="st_imm_need_swiss">
-		<text>To open the can, you need a Swiss knife</text>
+		<text>To open the can, you need something sharp such as a Swiss knife</text>
 	</string>
 	<string id="st_imm_swiss_broken">
 		<text>Your Swiss knife just broke</text>
 	</string>
 	<string id="st_imm_swiss_open">
-		<text>The can is opened</text>
+		<text>Open the can</text>
 	</string>
 </string_table>
