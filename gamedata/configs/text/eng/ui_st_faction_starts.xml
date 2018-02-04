@@ -252,4 +252,13 @@
 	<string id="ui_st_check_point">
 		<text>Checkpoint (Jupiter)</text>
 	</string>
+	
+	<!-- added for LD 1.3 +patch -->
+	<string id="ui_st_pole_bandit_base">
+		<text>Bandits park (Glade)</text>
+	</string>
+	
+	<string id="ui_st_pole_stalker_village">
+		<text>Khutorok (Glade)</text>
+    </string>
 </string_table>
