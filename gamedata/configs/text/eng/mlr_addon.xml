@@ -614,7 +614,7 @@
 		<text>Tell me about yourself.</text>
 	</string>
 	<string id="rogovets_about_himself_1_6_army_mlr_1">
-		<text>I serve as a medic. I went out on a contract here and was almost immediately assigned to the Fairway group, after some preparation. We were somehow stuck in Pripyat after the collapse of the operation - well, those of us who were still alive... then a man from the USS helped us, and then they evacuated us. I still can't get this one case out of my head: our commander sent me and a couple of guys to the kindergarten, in which - according to preliminary data - there was a device that interfered with radio communications. I don't know what came over me, I wasn't feeling myself – I couldn't see, I didn't know where my comrades were, and something pulled a veil straight over my eyes. Right in that kindergarten, I found a damn refrigerator and hid there. Then, I heard an explosion right above me and I immediately felt better for whatever reason, but the refrigerator locked up and I couldn't get out without outside help. I don't recall if I locked myself in it or if it was a poltergeist that held the door closed...</text>
+		<text>I serve as a medic. I went out on a contract here and was almost immediately assigned to the Fairway group, after some preparation. We were somehow stuck in Pripyat after the collapse of the operation - well, those of us who were still alive... then a man from the USS helped us, and then they evacuated us. I still can't get this one case out of my head: our commander sent me and a couple of guys to the kindergarten, in which - according to preliminary data - there was a device that interfered with radio communications. I don't know what came over me, I wasn't feeling myself â€“ I couldn't see, I didn't know where my comrades were, and something pulled a veil straight over my eyes. Right in that kindergarten, I found a damn refrigerator and hid there. Then, I heard an explosion right above me and I immediately felt better for whatever reason, but the refrigerator locked up and I couldn't get out without outside help. I don't recall if I locked myself in it or if it was a poltergeist that held the door closed...</text>
 	</string>
 	<string id="rogovets_about_himself_1_6_army_mlr_1">
 		<text>And then what happened? Why didn't you quit?</text>
@@ -1369,8 +1369,8 @@
 	<string id="talk_to_aslan_on_main_base_merk_0">
 		<text>Tell me about yourself.</text>
 	</string>
-	<string id="talk_to_aslan_on_main_base_merk_1">
-		<text>What's there to tell? I'm the local bartender and doctor - but who can tell amidst this crap, yeah? We've been stuck here for days, barely maintaining ourselves. I took part in the defense of the president's palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days... During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who've been in Afghanistan and Georgia. But people from the Baltic aren't too eager to come, never mind the first world countries.</text>
+	<string id="talk_to_aslan_on_main_base_merk_1"> <!-- Fixed -->
+		<text>What's there to tell? I'm the local bartender - but who can tell amidst this crap, yeah? We've been stuck here for days, barely maintaining ourselves. I took part in the defense of the president's palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days... During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who've been in Afghanistan and Georgia. But people from the Baltic aren't too eager to come, never mind the first world countries.</text>
 	</string>
 
 	<string id="talk_to_aslan_about_lottery_0">
@@ -1911,7 +1911,7 @@
 		<text>Burers. They are near-legendary creatures, the existence of which many don't even want to know... Personally, I shit myself with fear just thinking about them. The best advice I can give regarding burers is not to go in dungeons and any kinds of empty complexes, laboratories in particular, because they love dwelling in such places. Recently, though, they have been sighted in pretty much every place in the Zone, and this is primarily thanks to to the actions of the Marked One, who turned off the Brain Scorcher. Chimeras too, for example, used to live closer to the center of the Zone, but then suddenly migrated and increased their population. Apparently, someone who runs all of this in the center of the Zone has got some influence over these creatures, and uses them as a kind of Cerberus on the last approaches towards their "stronghold". If you get into trouble and end up unable to escape, I'd advise you to protect your head, because they've got relatively powerful telekinesis powers. They can also send a focused impulse and knock you off your feet, as well as take away your weapons and exhaust you, somehow influencing the gravity around you. They resemble fat, hideous dwarfs, who wear huge shoes with their own characteristic sounds, as well as black cloaks, strangely enough sewn almost their size. I too think that they are the result of experiments in secret laboratories. There are also different subspecies of burers - for example, fire and electric, just like poltergeists. Some argue that the poltergeist is an evolutionary stage of the burer... however, if an electric poltergeist acts on you only with telekinesis, then a corresponding burer can easily throw a ball of lightning at you or even a whole Electra anomaly, the size of a substation.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_8">
-		<text>Controllers are no joke: those monsters emit a steady psy-background, and they can manipulate the consciousness of any person. It's absolutely fatal to approach them without the right type of protection, and you're generally better off staying away from any places they might be dwelling in. They'll most likely just burn your brain out - not even zombifying you - in order to make some juicy grub out of you right then and there. Legend's going around saying that they can even talk, but I don't really believe it... Their high level of intellect is beyond doubt, though. Sometimes they can stage clever ambushes. They often wander alone, greedy for food, or thinking about whatever goes on in that screwed-up head of theirs... A stalker once dropped by and told me and the boys that there was a weird creature that settled down around Rostok. He went to have a look, but was stopped by a sudden, severe headache that almost made him drop his gun. So, he backed off, thinking it was just radiation... The rest of us went with him to scoop the place out, came in – and I also felt a headache! Later we went back prepared, having taken some special pills that basically killed any emotions we had... I looked around and saw a man-shaped figure sitting in the darkness. I opened fire, but it disappeared - and then, the bastard came out behind my back, and I shot him. Then I heard a faint, yet familiar voice... and couldn't believe it. I shot down my friend Vasyuk. Eventually we managed to get rid of that mutant freak, but I quit hunting ever since and ended up opening a bar here. I was fortunate not to get killed... Redhead was a smart guy, so he took off to the north after what happened.</text>
+		<text>Controllers are no joke: those monsters emit a steady psy-background, and they can manipulate the consciousness of any person. It's absolutely fatal to approach them without the right type of protection, and you're generally better off staying away from any places they might be dwelling in. They'll most likely just burn your brain out - not even zombifying you - in order to make some juicy grub out of you right then and there. Legend's going around saying that they can even talk, but I don't really believe it... Their high level of intellect is beyond doubt, though. Sometimes they can stage clever ambushes. They often wander alone, greedy for food, or thinking about whatever goes on in that screwed-up head of theirs... A stalker once dropped by and told me and the boys that there was a weird creature that settled down around Rostok. He went to have a look, but was stopped by a sudden, severe headache that almost made him drop his gun. So, he backed off, thinking it was just radiation... The rest of us went with him to scoop the place out, came in â€“ and I also felt a headache! Later we went back prepared, having taken some special pills that basically killed any emotions we had... I looked around and saw a man-shaped figure sitting in the darkness. I opened fire, but it disappeared - and then, the bastard came out behind my back, and I shot him. Then I heard a faint, yet familiar voice... and couldn't believe it. I shot down my friend Vasyuk. Eventually we managed to get rid of that mutant freak, but I quit hunting ever since and ended up opening a bar here. I was fortunate not to get killed... Redhead was a smart guy, so he took off to the north after what happened.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_9">
 		<text>And the cats... Have you seen those things? Oh, god. Only this place can turn pets into feral beasts. Their whole thyroid gland is swollen from all the radiation, along with tumors in their cheeks. I don't know why those cats have become like this. These creatures have become bigger with sharper claws, and they run like crazy. People usually have to get domestic cats down from trees... Here, you're the one who gets chased around. To make matters worse, they've developed a pack mentality, similar to dogs and wolves. These creatures are wild and they can be found anywhere, so keep an eye on your surroundings at all times. They come running, and if you aren't careful, they will cling onto your ass and bite a chunk off it.</text>
@@ -1932,7 +1932,7 @@
 		<text>Wild boars and flesh. The latter are an example of a terribly mutated pig, as proven by scientists - rather sluggish and weak... Only a complete moron could get under its "bladed" paws, which will penetrate virtually any armor. As for boars, differ little from their relatives outside the Zone, apart from the fact that they are larger and more dangerous... Oh, and their hooves are much stronger, and can cut through fabric and human flesh effortlessly. It's enough just to jump aside and move somewhere in a couple of meters when these beasts rush at you, to avoid their fangs. Oftentimes, the meat of both wild boars and flesh is consumed, but not without being treated beforehand, to avoid radiation poisoning.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_15">
-		<text>Karliks... Thanks for helping me gather information about them - here's what I've jotted down. They mainly reside in underground complexes, most of which have previously been used for experiments on people. Apparently, Karliks are the result of such experiments. They possess supernatural strength, good speed and attack most often in groups. At the moment, only one subspecies has been discovered – smoked ones. Dirty, mutated by anomalies, they emit dangerous radiation, it is better not to go near them without a Wrenched or a Bubble in your pocket.</text>
+		<text>Karliks... Thanks for helping me gather information about them - here's what I've jotted down. They mainly reside in underground complexes, most of which have previously been used for experiments on people. Apparently, Karliks are the result of such experiments. They possess supernatural strength, good speed and attack most often in groups. At the moment, only one subspecies has been discovered â€“ smoked ones. Dirty, mutated by anomalies, they emit dangerous radiation, it is better not to go near them without a Wrenched or a Bubble in your pocket.</text>
 	</string>
 
 	<string id="request_to_no_trade_dialog_0">
@@ -2879,7 +2879,7 @@
 		<text>Anomalous bread</text>
 	</string>
 	<string id="st_af_misery_bread_descr">
-		<text>A piece of bread as dark as the soul of the person that left it.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] artifact\n%c[0,153,255,255] • %c[0,140,140,140] attachable</text>
+		<text>A piece of bread as dark as the soul of the person that left it.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] â€¢ %c[0,140,140,140] artifact\n%c[0,153,255,255] â€¢ %c[0,140,140,140] attachable</text>
 	</string>
 
 	<string id="merc_pri_grifon_mlr_task_2_name">
@@ -2954,10 +2954,10 @@
 		<text>Griffin has asked to collect %s.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_about">
-		<text>There are just too many of those goddamn fanatics. Could you wipe them out? I've got a little something that could help you out in future hunts. It's yours if you bring me twenty-five of their patches.</text>
+		<text>There are just too many of those goddamn fanatics. Could you wipe them out? I've got a little something that could help you out in future hunts. It's yours if you bring me twenty of their patches.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_fetch_about">
-		<text>There are just too many of those goddamn fanatics. Could you wipe them out? I've got a little something that could help you out in future hunts. It's yours if you bring me twenty-five of their patches.</text>
+		<text>There are just too many of those goddamn fanatics. Could you wipe them out? I've got a little something that could help you out in future hunts. It's yours if you bring me twenty of their patches.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_fetch_finish">
 		<text>Thanks, stalker. Here's that little toy I promised you.</text>
@@ -4104,7 +4104,7 @@
 		<text>Got it. Any safe places I can stay?</text>
 	</string>
 	<string id="sultan_st_7">
-		<text>No such place as safe in the Zone, boy, but don't let this advice go to waste. North of us is the Truck Cemetery, and our boys there control the old checkpoint and the entrance to the Army Warehouses. Try not to hang around the cemetery at night, and stay away from all the old vehicles. Radiation levels there are high enough to make your counter ring down to your balls, and that's not even mentioning the creatures and anomalies. There's the Garbage to the west - total chaos over there. I can't say anything else, other than there's a checkpoint to the north controlled by Duty. There's a huge forest to the south called Darkscape - really wild place, you've got soldiers patrolling there from time to time and loners pissing about. Pretty big maze. Also, there are a few stalkers at the farm on the way to the Darkscape, so don't fuck around. There's a huge advantage in that forest: the road leads to the Cordon. You'll easily find our guys at the vehicle station there.</text>
+		<text>No such place as safe in the Zone, boy, but don't let this advice go to waste. North of us is the Truck Cemetery, and our boys there control the old checkpoint and the entrance to the Army Warehouses. Try not to hang around the cemetery at night, and stay away from all the old vehicles. Radiation levels there are high enough to make your counter ring down to your balls, and I haven't even mentioned the creatures and anomalies. There's the Garbage to the west - total chaos over there. I can't say anything else, other than there's a checkpoint to the north controlled by Duty. There's a huge forest to the south called Darkscape - really wild place, you've got soldiers patrolling there from time to time and loners pissing about. Pretty big maze. Also, there are a few stalkers at the farm on the way to the Darkscape, so don't fuck around. There's a huge advantage in that forest: the road leads to the Cordon. You'll easily find our guys at the vehicle station there.</text>
 	</string>
 	<string id="sultan_st_8">
 		<text>That's kind of scary.</text>
@@ -4396,5 +4396,397 @@
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_4_fetch_finish">
 		<text>Got them? Here's your payout.</text>
+	</string>
+	
+	
+	<!-- Added for LD 1.3 +Patch -->
+	<string id="svarog_1_dialog_0">
+		<text>Professor, do you have any new inventions that will help me survive in the Zone?</text>
+	</string>
+	<string id="svarog_1_dialog_1">
+		<text>Yes, young man. My long stay in this bunker in the middle of this marsh is paying off. But all the devices and medicines I have developed are almost singular. Eh, if I had more resources... The previous group of stalkers, who went after the artifacts, disappeared. The second group is not very experienced, and so far there is not much help from them. I can not entrust a new detector to them...</text>
+	</string>
+	<string id="svarog_1_dialog_2">
+		<text>A new detector?</text>
+	</string>
+	<string id="svarog_1_dialog_3">
+		<text>Well, again let it out. Oh, my gray head. Yes, I received two Svarog detectors, which my colleagues invented from the vicinity of Jupiter. I gave one of them to my research group, in return they brought me  artefacts with incredible properties.</text>	
+	</string>
+	<string id="svarog_1_dialog_4">
+		<text>Can I buy this detector?</text>
+	</string>	
+	<string id="svarog_1_dialog_5">
+		<text>Sorry, but it is the only one and therefore not for sale. And I do not have parts for self-manufacturing. Moreover, even though you are an experienced stalker, I do not know you at all. I'm sorry.</text>
+	</string>		
+	<string id="svarog_1_dialog_6">
+		<text>I can help get you new parts, for making a detector, if you agree to sell it to me later.</text>
+	</string>
+	<string id="svarog_1_dialog_7">
+		<text>Well, in that case, I'll need parts of the rare mutants. Let's start with this one. Bring me 4 hands of a controller, 4 hands of a burer, 4 tentacles of a bloodsucker, 4 horns of a chimera and 4 feet of a snork. I will need them for experiments, since I have not tried to make Svarog on my own.</text>
+	</string>
+	<string id="svarog_1_dialog_8">
+		<text>Well, I'll get this, unless, of course, these cute little animals eat me.</text>
+	</string>
+	<string id="svarog_1_dialog_9">
+		<text>What the fuck, grandpa? My skin is more expensive, go with such requests into a meat grinder.</text>
+	</string>
+	
+	<string id="devushka_1_start_0">
+		<text>Hey, dude, hello. How's life?</text>
+	</string>
+	<string id="devushka_1_start_1">
+		<text>Hey. Not so bad. And you... How did you even get here? Ba... uhhh... a woman in the zone is a rarity.</text>
+	</string>
+	<string id="devushka_1_start_2">
+		<text>I was a member of Freedom, but I left them... I had some reasons... Will you help me?  I have only PM left. I would love to have some kind of shotgun, preferably from the TOZ family - I'm used to them. I had a TOZ with optics once. Good weapon. I'll also need ammunition for it - 20 shells will do for now.</text>
+	</string>
+	<string id="devushka_1_start_3">
+		<text>Yeah, I'll help you, let's go!</text>
+	</string>
+	<string id="devushka_1_start_4">
+		<text>No, I have things to do.</text>
+	</string>
+	<string id="devushka_1_start_6">
+		<text>And will you pay in kind?</text>
+	</string>
+	<string id="devushka_1_start_5">
+		<text>I have something for you prepared. Don't worry about it.</text>
+	</string>
+
+	<string id="devushka_2_start_0">
+		<text>Here you go. Found you that gun. And ammunition. Why didn't you buy ammunition from Sidorovich? </text>
+	</string>
+	<string id="devushka_2_start_1">
+		<text>Thanks man. Sidorovich wants me to leave the Zone and go back to my mother. He thinks this isn't a place for me. Anyway, here you go, as promised. I rummaged around a bit and stumbled across a stash of local technician - I hope it will come in handy!</text>
+	</string>
+
+	<string id="devushka_0_dialog_0">
+		<text>So, how's it going? You look kind of sick, to be honest.</text>
+	</string>
+	<string id="devushka_0_dialog_1">
+		<text>Yeah, I haven't eaten in a long time. Hey, do you have anything to eat? I'm starving...</text>
+	</string>
+	<string id="devushka_0_dialog_2">
+		<text>Here, take it, I don't mind giving it to you.</text>
+	</string>
+	<string id="devushka_0_dialog_3">
+		<text>I'm sorry, but the supplies are tight, there's nothing to eat.</text>
+	</string>
+	<string id="devushka_0_dialog_4">
+		<text>How dare you ask me to bring you food after what I've done for you? Fetch you a weapon, buy you ammunition, do you even know how to do anything by yourself? Litter Freedom...</text>
+	</string>
+	<string id="devushka_0_dialog_5">
+		<text>Respect, man. Thanks in general.</text>
+	</string>
+	
+	<string id="devushka_1_dialog_0">
+		<text>Tell me about yourself again.</text>
+	</string>
+	<string id="devushka_1_dialog_1">
+		<text>What can I tell you... My family was unsuccessful. My mother always drank and fucked with the left-wing peasants, I did not know my father. My stepfather was an asshole, he beat me up all the time. Once, after another beating, he wanted to rape me. I did not give up and broke a bottle on his head. I hated him so much that in a fit of anger I stabbed him with a piece. Woke up, all hands in blood. My stepfather was no longer breathing... I had to escape, I really didn't want to go to jail.</text>
+	</string>
+	<string id="devushka_1_dialog_2">
+		<text>And you went into the Zone alone?</text>
+	</string>
+	<string id="devushka_1_dialog_3">
+		<text>No, I had a friend...  Sprat was the name. We went to the Zone together, she had a guy here who was a Freedom member. She didn't make it, she died in an anomaly. I brought her bag to the guy. He was cool, didn't let anybody touch me. He was a good person, he mourned Sprat a lot. Unfortunately he got shot by Duty. After his death every man tried to get closer to me. I had to leave.</text>
+	</string>
+	<string id="devushka_1_dialog_4">
+		<text>I see.</text>
+	</string>
+
+	<string id="devushka_heal_0">
+		<text>Wait, let's heal you.</text>
+	</string>
+	<string id="devushka_heal_1">
+		<text>Come on, I'm fine. Don't worry.</text>
+	</string>
+	<string id="devushka_heal_2">
+		<text>Someone promised to do what I say, probie. Remember?</text>
+	</string>
+	<string id="devushka_heal_3">
+		<text>Right? Well, look, if anything - shout.</text>
+	</string>
+	<string id="devushka_heal_4">
+		<text>Yeah yeah, I remember. Thanks.</text>
+	</string>
+
+	<string id="devushka_2_dialog_0">
+		<text>What are you planning to do?</text>
+	</string>
+	<string id="devushka_2_dialog_1">
+		<text>I asked Sidorovich for a job, to search for artifacts. And why are you asking? Do you want to help?</text>
+	</string>
+	<string id="devushka_2_dialog_2">
+		<text>So yeah. I have to go. Good Luck, Hip</text>
+	</string>
+	<string id="devushka_2_dialog_3">
+		<text>Oh, uh... fine... sure...</text>
+	</string>
+	<string id="devushka_2_dialog_4">
+		<text>Well, why are you sad?</text>
+	</string>
+	<string id="devushka_2_dialog_5">
+		<text>No, no... it's nothing. I'm fine, don't worry about it...</text>
+	</string>
+	<string id="devushka_2_dialog_6">
+		<text>You need home, Hip. Let me talk to Sidorovich, he can smuggle you across the border. Your parents, I suppose, are going crazy.</text>
+	</string>
+	<string id="devushka_2_dialog_7">
+		<text>My family was unsuccessful. My mother always drank and fucked with the left-wing peasants, I did not know my father. My stepfather was an asshole, he beat me up all the time. Once, after another beating, he wanted to rape me. I did not give up and broke a bottle on his head. I hated him so much that in a fit of anger I stabbed him with a piece. Woke up, all hands in blood. My stepfather was no longer breathing... I had to escape, I really didn't want to go to jail.</text>
+	</string>
+	<string id="devushka_2_dialog_8">
+		<text>And you went into the Zone alone?</text>
+	</string>
+	<string id="devushka_2_dialog_9">
+		<text>No, I had a friend...  Sprat was the name. We went to the Zone together, she had a guy here who was a Freedom member. She didn't make it, she died in an anomaly. I brought her bag to the guy. He was cool, didn't let anybody touch me. He was a good person, he mourned Sprat a lot. Unfortunately he got shot by Duty. After his death every man tried to get closer to me. I had to leave.</text>
+	</string>	
+	<string id="devushka_2_dialog_10">
+		<text>And what should I do?</text>
+	</string>
+	<string id="devushka_2_dialog_11">
+		<text>Help me with the job, tell me how to survive in the Zone... You're a stalker, you know a lot. Don't leave me alone! You're the coolest, you ... the first genuine person here.</text>
+	</string>
+	<string id="devushka_2_dialog_16">
+		<text>Do you even understand what it means to creep? What is the night, for example, in a hollow instead of a cozy village for the newcomers under the supervision of Fanatic? Did you flee from a pack of blind dogs in an unfamiliar terrain, where there are more anomalies than candy wrappers? No? And look at the zombies. They way they move, they way they look, the way they try to speak. Terrible, right? Remember, same thing can happen to the pretty face of yours.</text>
+	</string>
+	<string id="devushka_2_dialog_17">
+		<text>Yeah that's cool. I am strong and smart and I can take care of myself. Don't judge me by the way I look. Take me with you, stalker. Together nothing will stop us! </text>
+	</string>
+	<string id="devushka_2_dialog_12">
+		<text>Ugh... All right, all right. Lesson one: forget that you were in Freedom. Don't try your Freedom tricks and silly lines on me in our further journey. Okay, stripe off those patches. We don't want to have problems with Duty. What artifacts are needed? Do you have a detector?</text>
+	</string>
+	<string id="devushka_2_dialog_13">
+		<text>Sorry, Hip, but no..</text>
+	</string>
+	<string id="devushka_2_dialog_14">
+		<text>Moonlight, Fireball and Wrenched. Yeah, I've got a detector. It's Echo detector.</text>
+	</string>
+	<string id="devushka_2_dialog_15">
+		<text>Well, that's fine... It will do, but it will be necessary for you to have a more functional one. Come on, trainee!</text>
+	</string>
+
+	<string id="devushka_3_quest_0">
+		<text>Sidorovich, I've helped Hip with the task you gave her, here are the goods.</text>
+	</string>
+	<string id="devushka_3_quest_1">
+		<text>Hmm. Well, okay, the deal is a deal. I will not go into your business with her, I don't care about it. Here, for the task. Do not forget to leave it to her. Hold on, don't leave already. While you were searching for artifacts, Freedom came to the village, asked about Hip. I said that no one has seen anyone like her. Nothing personal, but it is better for her to leave the village quietly. If they come back again and find her it'll end up badly. I somehow do not want to undermine the Freedom's trust.</text>
+	</string>
+	<string id="devushka_3_quest_2">
+		<text>Damn. Well, we're screwed. Okay, we'll leave at night, without any noise. Thank you for covering up.</text>
+	</string>
+	<string id="devushka_3_quest_3">
+		<text>Good. You decided to look after her, so do it. It would be a pity if she had died alone somewhere in the Zone.</text>
+	</string>
+
+	<string id="devushka_3_quest_money_0">
+		<text>Here, keep your honestly worked-out half.</text>
+	</string>
+	<string id="devushka_3_quest_money_1">
+		<text>My first serious reward! Thank you very much!</text>
+	</string>
+
+	<string id="devushka_3_dialog_0">
+		<text>Sidorovich told me that Freedom came for you to the village. He didn't betray us, but now we have to leave this place. Before we go, have some rest. We're leaving at night, and I'll think about how we should do it.</text>
+	</string>
+	<string id="devushka_3_dialog_1">
+		<text>Oh, and I hoped that they would finally leave me in peace, bastards, even here found. Well, okay...</text>
+	</string>
+	<string id="devushka_3_dialog_2">
+		<text>Let's sit at the campfire for now.</text>
+	</string>
+
+	<string id="devushka_4_dialog_0">
+		<text>Sit here quietly, don't go anywhere. I'll come for you at night.</text>
+	</string>
+	<string id="devushka_4_dialog_1">
+		<text>Okay, I will be waiting for you.</text>
+	</string>
+
+	<string id="devushka_4_quest_0">
+		<text>How are you? Are you ready? I had a couple of ideas on how we will proceed.</text>
+	</string>
+	<string id="devushka_4_quest_1">
+		<text>Yes, I'm ready. What are we going to do?</text>
+	</string>
+	<string id="devushka_4_quest_2">
+		<text>I think that we should go to Barman. He lives in the 100 Rads bar, he will tell us what to do. I do not like Freedom and I don't want to encounter them.</text>
+	</string>
+	<string id="devushka_4_quest_3">
+		<text>I think that the Freedom men are normal dudes and we will be able to have an agreement with them. Let's go to the army warehouses and see Miklukha. Don't be afraid, I can protect you.</text>
+	</string>
+	<string id="devushka_4_quest_4">
+		<text>OK, let's go. I don't want to go to army warehouses either. I don't want too see these filthy things that have crept on me again.</text>
+	</string>
+	<string id="devushka_4_quest_5">
+		<text>Okay... Miklukha, of course. I'm not afraid.</text>
+	</string>
+
+	<string id="devushka_4_help_0">
+		<text>Hello there!. How's life? I've got a couple of questions regarding my partner. She has some problems with Freedom...</text>
+	</string>
+	<string id="devushka_4_help_1">
+		<text>Well come in, here have a drink. It's on the house. Things are going great! The problem with Freedom, you say? I am already aware of your problems. There are very few women in the Zone and news about them spread quickly. Some scumbags are looking for Hip, which is why she probably left Freedom. I can contact Lukash and fix everything. He'll take care of them. Everything has it's price though, I'm sure that you're aware of that. Service for a service.</text>
+	</string>
+
+	<string id="devushka_5_help_0">
+		<text>Hello there. How's life? I've got a couple of questions regarding my partner, I think you know her.</text>
+	</string>
+	<string id="devushka_5_help_1">
+		<text>Well, come on in. Things are going well, even though the evil spirits that have been hiding from the Barrier have not diminished. And of course, I remember Hip. A lot of conversations about her went in our group. Some even rammed their muzzles to each other because of her.</text>
+	</string>
+			
+	<string id="devushka_help_0">
+		<text>And what is your request?</text>
+	</string>
+	<string id="devushka_help_1">
+		<text>Oh, a mere trifle. Take those artefact containers to Beard at Skadovsk. He'll store highly radioactive artefacts in them. Remember, they are heavy. Will you be able to carry them?</text>
+	</string>
+	<string id="devushka_help_2">
+		<text>Yeah, no worries. Give me them.</text>
+	</string>
+	<string id="devushka_help_3">
+		<text>Wait, I need  some time to prepare them.</text>
+	</string>
+
+	<string id="devushka_help1_0">
+		<text>I've sent a couple of guys to look for Hip. They were in the rookie village in Cordon. Do you know anything about this?</text>
+	</string>
+	<string id="devushka_help1_1">
+		<text>A couple of guys, you say? Hmm ... I might have an idea of who it could be. Anyway, I will deal with them, don't worry. Not enough that Freedom became famous for rapes of defenseless women. Although Hip knows how to protect herself, you can not say that she's defenseless. But, dude, you owe me because you stole a great shot from my group. Relax, relax, simmer down, I'm joking. Will you be able to deliver the goods to Loki at Yanov? There's a couple of bags with the medications. There won't be any payment. WIll you deliver it?</text>
+	</string>
+	<string id="devushka_help1_2">
+		<text>Why would I not take it, when you so willingly helped us. Give me those bags.</text>
+	</string>
+	<string id="devushka_help1_3">
+		<text>Wait, I need  some time to prepare them.</text>
+	</string>
+
+	<string id="devushka_boroda_help_0">
+		<text>Hello there! How is it going? We came to you with the presents from Barman, here are your containers.</text>
+	</string>
+	<string id="devushka_boroda_help_1">
+		<text>Hey. Well thank you for delivering. Here, have a couple of souvenirs.</text>
+	</string>
+
+	<string id="devushka_loki_help_0">
+		<text>Hello there! What's up, man? We brought you some goodies from Miklukha. Here, take your medications.</text>
+	</string>
+	<string id="devushka_loki_help_1">
+		<text>Hi. Thanks, man. Here's the bonus, Mikluha wanted you to have it.</text>
+	</string>
+
+	<string id="give_devushka_medved_0">
+		<text>Hey, probie. Here, have a good detector. It's better than your Echo will ever be.</text>
+	</string>
+	<string id="give_devushka_medved_1">
+		<text>Thanks! Now I will be able to find something cool for sure!</text>
+	</string>
+
+	<string id="devushka_give_present_0">
+		<text>That's it. One problem less, although in the process of solving it we were brought to the north of the Zone. It is extremely dangerous, much more dangerous than southern areas, but you can get some neat loot.</text>
+	</string>
+	<string id="devushka_give_present_1">
+		<text>Artefacts?</text>
+	</string>
+	<string id="devushka_give_present_2">
+		<text>Yes, but such, for which scientists are willing to pay a lot of money. Not some simple artifacts for Sidorovich. A special detector is needed here. But there are lots of simple artefacts as well.</text>
+	</string>
+	<string id="devushka_give_present_3">
+		<text>Wow! Well, let's look for some?</text>
+	</string>
+	<string id="devushka_give_present_4">
+		<text>You know what, trainee? We need you to leave the Zone. It's a stranger to us. Only death, bloodsuckers and other vermin. This is not a place for humans.</text>
+	</string>
+	<string id="devushka_give_present_5">
+		<text>How so? Why? We will no longer look for artifacts? Am I not a Stalker?</text>
+	</string>
+	<string id="devushka_give_present_6">
+		<text>You already know what being a stalker means. What is so good about it? Playing with death everyday? Death is at every step, behind every corner. It's nauseating from it.</text>
+	</string>
+	<string id="devushka_give_present_7">
+		<text>You're afraid of me, are you?</text>
+	</string>
+	<string id="devushka_give_present_8">
+		<text>Yes, I'm afraid. I do not want you to be a stalker.</text>
+	</string>
+	<string id="devushka_give_present_9">
+		<text>I don't know what you were thinking about while we were here,  but it seems to me that you are already attracted to the Zone. Because you are a stalker forever. I am a stalker forever as well.</text>
+	</string>
+	<string id="devushka_give_present_10">
+		<text>Well, then, look for another teacher.</text>
+	</string>
+	<string id="devushka_give_present_12">
+		<text>As you say.</text>
+	</string>
+	<string id="devushka_give_present_11">
+		<text>Oh, what are you doing with me? Okay ... Let's take a rest and let's see what's interesting here.</text>
+	</string>
+	<string id="devushka_give_present_13">
+		<text>Wait, I have something for you. Here, this is for you! And if suddenly you want to be alone - take me to the village of beginners, I'll be waiting there for you.</text>
+	</string>
+	<string id="devushka_give_present_14">
+		<text>Well well! Ah yes, trainee. You learn fast!</text>
+	</string>
+			
+	<string id="devushka_go_village_0">
+		<text>Trainee, I'll leave you for a while. Do not worry, not forever.</text>
+	</string>
+	<string id="devushka_go_village_1">
+		<text>Are you sure?</text>
+	</string>
+	<string id="devushka_go_village_2">
+		<text>Yes, rest for now.</text>
+	</string>
+	<string id="devushka_go_village_3">
+		<text>However, let's continue.</text>
+	</string>
+	<string id="devushka_go_village_4">
+		<text>Good. I'll wait for your return.</text>
+	</string>
+			
+	<string id="adventure_time_with_hip_0">
+		<text>Well, shall we go, trainee?</text>
+	</string>
+	<string id="adventure_time_with_hip_1">
+		<text>Let's go! I got so bored in here.</text>
+	</string>
+
+	<string id="devushka_about_semeckiy_0">
+		<text>Do you know who Yura Semetsky is? And why he dies every day several times.</text>
+	</string>
+	<string id="devushka_about_semeckiy_1">
+		<text>Well. People in Freedom said it was a virus that was launched in the Stalker Network.</text>
+	</string>
+	<string id="devushka_about_semeckiy_2">
+		<text>It's not a virus. The very first stalkers who managed to get to the mythical Monolith - the Wish Granter, buried somewhere in the bowels of the fourth power unit of the Chernobyl NPP, became Ghosts of the Zone. The monolith supposedly really carried out their dream, but necessarily with some kind of catch-up. Yura Semetsky - one of the first stalkers who set foot on the contaminated land back in 2007, - according to legend, got to the Wish Granter and ordered himself nothing more - eternal life.</text>
+	</string>
+	<string id="devushka_about_semeckiy_3">
+		<text>And what happened in the end?</text>
+	</string>
+	<string id="devushka_about_semeckiy_4">
+		<text>Since then, every day in the Stalker Network pops up a message about the death of a stalker with that name. That's how he lives. Forever, damn it. </text>
+	</string>
+	<string id="devushka_about_semeckiy_5">
+		<text>That's right, and we all giggled over the enchanting ways of killing him.</text>
+	</string>
+
+	<string id="devushka_about_artefact_0">
+		<text>Do you know where the artefacts that we are looking for for Sidorovich appear?</text>
+	</string>
+	<string id="devushka_about_artefact_1">
+		<text>Well, I know that Moonlight appears in some sort of electric anomalies, Wrenched in gravitational anomalies and Fireball - in the fire anomalies.</text>
+	</string>
+	<string id="devushka_about_artefact_2">
+		<text>Not bad, you have basic knowledge. Remember that it is desirable to have bolts or other trash in your pockets to throw. This is necessary in order to find yourself a safe way. And then there are sometimes stupid stalkers that in addition like to repeat a couple of the most foul expressions in the Zone.</text>
+	</string>
+	<string id="devushka_about_artefact_3">
+		<text>What expressions?</text>
+	</string>
+	<string id="devushka_about_artefact_4">
+		<text>People who say "maybe nothing bad will happen" and "everything is fucking all right" </text>
+	</string>
+	<string id="devushka_about_artefact_5">
+		<text>I understand.</text>
 	</string>
 </string_table>
