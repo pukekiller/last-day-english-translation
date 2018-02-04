@@ -1563,6 +1563,18 @@
 	<string id="st_dyn_l02_garbage_daleko_7">
 		<text>the road to Cordon</text>
 	</string>
+	<string id="st_dyn_y04_pole_daleko_1">
+		<text>villages</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_2">
+		<text>shop</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_3">
+		<text>parking side</text>
+	</string>
+	<string id="st_dyn_y04_pole_daleko_4">
+		<text>factory</text>
+	</string>
 	
 	<!-- blizko -->
 	<string id="st_dyn_l09_deadcity_blizko_1">
@@ -2006,6 +2018,20 @@
 	<string id="st_dyn_l02_garbage_blizko_7">
 		<text>at the exit to Cordon</text>
 	</string>	
+	
+	<string id="st_dyn_y04_pole_blizko_1">
+		<text>in the village</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_2">
+		<text>at the shop</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_3">
+		<text>in the parking side</text>
+	</string>
+	<string id="st_dyn_y04_pole_blizko_4">
+		<text>at the factory</text>
+	</string>
+	
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
 		<text>I just seen %s, %s. I heard someone put a bounty on his head.</text>
