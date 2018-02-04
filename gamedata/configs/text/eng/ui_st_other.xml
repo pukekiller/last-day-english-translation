@@ -289,7 +289,7 @@
 		<text>Zulu joins the squad</text>
 	</string>
 	<string id="st_save_jup_a10_gonna_return_debt">
-		<text>Vano’s debt repaid</text>
+		<text>Vanoâ€™s debt repaid</text>
 	</string>
 	<string id="st_save_jup_b218_vano_in_squad">
 		<text>Vano joins the squad</text>
@@ -325,7 +325,7 @@
 		<text>reinforcements arrived</text>
 	</string>
 	<string id="st_save_pri_a18_searched_antenna">
-		<text>“antenna” examined</text>
+		<text>â€œantennaâ€ examined</text>
 	</string>
 	<string id="st_save_pri_a21_approached_mad_sentry">
 		<text>missing sentry found</text>
@@ -500,7 +500,7 @@
 		<text>End stealth mode</text>
 	</string>
 	<string id="st_set_companion_to_stealth_state">
-		<text>Ñêğûòíîñòü</text>
+		<text>Ğ¡ĞºÑ€Ñ‹Ñ‚Ğ½Ğ¾ÑÑ‚ÑŒ</text>
 	</string>
 
 	<!-- Sleep deprivation -->
@@ -645,5 +645,25 @@
 	</string>
 	<string id="st_cant_sleep_find_shelter_mlr"> 
         <text>A safer place is needed to sleep</text> 
-</string>
+	</string>
+	
+	<!-- IMM, updated for LD 1.3+Patch (fix 2018/2/3)-->
+	<string id="st_imm_smoke_fail">
+		<text>You need matches to light up your smoke</text>
+	</string>
+	<string id="st_imm_smoke_already_used">
+		<text>You can use better matches to light up your smoke</text>
+	</string>
+	<string id="st_imm_befor_swiss">
+		<text>In order to eat, you need something sharp to open the can</text>
+	</string>
+	<string id="st_imm_need_swiss">
+		<text>To open the can, you need a Swiss knife</text>
+	</string>
+	<string id="st_imm_swiss_broken">
+		<text>Your Swiss knife just broke</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>The can is opened</text>
+	</string>
 </string_table>
