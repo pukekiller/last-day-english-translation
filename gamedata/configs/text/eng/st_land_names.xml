@@ -1,5 +1,131 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
+	<string id="st_mar_2c_01_anomaly_spot_name">
+		<text>God's Acre anomaly</text>
+	</string>
+	<string id="st_mar_2c_02_anomaly_spot_name">
+		<text>Explorer's Fate anomaly</text>
+	</string>
+	<string id="st_ds_2c_01_anomaly_spot_name">
+		<text>Rock Trap anomaly</text>
+	</string>
+	<string id="st_ds_2c_02_anomaly_spot_name">
+		<text>Shining Road anomaly</text>
+	</string>
+	<string id="st_ds_2c_03_anomaly_spot_name">
+		<text>Bald Mountain anomaly</text>
+	</string>
+	<string id="st_ds_2c_04_anomaly_spot_name">
+		<text>Drumstick anomaly</text>
+	</string>
+	<string id="st_trc_2c_01_rift_anom_spot_name">
+		<text>Bus Furrow anomaly</text>
+	</string>
+	<string id="st_trc_2c_02_chem_anom_spot_name">
+		<text>Thorn Bath anomaly</text>
+	</string>
+	<string id="st_trc_2c_03_desolation_anom_spot_name">
+		<text>Charcoal Abode anomaly</text>
+	</string>
+	<string id="st_esc_2c_01_high_hopes_anomaly_spot_name">
+		<text>High Hopes anomaly</text>
+	</string>
+	<string id="st_gar_2c_01_nwi_anomaly_spot_name">
+		<text>Push-Pull anomaly</text>
+	</string>
+	<string id="st_gar_2c_02_toaster_anomaly_spot_name">
+		<text>Greek Fire anomaly</text>
+	</string>
+	<string id="st_agr_2c_01_hg_anomaly_spot_name">
+		<text>Heavy Grass anomaly</text>
+	</string>
+	<string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">
+		<text>Deep Burn anomaly</text>
+	</string>
+	<string id="st_labx18_2c_02_ff_anomaly_spot_name">
+		<text>Fire Fountain anomaly</text>
+	</string>
+	<string id="st_labx18_2c_03_elders_anomaly_spot_name">
+		<text>Worm Food anomaly</text>
+	</string>
+	<string id="st_labx18_2c_04_bioh_anomaly_spot_name">
+		<text>Biohazard anomaly</text>
+	</string>
+	<string id="st_bar_2c_01_grant_anomaly_spot_name">
+		<text>Mantrap anomaly</text>
+	</string>
+	<string id="st_ros_2c_01_tunnel_anomaly_spot_name">
+		<text>Sparkle Deadlock anomaly</text>
+	</string>
+	<string id="st_ros_2c_02_crispy_train_anomaly_spot_name">
+		<text>Crispy Train anomaly</text>
+	</string>
+	<string id="st_ros_2c_03_yc_anomaly_spot_name">
+		<text>Conflagrator anomaly</text>
+	</string>
+	<string id="st_mil_2c_01_hw_anomaly_spot_name">
+		<text>Hell Walls anomaly</text>
+	</string>
+	<string id="st_yan_2c_01_cd_anomaly_spot_name">
+		<text>Concrete Dump anomaly</text>
+	</string>
+	<string id="st_x16_lab_2c_01_fb_anomy_spot_name">
+		<text>Foot Bath anomaly</text>
+	</string>
+	<string id="st_cit_2c_01_ch_anomaly_spot_name">
+		<text>Garden Sprinkler anomaly</text>
+	</string>
+	<string id="st_cit_2c_02_pg_anomaly_spot_name">
+		<text>Proving Ground anomaly</text>
+	</string>
+	<string id="st_lim_2c_01_ls_anomaly_spot_name">
+		<text>Last Step anomaly</text>
+	</string>
+	<string id="st_lim_2c_02_ib_anomaly_spot_name">
+		<text>Blathy anomaly</text>
+	</string>
+	<string id="st_rad_2c_01_bl_anomaly_spot_name">
+		<text>Walking Ghost anomaly</text>
+	</string>
+	<string id="st_rad_2c_02_pp_anomaly_spot_name">
+		<text>Pain Pool anomaly</text>
+	</string>
+	<string id="st_bun_2c_01_f_anomaly_spot_name">
+		<text>Furnace anomaly</text>
+	</string>
+	<string id="st_bun_2c_02_gp_anomaly_spot_name">
+		<text>Gravity Pipe anomaly</text>
+	</string>
+	<string id="st_pri_2c_01_pp_anomaly_spot_name">
+		<text>Root Rot anomaly</text>
+	</string>
+	<string id="st_pri_2c_02_gt_anomaly_spot_name">
+		<text>Barricade anomaly</text>
+	</string>
+	<string id="st_pri_2c_03_wr_anomaly_spot_name">
+		<text>Collider anomaly</text>
+	</string>
+	<string id="st_pri_2c_04_o_anomaly_spot_name">
+		<text>Olympic anomaly</text>
+	</string>
+	<string id="st_aes_2c_01_ce_anomaly_spot_name">
+		<text>Gatekeeper anomaly</text>
+	</string>
+	<string id="st_aes_2c_02_p_anomaly_spot_name">
+		<text>Pylon anomaly</text>
+	</string>
+	<string id="st_aes2_2c_01_bo_anomaly_spot_name">
+		<text>Barrel Organ anomaly</text>
+	</string>
+	<string id="st_aes2_2c_02_at_anomaly_spot_name">
+		<text>Acid Trolley anomaly</text>
+	</string>
+	<string id="st_sar_2c_01_r_anomaly_spot_name">
+		<text>Reactor anomaly</text>
+	</string>
+	<string id="st_gen_2c_01_ss_anomaly_spot_name">
+		<text>Soul Stairway anomaly</text>
+	</string>
 	<string id="st_pri_b302_name">
 		<text>Vine anomaly</text>
 	</string>
@@ -162,11 +288,17 @@
 	<string id="st_zat_b20_name">
 		<text>Burnt farmstead</text>
 	</string>
+	<string id="st_zat_fire_name">
+		<text>Barge Inferno anomaly</text>
+	</string>
 	<string id="st_zat_b53_name">
 		<text>Boiler anomaly</text>
 	</string>
 	<string id="st_zat_b101_name">
 		<text>Swamp</text>
+	</string>
+	<string id="st_zat_waste_name">
+		<text>Sullage anomaly</text>
 	</string>
 	<string id="st_zat_b106_name">
 		<text>Izumrudnoye</text>
@@ -176,6 +308,9 @@
 	</string>
 	<string id="st_zat_b14_name">
 		<text>Dredge station</text>
+	</string>
+	<string id="st_zat_tide_name">
+		<text>Riptide anomaly</text>
 	</string>
 	<string id="st_zat_b52_name">
 		<text>Dock cranes</text>
@@ -225,6 +360,9 @@
 	<string id="st_jup_b25_name">
 		<text>Quarry</text>
 	</string>
+	<string id="st_jup_earth_name">
+		<text>Cracked Earth anomaly</text>
+	</string>
 	<string id="st_jup_b6_name">
 		<text>Scientists' bunker</text>
 	</string>
@@ -233,6 +371,9 @@
 	</string>
 	<string id="st_jup_b206_name">
 		<text>Anomalous grove</text>
+	</string>
+	<string id="st_jup_grove_name">
+		<text>Rotten Grove anomaly</text>
 	</string>
 	<string id="st_jup_b32_name">
 		<text>Parking lot</text>
@@ -279,6 +420,9 @@
 	<string id="st_pri_b306_name">
 		<text>Yubileiny service center</text>
 	</string>
+	<string id="st_pri_plug_name">
+		<text>Spark Plug anomaly</text>
+	</string>
 	<string id="st_pri_a16_name">
 		<text>Laundromat</text>
 	</string>
@@ -294,6 +438,9 @@
 	<string id="st_pri_b304_name">
 		<text>Department store</text>
 	</string>
+	<string id="st_pri_bath_name">
+		<text>Acid Bath anomaly</text>
+	</string>
 	<string id="st_pri_a18_name">
 		<text>Book Store</text>
 	</string>
@@ -303,151 +450,10 @@
 	<string id="st_pri_b302_name">
 		<text>Vine anomaly</text>
 	</string>
-	<string id="st_mar_2c_01_anomaly_spot_name">
-		<text>God's Acre anomaly</text>
-	</string>
-	<string id="st_mar_2c_02_anomaly_spot_name">
-		<text>Explorer's Fate anomaly</text>
-	</string>
-	<string id="st_ds_2c_01_anomaly_spot_name">
-		<text>Rock Trap anomaly</text>
-	</string>
-	<string id="st_ds_2c_02_anomaly_spot_name">
-		<text>Shining Road anomaly</text>
-	</string>
-	<string id="st_ds_2c_03_anomaly_spot_name">
-		<text>Bald Mountain anomaly</text>
-	</string>
-	<string id="st_ds_2c_04_anomaly_spot_name">
-		<text>Drumstick anomaly</text>
-	</string>
-	<string id="st_trc_2c_01_rift_anom_spot_name">
-		<text>Bus Furrow anomaly</text>
-	</string>
-	<string id="st_trc_2c_02_chem_anom_spot_name">
-		<text>Thorn Bath anomaly</text>
-	</string>
-	<string id="st_trc_2c_03_desolation_anom_spot_name">
-		<text>Charcoal Abode anomaly</text>
-	</string>
-	<string id="st_esc_2c_01_high_hopes_anomaly_spot_name">
-		<text>High Hopes anomaly</text>
-	</string>
-	<string id="st_gar_2c_01_nwi_anomaly_spot_name">
-		<text>Push-Pull anomaly</text>
-	</string>
-	<string id="st_gar_2c_02_toaster_anomaly_spot_name">
-		<text>Greek Fire anomaly</text>
-	</string>
-	<string id="st_agr_2c_01_hg_anomaly_spot_name">
-		<text>Heavy Grass anomaly</text>
-	</string>
-	<string id="st_labx18_2c_01_deep_burn_anomaly_spot_name">
-		<text>Deep Burn anomaly</text>
-	</string>
-	<string id="st_labx18_2c_02_ff_anomaly_spot_name">
-		<text>Fire Fountain anomaly</text>
-	</string>
-	<string id="st_labx18_2c_03_elders_anomaly_spot_name">
-		<text>Worm Food anomaly</text>
-	</string>
-	<string id="st_labx18_2c_04_bioh_anomaly_spot_name">
-		<text>Biohazard anomaly</text>
-	</string>
-	<string id="st_bar_2c_01_grant_anomaly_spot_name">
-		<text>Mantrap anomaly</text>
-	</string>
-	<string id="st_ros_2c_01_tunnel_anomaly_spot_name">
-		<text>Sparkle Deadlock anomaly</text>
-	</string>
-	<string id="st_ros_2c_02_crispy_train_anomaly_spot_name">
-		<text>Crispy Train anomaly</text>
-	</string>
-	<string id="st_ros_2c_03_yc_anomaly_spot_name">
-		<text>Conflagrator anomaly</text>
-	</string>
-	<string id="st_mil_2c_01_hw_anomaly_spot_name">
-		<text>Hell Walls anomaly</text>
-	</string>
-	<string id="st_yan_2c_01_cd_anomaly_spot_name">
-		<text>Concrete Dump anomaly</text>
-	</string>
-	<string id="st_x16_lab_2c_01_fb_anomy_spot_name">
-		<text>Foot Bath anomaly</text>
-	</string>
-	<string id="st_cit_2c_01_ch_anomaly_spot_name">
-		<text>Garden Sprinkler anomaly</text>
-	</string>
-	<string id="st_cit_2c_02_pg_anomaly_spot_name">
-		<text>Proving Ground anomaly</text>
-	</string>
-	<string id="st_lim_2c_01_ls_anomaly_spot_name">
-		<text>Last Step anomaly</text>
-	</string>
-	<string id="st_lim_2c_02_ib_anomaly_spot_name">
-		<text>Blathy anomaly</text>
-	</string>
-	<string id="st_rad_2c_01_bl_anomaly_spot_name">
-		<text>Walking Ghost anomaly</text>
-	</string>
-	<string id="st_rad_2c_02_pp_anomaly_spot_name">
-		<text>Pain Pool anomaly</text>
-	</string>
-	<string id="st_bun_2c_01_f_anomaly_spot_name">
-		<text>Furnace anomaly</text>
-	</string>
-	<string id="st_bun_2c_02_gp_anomaly_spot_name">
-		<text>Gravity Pipe anomaly</text>
-	</string>
-	<string id="st_pri_2c_01_pp_anomaly_spot_name">
-		<text>Root Rot anomaly</text>
-	</string>
-	<string id="st_pri_2c_02_gt_anomaly_spot_name">
-		<text>Barricade anomaly</text>
-	</string>
-	<string id="st_pri_2c_03_wr_anomaly_spot_name">
-		<text>Collider anomaly</text>
-	</string>
-	<string id="st_pri_2c_04_o_anomaly_spot_name">
-		<text>Olympic anomaly</text>
-	</string>
-	<string id="st_aes_2c_01_ce_anomaly_spot_name">
-		<text>Gatekeeper anomaly</text>
-	</string>
-	<string id="st_aes_2c_02_p_anomaly_spot_name">
-		<text>Pylon anomaly</text>
-	</string>
-	<string id="st_aes2_2c_01_bo_anomaly_spot_name">
-		<text>Barrel Organ anomaly</text>
-	</string>
-	<string id="st_aes2_2c_02_at_anomaly_spot_name">
-		<text>Acid Trolley anomaly</text>
-	</string>
-	<string id="st_sar_2c_01_r_anomaly_spot_name">
-		<text>Reactor anomaly</text>
-	</string>
-	<string id="st_gen_2c_01_ss_anomaly_spot_name">
-		<text>Soul Stairway anomaly</text>
-	</string>
-	<string id="st_zat_fire_name">
-		<text>Barge Inferno anomaly</text>
-	</string>
-	<string id="st_zat_waste_name">
-		<text>Sullage anomaly</text>
-	</string>
-	<string id="st_zat_tide_name">
-		<text>Riptide anomaly</text>
-	</string>
-	<string id="st_jup_earth_name">
-		<text>Cracked Earth anomaly</text>
-	</string>
-	<string id="st_jup_grove_name">
-		<text>Rotten Grove anomaly</text>
-	</string>
-	<string id="st_pri_plug_name">
-		<text>Spark Plug anomaly</text>
-	</string>
-	<string id="st_pri_bath_name">
-		<text>Acid Bath anomaly</text>
+	<string id="st_pol_smart_terrain_1_1_anomaly_spot_name">
+		<text>Anomaly "meat mincer"</text>
+	</string>	
+	<string id="st_pol_smart_terrain_1_2_anomaly_spot_name">
+		<text>Anomaly "Volt"</text>
 	</string>
 </string_table>

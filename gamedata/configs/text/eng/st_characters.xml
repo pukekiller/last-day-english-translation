@@ -3,6 +3,9 @@
 	<string id="jup_a10_bandit_leader_name">
 		<text>Valet</text>
 	</string>
+	<string id="devushka">
+		<text>Hip</text>
+	</string>
 	<string id="jup_a10_stalker_vano">
 		<text>Vano</text>
 	</string>
@@ -746,7 +749,5 @@
 	<string id="st_mil_freedom_medic_name">
 		<text>Solid</text>
 	</string>
-	<string id="devushka">
-		<text>Hip</text>
-	</string>
+
 </string_table>

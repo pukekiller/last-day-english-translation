@@ -3,6 +3,12 @@
 	<string id="st_ignite_fire">
 		<text>Ignite ($$ACTION_USE$$)</text>
 	</string>
+	<string id="st_ignite_wait">
+		<text>You must wait a bit before rekindling again</text>
+	</string>
+	<string id="st_ignite_far">
+		<text>Either there is no campfire nearby, or you're standing way too far</text>
+	</string>
 	<string id="st_extinguish_fire">
 		<text>Extinguish ($$ACTION_USE$$)</text>
 	</string>

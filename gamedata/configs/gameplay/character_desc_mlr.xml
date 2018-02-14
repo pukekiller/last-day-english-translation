@@ -442,18 +442,13 @@ ammo_9x18_fmj = 3 \n
 	</supplies>
 
 #include "gameplay\character_criticals_5.xml"
-<actor_dialog>tech_a18_meet_dialog</actor_dialog>
-<actor_dialog>dm_tech_repair</actor_dialog>
-<actor_dialog>awr_tech_sell</actor_dialog>
-<actor_dialog>tech_a18_meet_dialog_2</actor_dialog>
-<actor_dialog>tech_a18_meet_dialog_1</actor_dialog>
-<start_dialog>zat_b22_stalker_medic_start</start_dialog>
-<actor_dialog>zat_b22_stalker_medic_need_health_care</actor_dialog>
+    <actor_dialog>dm_tech_repair</actor_dialog>
+	<actor_dialog>awr_tech_sell</actor_dialog>
 	<actor_dialog>awr_tech_dialog_drink_1</actor_dialog>
 	<actor_dialog>awr_tech_dialog_forgot_1</actor_dialog>
-	<actor_dialog>awr_tech_dialog_forgot_2</actor_dialog>
+	<actor_dialog>awr_tech_dialog_forgot_2</actor_dialog>												  
 	<actor_dialog>actor_break_dialog</actor_dialog>
-  </specific_character>
+</specific_character>
 
 <!-------------------------- Лидер мерков в магазине "Книги" ------------------------>
 <!--------------- Leader of the mercs at the book store in the Outskirts ------------>
@@ -780,6 +775,7 @@ ammo_9x19_fmj = 1 \n
 #include "gameplay\character_drugs.xml"
 </supplies>
 #include "gameplay\character_criticals_4.xml"
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 

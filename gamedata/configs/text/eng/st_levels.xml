@@ -100,6 +100,9 @@
 	<string id="zaton">
 		<text>Zaton</text>
 	</string>
+	<string id="y04_pole">
+		<text>Glade</text>
+	</string>
 
 	<!-- Level Changers -->
 	<string id="mar_space_restrictor_to_agroprom_descr">
@@ -194,5 +197,17 @@
 	</string>
 	<string id="space_restrictor_to_zaton_desc">
 		<text>To Zaton</text>
+	</string>
+	<string id="pol_space_restrictor_to_esc_1_descr">
+		<text>To Cordon</text>
+	</string>  	
+	<string id="pol_space_restrictor_to_val_1_descr">
+		<text>To the Dark Valley</text>
+	</string>   
+	<string id="esc_space_restrictor_to_pol_1_descr">
+		<text>To Glade</text>
+	</string>  	
+	<string id="val_space_restrictor_to_pole_1_descr">
+		<text>To Glade</text>
 	</string>
 </string_table>

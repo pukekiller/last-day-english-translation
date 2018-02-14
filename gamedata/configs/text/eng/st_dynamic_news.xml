@@ -18,6 +18,9 @@
 	<string id="st_dyn_news_boar_6">
 		<text>a pack of wild boars</text>
 	</string>
+	<string id="st_dyn_news_boar_7">
+		<text>boar</text>
+	</string>
 
 	<string id="st_dyn_news_dog_1">
 		<text>a dog</text>
@@ -36,6 +39,9 @@
 	</string>
 	<string id="st_dyn_news_dog_6">
 		<text>a pack of dogs</text>
+	</string>
+	<string id="st_dyn_news_dog_7">
+		<text>blind dog</text>
 	</string>
 
 	<string id="st_dyn_news_flesh_1">
@@ -56,6 +62,9 @@
 	<string id="st_dyn_news_flesh_6">
 		<text>A pound of fleshd</text>
 	</string>
+	<string id="st_dyn_news_flesh_7">
+		<text>flesh</text>
+	</string>
 
 	<string id="st_dyn_news_pseudodog_1">
 		<text>a pseudodog</text>
@@ -74,6 +83,9 @@
 	</string>
 	<string id="st_dyn_news_pseudodog_6">
 		<text>a pack of pseudodogs</text>
+	</string>
+	<string id="st_dyn_news_pseudodog_7">
+		<text>pseudodog</text>
 	</string>
 
 	<string id="st_dyn_news_snork_1">
@@ -94,6 +106,9 @@
 	<string id="st_dyn_news_snork_6">
 		<text>A group of snorks</text>
 	</string>
+	<string id="st_dyn_news_snork_7">
+		<text>snork</text>
+	</string>
 
 	<string id="st_dyn_news_bloodsucker_1">
 		<text>a bloodsucker</text>
@@ -112,6 +127,9 @@
 	</string>
 	<string id="st_dyn_news_bloodsucker_6">
 		<text>a pack of bloodsuckers</text>
+	</string>
+	<string id="st_dyn_news_bloodsucker_7">
+		<text>bloodsucker</text>
 	</string>
 
 	<string id="st_dyn_news_burer_1">
@@ -132,6 +150,9 @@
 	<string id="st_dyn_news_burer_6">
 		<text>A bunch of burers</text>
 	</string>
+	<string id="st_dyn_news_burer_7">
+		<text>burer</text>
+	</string>
 
 	<string id="st_dyn_news_chimera_1">
 		<text>a chimera</text>
@@ -150,6 +171,9 @@
 	</string>
 	<string id="st_dyn_news_chimera_6">
 		<text>a pack of chimeras</text>
+	</string>
+	<string id="st_dyn_news_chimera_7">
+		<text>chimera</text>
 	</string>
 
 	<string id="st_dyn_news_controller_1">
@@ -170,6 +194,9 @@
 	<string id="st_dyn_news_controller_6">
 		<text>A school of controllers</text>
 	</string>
+	<string id="st_dyn_news_controller_7">
+		<text>controller</text>
+	</string>
 
 	<string id="st_dyn_news_poltergeist_1">
 		<text>a poltergeist</text>
@@ -188,6 +215,9 @@
 	</string>
 	<string id="st_dyn_news_poltergeist_6">
 		<text>A couple poltergeists</text>
+	</string>
+	<string id="st_dyn_news_poltergeist_7">
+		<text>poltergeist</text>
 	</string>
 
 	<string id="st_dyn_news_gigant_1">
@@ -208,6 +238,9 @@
 	<string id="st_dyn_news_gigant_6">
 		<text>A couple pseudogiants</text>
 	</string>
+	<string id="st_dyn_news_gigant_7">
+		<text>pseudogiant</text>
+	</string>
 
 	<string id="st_dyn_news_tushkano_1">
 		<text>a tushkano</text>
@@ -226,6 +259,9 @@
 	</string>
 	<string id="st_dyn_news_tushkano_6">
 		<text>a pack of tushkano</text>
+	</string>
+	<string id="st_dyn_news_tushkano_7">
+		<text>tushkano</text>
 	</string>
 
 	<string id="st_dyn_news_psy_dog_1">
@@ -246,6 +282,9 @@
 	<string id="st_dyn_news_psy_dog_6">
 		<text>a pack of psy dogs</text>
 	</string>
+	<string id="st_dyn_news_psy_dog_7">
+		<text>psy-dog</text>
+	</string>
 
 	<string id="st_dyn_news_psy_dog_phantom_1">
 		<text>a phantom</text>
@@ -264,6 +303,9 @@
 	</string>
 	<string id="st_dyn_news_psy_dog_phantom_6">
 		<text>a pack of psy dogs</text>
+	</string>
+	<string id="st_dyn_news_psy_dog_phantom_7">
+		<text>phantom</text>
 	</string>
 
 	<string id="st_dyn_news_zombied_1">
@@ -284,6 +326,9 @@
 	<string id="st_dyn_news_zombied_6">
 		<text>A squad of zombies</text>
 	</string>
+	<string id="st_dyn_news_zombied_7">
+		<text>zombified stalker</text>
+	</string>
 
 	<string id="st_dyn_news_cat_1">
 		<text>a cat</text>
@@ -302,6 +347,9 @@
 	</string>
 	<string id="st_dyn_news_cat_6">
 		<text>A group of cats</text>
+	</string>
+	<string id="st_dyn_news_cat_7">
+		<text>cat</text>
 	</string>
 
 	<string id="st_dyn_news_fracture_1">
@@ -322,6 +370,9 @@
 	<string id="st_dyn_news_fracture_6">
 		<text>A group of fractures</text>
 	</string>
+	<string id="st_dyn_news_fracture_7">
+		<text>fracture</text>
+	</string>
 
 	<string id="st_dyn_news_zombie_1">
 		<text>zombie</text>
@@ -341,6 +392,9 @@
 	<string id="st_dyn_news_zombie_6">
 		<text>A bunch of zombies</text>
 	</string>
+	<string id="st_dyn_news_zombie_7">
+		<text>zombie</text>
+	</string>
 
 	<string id="st_dyn_news_rat_1">
 		<text>rat</text>
@@ -359,6 +413,9 @@
 	</string>
 	<string id="st_dyn_news_rat_6">
 		<text>A bunch of rats</text>
+	</string>
+	<string id="st_dyn_news_rat_7">
+		<text>rat</text>
 	</string>
 
 	

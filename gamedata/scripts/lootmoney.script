@@ -27,8 +27,7 @@ function lootmoney(npc)
 			npc:give_money(-money)
 			-- game_stats.money_quest_update(-money)
 	if (math.random(1,100) >= 90) then
-		local message = "Stash of " ..  npc:character_name()
-		coc_treasure_manager.create_random_stash(nil, message)
+		coc_treasure_manager.create_random_stash(nil,"Stash of " ..  npc:character_name())
 	end
 		end
 	end

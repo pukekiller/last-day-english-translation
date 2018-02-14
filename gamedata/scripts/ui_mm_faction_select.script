@@ -1,4 +1,7 @@
---=============================================================
+-- ================================== Modified by Tronex =================================
+-- Last modification: 2017/12/19
+-- Comments with (-->>) are modified parts
+--========================================================================================
 --
 -- Faction Select on Game Start (ui_mm_faction_select.script)
 --	CoC 1.4.22 - DoctorX Questlines 1.21
@@ -6,7 +9,7 @@
 --	Modified by: DoctorX
 --	Last revised: December 24, 2016
 --
---=============================================================
+--========================================================================================
 
 
 -- Faction Select for Call of Chernobyl
@@ -32,13 +35,13 @@ local function on_game_load(binder)
 
 	-- IRONMAN MODE
 	if (USE_MARSHAL) then
-		if (config:r_value("temp","new_game_hardcore_mode",1) == true) then
+		if (config:r_value("temp","new_game_hardcore_mode",1) == true) then		
 			-- shitty way to make a uuid but should be good enough to track the same saves
 			alife_storage_manager.get_state().uuid = GAME_VERSION .. "_" .. tostring(math.random(100)) .. tostring(math.random()) .. tostring(math.random(1000))
 			config:w_value("temp","new_game_hardcore_mode")
 			need_save = true
 		end
-		if (config:r_value("temp","new_game_survival_mode",1) == true) then
+		if (config:r_value("temp","new_game_survival_mode",1) == true) then		
 			alife_storage_manager.get_state().enable_survival_mode = true
 			config:w_value("temp","new_game_survival_mode")
 			need_save = true
@@ -48,42 +51,47 @@ local function on_game_load(binder)
 			config:w_value("temp","new_game_hardcore_aim_mode")
 			need_save = true
 		end
+		if (config:r_value("temp","new_game_azazel_mode",1) == true) then		-->> re-added
+			alife_storage_manager.get_state().enable_azazel_mode = true
+			config:w_value("temp","new_game_azazel_mode")
+			need_save = true
+		end
 	end
 
 	-- NEW CHARACTER NAME
-	local new_character_name = config:r_value("temp","new_game_character_name",3) or ""
+	local new_character_name = config:r_value("temp","new_game_character_name",3) or ""		
 	if (new_character_name and new_character_name ~= "") then
 		config:w_value("temp","new_game_character_name")
 		need_save = true
 
 		new_character_name = new_character_name:gsub("_"," ")
 
-		local data = stpk_utils.get_actor_data(se_actor)
-		if (data) then
+		local data = stpk_utils.get_actor_data(se_actor)		
+		if (data) then			
 			data.character_name = new_character_name
 			stpk_utils.set_actor_data(data,se_actor)
 		end
 	end
 
 	-- NEW CHARACTER ICON
-	local new_character_icon = config:r_value("temp","new_game_character_icon",3)
+	local new_character_icon = config:r_value("temp","new_game_character_icon",3)		
 	if (new_character_icon and new_character_icon ~= "") then
 		db.actor_binder.character_icon = new_character_icon
 
-		config:w_value("temp","new_game_character_icon")
+		config:w_value("temp","new_game_character_icon")		
 		need_save = true
 	end
 
 	-- NEW FACTION
-	local faction = config:r_value("temp","new_game_faction",3) or ""
+	local faction = config:r_value("temp","new_game_faction",3) or ""		
 
 	if (faction and faction ~= "") then
-		config:w_value("temp","new_game_faction")
+		config:w_value("temp","new_game_faction")		
 		need_save = true
 
 		-- Faction Spawn Position
-		local start_location = config:r_value("temp","new_game_faction_position")
-		config:w_value("temp","new_game_faction_position")
+		local start_location = config:r_value("temp","new_game_faction_position")		
+		config:w_value("temp","new_game_faction_position")		
 
 		if start_location and start_location ~= "" then
 			local loc_ini = ini_file("plugins\\faction_start_locations.ltx")
@@ -108,12 +116,31 @@ local function on_game_load(binder)
 		}
 
 		-- Enable the story quests, or disable their components depending on player choice and faction.
-		if (config:r_value("temp","new_game_story_mode",1) == true and story_factions[faction] and not has_alife_info("story_mode_disabled")) then
+		if (config:r_value("temp","new_game_story_mode",1) == true and story_factions[faction] and not has_alife_info("story_mode_disabled")) then		
             task_manager.get_task_manager():give_task("mar_find_doctor_task") -- main quest
 			task_manager.get_task_manager():give_task("turn_off_brain_scorcher") -- brain scorcher quest
 			task_manager.get_task_manager():give_task("turn_off_brain_machine") -- miracle machine quest
-		else
+		
+		
+		-->> if Azazel mode is choosen, disable story and all psi-generators
+		elseif (alife_storage_manager.get_state().enable_azazel_mode) then
+			-- Compatibility with many story-specific mechanics.
+			give_info("story_mode_disabled")
+			-- Turn off the Miracle Machine:
+			give_info("yan_labx16_switcher_1_off")
+			give_info("yan_labx16_switcher_2_off")
+			give_info("yan_labx16_switcher_3_off")
+			give_info("yan_labx16_switcher_primary_off")
 
+			-- Turn off the Brain Scorcher:
+			give_info("bar_deactivate_radar_done")
+
+			-- Turn off the Generators:
+			give_info("warlab_deactivate_generators_done")
+		
+		
+		-->> anything outside of Azazel and Story modes will give you Drx Questlines + Turn off psi-generators missions
+		else 
 			-- Compatibility with many story-specific mechanics.
 			give_info("story_mode_disabled")
 
@@ -130,7 +157,7 @@ local function on_game_load(binder)
 
 			-- Give deactivate Brain Scorcher task:
 			if ( faction ~= "monolith" ) then
-			task_manager.get_task_manager( ):give_task( "turn_off_brain_scorcher" )
+				task_manager.get_task_manager( ):give_task( "turn_off_brain_scorcher" )
 			else
 
 				-- Turn off the Miracle Machine:
@@ -146,8 +173,7 @@ local function on_game_load(binder)
 				give_info("warlab_deactivate_generators_done")
 
 			end
-			
-
+				
 			-- Determine total number of storyline tasks to complete for this game:
 			alun_utils.save_var( db.actor, "drx_sl_total_task_number", math.random( 8, 12 ) )  -- Set to range of total meet honcho tasks to complete to finish game
 			alun_utils.save_var( db.actor, "drx_sl_current_task_number", 1 )
@@ -205,15 +231,13 @@ local function on_game_load(binder)
 			end
 
 			-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-
- 		end
+		end
 
 		config:w_value("temp","new_game_story_mode") -- clear value
 
 		db.actor:set_character_community("actor_"..faction, 0, 0)
 
-		local communities = alun_utils.get_communities_list( )
+		local communities = alun_utils.get_communities_list( )		
 		for i, community in pairs( communities ) do
 			relation_registry.set_community_goodwill( community, 0, 0 )
 		end
@@ -245,27 +269,27 @@ local function on_game_load(binder)
 				end
 			end
 			
-			if (axr_main.config:r_value("mm_options","enable_dark_mode",1,false) == true) then
+			if (axr_main.config:r_value("mm_options","enable_dark_mode",1,false) == true) then		
 				sim:create("helm_resp",db.actor:position(),db.actor:level_vertex_id(),db.actor:game_vertex_id(),0)
 			end
-			if (axr_main.config:r_value("mm_options","enable_only_campfire",1,false) == true) then
+			if (axr_main.config:r_value("mm_options","enable_only_campfire",1,false) == true) then		
 				sim:create("matches",db.actor:position(),db.actor:level_vertex_id(),db.actor:game_vertex_id(),0)
 				sim:create("matches",db.actor:position(),db.actor:level_vertex_id(),db.actor:game_vertex_id(),0)
 			end
 			
 		end
 
-		local data = stpk_utils.get_actor_data(se_actor)
+		local data = stpk_utils.get_actor_data(se_actor)		
 		if (data) then
 			if (money_max) then
 				data.money = money_max
 			end
 
-			data.specific_character = "actor_"..faction
+			data.specific_character = "actor_"..faction		
 			stpk_utils.set_actor_data(data,se_actor)
 		end
 		-- mlr
-		if not mlr_utils.load_var('transitions_faction') then
+		if not mlr_utils.load_var('transitions_faction') then		
 			mlr_utils.save_var('transitions_faction', faction)
 		end
 		-- mlr
@@ -277,14 +301,14 @@ local function on_game_load(binder)
 end
 
 local function actor_on_first_update(binder,delta)
-	-- hardcore ai aim
+	-- hardcore ai aim		
 	local con = get_console()
-	if (alife_storage_manager.get_state().enable_hardcore_ai_aim) then
+	if (alife_storage_manager.get_state().enable_hardcore_ai_aim) then		
 		con:execute("ai_aim_max_angle 20.0")
 		con:execute("ai_aim_min_angle 17.0")
 		con:execute("ai_aim_min_speed 2.00")
 		con:execute("ai_aim_predict_time 0.28")
-	else
+	else		
 		con:execute("ai_aim_max_angle 0.7854")
 		con:execute("ai_aim_min_angle 0.19635")
 		con:execute("ai_aim_min_speed 0.24")
@@ -301,7 +325,7 @@ local function actor_on_first_update(binder,delta)
 
 	-- Survival mode
 	if (IsSurvivalMode()) then
-		if (faction == "zombied") then
+		if (faction == "zombied") then		
 			game_relations.change_factions_community_num("zombied",0,-5000)
 			game_relations.change_factions_community_num("monolith",0,-5000)
 		elseif (faction == "monolith") then
@@ -422,7 +446,7 @@ function faction_ui:InitControls(f)
 	self.character_name = xml:InitEditBox("main_dialog:input_character_name",self.dialog)
 	self:Register(self.character_name,"input_character_name")
 	-- Set Default Name
-	self.character_name:SetText("Last Day")
+	self.character_name:SetText("Player")		--> well...
 
 	-- Faction select menu
 	xml:InitStatic("main_dialog:cap_faction_name", self.dialog)
@@ -441,7 +465,7 @@ function faction_ui:InitControls(f)
 	self.scroll_v = xml:InitScrollView("main_dialog:description:scroll_v", self.dialog)
 
 	-- Icon
-	local _st = xml:InitStatic("main_dialog:description:templ_item",nil)
+	local _st = xml:InitStatic("main_dialog:description:templ_item",nil)	
 	self.char_icon = xml:InitStatic("main_dialog:description:char_icon",_st)
 	self.char_icon:InitTexture("ui_inGame2_Strelok")
 	self.scroll_v:AddWindow(_st, true)
@@ -461,18 +485,46 @@ function faction_ui:InitControls(f)
 	self:Register(self.icon_list, "list_icon")
 	self:load_icon_list()
 
-	if (USE_MARSHAL) then
+	if (USE_MARSHAL) then		
 	
 		xml:InitStatic("main_dialog:cap_check_story",self.dialog)
 		self.ck_story = xml:InitCheck("main_dialog:check_story",	self.dialog)
 		self:Register(self.ck_story,"check_story")
+		
+		xml:InitStatic("main_dialog:cap_check_hardcore",self.dialog)	-->> re-added
+		self.ck_hardcore = xml:InitCheck("main_dialog:check_hardcore",	self.dialog)
+		self:Register(self.ck_hardcore,"check_hardcore")
+		
+		xml:InitStatic("main_dialog:cap_check_azazel_mode",self.dialog)		-->> re-added
+		self.ck_azazel_mode = xml:InitCheck("main_dialog:check_azazel_mode",	self.dialog)
+		self:Register(self.ck_azazel_mode,"check_azazel_mode")
+		
+		xml:InitStatic("main_dialog:cap_check_survival",self.dialog)		-->> re-added
+		self.ck_survival = xml:InitCheck("main_dialog:check_survival",	self.dialog)
+		self:Register(self.ck_survival,"check_survival")
 	
 		self.ck_states = { 	["ck_survival"] = false,
 							["ck_hardcore"] = false,
 							["ck_hardcore_aim"] = false ,
+							["ck_azazel_mode"] = false ,
 							["ck_story"] = false
 		}
 	end
+	
+	-- Hint Window		-->> re-added
+	self.hint_wnd = xml:InitFrame("hint_wnd:background",self)
+	self.hint_wnd:SetAutoDelete(false)
+	self.hint_wnd_text = xml:InitTextWnd("hint_wnd:text",self.hint_wnd)
+	self.hint_wnd:Show(false)
+	
+	-- Message Window 		-->> re-added
+	self.msg_wnd = xml:InitFrame("hint_wnd:background",self)
+	self.msg_wnd:SetAutoDelete(false)
+	self.msg_wnd_text = xml:InitTextWnd("hint_wnd:text",self.msg_wnd)
+	self.msg_wnd_text:SetTextAlignment(2)
+	
+	self.msg_wnd:Show(false)
+	self.msg_wnd:SetColor(GetARGB(255,0,0,0))
 end
 
 function faction_ui:InitCallBacks(f)
@@ -484,14 +536,76 @@ function faction_ui:InitCallBacks(f)
 	self:AddCallback("list_starts", ui_events.LIST_ITEM_SELECT, self.OnSelectStartLocation, self)
 	self:AddCallback("list_icon", ui_events.LIST_ITEM_SELECT, self.OnSelectPortrait, self)
 
-	self:AddCallback("check_story", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)
-	self:AddCallback("check_survival", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)
-	self:AddCallback("check_hardcore", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)
-	self:AddCallback("check_hardcore_aim", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)
+	self:AddCallback("check_story", ui_events.BUTTON_CLICKED, self.OnCheckSetStory, self)	-->> modified
+	--self:AddCallback("check_survival", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)		
+	--self:AddCallback("check_hardcore", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)		
+	--self:AddCallback("check_hardcore_aim", ui_events.BUTTON_CLICKED, self.OnCheckSet, self)		
+	self:AddCallback("check_azazel_mode", ui_events.BUTTON_CLICKED, self.OnCheckSetAzazel, self)	-->> Added
 
 	for i=1,#f do
 		self:AddCallback("btn_"..f[i].."_inactive_select", ui_events.BUTTON_CLICKED, self["OnFaction_"..f[i]], self)
 	end
+end
+
+-------------------------------------------------------------------- start
+function faction_ui:Update()		-->> added
+	CUIScriptWnd.Update(self)
+	-- Warning messages timer 
+	if (self.msg_wnd_timer and time_global() > self.msg_wnd_timer) then 
+		self.msg_wnd_timer = nil
+		self.msg_wnd:Show(false)
+	end
+	
+	for ck_name,v in pairs(self.ck_states) do 
+		if (self[ck_name] and self[ck_name]:IsCursorOverWindow()) then
+			self:SetHint(game.translate_string("st_mm_"..ck_name.."_desc"))
+			return
+		end
+	end
+	self.hint_wnd:Show(false)
+end 
+
+function faction_ui:SetMsg(text,tmr)		-->> added
+	if (text == "") then 
+		return 
+	end
+	self.msg_wnd:Show(true)
+	self.msg_wnd_text:SetText(text)
+	self.msg_wnd_text:AdjustHeightToText()
+	self.msg_wnd_text:SetWndSize(vector2():set(820,self.msg_wnd_text:GetHeight()+10))
+	self.msg_wnd_text:SetWndPos(vector2():set(0,20))
+	
+	self.msg_wnd:SetWndSize(vector2():set(820,self.msg_wnd_text:GetHeight()+44))
+	self.msg_wnd:SetWndPos(vector2():set(0,80))
+
+	self.msg_wnd_timer = time_global() + 1000*tmr
+end
+
+function faction_ui:SetHint(text,pos)		-->> added
+	if (text == "") then
+		return
+	end
+	self.hint_wnd:Show(true)
+	self.hint_wnd_text:SetText(text)
+	self.hint_wnd_text:AdjustHeightToText()
+	self.hint_wnd:SetWndSize(vector2():set(self.hint_wnd:GetWidth(),self.hint_wnd_text:GetHeight()+44))
+	
+	pos = pos or GetCursorPosition()
+	pos.y = pos.y - self.hint_wnd:GetHeight()
+	pos.x = pos.x - self.hint_wnd:GetWidth()
+	self.hint_wnd:SetWndPos(pos)
+	
+	FitInRect(self.hint_wnd,Frect():set(0,0,1024,768),0,100)
+end
+
+function faction_ui:OnCheckSetStory()		-->> added, checking Story Mode will uncheck Azazel Mode
+	self.ck_azazel_mode:SetCheck(false)
+	self.ck_states["ck_azazel_mode"] = false
+end
+
+function faction_ui:OnCheckSetAzazel()		-->> added, checking Azazel Mode will uncheck Story Mode
+	self.ck_story:SetCheck(false)
+	self.ck_states["ck_story"] = false
 end
 
 function faction_ui:OnSelectStartLocation()
@@ -526,12 +640,12 @@ function faction_ui:load_icon_list()
 	local def_icon = "ui_inGame2_Strelok"
 
 	self.icon_list:ClearList()
-	self.icon_list:AddItem(def_icon)
-	self.icon_table = empty_table(self.icon_table)
+	self.icon_list:AddItem(def_icon)		
+	self.icon_table = empty_table(self.icon_table)		
 
 	local section = self.selected_faction.."_portraits"
 	local n = loc_ini:section_exist(section) and loc_ini:line_count(section) or 0
-	for i=0, n-1 do
+	for i=0, n-1 do	
 		local result, id, value = loc_ini:r_line(section,i,"","" )
 		self.icon_list:AddItem(id,i)
 		table.insert(self.icon_table,id)
@@ -541,7 +655,7 @@ function faction_ui:load_icon_list()
 	self.char_icon:InitTexture(def_icon)
 end
 
-function faction_ui:OnCheckSet()
+function faction_ui:OnCheckSet()		
 	local ck = nil
 	local value = nil
 	for k,v in pairs(self.ck_states) do
@@ -566,7 +680,7 @@ function faction_ui:OnRandomize()
 	if (faction == "army") then 
 		new_name = random_choice("Pvt.","Sr. Pvt.","Jr. Sgt.","Sgt.","Sr. Sgt.","Mr. Sgt.","Jr. Lt.","Lt.","Sr. Lt.","Cpt.") .. " "
 	end 
-	local first_name = {
+	local first_name = {		
 				"Aleksandr","Alex","Alexey","Anatoly","Andrey","Andryukha","Anton","Antonio","Arkasha","Artem","Arthur",
 				"Bodya","Bohdan","Bohdan","Borka","Borya","Boryan",
 				"Danko","Danya","Dennis","Dima","Dimitri","Dimka","Dimon","Dimukha","Dmitro","Dmitry","Dumb",
@@ -634,11 +748,12 @@ function faction_ui:OnRandomize()
 	end
 end
 
+-------------------------------------------------------------------------------------------- end
 function faction_ui:OnFactionSelect(faction)
 	local gs = game.translate_string
 	local desc = gs("st_faction_"..faction.."_desc") .. "\\n \\n"
 
-	desc = desc .. "%c[0,245,245,220]Relations:\\n"
+	desc = desc .. "%c[0,245,245,220]Отношения:\\n"
 
 	local t = {"stalker","bandit","csky","ecolog","army","monolith","dolg","freedom","killer"}
 	for i=1,#t do
@@ -804,10 +919,12 @@ function faction_ui:OnStartGame()
 --		self.start_list:SetText(game.translate_string("ui_st_"..self.start_table[index]))
 	end
 
-	axr_main.config:w_value("temp","new_game_hardcore_mode",axr_main.config:r_value("mm_options","enable_hardcore",1,false))
+	axr_main.config:w_value("temp","new_game_hardcore_mode",self.ck_hardcore and self.ck_hardcore:GetCheck() and true or nil) -->> modified, Ironman will be enabled from new-game menu
 	axr_main.config:w_value("temp","new_game_story_mode",self.ck_story and self.ck_story:GetCheck() and true or nil)
-	axr_main.config:w_value("temp","new_game_hardcore_aim_mode",self.ck_hardcore_aim and self.ck_hardcore_aim:GetCheck() and true or nil)
+	axr_main.config:w_value("temp","new_game_azazel_mode",self.ck_azazel_mode and self.ck_azazel_mode:GetCheck() and true or nil)	-->> re-added
 	axr_main.config:w_value("temp","new_game_survival_mode",self.ck_survival and self.ck_survival:GetCheck() and true or nil)
+	axr_main.config:w_value("temp","new_game_hardcore_aim_mode",self.ck_hardcore_aim and self.ck_hardcore_aim:GetCheck() and true or nil)
+	
 	axr_main.config:w_value("temp","new_game_faction",self.selected_faction or nil)
 	axr_main.config:w_value("temp","new_game_faction_position",self.start_location or nil)
 	axr_main.config:w_value("temp","new_game_loadout",self.loadout_str or nil)

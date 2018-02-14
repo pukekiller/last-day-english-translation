@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mm_unload_all_wpns">
+		<text>Discharge all weapons in the backpack</text>
+	</string>
+</string_table>

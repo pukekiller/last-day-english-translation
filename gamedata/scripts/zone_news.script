@@ -58,7 +58,7 @@ function death_npc(victim, who, post_message)
 	local victim_comm = victim:character_community()
 	local killer_comm = who:character_community()
 	local news_caption = game.translate_string("st_tip")
-	local error_text = "%c[255,255,160,0]Obituary:\\n%c[255,228,137,143]Dead stalker: %c[255,0,255,0]ERROR... Location... %c[255,0,255,0]ERROR...%c[default] %c[255,0,255,0]System failure."
+	local error_text = "%c[255,255,160,0]Obituary:\\n%c[255,228,137,143]Dead stalker: %c[default]" .. victim_name .. ". Location: " .. game.translate_string(m_s_level) .. "."
 	local default_text = "%c[255,255,160,0]Obituary:\\n%c[255,228,137,143]Dead stalker: %c[default]" .. victim_name .. " (" .. game.translate_string(victim_comm) .. "). Location: " ..  game.translate_string(m_s_level) .. "."
 	if killer_name == nil then
 		return send_message(news_caption, error_text, "ui_iconsTotal_news_death_vs")
