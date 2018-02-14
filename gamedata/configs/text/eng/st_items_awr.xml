@@ -1454,28 +1454,28 @@
 	
 <!-- Sell dialog -->
 	<string id="st_awr_sell_dialog_1">
-		<text>I need spare parts, do you know who can offer them?</text>
+		<text>I have spare parts, do you know who would buy them?</text>
 	</string>
 	<string id="st_awr_sell_dialog_2">
-		<text>Well, mechanics like me have all sort of useful stuff you can think of. I got a decent stock over here in case you need some, for the right price of course.</text>
+		<text>Mechanics like me store all sort of junk you can think of. I might buy what you got, for the right price of course.</text>
 	</string>
 	<string id="st_awr_sell_dialog_3">
-		<text>And what are your prices?</text>
+		<text>And what can you offer?</text>
 	</string>
 	<string id="st_awr_sell_dialog_4">
-		<text>Well, for new parts I want 300. The worn ones for 150. About the rest of the junk, i want 250 for new parts, and 125 for worn out items. Eh, 60 should be enough for rusty parts. There's not much you can do with them you know...</text>
+		<text>Well, for functional parts I can give you 300 RU per new part. The worn ones for 150. About the rest of the junk, you get 250 for new parts, and 125 for worn out parts. Eh, 60 should be good for rusty parts. These are not that useful you know...</text>
 	</string>
 	<string id="st_awr_sell_dialog_5">
-		<text>Hmmm, your prices are so-so. But I have nowhere to get these junk from. Damn it! here, take the money.</text>
+		<text>Hmmm, your offer is so-so. But I have no actual use for these. Here, give me the money.</text>
 	</string>
 	<string id="st_awr_sell_dialog_6">
-		<text>That's a bit expensive for me. Guess I'll think about it.</text>
+		<text>That's a bit cheap for me. Guess I'll think about it.</text>
 	</string>
 	<string id="st_awr_sell_dialog_7">
-		<text>There will be more in the future, you know where to find me if you need anything.</text>
+		<text>Nice doing business with you. If you got more spare parts, you know where to find me.</text>
 	</string>
 	<string id="st_awr_sell_dialog_8">
-		<text>Uh, thanks man.</text>
+		<text>Uh, I'll keep that in mind. Thanks.</text>
 	</string>
 	
 <!-- Help -->
