@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<string id="encyclopedia_items_misc">
+	<text>Items (Misc)</text>
+</string>
+
+<string id="encyclopedia_items_misc_textile_patch_b">
+<text>Cloth sheet</text>
+</string>
+<string id="encyclopedia_items_misc_textile_patch_b_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Simple cloth sheet, commonly used both to patch clothing and spread oils and cleaning solvents onto firearm mechanisms. Can be applied by any needle or glue.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+3%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_textile_patch_m">
+<text>Textile sheet</text>
+</string>
+<string id="encyclopedia_items_misc_textile_patch_m_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Sheet of military-grade textile that can be used for field repairs of clothing and light armor. Valued for its relatively low price and high versatility, this material is commonly used by the Zoners. Medium-grade sewing equipment and advanced glue required for use. It can also be used to improve spread of liquids during weapon maintenance.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+4%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_textile_patch_e">
+<text>Reinforced textile sheet</text>
+</string>
+<string id="encyclopedia_items_misc_textile_patch_e_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Thick textile patch reinforced with kevlar padding. Can be used to repair medium and heavy armors. Large enough to cover multiple damaged areas. High quality sewing kits and adhesives are required to make use of it. Its alternative usage is weapon lubrication and cleaning - due to increased hardness it's able reach even less accessible areas of firearm parts.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[0,100,100,255] • %c[0,140,140,140] high quality\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+6%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_steel_wool">
+<text>Steel wool</text>
+</string>
+<string id="encyclopedia_items_misc_steel_wool_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Steel wool, also known as wire wool or wire sponge, is a bundle of strands of very fine soft steel filaments. It is used as an abrasive in finishing and repair work for polishing wood or metal objects, cleaning household cookware, and sanding in light painting. Steel wool is made from low-carbon steel (carbon content is low enough to be close to plain iron). It is not made by drawing "steel wool wire" through a tapered die, but rather by a process more like broaching where a heavy steel wire is pulled through a toothed die that removes a thin wire shaving. Bundles of steel wool can be used in precision equipment cleaning and to improve spreading of lubricants and cleaning solvents.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+6%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_grease">
+<text>Industrial grease</text>
+</string>
+<string id="encyclopedia_items_misc_grease_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Grease is a semisolid lubricant. It generally consists of a soap emulsified with mineral or vegetable oil. Greases are applied to mechanisms that cannot be lubricated constantly or where typical lubricating oil would not stay in position. They also act as sealants to prevent ingress of water and incompressible materials. Grease-lubricated bearings have greater frictional characteristics due to their high viscosity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,100,100,255] • %c[0,140,140,140] high quality\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+6%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_repair_kit_p_empty">
+<text>Handgun repair kit (empty box)</text>
+</string>
+<string id="encyclopedia_items_misc_repair_kit_p_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty metal box which previously contained tools and spare parts usable for maintaining 9mm, .45 and .357 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+4%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_repair_kit_s_empty">
+<text>Shotgun repair kit (empty box)</text>
+</string>
+<string id="encyclopedia_items_misc_repair_kit_s_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty metal box which previously contained tools and spare parts usable for maintaining 12ga caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+4%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_repair_kit_r5_empty">
+<text>Smallbore rifle repair kit (empty box)</text>
+</string>
+<string id="encyclopedia_items_misc_repair_kit_r5_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty metal box which previously contained tools and spare parts usable for maintaining 5.45 and 5.56 caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+4%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_repair_kit_r7_empty">
+<text>Medium and large caliber rifle fixing kit (empty box)</text>
+</string>
+<string id="encyclopedia_items_misc_repair_kit_r7_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty metal box which previously contained tools and spare parts usable for maintaining large caliber firearms. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+4%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_armor_repair_pro_empty">
+<text>Field outfit repair kit (empty bag)</text>
+</string>
+<string id="encyclopedia_items_misc_armor_repair_pro_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty textile bag which previously contained tools and spare parts usable for maintaining combat armors. Even in its current state it can prove useful in repairing parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+3%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_helmet_repair_kit_empty">
+<text>Headgear repair kit (empty bag)</text>
+</string>
+<string id="encyclopedia_items_misc_helmet_repair_kit_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty textile bag which previously contained tools and spare parts usable for maintaining combat helmets. Even in its current state it can prove useful in repairing parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+3%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_repair_kit_empty">
+<text>Heavy outfit repair kit (empty box)</text>
+</string>
+<string id="encyclopedia_items_misc_repair_kit_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Empty reinforced metal box which previously contained tools and spare parts usable for complex maintenance of combat armors. Even in its current state it can prove useful in repairing metal parts of outfits. A low-value trading commodity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,140,140,140] outfit repairs (+5%)</text>
+</string>
+
+<string id="encyclopedia_items_misc_roubles">
+<text>Old coins</text>
+</string>
+<string id="encyclopedia_items_misc_roubles_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Trade in the Zone is conducted mainly by means of electronic transactions for safety and managing reasons. But many stalkers keep at least a few coins in their pockets in case they want to buy smaller things like cigarettes. This makes life easier and conserves battery life.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item</text>
+</string>
+<string id="encyclopedia_items_misc_clearsky_fp">
+<text>Clear Sky faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_clearsky_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_freedom_fp">
+<text>Freedom faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_freedom_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_stalker_fp">
+<text>Stalker faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_stalker_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_ecolog_fp">
+<text>Ecologist faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_ecolog_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_bandit_fp">
+<text>Bandit faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_bandit_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_dolg_fp">
+<text>Duty faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_dolg_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_monolith_fp">
+<text>Monolith faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_monolith_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_army_fp">
+<text>Military faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_army_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_merc_fp">
+<text>Mercenary faction patch</text>
+</string>
+<string id="encyclopedia_items_misc_merc_fp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Faction patches are often used to determine the rank of faction members, and the reasoning behind it is simple: the higher the count, the better the skills. They are also a proof that you won't hesitate to kill someone with your own hands to achieve your goals. For this reason, it can be extremely dangerous to display the patch to the wrong people, but it can also open important doors for you.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+1%)</text>
+</string>
+
+	
+<string id="encyclopedia_items_misc_shovel_old">
+<text>Metal shovel</text>
+</string>
+<string id="encyclopedia_items_misc_shovel_old_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]An old metal shovel used for various field purposes. Few people actually keep shovels in their backpacks as they are quite commonly found in the Zone, especially in industrial areas.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item</text>
+</string>
+<string id="encyclopedia_items_misc_shovel_mili">
+<text>Military field shovel</text>
+</string>
+<string id="encyclopedia_items_misc_shovel_mili_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]High-quality black military shovel. Used for numerous field purposes. Training regimen of Spetsnaz soldiers covers hand-to-hand combat and use of hand-held weapons and other equipment for the purposes of eliminating enemies. One famous example is the entrenching shovel which is a formidable weapon in close combat when used by a Spetsnaz operator.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item</text>
+</string>
+<string id="encyclopedia_items_misc_meinkampf">
+<text>Mein Kampf</text>
+</string>
+<string id="encyclopedia_items_misc_meinkampf_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Adolf Hitler's strategic memoires collected in a single book. The book and all that it stands for are hated by many, which makes this an item of high symbolic value. Adolf Hitler (20 April 1889 - 30 April 1945) was an Austrian-born German politician and the leader of the National Socialist German Workers Party (German: Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), commonly referred to as the Nazi Party). He was chancellor of Germany from 1933 to 1945 and dictator of Nazi Germany (as Fuhrer und Reichskanzler) from 1934 to 1945. Hitler is responsible for the founding of Nazism, the start of World War II, and the Holocaust.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_jar">
+<text>Plastic jar</text>
+</string>
+<string id="encyclopedia_items_misc_jar_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A handful of gold teeth in a small plastic jar filled with sand and leaves to minimize the noise while running. Liberating a fallen stalker of his teeth is a favored practice among bandits.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable</text>
+</string>
+<string id="encyclopedia_items_misc_grooming">
+<text>Grooming kit</text>
+</string>
+<string id="encyclopedia_items_misc_grooming_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Grooming kit that packs a ballistic nylon travel case with a beard and moustache comb and detail facial scissors, featuring man-sized finger rings, ultra-sharp cutting blades of stainless steel, non-slip rubberized grip, and a precision trimming tip.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] opening cans (single use)</text>
+</string>
+<string id="encyclopedia_items_misc_journal">
+<text>Personal journal</text>
+</string>
+<string id="encyclopedia_items_misc_journal_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Personal journal with a number of primitive maps and notations. In a leather binding. Simple survival tips for the common man and nothing of much value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_maps_kit">
+<text>Mapmaking kit</text>
+</string>
+<string id="encyclopedia_items_misc_maps_kit_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Mapmaking kit containing a set of pens and measurement instruments. All in a waterproof and camouflaged cover of high quality. Used by and issued to Ukrainian artillery personnel. Some maps have not yet been completed. Your PDA is much more useful than any of this.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+	
+	
+<string id="encyclopedia_items_misc_welding_goggles">
+<text>Welding goggles</text>
+</string>
+<string id="encyclopedia_items_misc_welding_goggles_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Old and corroded welding goggles with a broken leather band. Welding goggles are designed to provide eye protection while welding or cutting. Useless in their current state and of no to little value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item</text>
+</string>
+<string id="encyclopedia_items_misc_survival_kit">
+<text>Small survival kit</text>
+</string>
+<string id="encyclopedia_items_misc_survival_kit_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Survival kit containing fabric, sewing needles and a few leather strips. Primarily used as a means to stop the bleeding and treat lacerations, in the hands of a skilled user this small survival kit may prove essential during prolonged excursions in the Zone. It can also be utilized for outfit repairs of even most severe damage.\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[0,100,100,255] • %c[0,140,140,140] high quality\n
+%c[0,204,0,51] • %c[0,140,140,140] slow usage (field kit)\n
+%c[0,100,100,255] • %c[0,140,140,140] immediately stops heavy bleeding\n
+%c[0,204,0,51] • %c[0,140,140,140] prolonged body recovery time\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+7%)</text>
+</string>
+<string id="encyclopedia_items_misc_jewelry_box">
+<text>Decorated jewelry box</text>
+</string>
+<string id="encyclopedia_items_misc_jewelry_box_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A small box full of woman jewelry. It seems quite valuable but Zoners generally don't wear jewelry, except for bloodsucker teeth, so it's not likely to fetch a good price.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable</text>
+</string>
+<string id="encyclopedia_items_misc_cooking">
+<text>Field cooking kit</text>
+</string>
+<string id="encyclopedia_items_misc_cooking_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A field cooking travel kit. Contains cooking accessories and utensils for use when camping and travelling. Produces a lot of noise and is unwieldy due to its heavy weight. Very popular among larger groups of stalkers.\n \n
+%c[0,210,210,210]NOTES:\n \n
+%c[0,170,170,170]Although charcoal is available in the Zone at relatively cheap prices, you need to use a significant amount of it in order to prepare a single meal. For this reason, charcoal is not as cost effective as it would seem. On the other hand, it is relatively light, which makes it perfect for longer trips deep in the Zone.\n \n
+%c[0,170,170,170]Mutant meats that do not require high temperature to be prepared are referred to as 'low-tier', whereas those that require high temperature - 'high-tier'.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,0,255,30] • %c[0,140,140,140] low-tier field cooking equipment\n
+%c[0,0,255,30] • %c[0,140,140,140] fuel: %c[0,170,170,170] charcoal\n
+%c[0,0,255,30] • %c[0,140,140,140] usable for cooking meats of lesser mutants</text>
+</string>
+<string id="encyclopedia_items_misc_book1">
+<text>Mechanics manual</text>
+</string>
+<string id="encyclopedia_items_misc_book1_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Manual of mechanical engineering. Some people read such books to expand their expertise and learn more about the facilities and factories in the Zone. Low sale value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_book2">
+<text>Engineering manual</text>
+</string>
+<string id="encyclopedia_items_misc_book2_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Manual of industrial engineering. Some people read such books to expand their expertise and learn more about the facilities and factories in the Zone. Low sale value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_drugnotes">
+<text>Drug distribution notes</text>
+</string>
+<string id="encyclopedia_items_misc_drugnotes_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]This notebook describes various drug deals in detail. Specific nicknames, locations and time of meets. Some deals are executed through equipment exchanges and others are paid in large amounts of rubles. When browsing the pages, it becomes clear that Freedom is the main distributor of natural drugs such as marijuana. Bandits are producers and distributors of the more powerful (and dangerous) synthetic drugs like salicylic acid and cocaine. Apparently, every faction in the Zone takes part in these deals. In particular, Monolith seems to be taking in large amounts drugs in exchange for more expensive types of ammunition and equipment.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_picture_woman">
+<text>Picture of a woman</text>
+</string>
+<string id="encyclopedia_items_misc_picture_woman_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A small picture of a beautiful woman with blond hair. The name at the bottom of the picture has been crossed out. Wrapped in plastic.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+1%)</text>
+</string>
+<string id="encyclopedia_items_misc_drugs_kit">
+<text>Drug-making kit</text>
+</string>
+<string id="encyclopedia_items_misc_drugs_kit_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Small cases and various metal objects constitute a kit for managing and producing drugs. Some plastic bags contain pills and herbs.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,100,100,255] • %c[0,140,140,140] valuable\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+	
+<string id="encyclopedia_items_misc_porn2">
+<text>Ukrainian MAXIM</text>
+</string>
+<string id="encyclopedia_items_misc_porn2_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Glossy spreads with beautiful Slavic girls, featuring Joanna Krupa as the star of the month. A popular find among Zoners who need a psychological escape on a daily basis. The poster with Joanna has been removed.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+2%)</text>
+</string>
+<string id="encyclopedia_items_misc_boots">
+<text>Leather boots</text>
+</string>
+<string id="encyclopedia_items_misc_boots_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Everyone is aware of the importance of good gear. An extra pair of boots can prove extremely useful and may be the object of envy of other stalkers since it is such a rarity.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+4%)</text>
+</string>
+<string id="encyclopedia_items_misc_crowbar">
+<text>Crowbar (reusable)</text>
+</string>
+<string id="encyclopedia_items_misc_crowbar_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]The best tool for opening locks and unhinging doors. A common find in industrial areas. Some stalkers for reasons unknown keep it in their inventories in spite of its heavy weight. Low value. There was a famous Stalker who carried around a unique crowbar with the inscription saying "Property of Black Mesa". It is sought after to such an extent that some stalkers are searching for it as if they were looking for rare and valuable artifacts.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+3%)\n
+%c[255,238,153,26] • %c[0,140,140,140] unlimited usages</text>
+</string>
+	
+	
+<string id="encyclopedia_items_misc_batteries_dead_empty">
+<text>Old batteries (emptied)</text>
+</string>
+<string id="encyclopedia_items_misc_batteries_dead_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Only one out of ten batteries found in the Zone still carry some juice. These, however, are completely drained and because of that do not have any value whatsoever.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,100,100,255] • %c[0,140,140,140] UPD charge: %c[0,204,0,51] none\n
+%c[0,204,0,51] • %c[0,140,140,140] depleted</text>
+</string>
+<string id="encyclopedia_items_misc_batteries_empty">
+<text>Batteries (emptied)</text>
+</string>
+<string id="encyclopedia_items_misc_batteries_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]These batteries have been completely drained of whatever energy they once had. Their only value is the amount of metal they are made of.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,100,100,255] • %c[0,140,140,140] UPD charge: %c[0,204,0,51] none\n
+%c[0,204,0,51] • %c[0,140,140,140] depleted</text>
+</string>
+	
+	
+<string id="encyclopedia_items_misc_flashlight_broken">
+<text>Broken flashlight</text>
+</string>
+<string id="encyclopedia_items_misc_flashlight_broken_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]The handle is broken and even duct tape wouldn't be able to keep the batteries in place. This is no longer of any value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+<string id="encyclopedia_items_misc_underwear">
+<text>Soaked underwear</text>
+</string>
+<string id="encyclopedia_items_misc_underwear_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]An extra pair of socks, a shirt and pants could substantially increase your comfort. Unfortunately, this set is completely soaked. There is little chance any stalker will pay for this garbage. Although they might seem worthless, the material the underwear is made of can be used in armor and weapon maintenance.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[0,100,100,255] • %c[0,140,140,140] personal belongings\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+3%)</text>
+</string>
+<string id="encyclopedia_items_misc_wpn_spareparts">
+<text>Weapon spare parts</text>
+</string>
+<string id="encyclopedia_items_misc_wpn_spareparts_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Spare parts for what looks to be an AKM assault rifle. The wooden parts are not in a very good condition, and the same can be said of metal elements. Only novices would be interested in buying them. However, it seems that they may be useful for equipment repairs. Certain Zoners replace some parts when finding a new weapon out in the open in order to avoid being hunted for stealing from someone's stash.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+10%)</text>
+</string>
+<string id="encyclopedia_items_misc_beadspread">
+<text>Bed spread</text>
+</string>
+<string id="encyclopedia_items_misc_beadspread_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Luxury item in the Zone. It gives you extra 10 percent chance of a good night's sleep. Since there are only a few beds in safehouses in the Zone, having a sleeping bag and a bed spread may prove essential if you don't want to hit the wall in most inappropriate of circumstances. Bed spreads are included in the equipment of some military units.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+3%)</text>
+</string>
+<string id="encyclopedia_items_misc_walkie">
+<text>Walkie talkie</text>
+</string>
+<string id="encyclopedia_items_misc_walkie_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]The display is dead and there is a constant hiss from the speaker indicating that this is of no use. Has what appears to be mutant teeth marks on it.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+<string id="encyclopedia_items_misc_cards">
+<text>Deck of cards</text>
+</string>
+<string id="encyclopedia_items_misc_cards_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]It is important to divert your mind from suffering in this hellhole and focus on other, more pleasant things. Playing cards is a popular pastime, but a deck of cards can also be used for sorting special trades. The cover depicts the proud architectural design of the Moscow Metro.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item</text>
+</string>
+	
+<string id="encyclopedia_items_misc_ammo_bad">
+<text>Bad ammo</text>
+</string>
+<string id="encyclopedia_items_misc_ammo_bad_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Every stalker is aware of the importance of reliable weaponry. That's the reason a daily and thorough examination of your shooter is vital to your survival. Stalkers often count their ammo and clean it to minimize the risk of a weapon jam in the heat of battle. This ammo is in a bad condition and should be discarded.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+<string id="encyclopedia_items_misc_mili_maps">
+<text>Military maps</text>
+</string>
+<string id="encyclopedia_items_misc_mili_maps_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Maps showing the location of military camps around the Zone. Each PDA comes with these maps installed, so this item is of little use to anyone.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon maintenance (+3%)</text>
+</string>
+<string id="encyclopedia_items_misc_swiss">
+<text>Swiss knife (reusable)</text>
+</string>
+<string id="encyclopedia_items_misc_swiss_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Want to open cans of food, keep your mechanical gear tight, cut ropes or sharpen your best bullets? Use the universal and elegant Swiss knife. Packed in a small box. Commonly found in the Zone, so it is of little value. However, it can be utilized as a supportive material in both weapon and outfit repairs.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+2%)\n
+%c[255,238,153,26] • %c[0,140,140,140] unlimited usages</text>
+</string>
+<string id="encyclopedia_items_misc_headlamp">
+<text>Old head lamp</text>
+</string>
+<string id="encyclopedia_items_misc_headlamp_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Although few dare to explore the Zone during the night, there are circumstances where a head lamp is crucial. And another source of light won't hurt, because you never know when you'll have to move from place to place. Unfortunately, this particular unit has long seen its working days and can now only serve as a source of cheap spare parts.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+<string id="encyclopedia_items_misc_mirror">
+<text>Telescopic mirror</text>
+</string>
+<string id="encyclopedia_items_misc_mirror_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Small mirror mounted on a telescopic iron tube. A handy item used by fighters versed in the arts of urban combat as it allows to peek around corners without getting shot.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item</text>
+</string>
+	
+<string id="encyclopedia_items_misc_batteries_ccell_empty">
+<text>Military battery unit (emptied)</text>
+</string>
+<string id="encyclopedia_items_misc_batteries_ccell_empty_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]An empty military battery unit. If full they are very valuable and in high demand due to the relative scarcity of batteries in the Zone. However, now that the juice has run out they constitute a backpack burden.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,100,100,255] • %c[0,140,140,140] UPD charge: %c[0,204,0,51] none\n
+%c[0,204,0,51] • %c[0,140,140,140] depleted</text>
+</string>
+	
+<string id="encyclopedia_items_misc_hammer">
+<text>Old hammer (reusable)</text>
+</string>
+<string id="encyclopedia_items_misc_hammer_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Hammer with a wooden handle and an iron head. A common sight in industrial areas of the Zone. Despite its heavy weight, it's often carried in backpack due to its versatility.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+3%)\n
+%c[255,238,153,26] • %c[0,140,140,140] unlimited usages</text>
+</string>
+	
+<string id="encyclopedia_items_misc_tarpaulin">
+<text>Camouflaged tarpaulin</text>
+</string>
+<string id="encyclopedia_items_misc_tarpaulin_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A tarpaulin (or hootch) is a large sheet of strong, flexible, water-resistant or waterproof material, often cloth such as canvas or polyester coated with urethane, or made of plastics such as polyethylene. It has reinforced grommets at the corners and along the sides to form attachment points for rope, allowing them to be tied down or suspended. Serves many purposes, but is mainly used to create small and simple tent-like hideouts. Trading value is low due to easily found alternatives.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] military item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs, weapon maintenance (+5%)</text>
+</string>
+<string id="encyclopedia_items_misc_rope">
+<text>Rope</text>
+</string>
+<string id="encyclopedia_items_misc_rope_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A good rope serves many purposes, especially in a place like the Zone. Many stalkers can put it to good use, which generates a rather high trading value. About 10-meters long.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+3%)</text>
+</string>
+<string id="encyclopedia_items_misc_synthrope">
+<text>2 synthetic ropes</text>
+</string>
+<string id="encyclopedia_items_misc_synthrope_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Synthetic ropes are commonly found in military warehouses. But for some reason few military stalkers actually carry them. A good rope serves many purposes, especially in a place like the Zone. Many stalkers can put this to good use, which generates a rather high trading value. Each is about 5 meters long.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] outfit repairs (+4%)</text>
+</string>
+<string id="encyclopedia_items_misc_cutlery">
+<text>Field cutlery</text>
+</string>
+<string id="encyclopedia_items_misc_cutlery_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A spoon, a knife and a fork made of heavy steel. A robust and reasonably light cutlery set, ideal for backpacking and field exploration. The cutlery is held together by a copper cord. If cleaned properly and derusted, it would be safe to use.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] everyday item\n
+%c[255,238,153,26] • %c[0,140,140,140] usable for: %c[0,170,170,170] weapon cleaning and lubrication (+2%)</text>
+</string>
+	
+<string id="encyclopedia_items_misc_radio">
+<text>Small radio</text>
+</string>
+<string id="encyclopedia_items_misc_radio_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]Music is a good way to calm your nerves. But with a broken antenna this radio is of little use. Moisture and dirt have also damaged this item.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+<string id="encyclopedia_items_misc_radio2">
+<text>Broken radio</text>
+</string>
+<string id="encyclopedia_items_misc_radio2_text">
+<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A small radio in a poor condition. Dirty and damaged by moisture. The interior seems to be in quite a bad shape as the radio rattles when moved around. No to little value.\n \n
+%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n
+%c[0,100,100,255] • %c[0,140,140,140] technological item\n
+%c[0,204,0,51] • %c[0,140,140,140] broken beyond repair\n
+%c[0,204,0,51] • %c[0,140,140,140] unusable</text>
+</string>
+	
+</string_table>

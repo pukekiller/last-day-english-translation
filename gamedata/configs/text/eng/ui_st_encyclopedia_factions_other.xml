@@ -10,8 +10,8 @@
 	</string>
 	<string id="encyclopedia_factions_other_zombified_text">
 		<text>
-			%c[guide_blue]Zombified%c[default] stalkers are those who have fallen under the effects of a strong psi-field.\n
-			\n%c[guide_green]Information%c[default]\n
+			%c[0,153,255,255]Zombified%c[0,140,140,140] stalkers are those who have fallen under the effects of a strong psi-field.\n
+			\n%c[0,0,255,30]Information%c[0,140,140,140]\n
 			\nThese creatures lack the higher functions of the brain and act solely on residual reflexes and skills, incapable of conscious activity, and having a high threshold for pain.\n
 			\nThe mental and physical health of a zombified stalker will gradually deteriorate over time, eventually losing the last of their humanity, and becoming the mutant known as a zombie.\n
 			\nUnlike the mutant however, zombified stalkers are capable of using weapons and tools, and are frequently seen working together in groups, or with soldiers of the Monolith.\n

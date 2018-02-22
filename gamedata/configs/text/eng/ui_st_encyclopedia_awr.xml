@@ -1,1802 +1,1949 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-
 	<string id="encyclopedia_awr">
-	<text>Parts List [AWR]</text>
+	<text>AWR</text>
 	</string>
-
+	
+	<string id="encyclopedia_awr_awr">
+		<text>(Tutorial)</text>
+	</string>
+	<string id="encyclopedia_awr_awr_text">
+		<text>
+			%c[0,153,255,255]Advanced Weapon Repair (AWR)%c[0,140,140,140] allows the player to repair his/her weapon at a mechanic's workshop\vice.
+			\n \n%c[0,0,255,30]Information
+			\n%c[0,140,140,140]Instead of paying mechanics to repair your weapons, you can use their vices to do the repair yourself as long as you have the required gears.
+			\nThe repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 0-65, 0-75 and 0-85 determine the weapon status for each of the quality types:
+			\n%c[0,200,0,255]• %c[0,140,140,140]0-65% for rusty weapons.
+			\n%c[0,200,0,255]• %c[0,140,140,140]0-75% for worn weapons.
+			\n%c[0,200,0,255]• %c[0,140,140,140]0-85% for new weapons.
+			\n \n%c[0,0,255,30]Required items and tools
+			\n%c[0,200,0,255]• %c[0,140,140,140]Replacement parts (should be suitable for your weapons. You can get them by disassembling similar weapon types using the %c[255,238,153,26]Multitool%c[0,140,140,140])
+			\n%c[0,200,0,255]• %c[0,140,140,140]Weapon repair kit
+			\n%c[0,200,0,255]• %c[0,140,140,140]Weapon modification kits
+			\n \n%c[0,0,255,30]Repair and upgrade procedure
+			\n%c[0,140,140,140]Replacing parts when repairing weapons with a low state occurs in a certain sequence:
+			\n%c[0,200,0,255]• %c[0,140,140,140]At condition 0-20/0-25/0-30% - Replacement of barrel
+			\n%c[0,200,0,255]• %c[0,140,140,140]At condition 20-35/25-45/30-55% - Replacement of trigger (shock-trigger mechanism)
+			\n%c[0,200,0,255]• %c[0,140,140,140]At condition 35-45/45-60/55-70% - Replacement of breech head
+			\n%c[0,200,0,255]• %c[0,140,140,140]At condition 45-55/60-70/70-80% - Replacement of gas tube
+			\n%c[0,200,0,255]• %c[0,140,140,140]At condition 55-65/70-75/80-85% - Replacement of breech block
+			\n \n%c[0,153,255,255]The procedure goes like this:
+			\n%c[0,204,0,51]1• %c[0,140,140,140]Disassemble your weapon at a mechanic's vice.
+			\n%c[0,204,0,51]2• %c[0,140,140,140]Select a %c[255,238,153,26]weapon repair kit%c[0,140,140,140] to replace the weapon barrel with another barrel of the same caliber, this can be also done by using a %c[255,238,153,26]weapon upgrade kit%c[0,140,140,140] in a condition from 20-65%/25-75%/30-85%. Double click on the kit to apply the repair procedure.
+			\n%c[0,204,0,51]3• %c[0,140,140,140]Select a %c[255,238,153,26]Weapon modification kit%c[0,140,140,140] to replace the rest of parts in the list. 
+			\n%c[0,204,0,51]4• %c[0,140,140,140]Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of the %c[255,238,153,26]Weapon modification kit%c[0,140,140,140] (keep in mind that a modification kit can be used 3 times)
+			\n%c[0,204,0,51]5• %c[0,140,140,140]In case the replacement is successful, this procedure is repeated for all parts in the specified order
+			\n%c[0,204,0,51]6• %c[0,140,140,140]In case the part has been damaged, try again if there is a repair kit and any more weapon parts.
+			\n%c[0,204,0,51]7• %c[0,140,140,140]All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.
+			\n%c[0,204,0,51]8• %c[0,140,140,140]When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_awr_barrelkit_db_vertical">
+		<text>12mm double-barrel shotgun repair kit</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_db_vertical_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing weapon barrels of smooth-bore double-barrel at a mechanic's workshop. Includes a set of precision calibers grade 2 accuracy, a micrometer, as well as a set of special tools and a soldering kit. Can only be used to replace 12 gauge barrels at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_db_horizontal">
+		<text>12mm hammer type double-barrel shotgun repair kit</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_db_horizontal_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of double-barreled shotguns at a mechanic's workshop. It can only be used with parts of the 12mm caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_sb_smooth">
+		<text>12mm weapon repair kit [K]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_sb_smooth_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of semi-automatic rifles and shotguns at a mechanic's workshop. It can only be used with parts of the 12mm caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_rifle">
+		<text>7.62mm weapon repair kit [V]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_rifle_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of semi-automatic rifles at a mechanic's workshop. It can only be used with parts of the 7.62 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_792_rifle">
+		<text>7.92mm weapon repair kit [V]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_792_rifle_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of German semi-automatic rifles at a mechanic's workshop. It can only be used with parts of the 7.92 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_9x_auto">
+		<text>9mm weapon repair kit [А/PP]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_9x_auto_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of automatic rifles at a mechanic's workshop. It can only be used with parts of the 9mm caliber or, при расточке, the .45 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_9_auto_sil">
+		<text>9mm weapon repair kit for silenced weapons [А/PP]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_9_auto_sil_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of submachine guns and automatic rifles with integrated silencers at a mechanic's workshop. It can only be used with parts of the 9mm caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_auto">
+		<text>7.62mm weapon repair kit [А]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_auto_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of automatic weapons at a mechanic's workshop. It can only be used with parts of the 7.62 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_pp">
+		<text>7.62mm weapon repair kit [PP][PPSH]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_pp_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of Soviet submachine guns at a mechanic's workshop. It can only be used with parts of the 7.62 caliber caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military item\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_545_auto">
+		<text>5.45mm weapon repair kit [А]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_545_auto_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of automatic weapons at a mechanic's workshop. It can only be used with parts of the 5.45 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_556_auto">
+		<text>5.56mm weapon repair kit [А]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_556_auto_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of automatic weapons at a mechanic's workshop. It can only be used with parts of the 5.56 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_heavy">
+		<text>7.62mm weapon repair kit [P]</text>
+	</string>
+	<string id="encyclopedia_awr_barrelkit_762_heavy_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing barrels of machine guns at a mechanic's workshop. It can only be used with parts of the 7.62 caliber at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_awr_r_kit_u">
+		<text>Weapon modification kit</text>
+	</string>
+	<string id="encyclopedia_awr_awr_r_kit_u_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A special kit with tools designed for replacing weapon parts. It can only be used at a mechanic's workshop.\n \n%c[0,200,200,200]PROPERTIES:%c[0,140,140,140]\n \n%c[0,100,100,255] • %c[0,140,140,140] military part\n%c[255,238,153,26] • %c[0,140,140,140] must be used with:%c[0,170,170,170] mechanic's vise</text>
+	</string>
+	<string id="encyclopedia_awr_leatherman_tool">
+		<text>Multitool</text>
+	</string>
+	<string id="encyclopedia_awr_leatherman_tool_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A worn but functional multitool, used to disassemble weapons and armor on parts and to maintain worn and rusty trigger mechanisms. \n \n
+		%c[0,200,200,200]PROPERTIES:%c[0,140,140,140] \n
+		%c[0,100,100,255] • %c[0,140,140,140] military part \n \n
+		%c[0,200,200,200]AUXILIARY MATERIALS: \n
+		%c[255,238,153,26] • %c[0,140,140,140] gun lubricants %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] gasoline %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] kerosene %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] cloth or rags %c[0,170,170,170]
+		</text>
+	</string>
+	<string id="encyclopedia_awr_rasp_tool">
+		<text>File</text>
+	</string>
+	<string id="encyclopedia_awr_rasp_tool_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]A file, used to restore weapon parts such as a worn or rusty barrel or breech head. \n \n
+		%c[0,200,200,200]AUXILIARY MATERIALS: \n
+		%c[255,238,153,26] • %c[0,140,140,140] gun lubricants %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] industrial grease %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] kerosene %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] cloth or rags %c[0,170,170,170]
+		</text>
+	</string>
+	<string id="encyclopedia_awr_ramrod_tool">
+		<text>Ramrod</text>
+	</string>
+	<string id="encyclopedia_awr_ramrod_tool_text">
+		<text>%c[0,0,255,30]Information\n%c[0,140,140,140]An old ramrod consisting of three composite wooden parts, used to restore parts such as worn or rusty barrels and gas tubes. \n \n
+		%c[0,200,200,200]AUXILIARY MATERIALS: \n
+		%c[255,238,153,26] • %c[0,140,140,140] cleaning solvents %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] gasoline %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] kerosene %c[0,170,170,170] \n
+		%c[255,238,153,26] • %c[0,140,140,140] cloth or rags %c[0,170,170,170]
+		</text>
+	</string>
+	
+	
 	<string id="encyclopedia_awr_bolt_carrier_1">
-	<text>Longitudinal-sliding shutter with locking by turn [Russia]</text>
+	<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_1_text">
-	<text>\n%c[0,143, 188, 143]Sliding gate with locking by turn [Russia] is used in: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] АЕК-973\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-102\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-104\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-105\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 Eotech\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M PK-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U Snag\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-1a Groza-1\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] Zulu's PKM \n
-	%c[0,215,215,215]• %c[0,140,140,140] PKP Pecheng\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD "Lynx"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Vepr-12 Hammer\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] АЕК-973\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-102\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-104\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-105\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 Eotech\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M PK-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U Snag\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-1a Groza-1\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] Zulu's PKM \n
+	%c[0,100,100,255]• %c[0,140,140,140] PKP Pecheng\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD "Lynx"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Vepr-12 Hammer\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_2">
-	<text>Продольно-скользящий затвор с запираниеM поворотоM [Россия]</text>
+	<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_2_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий затвор с запираниеM поворотоM [Россия] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] 9A-91\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-4A\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-3M Vihr\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS "Tide"\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-3M Vihr\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS "Tide"\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_3">
-	<text>Продольно-скользящий затвор с запираниеM поворотоM [NATO]</text>
+	<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_3_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий затвор с запираниеM поворотоM [NATO] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 EOTech\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000(worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK416\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] M249 SAW\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550-S "Sniper"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 EOTech\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000(worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK416\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550-S "Sniper"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_4">
-	<text>Продольно-скользящий затвор с запираниеM перекосоM</text>
+	<text>Sliding bolt carrier with a locking bias</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_4_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий затвор с запираниеM перекосоM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Type 63\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Type 63\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_5">
-	<text>Продольно-скользящий полусвободный затвор</text>
+	<text>Half-free sliding bolt carrier</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_5_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий полусвободный затвор используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 "Frasier"\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 "Frasier"\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_6">
-	<text>Продольно-скользящий затвор с болтовыM запираниеM</text>
+	<text>Sliding bolt carrier with locking bolt</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_6_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий затвор с болтовыM запираниеM используется в: 
+	<text>\n%c[0,93,0,116]Used with:  
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 43\n
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96 AWSM\n
-	%c[0,215,215,215]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Sako TRG-42\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_bolt_carrier_10">
-	<text>Продольно-скользящий затвор с запираниеM поворотоM [NATO]</text>
-	</string>
-	<string id="encyclopedia_awr_bolt_carrier_10_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий затвор с запираниеM поворотоM [NATO] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] Galil ACE-21\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] USAS-12\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_bolt_carrier_11">
-	<text>Продольно-скользящий свободный затвор [ПП]</text>
-	</string>
-	<string id="encyclopedia_awr_bolt_carrier_11_text">
-	<text>\n%c[0,143, 188, 143]Продольно-скользящий свободный затвор [ПП] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19 Bizon\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19-01 Vityaz\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96 AWSM\n
+	%c[0,100,100,255]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Sako TRG-42\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_7">
-	<text>Затвор рычажного типа с запираниеM клиноM</text>
+	<text>Lever type bolt carrier with locking wedge</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_7_text">
-	<text>\n%c[0,143, 188, 143]Затвор рычажного типа с запираниеM клиноM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-25\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_2">
-	<text>Цевье продольно-скользящего типа [Р]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_2_text">
-	<text>\n%c[0,143, 188, 143]Цевье продольно-скользящего типа [Р] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_1">
-	<text>Газовая трубка [К]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_1_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [К] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] USAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] Vepr-12 Hammer\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_3">
-	<text>Газовая трубка [В]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_3_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [В] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-25\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Sako TRG-42\n
-	%c[0,215,215,215]• %c[0,140,140,140] Type 63\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_4">
-	<text>Газовая трубка [АС|ПП]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_4_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [АС|ПП] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] 9A-91\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19 Bizon\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-4A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-1a Groza-1\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 "Frasier"\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-3M Vihr\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS "Tide"\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19-01 Vityaz\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_5">
-	<text>Газовая трубка [А|В][Россия]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_5_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [А|В][Россия] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] АЕК-973\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-102\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-104\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-105\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 "Eotech"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M "PK-A"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U Snag\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD "Lynx"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_6">
-	<text>Газовая трубка [А|В][NATO]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_6_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [А|В][NATO] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] Galil ACE-21\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 EOTech\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000(worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK416\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550-S "Sniper"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_7">
-	<text>Газовая трубка [П]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_7_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [П] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] M249 SAW\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] Zulu's PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKP Pecheng\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_11">
-	<text>Газовая трубка [ПП]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_11_text">
-	<text>\n%c[0,143, 188, 143]Газовая трубка [ПП] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (worn)\n
-
-	</text>
-	</string>
-
-	<string id="encyclopedia_awr_gas_tube_8">
-	<text>Отсечка-отражатель [В]</text>
-	</string>
-	<string id="encyclopedia_awr_gas_tube_8_text">
-	<text>\n%c[0,143, 188, 143]Отсечка-отражатель [В] используется в: 
-	\n \n
-
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 43\n
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96 AWSM\n
-	%c[0,215,215,215]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-25\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_8">
-	<text>Колодка от бокфлинта [Р]</text>
+	<text>Chock from double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_8_text">
-	<text>\n%c[0,143, 188, 143]Колодка от бокфлинта [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with:  
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TОЗ-55 "Зубр"\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TОЗ-55 "Bison"\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_9">
-	<text>Колодка от курковки [Р]</text>
+	<text>Chock from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_9_text">
-	<text>\n%c[0,143, 188, 143]Колодка от курковки [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (refined obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+
+	</text>
+	</string>
+	
+	<string id="encyclopedia_awr_bolt_carrier_10">
+	<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
+	</string>
+	<string id="encyclopedia_awr_bolt_carrier_10_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] USAS-12\n
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_bolt_carrier_11">
+	<text>Longitudinal-a sliding free bolt carrier [PP]</text>
+	</string>
+	<string id="encyclopedia_awr_bolt_carrier_11_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19-01 Vityaz\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_2">
+	<text>Handguard [R]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_2_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (worn)\n
 
 	</text>
 	</string>
 
-	<string id="encyclopedia_awr_gas_tube_9">
-	<text>Эжектор от бокфлинта [Р]</text>
+	<string id="encyclopedia_awr_gas_tube_1">
+	<text>Gas tube [K]</text>
 	</string>
-	<string id="encyclopedia_awr_gas_tube_9_text">
-	<text>\n%c[0,143, 188, 143]Эжектор от бокфлинта [Р] используется в: 
+	<string id="encyclopedia_awr_gas_tube_1_text">
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TОЗ-55 "Зубр"\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] USAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] Vepr-12 Hammer\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_3">
+	<text>gas tube [V]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_3_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-25\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Sako TRG-42\n
+	%c[0,100,100,255]• %c[0,140,140,140] Type 63\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_4">
+	<text>gas tube [AS/PP]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_4_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-1a Groza-1\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 "Frasier"\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-3M Vihr\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS "Tide"\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19-01 Vityaz\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_5">
+	<text>gas tube [A|V][Russia]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_5_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] АЕК-973\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-102\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-104\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-105\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 "Eotech"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M "PK-A"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U Snag\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD "Lynx"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (worn)\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_6">
+	<text>gas tube [A|V][NATO]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_6_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 EOTech\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000(worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK416\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550-S "Sniper"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_7">
+	<text>gas tube [P]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_7_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] Zulu's PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKP Pecheng\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_11">
+	<text>gas tube [PP]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_11_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (worn)\n
+
+	</text>
+	</string>
+
+	<string id="encyclopedia_awr_gas_tube_8">
+	<text>Ejector [V]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_8_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96 AWSM\n
+	%c[0,100,100,255]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (worn)\n
+
+	</text>
+	</string>
+
+
+	<string id="encyclopedia_awr_gas_tube_9">
+	<text>Ejector from over-under double-barrel shotgun [R]</text>
+	</string>
+	<string id="encyclopedia_awr_gas_tube_9_text">
+	<text>\n%c[0,93,0,116]Used with: 
+	\n \n
+
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TОЗ-55 "Bison"\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_10">
-	<text>Эжектор от курковки [Р]</text>
+	<text>Ejector from an over-under double barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_10_text">
-	<text>\n%c[0,143, 188, 143]Эжектор от курковки [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (refined obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_1">
-	<text>Ствол [Р] 18.5MM</text>
+	<text>18.5mm barrel [R]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_1_text">
-	<text>\n%c[0,143, 188, 143]Ствол [Р] 18.5MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TОЗ-55 "Зубр"\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TОЗ-55 "Bison"\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_2">
-	<text>Ствол [Р] 18.5MM</text>
+	<text>18.5mm barrel [R]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_2_text">
-	<text>\n%c[0,143, 188, 143]Ствол [Р] 18.5MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (refined obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_3">
-	<text>Ствол [К] 18.5MM</text>
+	<text>18.5mm barrel [K]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_3_text">
-	<text>\n%c[0,143, 188, 143]Ствол [К] 18.5MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] USAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] Vepr-12 Hammer\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] USAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] Vepr-12 Hammer\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_4">
-	<text>Ствол [В] 7.62MM</text>
+	<text>7.62mm barrel [V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_4_text">
-	<text>\n%c[0,143, 188, 143]Ствол [В] 7.62MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96 AWSM\n
-	%c[0,215,215,215]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-25\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Sako TRG-42\n
-	%c[0,215,215,215]• %c[0,140,140,140] Type 63\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96 AWSM\n
+	%c[0,100,100,255]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-25\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Sako TRG-42\n
+	%c[0,100,100,255]• %c[0,140,140,140] Type 63\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_5">
-	<text>Ствол [В] 7.92MM</text>
+	<text>7.92mm barrel [V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_5_text">
-	<text>\n%c[0,143, 188, 143]Ствол [В] 7.92MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 43\n
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_6">
-	<text>Ствол-глушитель [АС|ПП] 9MM</text>
+	<text>9mm barrel-silencer [AS/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_6_text">
-	<text>\n%c[0,143, 188, 143]Ствол-глушитель [АС|ПП] 9MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS "Tide"\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS "Tide"\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_7">
-	<text>Ствол [А|В] 7.62MM</text>
+	<text>7.62mm barrel [A|V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_7_text">
-	<text>\n%c[0,143, 188, 143]Ствол [А|В] 7.62MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Galil ACE-21\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-104\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-1a Groza-1\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD "Lynx"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-104\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-1a Groza-1\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD "Lynx"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_8">
-	<text>Ствол [А] 5.45MM</text>
+	<text>5.45mm barrel [А]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_8_text">
-	<text>\n%c[0,143, 188, 143]Ствол [А] 5.45MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] АЕК-973\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-105\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 "Eotech"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M "PK-A"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U Snag\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] АЕК-973\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-105\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 "Eotech"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M "PK-A"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U Snag\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_9">
-	<text>Ствол [А] 5.56MM</text>
+	<text>5.56mm barrel [А]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_9_text">
-	<text>\n%c[0,143, 188, 143]Ствол [А] 5.56MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-102\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 EOTech\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000(worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK416\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] M249 SAW\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550-S "Sniper"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-102\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 EOTech\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000(worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK416\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550-S "Sniper"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_10">
-	<text>Ствол [П] 7.62MM</text>
+	<text>7.62mm barrel [P]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_10_text">
-	<text>\n%c[0,143, 188, 143]Ствол [П] 7.62MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] Zulu's PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKP Pecheng\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] Zulu's PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKP Pecheng\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_11">
-	<text>Ствол [АС|ПП] 9MM</text>
+	<text>9mm barrel [AS/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_11_text">
-	<text>\n%c[0,143, 188, 143]Ствол [АС|ПП] 9MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] 9A-91\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19 Bizon\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-4A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 "Frasier"\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-3M Vihr\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19-01 Vityaz\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 "Frasier"\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-3M Vihr\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19-01 Vityaz\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_barrel_12">
-	<text>Ствол [ПП] 7.62MM</text>
+	<text>7.62mm barrel [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_12_text">
-	<text>\n%c[0,143, 188, 143]Ствол [ПП] 7.62MM используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (old)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_1">
-	<text>Клин затвора [Р]</text>
+	<text>Dropping-block breech [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_1_text">
-	<text>\n%c[0,143, 188, 143]Клин затвора [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_2">
-	<text>Поворотная личинка [2 упора][П]</text>
+	<text>Rotating locking head [2 locks][P]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_2_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [2 упора][П] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] M249 SAW\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] Zulu's PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKP Pecheng\n
+	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] Zulu's PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKP Pecheng\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_3">
-	<text>Поворотная личинка [2 упора][К]</text>
+	<text>Rotating locking head [2 locks][K]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_3_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [2 упора][К] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] USAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] Vepr-12 Hammer\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] USAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] Vepr-12 Hammer\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_4">
-	<text>Поворотная личинка [2 упора][В]</text>
+	<text>Rotating locking head [2 locks][V]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_4_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [2 упора][В] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 43\n
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96 AWSM\n
-	%c[0,215,215,215]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Type 63\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96 AWSM\n
+	%c[0,100,100,255]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Type 63\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_5">
-	<text>Поворотная личинка [3 упора][В]</text>
+	<text>Rotating locking head [3 locks][V]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_5_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [3 упора][В] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] SVD\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD "Lynx"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Sako TRG-42\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD "Lynx"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Sako TRG-42\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_6">
-	<text>Поворотная личинка [2 упора][А]</text>
+	<text>Rotating locking head [2 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_6_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [2 упора][А] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] АЕК-973\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-102\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-104\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-105\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 "Eotech"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M "PK-A"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U Snag\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] АЕК-973\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-102\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-104\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-105\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 "Eotech"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M "PK-A"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U Snag\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_7">
-	<text>Поворотная личинка [4 упора][АС]</text>
+	<text>Rotating locking head [4 locks][AS]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_7_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [4 упора][АС] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] 9A-91\n
+	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_8">
-	<text>Вращающаяся личинка [6 упоров][А]</text>
+	<text>Rotating locking head [6 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_8_text">
-	<text>\n%c[0,143, 188, 143]Вращающаяся личинка [6 упоров][А] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-4A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-1a Groza-1\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-3M Vihr\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS "Tide"\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-1a Groza-1\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-3M Vihr\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS "Tide"\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_9">
-	<text>Вращающаяся личинка [7 упоров][А]</text>
+	<text>Rotating locking head [7 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_9_text">
-	<text>\n%c[0,143, 188, 143]Вращающаяся личинка [7 упоров][А] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 EOTech\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000(worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK416\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550-S "Sniper"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-25\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 EOTech\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000(worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK416\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550-S "Sniper"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-25\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_10">
-	<text>Вращающаяся личинка с [8 упоров][А]</text>
+	<text>Rotating locking head [8 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_10_text">
-	<text>\n%c[0,143, 188, 143]Вращающаяся личинка с [8 упоров][А] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_11">
-	<text>Нагнетатели с ударникоM от бокфлинта [Р]</text>
+	<text>Supercharger with hammer from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_11_text">
-	<text>\n%c[0,143, 188, 143]Нагнетатели с ударникоM от бокфлинта [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TОЗ-55 "Зубр"\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TОЗ-55 "Bison"\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_12">
-	<text>Курки от курковки [Р]</text>
+	<text>Hammers from a hammer-type double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_12_text">
-	<text>\n%c[0,143, 188, 143]Курки от курковки [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (refined obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_13">
-	<text>Поворотная личинка [2 упора][А][NATO]</text>
+	<text>Rotating locking head [2 locks][А][NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_13_text">
-	<text>\n%c[0,143, 188, 143]Поворотная личинка [2 упора][А][NATO] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Galil ACE-21\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_14">
-	<text>Роликовая личинка [А|ПП]</text>
+	<text>Rotating locking head [А/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_14_text">
-	<text>\n%c[0,143, 188, 143]Роликовая личинка [А|ПП] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 "Frasier"\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 "Frasier"\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_15">
-	<text>Ударник с боевой пружиной [ПП]</text>
+	<text>Drummer with the mainspring [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_15_text">
-	<text>\n%c[0,143, 188, 143]Ударник с боевой пружиной [ПП] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19 Bizon\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19-01 Vityaz\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19-01 Vityaz\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_16">
-	<text>Ударник с боевой пружиной [ПП][NATO]</text>
+	<text>Drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_16_text">
-	<text>\n%c[0,143, 188, 143]Ударник с боевой пружиной [ПП][NATO] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_bolt_17">
-	<text>Ударник с боевой пружиной [ПП][ППШ]</text>
+	<text>Drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_17_text">
-	<text>\n%c[0,143, 188, 143]Ударник с боевой пружиной [ПП][ППШ] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (old)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_1">
-	<text>ОднорежиMный УСM куркового типа</text>
+	<text>Single-mode hammer type trigger</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_1_text">
-	<text>\n%c[0,143, 188, 143]ОднорежиMный УСM куркового типа используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-133 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP-153 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] Zulu's PKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] PKP Pecheng\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S\n
-	%c[0,215,215,215]• %c[0,140,140,140] Saiga-12S (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550-S "Sniper"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SKS-45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-25\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD "Lynx"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SVT-40 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU-A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-03 SVU (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Sako TRG-42\n
-	%c[0,215,215,215]• %c[0,140,140,140] Type 63\n
-	%c[0,215,215,215]• %c[0,140,140,140] Vepr-12 Hammer\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-194 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-133 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP-153 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] Zulu's PKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] PKP Pecheng\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
+	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550-S "Sniper"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SKS-45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-25\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD "Lynx"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SVT-40 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU-A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-03 SVU (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Sako TRG-42\n
+	%c[0,100,100,255]• %c[0,140,140,140] Type 63\n
+	%c[0,100,100,255]• %c[0,140,140,140] Vepr-12 Hammer\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-194 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_2">
-	<text>ДвухрежиMный УСM куркового типа</text>
+	<text>Double fire mode trigger mechanism with hammer</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_2_text">
-	<text>\n%c[0,143, 188, 143]ДвухрежиMный УСM куркового типа используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] 9A-91\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil ACE-21\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-101 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-102\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-103 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-104\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-105\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 "Eotech"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M "PK-A"\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-74M (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U Snag\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74U (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKM (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKMS (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AKS-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (усовершенствованная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19 Bizon\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK G3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1\n
-	%c[0,215,215,215]• %c[0,140,140,140] G3 SG1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Galil AR (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-4A\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-14-1a Groza-1\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis\n
-	%c[0,215,215,215]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L85A2 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M4A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (alternative)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 "Frasier"\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5A3 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] MP5SD (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PPSh-41 (old)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK-74 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] RPK (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (new)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN SCAR-L (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SPAS-12 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] USAS-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSK-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Mодифицированный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-101 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-102\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-103 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-104\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-105\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 "Eotech"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M "PK-A"\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-74M (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U Snag\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74U (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKM (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKMS (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AKS-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK G3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1\n
+	%c[0,100,100,255]• %c[0,140,140,140] G3 SG1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Galil AR (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-14-1a Groza-1\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis\n
+	%c[0,100,100,255]• %c[0,140,140,140] OC-02 Kiparis (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L85A2 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M4A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (alternative)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 "Frasier"\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5A3 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] MP5SD (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41 (old)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK-74 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] RPK (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (new)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN SCAR-L (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SPAS-12 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] USAS-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSK-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (Freedom camouflage)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Skorpion vz.61 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_3">
-	<text>ТрехрежиMный УСM куркового типа</text>
+	<text>Triple fire mode trigger mechanism with hammer</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_3_text">
-	<text>\n%c[0,143, 188, 143]ТрехрежиMный УСM куркового типа используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AN-94 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (Duty camo)\n
-	%c[0,215,215,215]• %c[0,140,140,140] АЕК-973\n
-	%c[0,215,215,215]• %c[0,140,140,140] AEK-971 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AK-12\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 (Mодифицированная)\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000 EOTech\n
-	%c[0,215,215,215]• %c[0,140,140,140] FN F2000(worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K\n
-	%c[0,215,215,215]• %c[0,140,140,140] G36K (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] HK416\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] LR-300-ML (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] M16A2\n
-	%c[0,215,215,215]• %c[0,140,140,140] M249 SAW\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-2000\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (camouflaged)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 550 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando"\n
-	%c[0,215,215,215]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] НК UMP 45 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] PP-19-01 Vityaz\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AN-94 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (Duty camo)\n
+	%c[0,100,100,255]• %c[0,140,140,140] АЕК-973\n
+	%c[0,100,100,255]• %c[0,140,140,140] AEK-971 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AK-12\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 (Modified)\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000 EOTech\n
+	%c[0,100,100,255]• %c[0,140,140,140] FN F2000(worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K\n
+	%c[0,100,100,255]• %c[0,140,140,140] G36K (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] HK416\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] LR-300-ML (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] M16A2\n
+	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-2000\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (camouflaged)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 550 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando"\n
+	%c[0,100,100,255]• %c[0,140,140,140] SG 552 "Commando" (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] PP-19-01 Vityaz\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_4">
-	<text>ОднорежиMный УСM ударникового типа</text>
+	<text>Single fire mode trigger mechanism with firing pin</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_4_text">
-	<text>\n%c[0,143, 188, 143]ОднорежиMный УСM ударникового типа используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 43\n
-	%c[0,215,215,215]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96A1 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] L96 AWSM\n
-	%c[0,215,215,215]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant\n
-	%c[0,215,215,215]• %c[0,140,140,140] Mosin Nagant (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SV98 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
+	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 98 "Kurz"\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96A1 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] L96 AWSM\n
+	%c[0,100,100,255]• %c[0,140,140,140] M24 SWS "Green Dragon"\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant\n
+	%c[0,100,100,255]• %c[0,140,140,140] Mosin Nagant (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SV98 (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_5">
-	<text>ДвухрежиMный УСM ударникового типа</text>
+	<text>Double fire mode trigger mechanism with firing pin</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_5_text">
-	<text>\n%c[0,143, 188, 143]ДвухрежиMный УСM ударникового типа используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (modernized)\n
-	%c[0,215,215,215]• %c[0,140,140,140] AS Val (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] SR-3M Vihr\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS "Tide"\n
-	%c[0,215,215,215]• %c[0,140,140,140] VSS Vintorez (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (modernized)\n
+	%c[0,100,100,255]• %c[0,140,140,140] AS Val (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] SR-3M Vihr\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS "Tide"\n
+	%c[0,100,100,255]• %c[0,140,140,140] VSS Vintorez (worn)\n
 
 	</text>
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_6">
-	<text>УСM куркового типа [Р]</text>
+	<text>Trigger mechanism with hammer [R]</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_6_text">
-	<text>\n%c[0,143, 188, 143]УСM куркового типа [Р] используется в: 
+	<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (усовершенствованный)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TОЗ-55 "Зубр"\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (rusty)\n
-	%c[0,215,215,215]• %c[0,140,140,140] TOZ-34 (worn)\n
-
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (refined obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (improved)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TОЗ-55 "Bison"\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (custom obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (decorated obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn obrez)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (rusty)\n
+	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34 (worn)\n
 	</text>
 	</string>
-
-
-
 </string_table>
