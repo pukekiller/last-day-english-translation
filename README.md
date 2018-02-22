@@ -63,7 +63,7 @@ Translation progress by individual files can be found below.
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
 		- done
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- incomplete, unsorted
+		- unrevised
 	- [st_items_weapons_upgrades.xml](gamedata/configs/text/eng/st_items_weapons_upgrades.xml)
 		- done
 	- [st_jg.xml](gamedata/configs/text/eng/st_jg.xml)
@@ -97,9 +97,9 @@ Translation progress by individual files can be found below.
 	- [stable_treasure_manager.xml](gamedata/configs/text/eng/stable_treasure_manager.xml)
 		- done
 	- [ui_st_encyclopedia.xml](gamedata/configs/text/eng/ui_st_encyclopedia.xml)
-		- done   (taken from 1.5)
+		- done
 	- [ui_st_encyclopedia_awr.xml](gamedata/configs/text/eng/ui_st_encyclopedia_awr.xml)
-		- incomplete
+		- done
 	- [ui_st_faction_starts.xml](gamedata/configs/text/eng/ui_st_faction_starts.xml)
 		- done
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
@@ -135,11 +135,11 @@ Translation progress by individual files can be found below.
 	- [inventory_upgrades.script](gamedata/scripts/inventory_upgrades.script)
 		- done
 	- [pda_chat_names_lists_FonSwong.script](gamedata/scripts/pda_chat_names_lists_FonSwong.script)
-		- incomplete
+		- done
 	- [pda_chat_processor_FonSwong.script](gamedata/scripts/pda_chat_processor_FonSwong.script)
 		- incomplete
 	- [pda_FonSwong.script](gamedata/scripts/pda_FonSwong.script)
-		- incomplete
+		- done
 	- [transitions.script](gamedata/scripts/transitions.script)
 		- done
 	- [ui_itm_repair.script](gamedata/scripts/ui_itm_repair.script)
