@@ -146,6 +146,8 @@ Translation progress by individual files can be found below.
 		- done
 	- [ui_mm_faction_select.script](gamedata/scripts/ui_mm_faction_select.script)
 		- done
+	- [ui_pda_relations_tab.script](gamedata/scripts/ui_pda_relations_tab.script)
+		- done
 	- [ui_sr_teleport.script](gamedata/scripts/ui_sr_teleport.script)
 		- done
 	- [zone_new.script](gamedata/scripts/zone_new.script)
