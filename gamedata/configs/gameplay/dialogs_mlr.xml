@@ -362,11 +362,11 @@
 		<dont_has_info>meet_ds_killer_guide_main_base_over</dont_has_info>
 		<phrase_list>
 			<phrase id="0">
-				<text>meet_ds_killer_guide_main_base_0</text> <!-- trx, this has been edited in LD 1.3 +patch -->
+				<text>meet_ds_killer_guide_main_base_0</text>
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>meet_ds_killer_guide_main_base_1</text> <!-- trx, this has been edited in LD 1.3 +patch -->
+				<text>meet_ds_killer_guide_main_base_1</text>
 				<give_info>meet_ds_killer_guide_main_base_over</give_info>
 			</phrase>
 		</phrase_list>
@@ -3490,7 +3490,7 @@
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>talk_to_aslan_on_main_base_merk_1</text> <!-- trx, this has been edited in LD 1.3 +patch -->
+				<text>talk_to_aslan_on_main_base_merk_1</text>
 				<give_info>talk_to_aslan_on_main_base_merk_done</give_info>
 			</phrase>
 		</phrase_list>
@@ -3988,11 +3988,11 @@
 		<dont_has_info>guid_esc_mlr_military_give</dont_has_info>
 		<phrase_list>
 			<phrase id="0">
-				<text>guid_esc_mlr_military0</text>
+				<text>guid_esc_mlr_military_0</text>
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>guid_esc_mlr_military1</text>
+				<text>guid_esc_mlr_military_1</text>
 				<give_info>guid_esc_mlr_military_give</give_info>
 			</phrase>
 		</phrase_list>
@@ -4462,7 +4462,6 @@
 				<next>2</next>
 				<next>3</next>
 				<next>4</next>
-				<next>5</next>
 			</phrase>
 			<phrase id="2">
 				<text>travel_guid_zat_2</text>
@@ -4472,18 +4471,12 @@
 			</phrase>
 			<phrase id="3">
 				<text>travel_guid_zat_3</text>
-				<precondition>dialogs_mlr.have_money_to_pripyat_guid_zat</precondition>
-				<action>dialogs_mlr.sell_money_to_pripyat_guid_zat</action>
-				<action>dialogs_mlr.pripyat_guid</action>
-			</phrase>
-			<phrase id="4">
-				<text>travel_guid_zat_4</text>
 				<precondition>dialogs_mlr.have_money_to_zaton_guid_jup</precondition>
 				<action>dialogs_mlr.sell_money_to_zaton_guid_jup</action>
 				<action>dialogs_mlr.jupiter_guid</action>
 			</phrase>
-			<phrase id="5">
-				<text>travel_guid_zat_5</text>
+			<phrase id="4">
+				<text>travel_guid_zat_4</text>
 			</phrase>
 		</phrase_list>
 	</dialog>
@@ -6601,153 +6594,6 @@
 		</phrase_list>
 	</dialog>
 	
-	<dialog id="kridit1_b">
-		<dont_has_info>zaim1</dont_has_info>
-		<dont_has_info>zaim2</dont_has_info>
-		<dont_has_info>zaim3</dont_has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit1_b_0</text>
-				<next>1</next>
-				<next>6</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit1_b_1</text>
-				<give_info>zaim5</give_info>
-				<has_info>zaim4</has_info>
-				<next>2</next>
-				<next>3</next>
-				<next>4</next>
-				<next>5</next>
-			</phrase>
-			<phrase id="2">
-				<text>kridit1_b_2</text>
-				<action>kridit.zaim1</action>
-				<give_info>zaim1</give_info>
-				<give_info>zaim4</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<next>7</next>
-			</phrase>
-			<phrase id="3">
-				<text>kridit1_b_3</text>
-				<action>kridit.zaim2</action>
-				<give_info>zaim2</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<has_info>zaim5</has_info>
-				<next>9</next>
-			</phrase>
-			<phrase id="4">
-				<text>kridit1_b_4</text>
-				<action>kridit.zaim3</action>
-				<give_info>zaim3</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<has_info>zaim6</has_info>
-				<next>10</next>
-			</phrase>
-			<phrase id="5">
-				<text>kridit1_b_5</text>
-			</phrase>
-			<phrase id="6">
-				<text>kridit1_b_6</text>
-				<dont_has_info>zaim4</dont_has_info>
-				<next>2</next>
-				<next>5</next>
-			</phrase>
-			<phrase id="7">
-				<text>kridit1_b_7</text>
-				<give_info>zaim_deneg_7500</give_info>
-				<next>8</next>
-			</phrase>
-			<phrase id="8">
-				<text>kridit1_b_8</text>
-			</phrase>
-			<phrase id="9">
-				<text>kridit1_b_9</text>
-				<give_info>zaim_deneg_15000</give_info>
-				<next>8</next>
-			</phrase>
-			<phrase id="10">
-				<text>kridit1_b_10</text>
-				<give_info>zaim_deneg_22500</give_info>
-				<next>8</next>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit2_b">
-		<precondition>kridit.zaim7</precondition>
-		<has_info>zaim1</has_info>
-		<give_info>zaim4</give_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit2_b_0</text>
-				<disable_info>zaim_deneg_7500</disable_info>
-				<has_info>zaim1</has_info>
-				<action>kridit.zaim4</action>
-				<disable_info>zaim1</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit2_b_1</text>
-				<next>2</next>
-			</phrase>
-			<phrase id="2">
-				<text>kridit2_b_2</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit3_b">
-		<precondition>kridit.zaim8</precondition>
-		<has_info>zaim2</has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit3_b_0</text>
-				<disable_info>zaim_deneg_15000</disable_info>
-				<has_info>zaim2</has_info>
-				<give_info>zaim6</give_info>
-				<action>kridit.zaim5</action>
-				<disable_info>zaim2</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit3_b_1</text>
-				<next>3</next>
-			</phrase>
-			<phrase id="3">
-				<text>kridit3_b_3</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit4_b">
-		<precondition>kridit.zaim9</precondition>
-		<has_info>zaim3</has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit4_b_0</text>
-				<disable_info>zaim_deneg_22500</disable_info>
-				<has_info>zaim3</has_info>
-				<action>kridit.zaim6</action>
-				<disable_info>zaim3</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit1_b_0</text>
-				<next>4</next>
-			</phrase>
-			<phrase id="4">
-				<text>kridit4_b_4</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
 	<dialog id="kridit1_cs">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6891,153 +6737,6 @@
 			</phrase>
 			<phrase id="4">
 				<text>kridit4_cs_4</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit1_dolg">
-		<dont_has_info>zaim1</dont_has_info>
-		<dont_has_info>zaim2</dont_has_info>
-		<dont_has_info>zaim3</dont_has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit1_dolg_0</text>
-				<next>1</next>
-				<next>6</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit1_dolg_1</text>
-				<give_info>zaim5</give_info>
-				<has_info>zaim4</has_info>
-				<next>2</next>
-				<next>3</next>
-				<next>4</next>
-				<next>5</next>
-			</phrase>
-			<phrase id="2">
-				<text>kridit1_dolg_2</text>
-				<action>kridit.zaim1</action>
-				<give_info>zaim1</give_info>
-				<give_info>zaim4</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<next>7</next>
-			</phrase>
-			<phrase id="3">
-				<text>kridit1_dolg_3</text>
-				<action>kridit.zaim2</action>
-				<give_info>zaim2</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<has_info>zaim5</has_info>
-				<next>9</next>
-			</phrase>
-			<phrase id="4">
-				<text>kridit1_dolg_4</text>
-				<action>kridit.zaim3</action>
-				<give_info>zaim3</give_info>
-				<dont_has_info>zaim1</dont_has_info>
-				<dont_has_info>zaim2</dont_has_info>
-				<dont_has_info>zaim3</dont_has_info>
-				<has_info>zaim6</has_info>
-				<next>10</next>
-			</phrase>
-			<phrase id="5">
-				<text>kridit1_dolg_5</text>
-			</phrase>
-			<phrase id="6">
-				<text>kridit1_dolg_6</text>
-				<dont_has_info>zaim4</dont_has_info>
-				<next>2</next>
-				<next>5</next>
-			</phrase>
-			<phrase id="7">
-				<text>kridit1_dolg_7</text>
-				<give_info>zaim_deneg_7500</give_info>
-				<next>8</next>
-			</phrase>
-			<phrase id="8">
-				<text>kridit1_dolg_8</text>
-			</phrase>
-			<phrase id="9">
-				<text>kridit1_dolg_9</text>
-				<give_info>zaim_deneg_15000</give_info>
-				<next>8</next>
-			</phrase>
-			<phrase id="10">
-				<text>kridit1_dolg_10</text>
-				<give_info>zaim_deneg_22500</give_info>
-				<next>8</next>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit2_dolg">
-		<precondition>kridit.zaim7</precondition>
-		<has_info>zaim1</has_info>
-		<give_info>zaim4</give_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit2_dolg_0</text>
-				<disable_info>zaim_deneg_7500</disable_info>
-				<has_info>zaim1</has_info>
-				<action>kridit.zaim4</action>
-				<disable_info>zaim1</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit2_dolg_1</text>
-				<next>2</next>
-			</phrase>
-			<phrase id="2">
-				<text>kridit2_dolg_2</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit3_dolg">
-		<precondition>kridit.zaim8</precondition>
-		<has_info>zaim2</has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit3_dolg_0</text>
-				<disable_info>zaim_deneg_15000</disable_info>
-				<has_info>zaim2</has_info>
-				<give_info>zaim6</give_info>
-				<action>kridit.zaim5</action>
-				<disable_info>zaim2</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit3_dolg_1</text>
-				<next>3</next>
-			</phrase>
-			<phrase id="3">
-				<text>kridit3_dolg_2</text>
-			</phrase>
-		</phrase_list>
-	</dialog>
-	
-	<dialog id="kridit4_dolg">
-		<precondition>kridit.zaim9</precondition>
-		<has_info>zaim3</has_info>
-		<phrase_list>
-			<phrase id="0">
-				<text>kridit4_dolg_0</text>
-				<disable_info>zaim_deneg_22500</disable_info>
-				<has_info>zaim3</has_info>
-				<action>kridit.zaim6</action>
-				<disable_info>zaim3</disable_info>
-				<next>1</next>
-			</phrase>
-			<phrase id="1">
-				<text>kridit4_dolg_1</text>
-				<next>4</next>
-			</phrase>
-			<phrase id="4">
-				<text>kridit4_dolg_2</text>
 			</phrase>
 		</phrase_list>
 	</dialog>
