@@ -34,6 +34,7 @@ ammo_9x18_fmj = 1 \n
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_cancel_dialog</actor_dialog>
+<actor_dialog>dm_tech_repair</actor_dialog>
 <actor_dialog>awr_tech_sell</actor_dialog>
 <actor_dialog>awr_tech_dialog_drink_1</actor_dialog>
 <actor_dialog>awr_tech_dialog_forgot_1</actor_dialog>
@@ -70,6 +71,7 @@ ammo_9x19_fmj = 1 \n
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_cancel_dialog</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -348,7 +350,7 @@ ammo_9x19_fmj = 1 \n
 <name>agr_1_6_medic_army_mlr_name</name>
 <icon>ui_inGame2_Rogovets</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>agr_1_6_medic_army_mlr</class>
 <community>army</community>
@@ -385,7 +387,7 @@ ammo_9x18_fmj = 3 \n
 <name>agr_1_6_barman_army_mlr_name</name>
 <icon>ui_inGame2_barmen_army</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>agr_1_6_barman_army_mlr</class>
 <community>army</community>
@@ -419,7 +421,7 @@ ammo_9x18_fmj = 3 \n
 	<name>merc_pri_a18_mech_mlr_name</name>
 	<map_icon x="1" y="0"/>
 	<icon>ui_inGame2_merc_4</icon>
-	<bio>Информация отсутствует.</bio>
+	<bio>No information is available.</bio>
 
 	<class>merc_pri_a18_mech_mlr</class>
 	<community>killer</community>
@@ -457,7 +459,7 @@ ammo_9x18_fmj = 3 \n
 	<name>merc_pri_grifon_mlr_name</name>
 	<map_icon x="1" y="0"/>
 	<icon>ui_inGame2_mercenary3</icon>
-	<bio>Информация отсутствует.</bio>
+	<bio>No information is available.</bio>
 
 	<class>merc_pri_grifon_mlr</class>
 	<community>killer</community>
@@ -597,6 +599,7 @@ ammo_5.45x39_ap = 3 \n
 <actor_dialog>meet_zaton_killer_guide_station</actor_dialog>
 <actor_dialog>meet_zaton_killer_guide_station_list</actor_dialog>
 <actor_dialog>travel_zaton_killer_guide_station_base</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -667,6 +670,7 @@ ammo_5.45x39_ap = 3 \n
 #include "gameplay\character_drugs.xml"
 </supplies>
 #include "gameplay\character_criticals_4.xml"
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -717,7 +721,7 @@ ammo_5.45x39_ap = 3 \n
 <name>GENERATE_NAME_stalker</name>
 <icon>ui_inGame2_rabbit</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Детальная информация отсутствует.</bio>
+<bio>Детальная No information is available.</bio>
 
 <class>monolith_bridge_trader_mlr</class>
 <community>monolith</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -744,6 +748,7 @@ ammo_9x39_ap = 1 \n
 		<actor_dialog>meet_guid_red_forest_mon</actor_dialog>
 		<actor_dialog>meet_guid_red_forest_mon_list</actor_dialog>
 		<actor_dialog>travel_guid_red_forest_mon</actor_dialog>
+		<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -786,7 +791,7 @@ ammo_9x19_fmj = 1 \n
 <name>GENERATE_NAME_stalker</name>
 <icon>ui_inGame2_monolit_2</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Механик монолита.</bio>
+<bio>Monolith Mechanic.</bio>
 
 <class>mechanic_monolith_jup_depo</class>
 <community>monolith</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -826,7 +831,7 @@ ammo_5.45x39_ap = 1 \n
 <name>GENERATE_NAME_stalker</name>
 <icon>ui_inGame2_mono_old</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Монолитовец, снабжающий своих братьев снаряжением.</bio>
+<bio>Monolith, supplying his brothers with equipment.</bio>
 
 <class>trader_monolith_jup_depo</class>
 <community>monolith</community> <terrain_sect>stalker_terrain</terrain_sect>
@@ -861,7 +866,7 @@ ammo_9x39_ap = 1 \n
 <name>GENERATE_NAME_stalker</name>
 <icon>ui_inGame2_monolit_4</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Механик монолита.</bio>
+<bio>Monolith Mechanic.</bio>
 
 <class>mechanic_monolith_kbo</class>
 <community>monolith</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -901,7 +906,7 @@ ammo_5.45x39_ap = 1 \n
 <name>GENERATE_NAME_stalker</name>
 <icon>ui_inGame2_mono_old</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Монолитовец, снабжающий своих братьев снаряжением.</bio>
+<bio>Monolith, supplying his brothers with equipment.</bio>
 
 <class>trader_monolith_kbo</class>
 <community>monolith</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -925,6 +930,7 @@ ammo_9x39_ap = 1 \n
 		<actor_dialog>meet_guid_prikbo_mon</actor_dialog>
 		<actor_dialog>meet_guid_prikbo_mon_list</actor_dialog>
 		<actor_dialog>travel_guid_prikbo_mon_mon</actor_dialog>
+		<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -935,7 +941,7 @@ ammo_9x39_ap = 1 \n
 <name>lider_monolith_haron_name</name>
 <icon>ui_inGame2_monolit_4</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Лидер Монолита. Детальная информация отсутствует.</bio>
+<bio>Лидер Монолита. Детальная No information is available.</bio>
 
 <class>lider_monolith_haron</class>
 <community>monolith</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -1113,7 +1119,7 @@ ammo_9x18_fmj = 1 \n
 <name>mechanic_army_yan_mlr_name</name>
 <icon>ui_inGame2_Soldier_3</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>mechanic_army_yan_mlr</class>
 <community>ecolog</community>
@@ -1156,7 +1162,7 @@ detector_elite = 1 \n
 <name>yan_povar_army_mlr_name</name>
 <icon>ui_inGame2_Soldier_1</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>yan_povar_army_mlr</class>
 <community>ecolog</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -1191,7 +1197,7 @@ ammo_9x18_fmj = 3 \n
 <name>GENERATE_NAME_bandit</name>
 <icon>ui_inGame2_bandit_4</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>trucks_cemetery_bandit_trader</class>
 <community>bandit</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -1215,6 +1221,7 @@ ammo_9x19_pbp = 5 \n
 #include "gameplay\character_criticals_4.xml"
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -1225,7 +1232,7 @@ ammo_9x19_pbp = 5 \n
 <name>GENERATE_NAME_bandit</name>
 <icon>ui_inGame2_bandit_4</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>trucks_cemetery_bandit_mechanic</class>
 <community>bandit</community><terrain_sect>stalker_terrain</terrain_sect>
@@ -1265,7 +1272,7 @@ ammo_12x76_zhekan = 4 \n
 	<name>cit_killers_merc_barman_mlr_name</name>
 	<map_icon x="1" y="0"/>
 	<icon>ui_inGame2_merc_4</icon>
-	<bio>Информация отсутствует.</bio>
+	<bio>No information is available.</bio>
 
 	<class>cit_killers_merc_barman_mlr</class>
 	<community>killer</community>
@@ -1409,10 +1416,7 @@ ammo_5.45x39_ap = 3 \n
 <actor_dialog>guid_esc_mlr_military</actor_dialog>
 <actor_dialog>guid_esc_mlr_military_vert</actor_dialog>
 <actor_dialog>guid_esc_mlr_military_list</actor_dialog>
-<actor_dialog>kridit1_me</actor_dialog>
-<actor_dialog>kridit2_me</actor_dialog>
-<actor_dialog>kridit3_me</actor_dialog>
-<actor_dialog>kridit4_me</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -1638,7 +1642,7 @@ ammo_5.45x39_ap = 3 \n
 <name>guid_bar_stalker_navigator_name</name>
 <icon>ui_inGame2_neutral_2_mask</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>guid_bar_stalker_navigator</class>
 <community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
@@ -1675,7 +1679,7 @@ ammo_9x19_fmj = 2 \n
 <name>hunter_gar_trader_name</name>
 <icon>ui_inGame2_bandit_4</icon>
 <map_icon x="1" y="0"></map_icon>
-<bio>Информация отсутствует.</bio>
+<bio>No information is available.</bio>
 
 <class>hunter_gar_trader</class>
 <community>trader</community> <terrain_sect>stalker_terrain</terrain_sect>
