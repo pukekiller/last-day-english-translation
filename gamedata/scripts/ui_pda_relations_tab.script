@@ -324,16 +324,16 @@ function pda_relations_tab:Reset()
 			--if first row then goodwill
 			if(k == 0) then
 				r_val = relation_registry.community_goodwill(self.list[i],db.actor:id())
-				if r_val >= 1000 then
+				if r_val >= 2000 then
 					self.relations[i][k]:SetTextColor(GetARGB(255, 1, 255, 1))
 					self.relations[i][k]:SetText("Tier 4")
-				elseif r_val < 1000 and r_val >= 800 then
+				elseif r_val < 2000 and r_val >= 1500 then
 					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
 					self.relations[i][k]:SetText("Tier 3")
-				elseif r_val < 800 and r_val >= 600 then
+				elseif r_val < 1500 and r_val >= 1000 then
 					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
 					self.relations[i][k]:SetText("Tier 2")
-				elseif r_val < 600 and r_val >= 400 then
+				elseif r_val < 1000 and r_val >= 500 then
 					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
 					self.relations[i][k]:SetText("Tier 1")
 				else
