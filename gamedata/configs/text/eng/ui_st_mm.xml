@@ -482,7 +482,7 @@
 		<text>Helicopter patrols</text>
 	</string>
 	<string id="ui_mm_only_campfire">
-		<text>No manual saves (campfires)</text>
+		<text>Hardcore save: campfire</text> <!-- edited -->
 	</string>
 	<string id="ui_mm_use_battery">
 		<text>Use batteries</text>
@@ -573,5 +573,22 @@
 	</string>
 	<string id="st_cap_check_azazel_mode">
 		<text>Azazel mode</text>
+	</string>
+	
+	<!-- added -->
+	<string id="ui_mm_debug_map_hud">
+		<text>Debug HUD Mapspots</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Despawn old dropped items</text>
+	</string>
+	<string id="ui_mm_trx_save_on_timer">
+		<text>Hardcore save: timer</text>
+	</string>
+	<string id="ui_mm_trx_save_on_conditions">
+		<text>Hardcore save: conditions</text>
+	</string>
+	<string id="ui_mm_thirst_option">
+		<text>Thirst simulation</text>
 	</string>
 </string_table>
