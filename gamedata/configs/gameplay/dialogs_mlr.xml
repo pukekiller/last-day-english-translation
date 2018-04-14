@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="windows-1251"?>
 <game_dialogs>
 	<precondition>dialogs_mlr.request_to_trade</precondition>
 	<dialog id="request_to_no_go_nimble_bar">
@@ -15,7 +15,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="request_to_no_go_nimble_bar_1">
 		<has_info>request_to_no_go_nimble_bar1</has_info>
 		<dont_has_info>request_to_no_go_nimble_bar2</dont_has_info>
@@ -31,7 +31,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="request_to_no_go_nimble_bar_2">
 		<dont_has_info>request_to_no_go_nimble_bar1</dont_has_info>
 		<dont_has_info>request_to_no_go_nimble_bar3</dont_has_info>
@@ -47,7 +47,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guard1_meet_mlr">
 		<phrase_list>
 			<phrase id="0">
@@ -55,7 +55,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="request_go_to_nimble">
 		<has_info>request_to_no_go_nimble_bar2</has_info>
 		<dont_has_info>actor_meet_nimble_room</dont_has_info>
@@ -67,7 +67,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="about_freedom_lider_miklyha">
 		<dont_has_info>about_freedom_lider_miklyha</dont_has_info>
 		<phrase_list>
@@ -93,7 +93,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_4_2">
 		<precondition>dialogs_mlr.inf_trader_buy_transitions5</precondition>
 		<has_info>look_for_cs_history_part_4_give</has_info>
@@ -110,7 +110,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_4_1">
 		<precondition>dialogs_mlr.inf_trader_buy_transitions5</precondition>
 		<has_info>look_for_cs_history_part_3_2_give</has_info>
@@ -126,7 +126,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_3_1">
 		<has_info>give_look_for_cs_history_part_2</has_info>
 		<dont_has_info>look_for_cs_history_part_3_give</dont_has_info>
@@ -145,7 +145,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_3_2">
 		<has_info>look_for_cs_history_part_3_give</has_info>
 		<dont_has_info>look_for_cs_history_part_3_2_give</dont_has_info>
@@ -178,7 +178,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_2_1">
 		<has_info>look_for_cs_history_part_2_give</has_info>
 		<dont_has_info>give_look_for_cs_history_part_2</dont_has_info>
@@ -220,7 +220,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_1_1">
 		<precondition>dialogs_mlr.check_no_dolg</precondition>
 		<precondition>dialogs_mlr.check_no_killer</precondition>
@@ -254,7 +254,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="look_for_cs_history_part_1_2">
 		<has_info>look_for_cs_history_part_1_give</has_info>
 		<has_info>marsh_bs_lfchp1_squad_die</has_info>
@@ -276,7 +276,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="bandit_main_base_medic_mlr_heal">
 		<phrase_list>
 			<phrase id="0">
@@ -303,7 +303,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="ds_killer_medic_mlr_heal">
 		<phrase_list>
 			<phrase id="0">
@@ -330,7 +330,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="mil_freedom_medic_heal">
 		<phrase_list>
 			<phrase id="0">
@@ -357,7 +357,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_ds_killer_guide_main_base">
 		<dont_has_info>meet_ds_killer_guide_main_base_over</dont_has_info>
 		<phrase_list>
@@ -371,7 +371,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_ds_killer_guide_main_base_list">
 		<has_info>meet_ds_killer_guide_main_base_over</has_info>
 		<phrase_list>
@@ -384,7 +384,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_ds_killer_guide_main_base">
 		<has_info>meet_ds_killer_guide_main_base_over</has_info>
 		<phrase_list>
@@ -408,7 +408,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_zaton_killer_guide_station">
 		<precondition>dialogs_mlr.check_killer</precondition>
 		<dont_has_info>meet_zaton_killer_guide_station_over</dont_has_info>
@@ -423,7 +423,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_zaton_killer_guide_station_list">
 		<has_info>meet_zaton_killer_guide_station_over</has_info>
 		<phrase_list>
@@ -436,7 +436,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_zaton_killer_guide_station_base">
 		<has_info>meet_zaton_killer_guide_station_over</has_info>
 		<phrase_list>
@@ -460,7 +460,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="about_dog_marsh_part_two">
 		<has_info>story_dog_inf</has_info>
 		<has_info>noah_start_dialog2</has_info>
@@ -487,7 +487,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="talk_to_inf_trader">
 		<dont_has_info>talk_to_inf_trader1</dont_has_info>
 		<phrase_list>
@@ -501,7 +501,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="buy_information_from_trader">
 		<has_info>mar_doctor_found</has_info>
 		<phrase_list>
@@ -592,7 +592,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="inf_trader_buy_transitions">
 		<has_info>talk_to_inf_trader1</has_info>
 		<phrase_list>
@@ -720,7 +720,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="tasks_noah_dialog">
 		<has_info>noah_start_dialog3</has_info>
 		<phrase_list>
@@ -759,7 +759,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="task_1_noah_done">
 		<precondition>dialogs_mlr.has_wpn_protecta_task_noah_1</precondition>
 		<has_info>task_noah_1_dialog</has_info>
@@ -776,7 +776,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="task_2_noah_done">
 		<has_info>task_noah_2_dialog</has_info>
 		<has_info>simulation_snork_task_noah_2_death</has_info>
@@ -792,7 +792,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="noah_start_dialog">
 		<dont_has_info>noah_start_dialog1</dont_has_info>
 		<phrase_list>
@@ -814,7 +814,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="noah_start_dialog1">
 		<has_info>noah_start_dialog1</has_info>
 		<phrase_list>
@@ -884,7 +884,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_3_start">
 		<has_info>fanat_kmb_2_give1</has_info>
 		<dont_has_info>fanat_kmb_3_give</dont_has_info>
@@ -901,7 +901,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_3_start1">
 		<has_info>fanat_kmb_3_give</has_info>
 		<has_info>esc_5_9_atp_kmb_death</has_info>
@@ -917,7 +917,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_3_start2">
 		<has_info>fanat_kmb_3_give1</has_info>
 		<has_info>visit_esc_5_9_atp_kmb</has_info>
@@ -936,7 +936,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_2_start">
 		<has_info>fanat_kmb_1_give4</has_info>
 		<dont_has_info>fanat_kmb_2_give</dont_has_info>
@@ -952,7 +952,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_2_start1">
 		<has_info>fanat_kmb_2_give</has_info>
 		<has_info>fanat_kmb_2_open</has_info>
@@ -968,7 +968,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_1_start">
 		<dont_has_info>fanat_kmb_1_give</dont_has_info>
 		<phrase_list>
@@ -992,7 +992,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_1_start1">
 		<has_info>esc_2_14_boars_kmb_death</has_info>
 		<has_info>fanat_kmb_1_give</has_info>
@@ -1008,7 +1008,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_1_start2">
 		<has_info>visit_esc_1_11_kmb_restr</has_info>
 		<has_info>fanat_kmb_1_give1</has_info>
@@ -1028,7 +1028,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_1_start3">
 		<precondition>dialogs_mlr.has_1_11_af_medusa_kmb</precondition>
 		<has_info>fanat_kmb_1_give2</has_info>
@@ -1045,7 +1045,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="fanat_kmb_1_start4">
 		<has_info>visit_esc_2_12_village_kmb_restr</has_info>
 		<has_info>fanat_kmb_1_give3</has_info>
@@ -1062,8 +1062,8 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
-	
+
+
 	<!-- new dialog from LD 1.3 +patch starts here -->
 	<!--g0dl1ke-->
 	<dialog id="svarog_1_dialog">
@@ -1089,11 +1089,11 @@
 		<phrase id="4">
 			<text>svarog_1_dialog_4</text>
 			<next>5</next>
-		</phrase>	
+		</phrase>
 		<phrase id="5">
 			<text>svarog_1_dialog_5</text>
 			<next>6</next>
-		</phrase>		
+		</phrase>
 		<phrase id="6">
 			<text>svarog_1_dialog_6</text>
 			<next>7</next>
@@ -1112,7 +1112,7 @@
 		</phrase>
 	</phrase_list>
 	</dialog>
-	
+
 	<dialog id="devushka_1_start">
 	<dont_has_info>devushka_1_give</dont_has_info>
 	<dont_has_info>devushka_1_cancel</dont_has_info>
@@ -1150,7 +1150,7 @@
 		</phrase>
 	</phrase_list>
 	</dialog>
-	
+
 	<dialog id="devushka_2_start">
 	<has_info>devushka_1_give</has_info>
 	<dont_has_info>devushka_1_done</dont_has_info>
@@ -1302,7 +1302,7 @@
 		<phrase id="9">
 			<text>devushka_2_dialog_9</text>
 			<next>10</next>
-		</phrase>	
+		</phrase>
 		<phrase id="10">
 			<text>devushka_2_dialog_10</text>
 			<next>11</next>
@@ -1775,7 +1775,7 @@
 		</phrase_list>
 	</dialog>
 	<!-- new dialog from LD 1.3 +patch ends here -->
-	
+
 	<dialog id="zat_b3_stalker_tech_start_mlr">
 		<phrase_list>
 			<phrase id="0">
@@ -1783,7 +1783,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="gar_4_2_zombie_mlr_squad_1">
 		<has_info>hunter_trader_meet_info</has_info>
 		<dont_has_info>gar_4_2_zombie_mlr_squad_give</dont_has_info>
@@ -1811,7 +1811,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="gar_4_2_zombie_mlr_squad_2">
 		<has_info>gar_4_2_zombie_mlr_squad_death</has_info>
 		<dont_has_info>gar_4_2_zombie_mlr_squad_give2</dont_has_info>
@@ -1827,7 +1827,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="barmen_about_himself_1_6_army_mlr">
 		<dont_has_info>barmen_about_himself_1_6_army_mlr1</dont_has_info>
 		<phrase_list>
@@ -1849,7 +1849,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="rogovets_about_himself_1_6_army_mlr">
 		<dont_has_info>rogovets_about_himself_1_6_army_mlr1</dont_has_info>
 		<phrase_list>
@@ -1875,7 +1875,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="rogovets_hello_1_6_army_mlr">
 		<phrase_list>
 			<phrase id="0">
@@ -1883,7 +1883,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="rogovets_heal_1_6_army_mlr">
 		<phrase_list>
 			<phrase id="0">
@@ -1910,7 +1910,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_killer">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -1926,7 +1926,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_freedom">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -1942,7 +1942,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_csky">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -1958,7 +1958,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_haron">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -1974,7 +1974,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_owl">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -1989,7 +1989,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="find_blackbox_mlr_reward_army">
 		<precondition>dialogs_mlr.have_blackbox_mlr</precondition>
 		<phrase_list>
@@ -2006,7 +2006,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_barah_night">
 		<dont_has_info>information_about_stash_barah_night1</dont_has_info>
 		<phrase_list>
@@ -2020,7 +2020,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_barah_night1">
 		<precondition>dialogs_mlr.have_money_to_jupiter_guid_bar</precondition>
 		<has_info>information_about_stash_barah_night1</has_info>
@@ -2036,7 +2036,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_aslan">
 		<dont_has_info>information_about_stash_aslan1</dont_has_info>
 		<phrase_list>
@@ -2050,7 +2050,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_aslan1">
 		<precondition>dialogs_mlr.have_pri_special_trader_mlr_2</precondition>
 		<has_info>information_about_stash_aslan1</has_info>
@@ -2066,7 +2066,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_owl_zat">
 		<dont_has_info>information_about_stash_owl_zat1</dont_has_info>
 		<phrase_list>
@@ -2080,7 +2080,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_owl_zat1">
 		<precondition>dialogs_mlr.have_pri_special_trader_mlr_1</precondition>
 		<has_info>information_about_stash_owl_zat1</has_info>
@@ -2096,7 +2096,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_7_4_bandit_trader">
 		<dont_has_info>information_about_stash_7_4_bandit_trader1</dont_has_info>
 		<phrase_list>
@@ -2110,7 +2110,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_7_4_bandit_trader1">
 		<precondition>dialogs_mlr.have_pri_special_trader_mlr_3</precondition>
 		<has_info>information_about_stash_7_4_bandit_trader1</has_info>
@@ -2126,7 +2126,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_barmen">
 		<dont_has_info>information_about_stash_barmen1</dont_has_info>
 		<phrase_list>
@@ -2140,7 +2140,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="information_about_stash_barmen1">
 		<precondition>dialogs_mlr.have_pri_special_trader_mlr_3</precondition>
 		<has_info>information_about_stash_barmen1</has_info>
@@ -2156,7 +2156,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="tech_a18_meet_dialog">
 		<dont_has_info>tech_a18_meet_dialog1</dont_has_info>
 		<phrase_list>
@@ -2170,7 +2170,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="tech_a18_meet_dialog_1">
 		<has_info>tech_a18_meet_dialog1</has_info>
 		<phrase_list>
@@ -2183,7 +2183,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="tech_a18_meet_dialog_2">
 		<has_info>tech_a18_meet_dialog1</has_info>
 		<phrase_list>
@@ -2228,7 +2228,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="grifon_meet_dialog">
 		<precondition>dialogs_mlr.check_no_killer</precondition>
 		<dont_has_info>grifon_meet_dialog1</dont_has_info>
@@ -2251,7 +2251,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="task_find_inf_inx_8_mlr_1">
 		<has_info>grifon_meet_dialog1</has_info>
 		<dont_has_info>task_find_inf_inx_8_mlr_1</dont_has_info>
@@ -2278,7 +2278,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="task_find_inf_inx_8_mlr_2">
 		<has_info>task_find_inf_inx_8_mlr_1</has_info>
 		<has_info>grifon_meet_dialog1</has_info>
@@ -2300,7 +2300,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_l11pri_mon_haron">
 		<dont_has_info>meet_guid_l11pri_mon_haron_over</dont_has_info>
 		<phrase_list>
@@ -2314,7 +2314,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_l11pri_mon_haron_list">
 		<has_info>meet_guid_l11pri_mon_haron_over</has_info>
 		<phrase_list>
@@ -2327,7 +2327,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_l11pri_mon_haron">
 		<has_info>meet_guid_l11pri_mon_haron_over</has_info>
 		<phrase_list>
@@ -2365,7 +2365,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_red_forest_mon">
 		<dont_has_info>meet_guid_red_forest_mon_over</dont_has_info>
 		<phrase_list>
@@ -2379,7 +2379,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_red_forest_mon_list">
 		<has_info>meet_guid_red_forest_mon_over</has_info>
 		<phrase_list>
@@ -2392,7 +2392,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_red_forest_mon">
 		<has_info>meet_guid_red_forest_mon_over</has_info>
 		<phrase_list>
@@ -2430,7 +2430,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_prikbo_mon">
 		<dont_has_info>meet_guid_prikbo_mon_over</dont_has_info>
 		<phrase_list>
@@ -2444,7 +2444,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_prikbo_mon_list">
 		<has_info>meet_guid_prikbo_mon_over</has_info>
 		<phrase_list>
@@ -2457,7 +2457,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_prikbo_mon_mon">
 		<has_info>meet_guid_prikbo_mon_over</has_info>
 		<phrase_list>
@@ -2495,7 +2495,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_jupdepo_mon">
 		<dont_has_info>meet_guid_jupdepo_mon_over</dont_has_info>
 		<phrase_list>
@@ -2509,7 +2509,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_jupdepo_mon_list">
 		<has_info>meet_guid_jupdepo_mon_over</has_info>
 		<phrase_list>
@@ -2522,7 +2522,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_jupdepo_mon_mon">
 		<has_info>meet_guid_jupdepo_mon_over</has_info>
 		<phrase_list>
@@ -2560,7 +2560,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="remember_dyx_barter">
 		<has_info>meet_povar_army_inf</has_info>
 		<phrase_list>
@@ -2573,7 +2573,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="pri_special_trader_mlr1">
 		<dont_has_info>pri_special_trader_mlr_1</dont_has_info>
 		<phrase_list>
@@ -2587,7 +2587,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="pri_special_trader_mlr4">
 		<has_info>pri_special_trader_mlr_1</has_info>
 		<dont_has_info>pri_special_trader_mlr_2</dont_has_info>
@@ -2602,7 +2602,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="pri_special_trader_mlr2">
 		<dont_has_info>cancel_new_orders_pri_mlr</dont_has_info>
 		<has_info>pri_special_trader_mlr_1</has_info>
@@ -2808,7 +2808,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="pri_special_trader_mlr3">
 		<has_info>order_pri_mlr_is_done</has_info>
 		<phrase_list>
@@ -3084,7 +3084,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="mechanic_monolith_jup_depo_start">
 		<phrase_list>
 			<phrase id="0">
@@ -3092,7 +3092,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="mechanic_monolith_kbo_start">
 		<phrase_list>
 			<phrase id="0">
@@ -3100,7 +3100,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="trucks_cemetery_bandit_mechanic_start">
 		<phrase_list>
 			<phrase id="0">
@@ -3108,7 +3108,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="ashot_price_for_pathes_duty">
 		<dont_has_info>ashot_price_for_pathes_duty1</dont_has_info>
 		<phrase_list>
@@ -3122,7 +3122,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="ashot_price_for_pathes_duty1">
 		<has_info>ashot_price_for_pathes_duty1</has_info>
 		<phrase_list>
@@ -3183,7 +3183,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="barter_povar_army">
 		<has_info>barter_povar_start</has_info>
 		<precondition>dialogs_mlr.have_vodka5</precondition>
@@ -3280,7 +3280,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_povar_army">
 		<dont_has_info>meet_povar_army_inf</dont_has_info>
 		<phrase_list>
@@ -3307,7 +3307,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="baraholka_trader_talking">
 		<dont_has_info>baraholka_trader_talk</dont_has_info>
 		<phrase_list>
@@ -3329,7 +3329,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="army_yan_mec_about_tool">
 		<dont_has_info>army_yan_talk</dont_has_info>
 		<phrase_list>
@@ -3355,7 +3355,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="bar_dolg_medic_talking">
 		<dont_has_info>medic_dolg_bar_talk</dont_has_info>
 		<phrase_list>
@@ -3381,7 +3381,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="bar_dolg_medic_dialog">
 		<phrase_list>
 			<phrase id="0">
@@ -3408,7 +3408,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="zbar_dolg_medic_hello">
 		<phrase_list>
 			<phrase id="0">
@@ -3416,7 +3416,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="brain_on_staff_1">
 		<dont_has_info>brain_on_staff_1_done</dont_has_info>
 		<phrase_list>
@@ -3430,7 +3430,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="brain_on_staff">
 		<has_info>brain_on_staff_1_done</has_info>
 		<precondition>dialogs_mlr.has_controller_brain</precondition>
@@ -3472,7 +3472,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="talk_to_aslan_on_main_base_merk">
 		<precondition>dialogs_mlr.check_no_neutral</precondition>
 		<precondition>dialogs_mlr.check_no_dolg</precondition>
@@ -3495,7 +3495,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="talk_to_aslan_about_lottery">
 		<precondition>dialogs_mlr.check_no_neutral</precondition>
 		<precondition>dialogs_mlr.check_no_dolg</precondition>
@@ -3526,7 +3526,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="lottery_ds_aslan_mlr">
 		<precondition>dialogs_mlr.check_no_neutral</precondition>
 		<precondition>dialogs_mlr.check_no_dolg</precondition>
@@ -3881,7 +3881,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="mil_freedom_guid_meet">
 		<dont_has_info>mil_freedom_guid_meet_give</dont_has_info>
 		<phrase_list>
@@ -3907,7 +3907,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="mil_freedom_guid_go">
 		<has_info>mil_freedom_guid_meet_give</has_info>
 		<phrase_list>
@@ -3975,7 +3975,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_esc_mlr_military">
 		<precondition>dialogs_mlr.check_no_neutral</precondition>
 		<precondition>dialogs_mlr.check_no_dolg</precondition>
@@ -3988,16 +3988,16 @@
 		<dont_has_info>guid_esc_mlr_military_give</dont_has_info>
 		<phrase_list>
 			<phrase id="0">
-				<text>guid_esc_mlr_military_0</text>
+				<text>guid_esc_mlr_military0</text>
 				<next>1</next>
 			</phrase>
 			<phrase id="1">
-				<text>guid_esc_mlr_military_1</text>
+				<text>guid_esc_mlr_military1</text>
 				<give_info>guid_esc_mlr_military_give</give_info>
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_esc_mlr_military_list">
 		<precondition>dialogs_mlr.request_to_fly</precondition>
 		<has_info>guid_esc_mlr_military_give</has_info>
@@ -4011,7 +4011,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_esc_mlr_military_vert">
 		<precondition>dialogs_mlr.request_to_fly</precondition>
 		<precondition>dialogs_mlr.have_money_darkscape_guid_military</precondition>
@@ -4051,7 +4051,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_agr_mlr_military">
 		<dont_has_info>guid_agr_mlr_military_give</dont_has_info>
 		<phrase_list>
@@ -4065,7 +4065,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_agr_mlr_military_list">
 		<precondition>dialogs_mlr.request_to_fly</precondition>
 		<has_info>guid_agr_mlr_military_give</has_info>
@@ -4079,7 +4079,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="guid_agr_mlr_military_vert">
 		<precondition>dialogs_mlr.request_to_fly</precondition>
 		<precondition>dialogs_mlr.have_money_agroprom_guid_military</precondition>
@@ -4111,7 +4111,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_marsh_csky">
 		<dont_has_info>meet_guid_marsh_csky_over</dont_has_info>
 		<phrase_list>
@@ -4125,7 +4125,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_marsh_csky_list">
 		<has_info>meet_guid_marsh_csky_over</has_info>
 		<phrase_list>
@@ -4138,7 +4138,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_marsh_csky">
 		<precondition>dialogs_mlr.have_money_to_marsh_post_guid_marsh</precondition>
 		<has_info>meet_guid_marsh_csky_over</has_info>
@@ -4209,7 +4209,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_dv_bandit">
 		<dont_has_info>meet_guid_dv_bandit_over</dont_has_info>
 		<phrase_list>
@@ -4223,7 +4223,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_dv_bandit">
 		<has_info>meet_guid_dv_bandit_over</has_info>
 		<phrase_list>
@@ -4254,7 +4254,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_pri_stalker">
 		<dont_has_info>meet_guid_pri_stalker_over</dont_has_info>
 		<phrase_list>
@@ -4268,7 +4268,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_pri_stalker_list">
 		<has_info>meet_guid_pri_stalker_over</has_info>
 		<phrase_list>
@@ -4281,7 +4281,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_pri_stalker">
 		<precondition>dialogs_mlr.have_money_to_military_guid_bar</precondition>
 		<has_info>meet_guid_pri_stalker_over</has_info>
@@ -4341,7 +4341,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_jup">
 		<dont_has_info>meet_guid_jup_over</dont_has_info>
 		<phrase_list>
@@ -4355,7 +4355,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_jup_list">
 		<has_info>meet_guid_jup_over</has_info>
 		<phrase_list>
@@ -4368,7 +4368,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_jup">
 		<precondition>dialogs_mlr.have_money_to_jupiter_underground_guid_jup</precondition>
 		<has_info>meet_guid_jup_over</has_info>
@@ -4421,7 +4421,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_zat">
 		<dont_has_info>meet_guid_zat_over</dont_has_info>
 		<phrase_list>
@@ -4435,7 +4435,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_zat_list">
 		<has_info>meet_guid_zat_over</has_info>
 		<phrase_list>
@@ -4448,7 +4448,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_zat">
 		<precondition>dialogs_mlr.have_money_to_zaton_guid_jup</precondition>
 		<has_info>meet_guid_zat_over</has_info>
@@ -4480,7 +4480,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_bar">
 		<dont_has_info>meet_guid_bar_over</dont_has_info>
 		<phrase_list>
@@ -4494,7 +4494,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="meet_guid_bar_list">
 		<has_info>meet_guid_bar_over</has_info>
 		<phrase_list>
@@ -4507,7 +4507,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="travel_guid_bar">
 		<precondition>dialogs_mlr.have_money_to_garbage_guid_bar</precondition>
 		<has_info>meet_guid_bar_over</has_info>
@@ -4567,7 +4567,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="hunter_trader_meet">
 		<dont_has_info>hunter_trader_meet_info</dont_has_info>
 		<phrase_list>
@@ -4601,7 +4601,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="about_baraholka_hunter_trader">
 		<dont_has_info>about_baraholka_hunter_trader_info</dont_has_info>
 		<has_info>hunter_trader_meet_info</has_info>
@@ -4616,7 +4616,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="about_monsters_trader_hangar">
 		<has_info>hunter_trader_meet_info</has_info>
 		<phrase_list>
@@ -4686,7 +4686,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="request_to_no_trade_dialog">
 		<dont_has_info>request_to_no_trade1</dont_has_info>
 		<precondition>dialogs_mlr.request_to_no_trade</precondition>
@@ -4701,7 +4701,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="request_to_no_trade_dialog_monolith">
 		<dont_has_info>request_to_no_trade1</dont_has_info>
 		<precondition>dialogs_mlr.request_to_no_trade</precondition>
@@ -4716,7 +4716,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="low_level_of_buy_equpments">
 		<precondition>dialogs_mlr.request_to_trade</precondition>
 		<phrase_list>
@@ -4895,7 +4895,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="ussr_level_of_buy_equpments">
 		<precondition>dialogs_mlr.request_to_trade</precondition>
 		<phrase_list>
@@ -5098,7 +5098,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="euro_level_of_buy_equpments">
 		<precondition>dialogs_mlr.request_to_trade</precondition>
 		<phrase_list>
@@ -5317,7 +5317,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="in_freedom">
 		<precondition>dialogs_mlr.check_no_freedom</precondition>
 		<dont_has_info>in_freedom_inf</dont_has_info>
@@ -5332,7 +5332,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="in_freedom_1">
 		<has_info>in_freedom_inf</has_info>
 		<dont_has_info>in_freedom_over</dont_has_info>
@@ -5355,7 +5355,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="out_freedom">
 		<dont_has_info>in_freedom_over</dont_has_info>
 		<precondition>dialogs_mlr.check_freedom</precondition>
@@ -5371,7 +5371,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="story_dolg_lider_mlr">
 		<precondition>dialogs_mlr.check_dolg</precondition>
 		<dont_has_info>story_dolg_1_over</dont_has_info>
@@ -5406,7 +5406,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="story_dolg_p">
 		<dont_has_info>story_dolg_p_over</dont_has_info>
 		<phrase_list>
@@ -5432,7 +5432,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="story_dolg_m">
 		<dont_has_info>story_dolg_m</dont_has_info>
 		<phrase_list>
@@ -5458,7 +5458,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="story_b_cs">
 		<dont_has_info>story_b_cs</dont_has_info>
 		<phrase_list>
@@ -5500,7 +5500,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="story_dog">
 		<dont_has_info>story_dog_inf</dont_has_info>
 		<phrase_list>
@@ -5542,7 +5542,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="owl_story">
 		<dont_has_info>owl_story_inf</dont_has_info>
 		<phrase_list>
@@ -5568,7 +5568,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="boroda_story">
 		<dont_has_info>boroda_story_inf</dont_has_info>
 		<phrase_list>
@@ -5594,7 +5594,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="talk_to_maps">
 		<has_info>talk_to_inf_trader1</has_info>
 		<dont_has_info>talk_to_maps_inf</dont_has_info>
@@ -5629,7 +5629,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="aslan_st_about_job">
 		<precondition>dialogs_mlr.check_killer</precondition>
 		<dont_has_info>aslan_st_over</dont_has_info>
@@ -5672,7 +5672,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="bandit_mechanic_st">
 		<dont_has_info>bandit_mechanic_st_over</dont_has_info>
 		<phrase_list>
@@ -5730,7 +5730,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="bandit_trader_st">
 		<dont_has_info>bandit_trader_st_over</dont_has_info>
 		<phrase_list>
@@ -5788,7 +5788,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="sultan_st">
 		<dont_has_info>sultan_st_over</dont_has_info>
 		<phrase_list>
@@ -5838,7 +5838,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="army_south_mechan_mlr_st">
 		<dont_has_info>army_south_mechan_mlr_st_over</dont_has_info>
 		<phrase_list>
@@ -5888,7 +5888,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="zat_tech_mlr_st">
 		<has_info>kardan_st_done</has_info>
 		<dont_has_info>zat_tech_mlr_st_over</dont_has_info>
@@ -5939,7 +5939,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kardan_st">
 		<dont_has_info>kardan_st_done</dont_has_info>
 		<has_info>azot_st_done</has_info>
@@ -5990,7 +5990,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="azot_st">
 		<dont_has_info>azot_st_done</dont_has_info>
 		<phrase_list>
@@ -6040,7 +6040,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="loki_st">
 		<dont_has_info>loki_st_done</dont_has_info>
 		<phrase_list>
@@ -6098,7 +6098,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="monolith_show_path">
 		<precondition>transitions.check_rnd_transitions</precondition>
 		<precondition>dialogs_mlr.check_monolith</precondition>
@@ -6176,7 +6176,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="buy_perehod">
 		<precondition>transitions.check_rnd_transitions</precondition>
 		<phrase_list>
@@ -6200,7 +6200,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="buy_perehod_2">
 		<precondition>transitions.check_rnd_transitions</precondition>
 		<phrase_list>
@@ -6239,7 +6239,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="buy_perehod_3">
 		<precondition>transitions.check_rnd_transitions</precondition>
 		<phrase_list>
@@ -6278,7 +6278,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="buy_perehod_4">
 		<precondition>transitions.check_rnd_transitions</precondition>
 		<phrase_list>
@@ -6299,7 +6299,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_me">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6378,7 +6378,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_me">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -6401,7 +6401,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_me">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -6424,7 +6424,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_me">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
@@ -6446,7 +6446,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_kil">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6525,7 +6525,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_kil">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -6548,7 +6548,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_kil">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -6571,7 +6571,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_kil">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
@@ -6593,7 +6593,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_cs">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6672,7 +6672,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_cs">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -6695,7 +6695,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_cs">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -6718,7 +6718,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_cs">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
@@ -6740,7 +6740,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_fr">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6819,7 +6819,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_fr">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -6842,7 +6842,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_fr">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -6865,7 +6865,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_fr">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
@@ -6887,7 +6887,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_mon">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -6966,7 +6966,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_mon">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -6989,7 +6989,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_mon">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -7012,7 +7012,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_mon">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
@@ -7034,7 +7034,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit1_sak">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>
@@ -7113,7 +7113,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit2_sak">
 		<precondition>kridit.zaim7</precondition>
 		<has_info>zaim1</has_info>
@@ -7135,7 +7135,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit3_sak">
 		<precondition>kridit.zaim8</precondition>
 		<has_info>zaim2</has_info>
@@ -7159,7 +7159,7 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
+
 	<dialog id="kridit4_sak">
 		<precondition>kridit.zaim9</precondition>
 		<has_info>zaim3</has_info>
