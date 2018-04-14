@@ -563,32 +563,11 @@
 		<text>Debug save interval, min.</text>
 	</string>
 	<string id="ui_mm_localization">
-		<text>Localization</text>
-	</string>
-	<string id="ui_mm_r__enable_grass_shadow">
-		<text>Grass shadow</text>
-	</string>
-	<string id="ui_mm_cod_pickup_mode">
-		<text>AoE pickup mode</text>
-	</string>
-	<string id="st_cap_check_azazel_mode">
-		<text>Azazel mode</text>
+		<text>Localisation</text>
 	</string>
 	
-	<!-- added -->
-	<string id="ui_mm_debug_map_hud">
-		<text>Debug HUD Mapspots</text>
-	</string>
-	<string id="ui_mm_release_dropped_items">
-		<text>Despawn old dropped items</text>
-	</string>
-	<string id="ui_mm_trx_save_on_timer">
-		<text>Hardcore save: timer</text>
-	</string>
-	<string id="ui_mm_trx_save_on_conditions">
-		<text>Hardcore save: conditions</text>
-	</string>
-	<string id="ui_mm_thirst_option">
-		<text>Thirst simulation</text>
+	<!-- Re-added by Tronex-->
+	<string id="st_cap_check_azazel_mode">
+		<text>Azazel mode</text>
 	</string>
 </string_table>

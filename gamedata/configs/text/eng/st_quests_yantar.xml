@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="windows-1251" ?>
-
 <!--===========================================================
 <
 < TEXT  STRINGS FOR TASKS ON YANTAR MAP
@@ -163,6 +162,7 @@
 	<string id="yan_stalker_sakharov_task_1_fetch_finish">
 		<text>Thank you, sir. This will help immensely in my research.</text>
 	</string>
+
 	<!-- yan_stalker_sakharov -->
 	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
 		<text>Pick up Psi-Helmet</text>
@@ -170,6 +170,7 @@
 	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
 		<text>Professor Sakharov has agreed to recalibrate the psi-protection helmet. He asked you to come back to pick it up in a couple days.</text>
 	</string>
+
 	<string id="brain_machine_deactivate_name">
 		<text>Disable the Miracle Machine</text>
 	</string>

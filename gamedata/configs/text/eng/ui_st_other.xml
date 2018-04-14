@@ -289,7 +289,7 @@
 		<text>Zulu joins the squad</text>
 	</string>
 	<string id="st_save_jup_a10_gonna_return_debt">
-		<text>Vano’s debt repaid</text>
+		<text>Vano�s debt repaid</text>
 	</string>
 	<string id="st_save_jup_b218_vano_in_squad">
 		<text>Vano joins the squad</text>
@@ -325,7 +325,7 @@
 		<text>reinforcements arrived</text>
 	</string>
 	<string id="st_save_pri_a18_searched_antenna">
-		<text>“antenna” examined</text>
+		<text>�antenna� examined</text>
 	</string>
 	<string id="st_save_pri_a21_approached_mad_sentry">
 		<text>missing sentry found</text>
@@ -500,7 +500,7 @@
 		<text>End stealth mode</text>
 	</string>
 	<string id="st_set_companion_to_stealth_state">
-		<text>Скрытность</text>
+		<text>Stealth</text>
 	</string>
 
 	<!-- Sleep deprivation -->

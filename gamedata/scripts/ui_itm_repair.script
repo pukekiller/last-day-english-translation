@@ -548,8 +548,8 @@ function repair_ui:OnButton_repair()
 		if self.section =="toolkit_u_2" then
 		alife():create("toolkit_u", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
 		end	
-
-        -- exo_repair_kit x4
+		
+		-- exo_repair_kit x4
 		if self.section =="exo_repair_kit_4" then
 		alife():create("exo_repair_kit_3", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
 		end
@@ -613,7 +613,7 @@ function repair_ui:OnButton_repair()
 		end
 		if self.section =="proto_repair_kit_2" then
 		alife():create("proto_repair_kit", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
-		end		
+		end
 	
 		index = self.list_box_parts:GetSelectedIndex()
 		if (index ~= -1) then
@@ -810,7 +810,6 @@ function repair_ui:OnButton_repair()
 				if(se_parts)and(se_parts:section_name()=="toolkit_u_2")then
 				alife():create("toolkit_u", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
 				end
-				
 				-- exo_repair_kit x4
 				if(se_parts)and(se_parts:section_name()=="exo_repair_kit_4")then
 				alife():create("exo_repair_kit_3", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())

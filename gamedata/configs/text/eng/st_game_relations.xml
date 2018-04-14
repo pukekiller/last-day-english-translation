@@ -41,7 +41,7 @@
 	<string id="actor_zombied">
 		<text>Zombified</text>
 	</string>
-	<!-- NPC Factions -->
+
 	<string id="army">
 		<text>Military</text>
 	</string>
@@ -147,6 +147,7 @@
 	<string id="st_reputation_excellent">
 		<text>Excellent</text>
 	</string>
+
 	<!-- Notifications -->
 	<string id="st_rank_increased">
 		<text>Your rank has improved.</text>

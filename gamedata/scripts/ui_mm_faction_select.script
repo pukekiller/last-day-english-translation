@@ -446,7 +446,7 @@ function faction_ui:InitControls(f)
 	self.character_name = xml:InitEditBox("main_dialog:input_character_name",self.dialog)
 	self:Register(self.character_name,"input_character_name")
 	-- Set Default Name
-	self.character_name:SetText("Player")		--> well...
+	self.character_name:SetText("Last Day")		--> well...
 
 	-- Faction select menu
 	xml:InitStatic("main_dialog:cap_faction_name", self.dialog)
@@ -773,45 +773,17 @@ function faction_ui:OnFactionSelect(faction)
 
 	desc = desc .. "\\n \\n"
 
-	if axr_main.config:r_value("temp","custom_loadout",1) then
-		self.default_loadout = alun_utils.collect_sections(self.ini,{"custom"})
+	self.default_loadout = alun_utils.collect_sections(self.ini,{faction,math.random(1,5)})
+--[[ com	local weapon = alun_utils.collect_section(self.ini,"choose_only_one")
+	weapon = weapon[math.random(#weapon)]
 
+	local ammo = sys_ini:r_string_ex(weapon,"ammo_class")
+	ammo = alun_utils.str_explode(ammo,",")
+	ammo = ammo[math.random(#ammo)]
 
+	self.default_loadout[weapon] = 1
+	self.default_loadout[ammo] = 2 ]]
 
-		local weapons = alun_utils.str_explode(self.default_loadout["weapons"],",")
-		for _, w in ipairs(weapons) do
-			if sys_ini:section_exist(w) then
-				self.default_loadout[w] = 1
-				local ammo = sys_ini:r_string_ex(w,"ammo_class")
-				ammo = alun_utils.str_explode(ammo,",")
-				ammo = ammo[math.random(#ammo)]
-				self.default_loadout[ammo] = 4
-			end
-		end
-	else
-	-- Choose from 10 templates instead of 5
-		self.default_loadout = alun_utils.collect_sections(self.ini,{faction,math.random(1,10)})
-	-- Spawn primary and secondary weapons, including ammo boxes for each
-		local primary = alun_utils.collect_section(self.ini,"primary")
-		primary = primary[math.random(#primary)]
-		local secondary = alun_utils.collect_section(self.ini,"secondary")
-		secondary = secondary[math.random(#secondary)]
-
-
-
-		local ammop = sys_ini:r_string_ex(primary,"ammo_class")
-		ammop = alun_utils.str_explode(ammop,",")
-		ammop = ammop[math.random(#ammop)]
-		local ammos = sys_ini:r_string_ex(secondary,"ammo_class")
-		ammos = alun_utils.str_explode(ammos,",")
-		ammos = ammos[math.random(#ammos)]
-
-		self.default_loadout[primary] = 1
-		self.default_loadout[secondary] = 1
-		self.default_loadout[ammop] = 4 
-		self.default_loadout[ammos] = 2
-	end
-	
 	local money = alun_utils.str_explode(self.default_loadout["money"],",")
 	money = money[math.random(#money)]
 	self.default_loadout["money"] = money
@@ -822,7 +794,7 @@ function faction_ui:OnFactionSelect(faction)
 	self.loadout_str = strformat("money = %s,",self.default_loadout["money"])
 
 	for section, amt in pairs(self.default_loadout) do
-		if (section ~= "weapons" and section ~= "money" and sys_ini:section_exist(section)) then
+		if (section ~= "money" and sys_ini:section_exist(section)) then
 			local itm_name = gs(sys_ini:r_string_ex(section,"inv_name") or "")
 			amt = amt == "" and {1} or alun_utils.str_explode(amt,",")
 			amt = tonumber(amt[math.random(#amt)]) or 0

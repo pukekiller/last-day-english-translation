@@ -383,13 +383,13 @@ function get_upgrade_cost(section)
 				if required_materials[i]=="ammo_gauss" or required_materials[i]=="ammo_gauss_cardan" then
 					required_material_name = read_string_from_section(required_materials[i], "inv_name_upg")
 					-- Enter the name of the material and the required quantity in the text line
-					str = str.." â€¢ "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_charge")..count..")"
+					str = str.." • "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_charge")..count..")"
 				elseif required_materials[i]=="material_cable" then
 					required_material_name = read_string_from_section(required_materials[i], "inv_name_short")
-					str = str.." â€¢ "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_length")..count.." "..game.translate_string("st_up_meter")..")"
+					str = str.." • "..game.translate_string(required_material_name).." ("..game.translate_string("st_up_length")..count.." "..game.translate_string("st_up_meter")..")"
 				else
 					required_material_name = read_string_from_section(required_materials[i], "inv_name_short")
-					str = str.." â€¢ "..game.translate_string(required_material_name)..count
+					str = str.." • "..game.translate_string(required_material_name)..count
 				end
 				-- If the material item in the list is not closing, then we put a separator in the line
 				if i~=materials_n then
@@ -455,7 +455,7 @@ function prereq_functor_a( param3, section )
 		local cash = actor:money()
 		-- If the bubble is not enough, then we list the corresponding line
 		if (cash<price) then
-			str = str.."\\n - "..game.translate_string("st_upgr_enough_money").."\\n   â€¢ "..price-cash.." RU"
+			str = str.."\\n - "..game.translate_string("st_upgr_enough_money").."\\n   • "..price-cash.." RU"
 		end
 		-- Read the materials required for installation
 		local required_materials = read_string_from_section(section, "required_materials")
@@ -484,7 +484,7 @@ function prereq_functor_a( param3, section )
 					local required_battery_charge_count = count - calculate_actor_battery_charge_count(1)
 					required_battery_charge_count = " ("..game.translate_string("st_up_charge").." x"..required_battery_charge_count..")"
 					required_material_name = read_string_from_section(required_materials[i], "inv_name")
-					required_material_name_list = required_material_name_list.."   â€¢ "..game.translate_string(required_material_name)..required_battery_charge_count
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
 					if i~=materials_n then
 						required_material_name_list = required_material_name_list.."\\n"
 					end
@@ -492,7 +492,7 @@ function prereq_functor_a( param3, section )
 					local required_battery_charge_count = count - calculate_actor_battery_charge_count(2)
 					required_battery_charge_count = " ("..game.translate_string("st_up_charge").." x"..required_battery_charge_count..")"
 					required_material_name = read_string_from_section(required_materials[i], "inv_name")
-					required_material_name_list = required_material_name_list.."   â€¢ "..game.translate_string(required_material_name)..required_battery_charge_count
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
 					if i~=materials_n then
 						required_material_name_list = required_material_name_list.."\\n"
 					end
@@ -500,7 +500,7 @@ function prereq_functor_a( param3, section )
 					local required_battery_charge_count = count - calculate_actor_battery_charge_count(3)
 					required_battery_charge_count = " ("..game.translate_string("st_up_length").." x"..required_battery_charge_count.." "..game.translate_string("st_up_meter")..")"
 					required_material_name = read_string_from_section(required_materials[i], "inv_name")
-					required_material_name_list = required_material_name_list.."   â€¢ "..game.translate_string(required_material_name)..required_battery_charge_count
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_battery_charge_count
 					if i~=materials_n then
 						required_material_name_list = required_material_name_list.."\\n"
 					end
@@ -515,7 +515,7 @@ function prereq_functor_a( param3, section )
 						required_material_count = ""
 					end
 					-- We enter the name of the current material and the missing quantity in the list of missing materials
-					required_material_name_list = required_material_name_list.."   â€¢ "..game.translate_string(required_material_name)..required_material_count
+					required_material_name_list = required_material_name_list.."   • "..game.translate_string(required_material_name)..required_material_count
 					-- If the material item in the list is not closing, then we put a separator in the line
 					if i~=materials_n then
 						required_material_name_list = required_material_name_list.."\\n"

@@ -169,7 +169,7 @@ function pda_relations_tab:autoupdate()
 	local id_to_code = {}
 	local clist = axr_companions.list_actor_squad_by_id()
 	for i=1,24 do -- should be row*col from ui_companion_row
-		local se_obj = clist[i] and alife_object(clist[i])
+		local se_obj = clist[i] and alife():object(clist[i])
 		if (se_obj and IsStalker(nil,se_obj:clsid()) and se_obj:alive()) then
 			local full_name = se_obj:character_name()
 			local name = string.gsub(full_name,"Junior","Jr.")
@@ -197,7 +197,7 @@ function pda_relations_tab:autoupdate()
 			self.companion_info[i].dist_wnd:SetText(string.format(game.translate_string("st_distance_to")..": %.2f", se_obj.position:distance_to(db.actor:position())))
 
 			-- leader and relation status
-			local squad = se_obj.group_id and se_obj.group_id ~= 65535 and alife_object(se_obj.group_id)
+			local squad = se_obj.group_id and se_obj.group_id ~= 65535 and alife():object(se_obj.group_id)
 			if (squad and squad:commander_id() == se_obj.id) then
 				self.companion_info[i].leader_wnd:Show(true)
 				self.companion_info[i].leader_wnd:InitTexture("ui_minimap_squad_leader")
@@ -320,39 +320,20 @@ function pda_relations_tab:Reset()
 		for k=0, #self.list do
 			local comm = self.list[k] or db.actor:character_community()
 			local r_val = relation_registry.community_relation(comm, self.list[i])
-			
-			--if first row then goodwill
-			if(k == 0) then
-				r_val = relation_registry.community_goodwill(self.list[i],db.actor:id())
-				if r_val >= 2000 then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 1, 255, 1))
-					self.relations[i][k]:SetText("Tier 4")
-				elseif r_val < 2000 and r_val >= 1500 then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
-					self.relations[i][k]:SetText("Tier 3")
-				elseif r_val < 1500 and r_val >= 1000 then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
-					self.relations[i][k]:SetText("Tier 2")
-				elseif r_val < 1000 and r_val >= 500 then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
-					self.relations[i][k]:SetText("Tier 1")
-				else
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 1, 1))
-					self.relations[i][k]:SetText("Tier 0")
-				end
-			else
-				if r_val >= game_relations.FRIENDS then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 1, 255, 1))
-					self.relations[i][k]:SetText(game.translate_string("st_goodwill_friendly"))
+			if r_val >= game_relations.FRIENDS then
+				self.relations[i][k]:SetTextColor(GetARGB(255, 1, 255, 1))
+				self.relations[i][k]:SetText(game.translate_string("st_goodwill_friendly"))
 
-				elseif r_val <= game_relations.ENEMIES then
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 1, 1))
-					self.relations[i][k]:SetText(game.translate_string("st_goodwill_enemy"))
-				else
-					self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
-					self.relations[i][k]:SetText(game.translate_string("st_goodwill_indifferent"))
-				end
+			elseif r_val <= game_relations.ENEMIES then
+				self.relations[i][k]:SetTextColor(GetARGB(255, 255, 1, 1))
+				self.relations[i][k]:SetText(game.translate_string("st_goodwill_enemy"))
+
+			else
+				self.relations[i][k]:SetTextColor(GetARGB(255, 255, 255, 1))
+				self.relations[i][k]:SetText(game.translate_string("st_goodwill_indifferent"))
+
 			end
+
 			if not (self.to_text) then self.relations[i][k]:SetText(tostring(r_val)) end
 		end
 	end
@@ -423,11 +404,11 @@ end
 
 function pda_relations_tab:CreateContextMenu(npc,id)
 	local pos = GetCursorPosition()
-	local se_obj = alife_object(id)
+	local se_obj = alife():object(id)
 	if not (se_obj) then 
 		return 
 	end
-	local squad = se_obj.group_id and se_obj.group_id ~= 65535 and alife_object(se_obj.group_id)
+	local squad = se_obj.group_id and se_obj.group_id ~= 65535 and alife():object(se_obj.group_id)
 
 	-- Actions 
 	local action_1 = nil -- Main
@@ -459,6 +440,15 @@ function pda_relations_tab:CreateContextMenu(npc,id)
 	-- Action definitions
 	action_1 = function()
 		ui_dyn_msg_box.context_menu(self,pos,action_list_1,"st_pda_action_1__1","st_pda_action_1__2")
+	end 
+	
+	action_1__1 = function()
+		if not (utils.se_obj_load_var(se_obj.id,se_obj:name(),"companion_cannot_dismiss")) then
+			npc:use(db.actor)
+			--npc:start_trade(db.actor)
+		else 
+			self:SetMsg(game.translate_string("st_pda_cant_trade"),3)
+		end
 	end 
 	
 	action_1__2 = function()
@@ -544,14 +534,14 @@ function pda_relations_tab:CreateContextMenu(npc,id)
 	end
 
 	-- Action List definitions
-	action_list_1 		= {action_1__2}
+	action_list_1 		= {action_1__1,action_1__2}
 	action_list_1__2 	= {action_1__2_1,action_1__2_2,action_1__2_3,action_1__2_4,action_1__2_5}
 	action_list_1__2_2 	= {action_1__2_2_1,action_1__2_2_2,action_1__2_2_3}
 	action_list_1__2_3	= {action_1__2_3_1,action_1__2_3_2,action_1__2_3_3,action_1__2_3_4}
 	action_list_1__2_4 	= {action_1__2_4_1,action_1__2_4_2,action_1__2_4_3}
 	
 	-- Create Main Context Menu
-	ui_dyn_msg_box.context_menu(self,pos,action_list_1,"st_pda_action_1__2")
+	ui_dyn_msg_box.context_menu(self,pos,action_list_1,"st_pda_action_1__1","st_pda_action_1__2")
 end
 
 function pda_relations_tab:CreateContextMenuAll()
