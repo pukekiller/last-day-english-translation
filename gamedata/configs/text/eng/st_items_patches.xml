@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
 	<string id="csky_patch">
 		<text>Clear Sky patch</text>
 	</string>
@@ -63,5 +62,4 @@
 	<string id="merc_patch_description">
 		<text>An insignia torn from the uniform of a mercenary.</text>
 	</string>
-	
 </string_table>

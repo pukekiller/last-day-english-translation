@@ -57,7 +57,7 @@
 
 
 
-<string id="bad_psy_helmet_desc">
+	<string id="bad_psy_helmet_desc">
 		<text>Prototype developed by scientists to protect people from psi-emissions. Needs adjusting.</text>
 	</string>
 	<string id="bad_psy_helmet_name">
@@ -76,19 +76,17 @@
 		<text>Doctor's key</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>A key with "Hotel Polissya - Room 26" engraved on side.</text>
+		<text>A key with 'Hotel Polissya – Room 26' engraved on side.</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Worn manuscript in leather binding. Written by Strelok himself. \nJudging by the headings alone, it might explain some of the Zone's secrets.</text>
+		<text>Worn manuscript in leather binding. Written by Strelok himself.\nJudging by the headings alone, it might explain some of the Zone's secrets.</text>
 	</string>
-
 	<string id="cit_doctors_pda_name">
 		<text>Doctor's notes</text>
 	</string>
 	<string id="cit_doctors_pda_desc">
-		<text>"Just some notes about old men's conspiracy theories". \nThere are rumours that the Agroprom Institute was used as a front for an unofficial lab in the years preceding the 2006 year accident. This lab hosted a number of very unusual experiments. The traders have dug up a lot of information about these laboratories. I met with the Barkeep, he says he sent Duty scouts to get into the underground vaults of Dark Valley, called X-18, but they disappeared. There are another rumours regarding a "Psi-Brain" mechanism. The whole neighbourhood in Yantar is under the influence of that piece of trash - it zombified everyone who came within range. There is another mechanism in Red Forest radar underground, called Lab X-19, and that's what is likely to be the Brain Scorcher. There is evidence to suggest that the presence of the Brain Scorcher intentionally blocks the road to the North, but no one knows exactly what it is. The Barkeep believes that the Brain Scorcher is man-made, and these mechanisms are not always operating at full strength. He thinks there are periods when their power is lowered to cool down the apparatus. It's time to visit all the underground laboratories in the Zone and find out what kind of secrets they are hiding. Too bad, that I'm too old for this shit. I wish Strelok would be still around, but damn, he disappeared years ago.</text>
+		<text>'Just some notes about old men's conspiracy theories'.\n\nThere are rumours that the Agroprom Institute was used as a front for an unofficial lab in the years preceding the 2006 year accident. This lab hosted a number of very unusual experiments. The traders have dug up a lot of information about these laboratories. I met with the Barkeep, he says he sent Duty scouts to get into the underground vaults of the Dark Valley, called X18, but they disappeared. There are another rumours regarding a 'psi-brain' mechanism. The whole neighbourhood in Yantar is under the influence of that piece of trash: it zombified everyone who came within range. There is another mechanism in the Red Forest radar underground, called lab X19, and that is what is likely to be the Brain Scorcher. There is evidence to suggest that the presence of the Brain Scorcher intentionally blocks the road to the North, but no one knows exactly what it is. The Barkeep believes that the Brain Scorcher is man-made, and these mechanisms are not always operating at full strength. He thinks there are periods when their power is lowered to cool down the apparatus. It's time to visit all the underground laboratories in the Zone and find out what kind of secrets they are hiding. Too bad, that I'm too old for this shit. I wish Strelok would be still around, but damn, he disappeared years ago.</text>
 	</string>
-
 	<string id="item_docs_hiden_pri_name">
 		<text>Strelok's manuscript</text>
 	</string>
@@ -111,22 +109,22 @@
 		<text>Biology research report</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>The report details the study of biological samples sent from Lab X-18. The samples were subjected to informational field effects of varying intensities. The report meticulously describes the mutation of living beings following exposure to emissions.</text>
+		<text>The report details the study of biological samples sent from lab X18. The samples were subjected to informational field effects of varying intensities. The report meticulously describes the mutation of living beings following exposure to emissions.</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>The documents refer to one of the side discoveries of bio-research, specifically the discovery that living creatures are able to generate directed psi-emissions. A biological field emitter, essentially a giant brain, was grown as part of the research conducted in Lab X-16.</text>
+		<text>The documents refer to one of the side discoveries of bio-research, specifically the discovery that living creatures are able to generate directed psi-emissions. A biological field emitter, essentially a giant brain, was grown as part of the research conducted in lab X16.</text>
 	</string>
 	<string id="item_doc_x16_name">
 		<text>Psi research documents</text>
 	</string>
-		<string id="item_doc_x10_desc">
-		<text>The documents describe the technical characteristics of an antenna and how they deviate from their planned designs. There is a note on the reverse side which indicates that these documents were prepared in Lab X-19.</text>
+	<string id="item_doc_x10_desc">
+		<text>The documents describe the technical characteristics of an antenna and how they deviate from their planned designs. There is a note on the reverse side which indicates that these documents were prepared in lab X19.</text>
 	</string>
 	<string id="item_doc_x10_name">
 		<text>Rainbow emitter documents</text>
 	</string>
-		<string id="item_doc_x8_desc">
-		<text>The document refers to the transfer of the research team and all materials to another laboratory far in the north, which will be used to research matters relating to the influence of the noosphere. To enter the lab, use the date of the accident as the code.\n \nThe research team comprised: N.A. Lebedev, E.F. Kalancha and V.I. Suslov.</text>
+	<string id="item_doc_x8_desc">
+		<text>The document refers to the transfer of the research team and all materials to another laboratory far in the north, which will be used to research matters relating to the influence of the noosphere. To enter the lab, use the date of the accident as the code (ddmmyyyy).\n \nThe research team comprised: N.A. Lebedev, E.F. Kalancha and V.I. Suslov.</text>
 	</string>
 	<string id="item_doc_x8_name">
 		<text>Order of Transfer</text>
@@ -137,10 +135,10 @@
 	<string id="item_doc_jup_ug_name">
 		<text>Experiment notebook</text>
 	</string>
-		<string id="item_doc_mon_con_name">
+	<string id="item_doc_mon_con_name">
 		<text>Prototype weapon report</text>
 	</string>
 	<string id="item_doc_mon_con_name_desc">
-		<text>Documents which describe the operating mechanism and main technical characteristics of a more advanced electromagnetic device.\nThere is a note inside the documents which reads: "Documents must be returned to X-8, the central laboratory. I will be busy, so deliver them yourself. - N. Lebedev"</text>
+		<text>Documents which describe the operating mechanism and main technical characteristics of a more advanced electromagnetic device.\nThere is a note inside the documents which reads: 'Documents must be returned to X8, the central laboratory. I will be busy, so deliver them yourself. — N. Lebedev'</text>
 	</string>
 </string_table>

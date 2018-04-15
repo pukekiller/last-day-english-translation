@@ -3,14 +3,11 @@
 	<string id="jup_a10_bandit_leader_name">
 		<text>Valet</text>
 	</string>
-	<string id="devushka">
-		<text>Hip</text>
-	</string>
 	<string id="jup_a10_stalker_vano">
 		<text>Vano</text>
 	</string>
 	<string id="jup_a6_duty_leader">
-		<text>Lt Col Shulga</text>
+		<text>Lt-Colonel Shulga</text>
 	</string>
 	<string id="jup_a6_freedom_leader">
 		<text>Loki</text>
@@ -34,7 +31,7 @@
 		<text>Topol</text>
 	</string>
 	<string id="jup_b1_stalker_2">
-		<text>Mace</text>
+		<text>Bulava</text>
 	</string>
 	<string id="jup_b1_stalker_3">
 		<text>Spirit</text>
@@ -43,7 +40,7 @@
 		<text>Snake</text>
 	</string>
 	<string id="jup_b207_merc_leader_name">
-		<text>Vulture</text>
+		<text>Grif</text>
 	</string>
 	<string id="jup_b217_stalker_tech">
 		<text>Nitro</text>
@@ -55,7 +52,7 @@
 		<text>Flint</text>
 	</string>
 	<string id="jup_b46_duty_founder_name">
-		<text>General Tachenko</text>
+		<text>General Tkachenko</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_02_name">
 		<text>Lieutenant Bunchuk</text>
@@ -64,10 +61,10 @@
 		<text>Colonel Kosmach</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_04_name">
-		<text>Lieutenant Zakharchuk</text>
+		<text>Lieutenant Zaharchuk</text>
 	</string>
 	<string id="yan_merc_01">
-		<text>Black</text>
+		<text>Cherniy</text>
 	</string>
 	<string id="yan_merc_02">
 		<text>Duplet</text>
@@ -79,19 +76,19 @@
 		<text>Skull</text>
 	</string>
 	<string id="yan_merc_05">
-		<text>Stake</text>
+		<text>Kol</text>
 	</string>
 	<string id="yan_merc_06">
-		<text>Koshey</text>
+		<text>Koschei</text>
 	</string>
 	<string id="yan_merc_07">
 		<text>Corpse</text>
 	</string>
 	<string id="jup_b4_monolith_squad_leader_name">
-		<text>Strider</text>
+		<text>Rogue</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_1_name">
-		<text>Armor</text>
+		<text>Bracer</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_2_name">
 		<text>Sickle</text>
@@ -100,7 +97,7 @@
 		<text>Walrus</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_4_name">
-		<text>Meeker</text>
+		<text>Tihiy</text>
 	</string>
 	<string id="jup_b4_monolith_squad_soldier_5_name">
 		<text>Foma</text>
@@ -109,7 +106,7 @@
 		<text>Professor Ozersky</text>
 	</string>
 	<string id="jup_b6_scientist_novikov">
-		<text>Novikov</text>
+		<text>Tukarev</text>
 	</string>
 	<string id="jup_b6_scientist_nuclear_physicist">
 		<text>Professor Hermann</text>
@@ -163,10 +160,10 @@
 		<text>Strelok</text>
 	</string>
 	<string id="pri_b306_envoy_name">
-		<text>Barchuk</text>
+		<text>Durad Vidic</text>
 	</string>
 	<string id="st_actor_name">
-		<text>Major Degtyarev</text>
+		<text>Degtyarev</text>
 	</string>
 	<string id="st_actor_generic_name">
 		<text>Player</text>
@@ -178,13 +175,13 @@
 		<text>Shishak</text>
 	</string>
 	<string id="st_jup_a12_stalker_assaulter">
-		<text>Grizzly</text>
+		<text>Bear</text>
 	</string>
 	<string id="st_jup_a12_stalker_diplomat">
 		<text>Torba</text>
 	</string>
 	<string id="st_jup_a12_stalker_prisoner">
-		<text>Mitay</text>
+		<text>Mityay</text>
 	</string>
 	<string id="st_jup_b207_duty_security_squad_leader_name">
 		<text>Lieutenant Gavrilenko</text>
@@ -193,10 +190,10 @@
 		<text>Kremen</text>
 	</string>
 	<string id="st_jup_b207_freedom_recon_squad_leader_name">
-		<text>Gaiduk</text>
+		<text>Gayduk</text>
 	</string>
 	<string id="st_jup_b43_stalker_assistant">
-		<text>Garry</text>
+		<text>Garik</text>
 	</string>
 	<string id="st_pri_a22_army_signaller">
 		<text>Lieutenant Kirillov</text>
@@ -220,16 +217,16 @@
 		<text>Gonta</text>
 	</string>
 	<string id="st_zat_b29_stalker_rival_1">
-		<text>Sledgehammer</text>
+		<text>Kuvalda</text>
 	</string>
 	<string id="st_zat_b29_stalker_rival_2">
-		<text>Crest</text>
+		<text>Greben</text>
 	</string>
 	<string id="st_zat_b30_owl_stalker_trader_name">
 		<text>Owl</text>
 	</string>
 	<string id="st_zat_b38_stalker_cop_name">
-		<text>Grouse</text>
+		<text>Gluhar</text>
 	</string>
 	<string id="st_zat_b38_stalker_hunter_name">
 		<text>Danila</text>
@@ -241,7 +238,7 @@
 		<text>Morgan</text>
 	</string>
 	<string id="st_zat_b7_stalker_raider_leader">
-		<text>Knuckles</text>
+		<text>Kastet</text>
 	</string>
 	<string id="st_zat_b7_stalker_squad_leader">
 		<text>Spartacus</text>
@@ -262,7 +259,7 @@
 		<text>Pianist</text>
 	</string>
 	<string id="zat_b103_lost_merc_4_name">
-		<text>Mower</text>
+		<text>Gazon</text>
 	</string>
 	<string id="zat_b103_lost_merc_5_name">
 		<text>Kirzach</text>
@@ -271,25 +268,25 @@
 		<text>Tank</text>
 	</string>
 	<string id="zat_b103_lost_merc_7_name">
-		<text>Mug</text>
+		<text>Snout</text>
 	</string>
 	<string id="zat_b103_lost_merc_leader_name">
 		<text>Hatchet</text>
 	</string>
 	<string id="zat_b14_stalker_1_name">
-		<text>Tuna</text>
+		<text>Vobla</text>
 	</string>
 	<string id="zat_b18_noah_name">
 		<text>Noah</text>
 	</string>
 	<string id="zat_b215_stalker_guide_name">
-		<text>Pilot</text>
+		<text>Navigator</text>
 	</string>
 	<string id="zat_b22_stalker_medic_name">
-		<text>Tremor</text>
+		<text>Axel</text>
 	</string>
 	<string id="zat_b28_draper_name">
-		<text>Lieutenant Drapei</text>
+		<text>Lieutenant Drapey</text>
 	</string>
 	<string id="zat_b28_umerov_name">
 		<text>Sergeant Umerov</text>
@@ -301,10 +298,10 @@
 		<text>Hook</text>
 	</string>
 	<string id="zat_b40_merc_squad_leader_2_name">
-		<text>Ridge</text>
+		<text>Backbone</text>
 	</string>
 	<string id="zat_b42_mayron_name">
-		<text>Mirone</text>
+		<text>Mayron</text>
 	</string>
 	<string id="zat_b44_stalker_barge_name">
 		<text>Barge</text>
@@ -316,7 +313,7 @@
 		<text>Awl</text>
 	</string>
 	<string id="jup_b46_duty_founder_squad_01_name">
-		<text>Major Chepurny</text>
+		<text>Major Chepurnoy</text>
 	</string>
 	<string id="pri_a17_military_prapor_valentyr">
 		<text>Sergeant Valentir</text>
@@ -328,7 +325,7 @@
 		<text>Senior Lieutenant Smolyak</text>
 	</string>
 	<string id="jup_b25_stalker_senya">
-		<text>Splinter</text>
+		<text>Chip</text>
 	</string>
 	<string id="zat_b100_army_1">
 		<text>Sergeant Gazda</text>
@@ -342,8 +339,8 @@
 	<string id="cit_doctor_name">
 		<text>Ivan Trodnik</text>
 	</string>
- 	<string id="marsh_doctor_name">
-		<text>Doc</text>
+	<string id="marsh_doctor_name">
+		<text>Doctor</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_name">
 		<text>Cold</text>
@@ -403,10 +400,10 @@
 		<text>Research assistant at the mobile lab. No details available.</text>
 	</string>
 	<string id="yan_semenov_name">
-		<text>Assistant Semenov</text>
+		<text>Professor Semenov</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Vasiliev</text>
+		<text>Professor Vasiliev</text>
 	</string>
 	<string id="yan_vasilyev_bio">
 		<text>Research assistant at the mobile lab. No details available.</text>
@@ -450,8 +447,8 @@
 	<string id="pri_monolith_monolith_mechanic_stalker_name">
 		<text>Cleric</text>
 	</string>
- 	<string id="pri_monolith_monolith_trader_stalker_name">
-		<text>Rabbit</text>
+	<string id="pri_monolith_monolith_trader_stalker_name">
+		<text>Krolik</text>
 	</string>
 	<string id="cit_killers_merc_mechanic_stalker_name">
 		<text>Hog</text>
@@ -496,7 +493,7 @@
 		<text>Beast</text>
 	</string>
 	<string id="sar2_bandit_leader_name">
-		<text>Vasya "Boar"</text>
+		<text>Vasya 'Boar'</text>
 	</string>
 	<string id="sar2_bio">
 		<text>A psychomaterial form created by the Monolith.</text>
@@ -514,7 +511,7 @@
 		<text>Security Chief</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>"Skull"</text>
+		<text>'Skull'</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
 		<text>Outpost commander</text>
@@ -523,13 +520,13 @@
 		<text>Yurik</text>
 	</string>
 	<string id="sar2_explorer_name">
-		<text>Zheka "Doublet"</text>
+		<text>Zheka 'Doublet'</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>"Fanatic"</text>
+		<text>'Fanatic'</text>
 	</string>
 	<string id="sar2_fox_name">
-		<text>"Fox"</text>
+		<text>'Fox'</text>
 	</string>
 	<string id="sar2_gordon_name">
 		<text>Gordon</text>
@@ -571,34 +568,34 @@
 		<text>Spotty</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>"Seriy"</text>
+		<text>'Seriy'</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>"Cap"</text>
+		<text>'Cap'</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>"Kaput"</text>
+		<text>'Kaput'</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>"Chef"</text>
+		<text>'Chef'</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
 		<text>Screw</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>"Lukash"</text>
+		<text>'Lukash'</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>"Max"</text>
+		<text>'Max'</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
 		<text>Pavlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>"Skinflint"</text>
+		<text>'Skinflint'</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>"Murk"</text>
+		<text>'Murk'</text>
 	</string>
 	<string id="sar2_tiran_name">
 		<text>Tyran</text>
@@ -613,7 +610,7 @@
 		<text>General Voronin</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>"Wolf"</text>
+		<text>'Wolf'</text>
 	</string>
 	<string id="dar_kalugin_name">
 		<text>Piotr Kalugin</text>
@@ -654,26 +651,71 @@
 	<string id="agr_kuznetsov_name">
 		<text>Major Kuznetsov</text>
 	</string>
-	
+	<string id="devushka">
+		<text>Hip</text>
+	</string>
+
 	<!-- Characters in MLR -->
 
-	<string id="ds_killer_medic_mlr_name">
-		<text>Dawn</text>
-	</string>
-	<string id="ds_killer_guide_main_base_name">
-		<text>Leopard</text>
-	</string>
-	<string id="zat_tech_mlr_name">
-		<text>Spleen</text>
-	</string>
-	<string id="bar_informator_mlr_name">
-		<text>Snitch</text>
+	<string id="agr_1_6_barman_army_mlr_name">
+		<text>Commander</text>
 	</string>
 	<string id="agr_1_6_medic_army_mlr_name">
 		<text>Rogovets</text>
 	</string>
-	<string id="agr_1_6_barman_army_mlr_name">
-		<text>Commander</text>
+	<string id="army_south_mechan_mlr_name">
+		<text>Seryoga</text>
+	</string>
+	<string id="bar_dolg_medic_name">
+		<text>Aspirin</text>
+	</string>
+	<string id="bar_informator_mlr_name">
+		<text>Snitch</text>
+	</string>
+	<string id="cit_killers_merc_barman_mlr_name">
+		<text>Aslan</text>
+	</string>
+	<string id="dasc_tech_mlr_name">
+		<text>Polymer</text>
+	</string>
+	<string id="dasc_trade_mlr_name">
+		<text>Cutter</text>
+	</string>
+	<string id="ds_killer_guide_main_base_name">
+		<text>Leopard</text>
+	</string>
+	<string id="ds_killer_medic_mlr_name">
+		<text>Dawn</text>
+	</string>
+	<string id="esc_3_16_military_trader_name">
+		<text>Zhurov</text>
+	</string>
+	<string id="guid_bar_stalker_navigator_name">
+		<text>Navigator</text>
+	</string>
+	<string id="guid_dv_mal_mlr_name">
+		<text>Pug</text>
+	</string>
+	<string id="guid_jup_stalker_garik">
+		<text>Garry</text>
+	</string>
+	<string id="guid_marsh_mlr_name">
+		<text>Genka</text>
+	</string>
+	<string id="guid_pri_a15_mlr_name">
+		<text>Tourist</text>
+	</string>
+	<string id="guid_zan_stalker_locman_name">
+		<text>Pilot</text>
+	</string>
+	<string id="hunter_gar_trader_name">
+		<text>Butcher</text>
+	</string>
+	<string id="lider_monolith_haron_name">
+		<text>Charon</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_name">
+		<text>Peregrine</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_name">
 		<text>Trunk</text>
@@ -681,73 +723,28 @@
 	<string id="merc_pri_grifon_mlr_name">
 		<text>Griffin</text>
 	</string>
-	<string id="pri_a16_mech_mlr_name">
-		<text>Sledge</text>
-	</string>
-	<string id="army_south_mechan_mlr_name">
-		<text>Seryoga</text>
-	</string>
-	<string id="lider_monolith_haron_name">
-		<text>Charon</text>
-	</string>
-	<string id="bar_dolg_medic_name">
-		<text>Aspirin</text>
-	</string>
-	<string id="mechanic_army_yan_mlr_name">
-		<text>Peregrine</text>
-	</string>
-	<string id="yan_povar_army_mlr_name">
-		<text>Rookie</text>
-	</string>
-	<string id="cit_killers_merc_barman_mlr_name">
-		<text>Aslan</text>
-	</string>
-	<string id="pri_special_trader_mlr_name">
-		<text>Meeker</text>
+	<string id="mil_freedom_barman_mlr_name">
+		<text>Culinary</text>
 	</string>
 	<string id="mil_freedom_guid_name">
 		<text>Leshiy</text>
 	</string>
-	<string id="esc_3_16_military_trader_name">
-		<text>Zhurov</text>
+	<string id="mil_freedom_medic_name">
+		<text>Solid</text>
 	</string>
-	<string id="guid_marsh_mlr_name">
-		<text>Genka</text>
+	<string id="pri_a16_mech_mlr_name">
+		<text>Sledge</text>
 	</string>
-	<string id="guid_dv_mal_mlr_name">
-		<text>Pug</text>
-	</string>
-	<string id="guid_pri_a15_mlr_name">
-		<text>Tourist</text>
+	<string id="pri_special_trader_mlr_name">
+		<text>Meeker</text>
 	</string>
 	<string id="trader_pri_a15_mlr_name">
 		<text>Cashier</text>
 	</string>
-	<string id="guid_zan_stalker_locman_name">
-		<text>Pilot</text>
+	<string id="yan_povar_army_mlr_name">
+		<text>Rookie</text>
 	</string>
-	<string id="guid_jup_stalker_garik">
-		<text>Garry</text>
+	<string id="zat_tech_mlr_name">
+		<text>Spleen</text>
 	</string>
-	<string id="guid_bar_stalker_navigator_name">
-		<text>Navigator</text>
-	</string>
-	<string id="hunter_gar_trader_name">
-		<text>Butcher</text>
-	</string>
-	
-	<!-- Added for (LD 1.3 +Patch) -->
-	<string id="st_dasc_tech_mlr_name">
-		<text>Polymer</text>
-	</string>
-	<string id="st_dasc_trade_mlr_name">
-		<text>Cutter</text>
-	</string>
-	<string id="st_mil_freedom_barman_mlr_name">
-		<text>Culinary</text>
-	</string>
-	<string id="st_mil_freedom_medic_name">
-		<text>Solid</text>
-	</string>
-
 </string_table>

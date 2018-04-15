@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_ignite_fire">
 		<text>Ignite ($$ACTION_USE$$)</text>
@@ -306,6 +306,7 @@
 	<string id="tips_rad_switcher_press">
 		<text>Turn off the Brain Scorcher ($$ACTION_USE$$)</text>
 	</string>
+
 	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
 	<!--
 	<!-- STORYLINE TIP TEXT  STRINGS
@@ -339,7 +340,7 @@
 		<text>Excellent, Colleague. I'm glad that you've received 2nd level access. At last you will find out what goes on in our laboratory. Your access code is 1243. Chief of Laboratory X-18, Piotr Ilich Kalugin.</text>
 	</string>
 	<string id="st_labx18_pass_to_2nd_door">
-	<text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X18, Piotr Ilyitch Kalugin.</text>
+			<text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X18, Piotr Ilyitch Kalugin.</text>
 	</string>
 	<string id="st_yan_saharov_message">
 		<text>Good man, you made it after all. It's extremely important that we study the machine in the lab. Try turning it off so that we can have a look at it.</text>
@@ -362,7 +363,7 @@
 	<string id="tip_door_decoding">
 		<text>Decoding in progress</text>
 	</string>
-		<string id="bar_arena_actor_afraid">
+	<string id="bar_arena_actor_afraid">
 		<text>The fight is off! The challenger got cold feet and didn't come out to fight at all!</text>
 	</string>
 	<string id="bar_arena_fight_10">

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ka_travel_dialog_ask">
+        		<text>Мне нужно кое куда... Где мне найти проводника?</text>
+	</string>
+	<string id="ka_travel_dialog_response">
+        		<text>Есть у меня один знакомый проводник. Отведет в нужное место, но не за бесплатно. Так куда тебе?</text>
+	</string>
+	<string id="ka_travel_dialog_nevermind">
+		<text>Я передумал.</text>
+	</string>
+	<string id="ka_travel_dialog_accept">
+        		<text>По рукам.</text>
+	</string>
+	<string id="ka_travel_dialog_change">
+        		<text>На самом деле, мне нужно в другое место...</text>
+	</string>
+	<string id="ka_travel_dialog_deny">
+        		<text>Это слишком дорого.</text>
+	</string>
+	<string id="ka_travel_dialog_cost">
+		<text>Это будет стоить тебе %s рублей.</text>
+	</string>
+	
+	<string id="ka_travel_dialog_zaton">
+        		<text>В Скадовск на Затоне.</text>
+	</string>
+	<string id="ka_travel_dialog_jupiter">
+        		<text>На станцию Янов в Юпитере.</text>
+	</string>
+	<string id="ka_travel_dialog_yantar">
+        		<text>В научную лабораторию на янтаре.</text>
+	</string>
+	<string id="ka_travel_dialog_cordon">
+        		<text>В деревню новичков на Кордоне.</text>
+	</string>
+	<string id="ka_travel_dialog_bar">
+        		<text>В бар на Ростке.</text>
+	</string>
+	<string id="ka_travel_dialog_warehouses">
+        		<text>На базу свободы та что на армейских складах.</text>
+	</string>
+	<string id="ka_travel_dialog_city">
+        		<text>На базу наемников в Мертвом городе.</text>
+	</string>
+	<string id="ka_travel_dialog_agroprom">
+        		<text>На военную базу та что на Агропроме.</text>
+	</string>
+	<string id="ka_travel_dialog_swamp">
+        		<text>На базу Чистого Неба.</text>
+	</string>
+</string_table>

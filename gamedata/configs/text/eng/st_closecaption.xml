@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
 	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
-
 	<string id="ui_mm_cc_icc">
 		<text>Closed captions</text>
 	</string>
@@ -22,9 +20,7 @@
 		<text>All subtitles</text>
 	</string>
 
-
 	<!-- STRING TABLE ADDITIONS FOR GAME -->
-
 	<string id="st_sending_msg">
 		<text>Sending Message</text>
 	</string>
@@ -53,9 +49,7 @@
 		<text>USS Command</text>
 	</string>
 
-
 	<!-- CLOSED CAPTIONS FOR GAME -->
-
 	<string id="cc_effect-ambient-blowout_begin">
 		<text>[emission begins]</text>
 	</string>
@@ -194,9 +188,7 @@
 	</string>
 
 	<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
-
 	<!-- Zaton -->
-
 	<string id="zat_a2_base_alarm">
 		<text>Attention stalkers, Skadovsk is under attack! We've been forced to batten down the hatches until things quiet down.</text>
 	</string>
@@ -234,7 +226,7 @@
 		<text>Hello! What brings you to our humble vessel?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_greeting_2">
-		<text>Welcome aboard our swamp icebreaker!</text>
+		<text>Welcome aboard our swamp, icebreaker!</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_greeting_angry_1">
 		<text>The ship has been ashore a long time, but it's still full of rats. To what do we owe this dubious pleasure?</text>
@@ -563,7 +555,7 @@
 	<string id="zat_b38_stalker_cop_kill_2">
 		<text>That should be it. That was the last one.</text>
 	</string>
-	<string id="zat_b38_stalker_cop_not_a_hunter">	<!-- not used - sound exists only in Russian -->
+	<string id="zat_b38_stalker_cop_not_a_hunter"><!-- not used - sound exists only in Russian -->
 		<text>No hunter here... Jesus! Check it out, it's claw marks. The guys we found before weren't clawed. Weird.</text>
 	</string>
 	<string id="zat_b38_stalker_cop_not_a_hunter_1">
@@ -612,7 +604,7 @@
 		<text>Go, get out of here while you can!</text>
 	</string>
 	<string id="zat_b44_stalker_barge_pda">
-		<text>Cardan, that old drunk! Not only is he a lazy bastard once he's had a drink, "It's better here. We need to take it easy..." But then he goes and takes a rant at me and Joker, saying we're young and ain't got a clue! Haha...! Eh, Joker's a piece of work too. Gets pissed up, grabs his bag and disappears. While I was trying to calm Cardan down, he left and hell if I know where he went. And what am I supposed to do? Drink with that senile moron? No, thank you, his vodka is shit! Eww. And to think how promising things were at the beginning...</text>
+		<text>Cardan, that old drunk! Not only is he a lazy bastard once he's had a drink, 'It's better here. We need to take it easy...' But then he goes and takes a rant at me and Joker, saying we're young and ain't got a clue! Haha...! Eh, Joker's a piece of work too. Gets pissed up, grabs his bag and disappears. While I was trying to calm Cardan down, he left and hell if I know where he went. And what am I supposed to do? Drink with that senile moron? No, thank you, his vodka is shit! Eww. And to think how promising things were at the beginning...</text>
 	</string>
 	<string id="zat_b5_bandit_dealer_speak_1">
 		<text>Look, we've got these here artefacts, and we can get more of them. In exchange, we're looking for weapons, and some good equipment.</text>
@@ -661,9 +653,6 @@
 	</string>
 	<string id="zat_b5_sultan_kill_stalkers">
 		<text>Take them down, boys!</text>
-	</string>
-	<string id="zat_b51_stalker_nimble_order">
-		<text>The job's done. You can collect the goods.</text>
 	</string>
 	<string id="zat_b52_port_bandits_after_pay_snd_1">
 		<text>Good. Now get the hell out of here, before I change my mind!</text>
@@ -747,9 +736,7 @@
 		<text>Kill them all!</text>
 	</string>
 
-
 	<!-- Jupiter -->
-
 	<string id="jup_a10_bandit_leader_hello">
 		<text>Would you look at that! The man himself!</text>
 	</string>
@@ -904,7 +891,7 @@
 		<text>The entrance to the underpass is here. If we activate the generator, we'll be able to open the transportation lock.</text>
 	</string>
 	<string id="jup_a9_actor_way_info">
-		<text>Schematics for the "Pripyat-1" underpass. This is proof that there is an underground way to get to Pripyat.</text>
+		<text>Schematics for the 'Pripyat-1' underpass. This is proof that there is an underground way to get to Pripyat.</text>
 	</string>
 	<string id="jup_b1_actor_dont_come">
 		<text>Hey, man! Time is money. We're done waiting for you, the squad is going back now.</text>
@@ -1150,13 +1137,13 @@
 		<text>That's all right. We'll get our weapons back. You guys have developed a nifty habit of dropping weapons and artefacts whenever you run into our fighters. I don't blame you either. Can't be easy holding at it, what, with your pants shat and all?</text>
 	</string>
 	<string id="jup_b221_freedom_main_1">
-		<text>Boys! Have you heard how Duty is sticking to its traditions? Take Warrant Officer Morgan, in following the strict need to maintain his faction's reputation he thought it was his "duty" to sell off half his warehouse on the sight.</text>
+		<text>Boys! Have you heard how Duty is sticking to its traditions? Take Warrant Officer Morgan, in following the strict need to maintain his faction's reputation he thought it was his 'duty' to sell off half his warehouse on the sight.</text>
 	</string>
 	<string id="jup_b221_freedom_main_2">
 		<text>Fall in! Remember? Duty's stalwart traditions were laid down by General Tkachenko himself. He lied to his comrades, misled the HQ and bravely died in a Space Bubble. Here's to all members of Duty following his lead.</text>
 	</string>
 	<string id="jup_b221_freedom_main_3">
-		<text>You know, the first time I saw our new squad I asked them, 'Fellows, would you prefer to join Duty instead? You're free to do as you like, after all.' You know, they said to me, 'No, thank you. With them it's all about the orders. To give, primarily. No wonder their eyes are empty. We've had enough of zombies.'</text>
+		<text>You know, the first time I saw our new squad I asked them, 'Fellows, would you prefer to join Duty instead? You're free to do as you like, after all.' You know, they said to me, 'No, thank you. With them, it's all about the orders. To give, primarily. No wonder their eyes are empty. We've had enough of zombies.'</text>
 	</string>
 	<string id="jup_b221_freedom_main_4">
 		<text>A member of Duty came up to one of our people, got in the bunker and asked him, 'Professor, could you tell me which artefact is best for fighting boars? Wrenched to protect you from radiation, or Eye to help you with wounds.' Do you know what the answer was? 'Shell is what you need, son. If you see a boar, run back to your base as fast as you can.' Haha!</text>
@@ -1237,7 +1224,7 @@
 		<text>Wow!</text>
 	</string>
 	<string id="jup_b25_story_zaton">
-		<text>There might be a few folk who think that Flint is telling lies. Well, they can ask anyone at the base about me. Even the squad of pro hunters, when they spotted me the other day they were all like, 'We need you, Flint. We can't do it without you.' They were hunting a chimera, so I had to show these "pros" how it's done. My ammo is real friggin' simple. I just head straight into the lair. They left one rookie by the entrance to keep an eye out for it. Of course, come morning, as soon as the newbie saw the beast he shat his pants and legged it, so I had to deal with it myself. Successfully, as you can see, he-he-he...</text>
+		<text>There might be a few folk who think that Flint is telling lies. Well, they can ask anyone at the base about me. Even the squad of pro hunters, when they spotted me the other day they were all like, 'We need you, Flint. We can't do it without you.' They were hunting a chimera, so I had to show these 'pros' how it's done. My ammo is real friggin' simple. I just head straight into the lair. They left one rookie by the entrance to keep an eye out for it. Of course, come morning, as soon as the newbie saw the beast he shat his pants and legged it, so I had to deal with it myself. Successfully, as you can see, he-he-he...</text>
 	</string>
 	<string id="jup_b4_duty_squad_leader_align">
 		<text>Fall in!</text>
@@ -1432,9 +1419,7 @@
 		<text>Two bodies... Looks like they died in the crash. ... Everything of value has been looted and the on-board computer has been wiped clean. But the black box is still intact. ... Interesting. ... I reckon a decent technician will be able to extract the information on it and then decode it.</text>
 	</string>
 
-
 	<!-- Underpass -->
-
 	<string id="pas_b400_sokolov_about_control_gates_1">
 		<text>It's blocked, and there's no button. I get the feeling someone's going to have to make for the control room to solve this one.</text>
 	</string>
@@ -1493,7 +1478,7 @@
 		<text>The hell with this place! I can't wait till I'm outta here.</text>
 	</string>
 	<string id="pas_b400_sokolov_idle_3">
-		<text>I can't believe this shit they told me, 'Don't worry, piloting is easy as pie.' My ass!</text>
+		<text>I can't believe this shit they told me. 'Don't worry, piloting is easy as pie.' My ass!</text>
 	</string>
 	<string id="pas_b400_sokolov_no_meet_1">
 		<text>Quiet! Keep it nice and quiet!</text>
@@ -1853,11 +1838,9 @@
 		<text>Come back, bro! We don't need a scout on this mission.</text>
 	</string>
 
-
 	<!-- Pripyat -->
-
 	<string id="pri_a15_actor_introduce">
-		<text>I'm Major Degtyarev, USS. I'm here to investigate the failure of operation "Fairway".</text>
+		<text>I'm Major Degtyarev, USS. I'm here to investigate the failure of operation 'Fairway'.</text>
 	</string>
 	<string id="pri_a15_actor_introduce_squad">
 		<text>Stalkers helped me to get to Pripyat.</text>
@@ -2163,7 +2146,7 @@
 		<text>[Major Degtyarev] Yes, I have the data. And Strelok's information confirms it. The helicopters were hit by anomalies after their locations changed during the emissions. The anomaly maps issued to their pilots turned out to be useless.</text>
 	</string>
 	<string id="pri_a28_actor_to_ssu_without_heli_info">
-		<text>[Major Degtyarev] Strelok believes that the helicopters went into anomalies. The location of anomalies changes after every emission; a fact that was missed when making the map for Operation Fairway. </text>
+		<text>[Major Degtyarev] Strelok believes that the helicopters went into anomalies. The location of anomalies changes after every emission; a fact that was missed when making the map for Operation Fairway.</text>
 	</string>
 	<string id="pri_a28_actor_to_strelok">
 		<text>Get in the chopper! I hope it was worth it...</text>
@@ -2307,7 +2290,7 @@
 		<text>Let's move to the right along the building! Double time!</text>
 	</string>
 	<string id="pri_a28_continuation">
-		<text>Holy shit, you still here? Well, if you need anything, find me at the base. I am back and I have brought stalkers this time.</text>	<!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says "I don't trust you..." with a PDA voice effect -->
+		<text>Holy shit, you still here? Well, if you need anything, find me at the base. I am back and I have brought stalkers this time.</text> <!-- Bug in xenglish.db (this file should be named jup_a12_stalker_diplomat_no_talk_pda as it says 'I don't trust you...' with a PDA voice effect -->
 	</string>
 	<string id="pri_a28_evac_com_cant_wait">
 		<text>Our orders are to take off if we come under attack, so hurry the hell up!</text>
@@ -2555,9 +2538,8 @@
 	<string id="pri_b35_targets_lost_end">
 		<text>Both targets escaped. Abort mission and fall back!</text>
 	</string>
-	
-	<!-- CLOSED CAPTIONS FOR 'CALL OF CHERNOBYL' -->
-	
+
+	<!-- CLOSED CAPTIONS FOR CALL OF CHERNOBYL -->
 	<string id="bar_barman_hello_1">
 		<text>Hey there!</text>
 	</string>
@@ -2577,31 +2559,25 @@
 		<text>What's taking you so long, eh?</text>
 	</string>
 	<string id="bar_barman_wait_2">
-		<text>Come on already, get over here.</text>
+		<text>Come on already. Get over here.</text>
 	</string>
 	<string id="bar_barman_wait_3">
 		<text>What are you standing around for? Come on, get over here.</text>
 	</string>
 	<string id="bar_barman_wait_4">
-		<text>Get over here, we haven't got much time.</text>
+		<text>Get over here. We haven't got much time.</text>
 	</string>
 	<string id="bar_guard_prohodi_1">
-		<text>I said come in, don't stand there.</text>
+		<text>I said: come in! Don't stand there.</text>
 	</string>
 	<string id="bar_guard_stop_1">
-		<text>You aren't allowed here!</text>
+		<text>You can't go there!</text>
 	</string>
 	<string id="bar_guard_stop_2">
-		<text>Talk to the Barman.</text>
+		<text>Talk to the Barkeep.</text>
 	</string>
 	<string id="bar_guard_stop_3">
-		<text>Stop! Can't let you in here right now.</text>
-	</string>
-	<string id="bar_informer_1">
-		<text>Come here, stalker. I've always got something interesting for people like you.</text>
-	</string>
-	<string id="bar_informer_2">
-		<text>Don't be shy, man. My information might well be of use to you.</text>
+		<text>Stop! I can't let you in here right now.</text>
 	</string>
 	<string id="duty_hangar_1">
 		<text>Get out of here, stalker.</text>
@@ -2610,19 +2586,19 @@
 		<text>Well? What do you want?</text>
 	</string>
 	<string id="esc_mech_meet_2">
-		<text>What else?</text>
+		<text>What is it again?</text>
 	</string>
 	<string id="esc_mech_meet_3">
-		<text>Nobody lets me have some rest. Everyone keeps coming and going, like honey smeared all over.</text>
+		<text>Will you ever just leave me alone? You all think I enjoy getting bothered like this, don't you?</text>
 	</string>
 	<string id="esc_mech_meet_bye_1">
-		<text>Right, bye.</text>
+		<text>Okay, bye.</text>
 	</string>
 	<string id="esc_mech_meet_bye_2">
-		<text>You're going? Finally.</text>
+		<text>So you're 1? Finally.</text>
 	</string>
 	<string id="esc_mech_meet_bye_3">
-		<text>Finally you leave me alone. God, I'm happy.</text>
+		<text>Finally, you leave me alone. It brings me happiness.</text>
 	</string>
 	<string id="esc_nimble_greeting_1">
 		<text>Hello, stalker. Thinking of placing an order?</text>
@@ -2634,10 +2610,10 @@
 		<text>Hey! You need something?</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_1">
-		<text>Don't worry, you'll get the goods a bit later.</text>
+		<text>Don't worry. You'll get the goods a bit later.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_2">
-		<text>Come back later, I don't have the goods yet.</text>
+		<text>Come back later. I don't have the goods yet.</text>
 	</string>
 	<string id="esc_nimble_greeting_order_not_ready_3">
 		<text>Drop by later. I'll have your order by then.</text>
@@ -2654,8 +2630,38 @@
 	<string id="esc_nimble_order">
 		<text>The job's done. You can collect the goods.</text>
 	</string>
+	<string id="esc_fanat_farewell_1">
+		<text>See you, then.</text>
+	</string>
+	<string id="esc_fanat_farewell_2">
+		<text>Good luck.</text>
+	</string>
+	<string id="esc_fanat_farewell_3">
+		<text>Nice talking to you.</text>
+	</string>
+	<string id="esc_fanat_farewell_4">
+		<text>Farewell.</text>
+	</string>
+	<string id="esc_fanat_farewell_5">
+		<text>Good hunting, stalker.</text>
+	</string>
+	<string id="esc_fanat_greeting_1">
+		<text>Hello.</text>
+	</string>
+	<string id="esc_fanat_greeting_2">
+		<text>What's up?</text>
+	</string>
+	<string id="esc_fanat_greeting_3">
+		<text>Hey there.</text>
+	</string>
+	<string id="esc_fanat_greeting_4">
+		<text>Hey.</text>
+	</string>
+	<string id="red_forester_greet_1">
+		<text>Hello. What brings you here?</text>
+	</string>
 	<string id="red_forester_hello_bye_0">
-		<text>Farewell, sonny.</text>
+		<text>Farewell, lad.</text>
 	</string>
 	<string id="red_forester_hello_bye_1">
 		<text>Don't forget the old man.</text>
@@ -2670,7 +2676,13 @@
 		<text>What is it, young one? What are you looking for here?</text>
 	</string>
 	<string id="red_forester_meet_hello_2">
-		<text>Have you stumbled upon this place by chance, or what?</text>
+		<text>Was it chance that brought you to this place, or what?</text>
+	</string>
+	<string id="val_bandit_trader_meet_1">
+		<text>...</text>
+	</string>
+	<string id="val_bandit_trader_meet_2">
+		<text>...</text>
 	</string>
 	<string id="yan_sakharov_meet_1">
 		<text>Greetings, young man!</text>
@@ -2685,12 +2697,12 @@
 		<text>Yes-yes?</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_1">
-		<text>All the best!</text>
+		<text>Best wishes to you!</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_2">
-		<text>Glad to have had a conversation.</text>
+		<text>It's been nice meeting you.</text>
 	</string>
 	<string id="yan_sakharov_meet_bye_3">
-		<text>Come back if anything else!</text>
+		<text>Come back if you need anything else!</text>
 	</string>
 </string_table>

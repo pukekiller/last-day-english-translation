@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_upgr_required_materials">
 		<text>Necessary materials</text>
@@ -2151,3 +2151,4 @@
 		<text>Extra nikodimovich magnets on the rotor of the motor, increases the efficiency of the generator.</text>
 	</string>
 </string_table>
+

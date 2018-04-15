@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_radio">
+		<text>Радио</text>
+	</string>
+	
+	<string id="pda_btn_radio_title">
+		<text>Радио</text>
+	</string>
+	
+	<string id="pda_btn_plyr_title">
+		<text>Музыкальный проигрыватель</text>
+	</string>
+	
+	<string id="pda_btn_radio_hint">
+		<text>Показать плеер</text>
+	</string>
+	
+</string_table>

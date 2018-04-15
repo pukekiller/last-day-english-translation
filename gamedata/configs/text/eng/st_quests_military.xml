@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
@@ -144,15 +144,14 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Lukash (Freedom Honcho) Stop Enemy Assault Task -->
-
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_name">
-		<text>Repel Assault on Freedom Base</text>
+		<text>Repel enemy assault</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_text">
-		<text>Intercept the assault squad closing in on Freedom camp. Report back to Lukash once you have cleared the area.</text>
+		<text>Intercept the assault squad closing in on a Freedom camp. Report back to Lukash once you have cleared the area.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_about">
-		<text>Forces hostile to Freedom are moving in on our camp. I need someone capable to repel the incursion. Are you the man for the job?</text>
+		<text>Forces hostile to Freedom are moving in on one of our camps. I need someone capable to repel the incursion. Are you the man for the job?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_1_finish">
 		<text>The task is done? Good.</text>
@@ -161,10 +160,10 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_name">
-		<text>Recapture Territory for Freedom</text>
+		<text>Recapture territory for Freedom</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
-		<text>You have been tasked to capture a faction territory. Report back to Lukash after the job is done.</text>
+		<text>You have been tasked to recapture faction territory. Report back to Lukash after the job is done.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
 		<text>I have an important mission if you are willing. Duty has taken over one of our camps and I need an infiltrator to reclaim it.</text>
@@ -176,43 +175,43 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_name">
-		<text>Capture Monolith Member</text>
+		<text>Capture Monolith member</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_text">
-		<text>Lukash has tasked you with finding and capturing a member of Monolith.</text>
+		<text>Lukash has tasked you with finding and capturing a member of the Monolith.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_about">
 		<text>I have a very dangerous mission. I've asked for volunteers but so far no one has stepped forward. I need someone to take a Monolith member hostage. Before you agree, know that no one has ever captured a Monolith member alive. Do you think you can be the first?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_3_finish">
-		<text>Ah, you survived! I see your hostage did not. Well, a dead Monolith is a dead Monolith. Here is your payment.</text>
+		<text>Ah, you survived! I see your hostage did not. Well, a dead Monolithian is a dead Monolithian. Here is your payment.</text>
 	</string>
 
 
 	<!-- ASSASSINATE DUTY FOR FREEDOM TASK -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_name">
-		<text>Assassinate Duty Member</text>
+		<text>Assassinate target</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_text">
 		<text>Lukash has tasked you with finding and eliminating a target.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_about">
-		<text>There is a certain individual who has been very loud in his opposition to Freedom and needs to be quieted. Are you any good at shutting people up?</text>
+		<text>There's a certain individual who's been very loud in his opposition to Freedom, and needs to be quieted. Are you any good at shutting people up?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_4_finish">
-		<text>Great! You do us proud. Here is what I promised:</text>
+		<text>Great! You do us proud. Here is what I promised.</text>
 	</string>
 
 
 	<!-- FIND WEAPON FOR FREEDOM TASK -->
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_name">
-		<text>%s Gun Runner</text>
+		<text>Find %s</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
-		<text>Lukash has asked you to find a %s. Return to him when you find what he is looking for.</text>
+		<text>Lukash has asked you to find a specific firearm in mint condition. Return to him when you find what he is looking for.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
-		<text>With Duty to the south of us and Monolith to the north, we are cut off. Our weaponry is wearing out and we need replacements. Have you ever done any gun running?</text>
+		<text>With Duty to the south of us and Monolith to the north, we're cut off. Our weaponry is wearing out and we need replacements. Have you ever done any gun running?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_fetch_about">
 		<text>We could really use a new %s. If you can find us one in great condition I would be willing to pay a good price for it.</text>
@@ -271,7 +270,7 @@
 	<!-- Screw (Freedom Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_name">
-		<text>Find %s for Screw</text>
+		<text>Find %s</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_1_text">
 		<text>%s are required by Screw to install basic equipment upgrades, you should bring them back to him if you find any.</text>
@@ -289,7 +288,7 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_name">
-		<text>Find %s for Screw</text>
+		<text>Find %s</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_text">
 		<text>%s are required by Screw to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
@@ -298,7 +297,7 @@
 		<text>Haha, I hate to ask. But I could really use more tools. You brought me what I have asked last time but I need a higher quality set. Can you help out again?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_about">
-		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need a set of advanced tools. It should contain what I need. If you can bring some back for me, I will be grateful; I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_2_fetch_finish">
 		<text>You keep this shit up, everyone around here is going to love you. Thanks, man.</text>
@@ -307,7 +306,7 @@
 
 
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_name">
-		<text>Find %s for Screw</text>
+		<text>Find %s</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_text">
 		<text>%s are required by Screw to install expert equipment upgrades, you should bring them back to him if you find any.</text>
@@ -316,7 +315,7 @@
 		<text>Haha, I hate to ask. But I could really use more tools. You brought me what I have asked last time but I need a higher quality set. Can you help out again?</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_about">
-		<text>I need a set of expert tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need a set of expert tools. It should contain what I need. If you can bring some back for me, I will be grateful; I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_mechanic_stalker_task_3_fetch_finish">
 		<text>You keep this shit up, everyone around here is going to love you. Thanks, man.</text>

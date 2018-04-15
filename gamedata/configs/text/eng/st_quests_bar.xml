@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
@@ -211,6 +211,7 @@
 	<string id="bar_dolg_general_petrenko_stalker_task_1_finish">
 		<text>Excellent work. You are a fine warrior.</text>
 	</string>
+
 	<string id="bar_dolg_general_petrenko_stalker_task_2_name">
 		<text>Reclaim Duty Territory</text>
 	</string>
@@ -223,6 +224,7 @@
 	<string id="bar_dolg_general_petrenko_stalker_task_2_finish">
 		<text>The task is done? Good job.</text>
 	</string>
+
 	<string id="bar_dolg_general_petrenko_stalker_task_3_name">
 		<text>Assassinate VIP for Petrenko</text>
 	</string>
@@ -235,6 +237,7 @@
 	<string id="bar_dolg_general_petrenko_stalker_task_3_finish">
 		<text>Great! You do us proud. Here is what I promised.</text>
 	</string>
+
 	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_task_1_name">
 		<text>Find %s for Mangun</text>

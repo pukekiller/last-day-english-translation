@@ -1,5 +1,5 @@
-# English translation for S.T.A.L.K.E.R.: Last Day
-Hello! This is an English translation for a mod by the name of [*S.T.A.L.K.E.R.: Last Day*](http://www.moddb.com/mods/stalker-last-day), a mod for the *[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)* series.
+# S.T.A.L.K.E.R.: Last Day
+Welcome to the page of an English translation of [*S.T.A.L.K.E.R.: Last Day*](http://www.moddb.com/mods/stalker-last-day), a mod for the *[S.T.A.L.K.E.R.](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.)* series!
 
 A list of all files with their detailed progress can be found below.
 
@@ -7,7 +7,7 @@ A list of all files with their detailed progress can be found below.
 
 - **configs/gameplay:**
 	- [character_desc_mlr.xml](gamedata/configs/gameplay/character_desc_mlr.xml)
-		- done
+		- done (reformat and revise comments?)
 	- [dialogs_bar.xml](gamedata/configs/gameplay/dialogs_bar.xml)
 		- done
 	- [dialogs_darkvalley.xml](gamedata/configs/gameplay/dialogs_darkvalley.xml)
@@ -30,23 +30,41 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [st_characters.xml](gamedata/configs/text/eng/st_characters.xml)
 		- done
+	- [st_closecaption.xml](gamedata/configs/text/eng/st_closecaption.xml)
+		- done
+	- [st_closecaption_generic.xml](gamedata/configs/text/eng/st_closecaption_generic.xml)
+		- done
 	- [st_dialog_barter.xml](gamedata/configs/text/eng/st_dialog_barter.xml)
 		- done
 	- [st_dialog_manager.xml](gamedata/configs/text/eng/st_dialog_manager.xml)
 		- done
 	- [st_dialogs.xml](gamedata/configs/text/eng/st_dialogs.xml)
 		- done
+	- [st_dialogs_bar.xml](gamedata/configs/text/eng/st_dialogs_bar.xml)
+		- done
+	- [st_dialogs_darkvalley.xml](gamedata/configs/text/eng/st_dialogs_darkvalley.xml)
+		- done
+	- [st_dialogs_escape.xml](gamedata/configs/text/eng/st_dialogs_escape.xml)
+		- done
+	- [st_dialogs_katacomb.xml](gamedata/configs/text/eng/st_dialogs_katacomb.xml)
+		- done
 	- [st_dialogs_marsh.xml](gamedata/configs/text/eng/st_dialogs_marsh.xml)
 		- done
+	- [st_dialogs_redforest.xml](gamedata/configs/text/eng/st_dialogs_redforest.xml)
+		- done
+	- [st_dialogs_warlab.xml](gamedata/configs/text/eng/st_dialogs_warlab.xml)
+		- done
+	- [st_dialogs_yantar.xml](gamedata/configs/text/eng/st_dialogs_yantar.xml)
+		- done
+	- [st_dialogs_zaton.xml](gamedata/configs/text/eng/st_dialogs_zaton.xml)
+		- done
 	- [st_drx_addons.xml](gamedata/configs/text/eng/st_drx_addons.xml)
-		- done(taken from DoctorX's Questlines)
+		- done (taken from DoctorX Questlines)
 	- [st_dynamic_news.xml](gamedata/configs/text/eng/st_dynamic_news.xml)
 		- done
 	- [st_fs.xml](gamedata/configs/text/eng/st_fs.xml)
 		- done
 	- [st_game_relations.xml](gamedata/configs/text/eng/st_game_relations.xml)
-		- done
-	- [st_itm_minimod.xml](gamedata/configs/text/eng/st_itm_minimod.xml)
 		- done
 	- [st_items_artefacts.xml](gamedata/configs/text/eng/st_items_artefacts.xml)
 		- done
@@ -55,9 +73,9 @@ A list of all files with their detailed progress can be found below.
 	- [st_items_awr.xml](gamedata/configs/text/eng/st_items_awr.xml)
 		- unrevised
 	- [st_items_equipment.xml](gamedata/configs/text/eng/st_items_equipment.xml)
-		- done
+		- in progress
 	- [st_items_fieldcraft.xml](gamedata/configs/text/eng/st_items_fieldcraft.xml)
-		- done	(taken from AxeBeard's Fieldcraft and edited)
+		- done (taken from AxeBeard's Fieldcraft and edited)
 	- [st_items_mutant_parts.xml](gamedata/configs/text/eng/st_items_mutant_parts.xml)
 		- unrevised
 	- [st_items_outfit.xml](gamedata/configs/text/eng/st_items_outfit.xml)
@@ -65,8 +83,10 @@ A list of all files with their detailed progress can be found below.
 	- [st_items_quest.xml](gamedata/configs/text/eng/st_items_quest.xml)
 		- done
 	- [st_items_weapons.xml](gamedata/configs/text/eng/st_items_weapons.xml)
-		- unrevised
+		- in progress
 	- [st_items_weapons_upgrades.xml](gamedata/configs/text/eng/st_items_weapons_upgrades.xml)
+		- in progress
+	- [st_itm_minimod.xml](gamedata/configs/text/eng/st_itm_minimod.xml)
 		- done
 	- [st_jg.xml](gamedata/configs/text/eng/st_jg.xml)
 		- done
@@ -94,16 +114,30 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [st_quests_zaton.xml](gamedata/configs/text/eng/st_quests_zaton.xml)
 		- done
+	- [st_subtitles.xml](gamedata/configs/text/eng/st_subtitles.xml)
+		- done
 	- [st_treasures.xml](gamedata/configs/text/eng/st_treasures.xml)
 		- done
 	- [stable_treasure_manager.xml](gamedata/configs/text/eng/stable_treasure_manager.xml)
 		- done
 	- [ui_st_encyclopedia.xml](gamedata/configs/text/eng/ui_st_encyclopedia.xml)
 		- done
+	- [ui_st_encyclopedia_anomalies.xml](gamedata/configs/text/eng/ui_st_encyclopedia_anomalies.xml)
+		- in progress
 	- [ui_st_encyclopedia_awr.xml](gamedata/configs/text/eng/ui_st_encyclopedia_awr.xml)
 		- done
+	- [ui_st_encyclopedia_characters.xml](gamedata/configs/text/eng/ui_st_encyclopedia_characters.xml)
+		- in progress
+	- [ui_st_encyclopedia_features.xml](gamedata/configs/text/eng/ui_st_encyclopedia_features.xml)
+		- in progress
+	- [ui_st_encyclopedia_mutants.xml](gamedata/configs/text/eng/ui_st_encyclopedia_mutants.xml)
+		- in progress
 	- [ui_st_faction_starts.xml](gamedata/configs/text/eng/ui_st_faction_starts.xml)
+		- unrevised
+	- [ui_st_inventory.xml](gamedata/configs/text/eng/ui_st_inventory.xml)
 		- done
+	- [ui_st_keybinding.xml](gamedata/configs/text/eng/ui_st_keybinding.xml)
+		- unrevised (*kb_custom13* needs verifying)
 	- [ui_st_loadscreen.xml](gamedata/configs/text/eng/ui_st_loadscreen.xml)
 		- done
 	- [ui_st_mm.xml](gamedata/configs/text/eng/ui_st_mm.xml)
@@ -112,14 +146,16 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [ui_st_pda.xml](gamedata/configs/text/eng/ui_st_pda.xml)
 		- done
+	- [ui_st_radio.xml](gamedata/configs/text/eng/ui_st_radio.xml)
+		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)
 		- done
 
 - **configs/ui:**
 	- [ui_con_checker.xml](gamedata/configs/ui/ui_con_checker.xml)
-		- done
+		- done (needs localizing)
 	- [ui_con_checker_16.xml](gamedata/configs/ui/ui_con_checker_16.xml)
-		- done
+		- done (needs localizing)
 	- [ui_itm_main.xml](gamedata/configs/ui/ui_itm_main.xml)
 		- done
 	- [ui_mod_elements.xml](gamedata/configs/ui/ui_mod_elements.xml)
@@ -130,12 +166,18 @@ A list of all files with their detailed progress can be found below.
 		- unrevised
 
 - **scripts:**
+	- [closecaption.script](gamedata/scripts/closecaption.script)
+		- done
 	- [dialogs_jupiter.script](gamedata/scripts/dialogs_jupiter.script)
 		- untested
+	- [dialogs_mlr.script](gamedata/scripts/dialogs_mlr.script)
+		- unrevised
 	- [dragdrop_disassemble.script](gamedata/scripts/dragdrop_disassemble.script)
-		- done		(taken from AxeBeard's Fieldcraft)
+		- done (taken from AxeBeard's Fieldcraft)
 	- [inventory_upgrades.script](gamedata/scripts/inventory_upgrades.script)
 		- done
+	- [lootmoney.script](gamedata/scripts/lootmoney.script)
+		- unrevised
 	- [pda_chat_names_lists_FonSwong.script](gamedata/scripts/pda_chat_names_lists_FonSwong.script)
 		- done
 	- [pda_chat_processor_FonSwong.script](gamedata/scripts/pda_chat_processor_FonSwong.script)
@@ -156,6 +198,10 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [zone_news.script](gamedata/scripts/zone_news.script)
 		- done
+	- [zone_news_dead.script](gamedata/scripts/zone_news_dead.script)
+		- unrevised
+	- [zone_news_main.script](gamedata/scripts/zone_news_main.script)
+		- unrevised
 	- [zone_news_texts.script](gamedata/scripts/zone_news_texts.script)
 		- incomplete
 	- [zone_news_vs.script](gamedata/scripts/zone_news_vs.script)

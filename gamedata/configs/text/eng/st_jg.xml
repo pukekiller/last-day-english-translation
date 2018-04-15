@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_jg_1">
 		<text>About the job...</text>
@@ -58,3 +58,4 @@
 		<text>Length, including starting point and destination:</text>
 	</string>
 </string_table>
+

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="Btn_Cancel">
 		<text>Cancel</text>
@@ -221,13 +221,13 @@
 	</string>
 	<string id="st_travel_lost">
 		<text>I don't know the way yet.</text>
- 	</string>
+	</string>
 	<string id="st_level_changer_descr">
 		<text>Move to the next level?</text>
- 	</string>
-  	<string id="st_future_maps_descr">
+	</string>
+	<string id="st_future_maps_descr">
 		<text>You can't go there.</text>
-  	</string>
+	</string>
 	<string id="st_save_uni_travel_zat_to_jup">
 		<text>moving from Zaton to Yanov</text>
 	</string>
@@ -486,7 +486,7 @@
 	</string>
 	<string id="st_disable_looting">
 		<text>Looting disabled</text>
-	</string>	
+	</string>
 	<string id="st_set_companion_to_loot_corpse_state">
 		<text>Loot corpses</text>
 	</string>
@@ -634,20 +634,14 @@
 	<string id="st_swsh">
 		<text>You need something sharp to open the can</text>
 	</string>
-	<string id="st_swsr">
-		<text>Your Swiss Army knife has slipped</text>
-	</string>
 	<string id="st_camp_m">
 		<text>You need a lighter to start a fire</text>
 	</string>
-	<string id="st_smoke_fail">
-		<text>You need a lighter to light up your smoke</text>
+	<string id="st_cant_sleep_find_shelter_mlr">
+		<text>A safer place is needed to sleep</text> 
 	</string>
-	<string id="st_cant_sleep_find_shelter_mlr"> 
-        <text>A safer place is needed to sleep</text> 
-	</string>
-	
-	<!-- IMM, updated for LD 1.3+Patch (fix 2018/2/3)-->
+
+	<!-- IMM -->
 	<string id="st_imm_smoke_fail">
 		<text>You need matches to light up your smoke</text>
 	</string>

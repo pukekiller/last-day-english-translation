@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
+< TEXT  STRINGS FOR TASKS ON PRIPYAT MAP
 <	CoC 1.4.08 - DoctorX Questlines 1.6
 <
 <	Modified by: DoctorX
@@ -200,7 +201,6 @@
 
 	<!-- ----------------------------------------------------------------------------------------- -->
 	<!-- Rabbit (Monolith Trader) Assault Territory Task -->
-
 	<string id="pri_monolith_monolith_trader_stalker_task_1_name">
 		<text>Conquer the Enemy</text>
 	</string>
@@ -333,6 +333,7 @@
 	<string id="pri_monolith_monolith_mechanic_stalker_task_1_fetch_finish">
 		<text>You've done well.</text>
 	</string>
+
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_name">
 		<text>Find %s for Cleric</text>
 	</string>
@@ -348,6 +349,7 @@
 	<string id="pri_monolith_monolith_mechanic_stalker_task_2_fetch_finish">
 		<text>Good. You've brought them to me.</text>
 	</string>
+
 	<string id="pri_monolith_monolith_mechanic_stalker_task_3_name">
 		<text>Find %s for Cleric</text>
 	</string>

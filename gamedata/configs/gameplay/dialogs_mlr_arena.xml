@@ -14,7 +14,6 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
 	<dialog id="totaliz_begin">
 		<dont_has_info>totaliz_begin_over_dialog</dont_has_info>
 		<has_info>totaliz_pre</has_info>
@@ -437,7 +436,6 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
 	<dialog id="total_reward_dialog_1000">
 		<dont_has_info>total_reward_over_dialog</dont_has_info>
 		<has_info>totaliz_money_has_gone_1000</has_info>
@@ -737,7 +735,6 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
 	<dialog id="total_reward_dialog_2500">
 		<dont_has_info>total_reward_over_dialog</dont_has_info>
 		<has_info>totaliz_money_has_gone_2500</has_info>
@@ -1038,7 +1035,6 @@
 			</phrase>
 		</phrase_list>
 	</dialog>
-	
 	<dialog id="total_reward_dialog_5000">
 		<dont_has_info>total_reward_over_dialog</dont_has_info>
 		<has_info>totaliz_money_has_gone_5000</has_info>

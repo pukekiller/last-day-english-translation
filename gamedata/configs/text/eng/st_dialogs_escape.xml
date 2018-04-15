@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-<!--------------------------- esc_2_12_stalker_trader ----------->
+	<!-- esc_2_12_stalker_trader -->
 	<string id="esc_2_12_stalker_trader_start_dialog_1">
 		<text>A fresh face.. Or have I seen you around before, stalker? I'm the guy around here to see if you need to buy or sell equipment. If you are seeking a source of income, I'm always in need of someone willing to do dirty work.\nI look over this camp; all stalkers are welcome here to rest as long as they stay out of trouble. I warn you, do not mess with the military, I pay good money to keep them away from this place. Stalkers should be relatively safe as long as they don't leave camp.</text>
 	</string>
@@ -13,11 +13,13 @@
 	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
 		<text>You have a real talent, you know that? Here is your payment. This will be good for business.</text>
 	</string>
-<!--------------------------- esc_2_12_stalker_wolf_start ------>
+
+	<!-- esc_2_12_stalker_wolf_start -->
 	<string id="esc_2_12_stalker_wolf_start_dialog_1">
 		<text>Hello, stalker. What brings you to the village, today?</text>
 	</string>
-<!--------------------------- esc_2_12_stalker_fanat ----------->
+
+	<!-- esc_2_12_stalker_fanat -->
 	<string id="esc_2_12_stalker_fanat_start_dialog_1">
 		<text>Hello, stalker. How are you today?</text>
 	</string>
@@ -30,67 +32,8 @@
 	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
 		<text>Yes, I'll help you. I don't want any more harm to come to any of the rookies.</text>
 	</string>
-	<!--------------------------- devushka ----------->
-	<string id="toz34_sk2_return">
-		<text>Return TOZ-34 Bizon and ammunition to Hip</text>
-	</string>
-	<string id="toz34_sk2_find">
-		<text>Find TOZ-34 Bizon and ammunition for Hip</text>
-	</string>
-	<string id="toz34_return_descr">
-		<text>Hip asked me to find her TOZ-34 Bizon and 20 12x70 shells. And where can I find it?</text>
-	</string>
-	
-	<string id="artefacts_to_sidor_return">
-		<text>Bring artefacts to Sidorovich</text>
-	</string>
-	<string id="artefacts_to_sidor_find">
-		<text>Find artefacts for Sidorovich</text>
-	</string>
-	<string id="artefacts_to_sidor_return_descr">
-		<text>Hip asked me to help her find artifacts for Sidorovich. He wants her to bring Wrenched, Fireball and Moonlight.</text>
-	</string>	
 
-	<string id="go_to_barmen_1">
-		<text>Visit Barman</text>
-	</string>
-	<string id="go_to_barmen_2">
-		<text>Visit Barman</text>
-	</string>
-	<string id="go_to_barmen_descr">
-		<text>We need to go with Hip to Barman. He might be able to help us.</text>
-	</string>	
-	
-	<string id="go_to_lukash_1">
-		<text>Meet and talk to Miklukha</text>
-	</string>
-	<string id="go_to_lukash_2">
-		<text>Meet and talk to Miklukha</text>
-	</string>
-	<string id="go_to_lukash_descr">
-		<text>Me and Hip have to go and see Miklukha to find out who's after her.</text>
-	</string>	
-	
-	<string id="go_to_boroda_1">
-		<text>Take artefact containers to Beard</text>
-	</string>
-	<string id="go_to_boroda_2">
-		<text>Take artefact containers to Beard</text>
-	</string>
-	<string id="go_to_boroda_descr">
-		<text>In exchange for the service, Barman asked us to take artefact containers to Beard.</text>
-	</string>	
-	
-	<string id="go_to_loki_1">
-		<text>Take bags with medicine to Loki</text>
-	</string>
-	<string id="go_to_loki_2">
-		<text>Take bags with medicine to Loki</text>
-	</string>
-	<string id="go_to_loki_descr">
-		<text>In exchange for the service, Mikluha asked us to take bags with medicine to Loki.</text>
-	</string>	
-<!--------------------------- esc_2_12_stalker_nimble ----------->
+	<!-- esc_2_12_stalker_nimble -->
 	<!-- esc_2_12_stalker_trader_mar_base_owl_stalker_trader_task_1 -->
 	<string id="esc_2_12_stalker_nimble_mar_base_owl_stalker_trader_task_1">
 		<text>Something for me? I've been waiting for this. Spore helps me keep my contacts on the outside safe and anonymous through high-level encryption - heh, hacker shit. Believe it or not I used to be a Clear Sky member way back, a lot of bad shit happened but it seems that somehow they managed to pull together. Most either died or went their separate ways. I saw no point in sticking around but I still retain contact with Spore. Oh, sorry, I forgot. Here's your payment:</text>
@@ -101,8 +44,7 @@
 	<string id="esc_2_12_stalker_nimble_no">
 		<text>I'm not sure you have the right person.</text>
 	</string>
-	
-	
+
 	<string id="esc_2_12_stalker_nimble_about_0">
 		<text>Can you answer a couple of questions?</text>
 	</string>
@@ -378,5 +320,66 @@
 	</string>
 	<string id="esc_2_12_stalker_nimble_start_15">
 		<text>The order is finished. Please come to collect it.</text>
+	</string>
+
+	<!-- devushka -->
+	<string id="toz34_sk2_return">
+		<text>Return TOZ-34 Bizon and ammunition to Hip</text>
+	</string>
+	<string id="toz34_sk2_find">
+		<text>Find TOZ-34 Bizon and ammunition for Hip</text>
+	</string>
+	<string id="toz34_return_descr">
+		<text>Hip asked me to find her TOZ-34 Bizon and 20 12x70 shells. And where can I find it?</text>
+	</string>
+	
+	<string id="artefacts_to_sidor_return">
+		<text>Bring artefacts to Sidorovich</text>
+	</string>
+	<string id="artefacts_to_sidor_find">
+		<text>Find artefacts for Sidorovich</text>
+	</string>
+	<string id="artefacts_to_sidor_return_descr">
+		<text>Hip asked me to help her find artifacts for Sidorovich. He wants her to bring Wrenched, Fireball and Moonlight.</text>
+	</string>
+
+	<string id="go_to_barmen_1">
+		<text>Visit Barman</text>
+	</string>
+	<string id="go_to_barmen_2">
+		<text>Visit Barman</text>
+	</string>
+	<string id="go_to_barmen_descr">
+		<text>We need to go with Hip to Barman. He might be able to help us.</text>
+	</string>
+	
+	<string id="go_to_lukash_1">
+		<text>Meet and talk to Miklukha</text>
+	</string>
+	<string id="go_to_lukash_2">
+		<text>Meet and talk to Miklukha</text>
+	</string>
+	<string id="go_to_lukash_descr">
+		<text>Me and Hip have to go and see Miklukha to find out who's after her.</text>
+	</string>
+	
+	<string id="go_to_boroda_1">
+		<text>Take artefact containers to Beard</text>
+	</string>
+	<string id="go_to_boroda_2">
+		<text>Take artefact containers to Beard</text>
+	</string>
+	<string id="go_to_boroda_descr">
+		<text>In exchange for the service, Barman asked us to take artefact containers to Beard.</text>
+	</string>
+	
+	<string id="go_to_loki_1">
+		<text>Take bags with medicine to Loki</text>
+	</string>
+	<string id="go_to_loki_2">
+		<text>Take bags with medicine to Loki</text>
+	</string>
+	<string id="go_to_loki_descr">
+		<text>In exchange for the service, Mikluha asked us to take bags with medicine to Loki.</text>
 	</string>
 </string_table>

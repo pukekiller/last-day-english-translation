@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="ls_header">
 		<text>Last Day 1.3</text>
+	</string>
+	<string id="ls_tip_number">
+		<text>Excerpt #</text>
 	</string>
 	<string id="ls_tip_1">
 		<text>Overloaded stalker is a dead stalker. Hungry stalker is a dead stalker. Sleepy stalker is a dead stalker. And you don't wanna be a dead stalker.</text>
@@ -82,7 +85,7 @@
 		<text>Where the hell is my backpack? Freaking quick release system. Now I have no idea where I put it.</text>
 	</string>
 	<string id="ls_tip_27">
-		<text> If things are getting a little too tough for you, relax, drink some vodka and have a smoke.</text>
+		<text>If things are getting a little too tough for you, relax, drink some vodka and have a smoke.</text>
 	</string>
 	<string id="ls_tip_28">
 		<text>Move with no hesitation or you'll lose your focus.</text>
@@ -106,7 +109,7 @@
 		<text>You'll never hit your target if you're scared.</text>
 	</string>
 	<string id="ls_tip_35">
-		<text> Trust your ears. Sound carries over hills and through dense bushes. A faint but familiar sound may be all you need to brace yourself for a sneak attack.</text>
+		<text>Trust your ears. Sound carries over hills and through dense bushes. A faint but familiar sound may be all you need to brace yourself for a sneak attack.</text>
 	</string>
 	<string id="ls_tip_36">
 		<text>Don't throw this pistol out. Keep it and some ammunition as backup. You never know when you'll need it.</text>
@@ -121,10 +124,10 @@
 		<text>When in a fight, the only rule is to win. Cheat if you have to. Being fair is less important than being alive.</text>
 	</string>
 	<string id="ls_tip_40">
-		<text> If you're being shot at, remain calm, count their rounds and pounce when they reload.</text>
+		<text>If you're being shot at, remain calm, count their rounds and pounce when they reload.</text>
 	</string>
 	<string id="ls_tip_41">
-		<text> Better safe than sorry. Survival is your responsibility!</text>
+		<text>Better safe than sorry. Survival is your responsibility!</text>
 	</string>
 	<string id="ls_tip_42">
 		<text>There are no woodpeckers in the Zone. Do you hear me? No woodpeckers! Whoa, what was that?</text>
@@ -136,7 +139,7 @@
 		<text>Did I ever tell you what the definition of insanity is? Going artifact hunting without appropriate gear.</text>
 	</string>
 	<string id="ls_tip_45">
-		<text> Forewarned is forearmed. Gather some info before you proceed.</text>
+		<text>Forewarned is forearmed. Gather some info before you proceed.</text>
 	</string>
 	<string id="ls_tip_46">
 		<text>If you confront a controller, try to get an object to block your line of sight (tree, rock, wall). If it doesn't see you, it can't control you. And don't listen to this Flint idiot.</text>
@@ -163,13 +166,13 @@
 		<text>The military is NOT here to protect you from the Zone, so if you see a soldier, make a run for your life. And don't look in the mirror.</text>
 	</string>
 	<string id="ls_tip_54">
-		<text> Maintain your equipment so that it can maintain you.</text>
+		<text>Maintain your equipment so that it can maintain you.</text>
 	</string>
 	<string id="ls_tip_55">
 		<text>Let every madman that dares to raise his hand against the Zone be sure that the Zone shall cut this hand without remorse.</text>
 	</string>
 	<string id="ls_tip_56">
-		<text> It doesn't pay to help other people when they're in a pinch. All you can expect is a bullet to the head when you drop your guard. So don't bother.</text>
+		<text>It doesn't pay to help other people when they're in a pinch. All you can expect is a bullet to the head when you drop your guard. So don't bother.</text>
 	</string>
 	<string id="ls_tip_57">
 		<text>Avoid combat whenever possible. Be a mouse till you're forced to roar.</text>
@@ -253,7 +256,7 @@
 		<text>Be careful when approaching a fellow Stalker. Men's hearts hold shadows darker than the Zone itself.</text>
 	</string>
 	<string id="ls_tip_84">
-		<text> Friendship is magic. Even in the Zone.</text>
+		<text>Friendship is magic. Even in the Zone.</text>
 	</string>
 	<string id="ls_tip_85">
 		<text>Day 1: My hair's started to fall out. Day 2: My skin's peeling off. Day 3: I can't move. The greed. Wanted to save on meds. And now's too late.</text>
@@ -302,8 +305,5 @@
 	</string>
 	<string id="ls_tip_100">
 		<text>You'll die in a week if you don't eat. But you can die in a matter of seconds if a bullet hits you. Always keep your suit in a good condition so you can live a little while longer.</text>
-	</string>
-	<string id="ls_tip_number">
-		<text>Excerpt #</text>
 	</string>
 </string_table>

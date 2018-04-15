@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
@@ -209,21 +209,20 @@
 	<!-- Tukarev (Ecog Mechanic) Escort Jupiter Scientists Task -->
 
 	<string id="jup_b6_scientist_tech_task_1_name">
-		<text>Escort Jupiter Scientists</text>
+		<text>Escort the Ecologists</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_1_text">
-		<text>Scientists have hired you to guide them to a specific location for study. Once their research has been successfully conducted, return them safely to camp.</text>
+		<text>The scientists have hired you to guide them to a specific location for study. Once their research has been successfully conducted, return them safely to camp.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_1_about">
 		<text>We need an experienced stalker to lead a few of our the colleagues out into the field for study. Are you up for the task?</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_1_fetch_finish">
-		<text>Thank you for your protection, stalker. Please, take this as a token of our gratitude.</text>
+		<text>Thank you for your protection, stalker. Please take this as a token of our gratitude.</text>
 	</string>
 
-
 	<string id="jup_b6_scientist_tech_task_2_name">
-		<text>Find the %s Artefact for Tukarev</text>
+		<text>Find the %s artefact</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_2_text">
 		<text>You have been asked to retrieve the %s artefact. Bring it back to Tukarev if you happen to get your hands on one.</text>
@@ -232,10 +231,10 @@
 		<text>We are looking for certain kinds of artefacts. If you are interested, I will tell you what we need.</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_2_fetch_about">
-		<text>I need you to bring us back a %s. You ever heard of it? We have something we can give you in return that I think you will find useful.</text>
+		<text>I need you to bring us back a %s. You ever heard of it?</text>
 	</string>
 	<string id="jup_b6_scientist_tech_task_2_fetch_finish">
-		<text>Great! You've found exactly what we are looking for. Take this suit, it offers great protection against the Zone and I'm sure you can command a good price for it.</text>
+		<text>Great! You've found exactly what we are looking for. Take this suit; it offers great protection against the Zone, and I'm sure you’ll be able to command a good price for it.</text>
 	</string>
 
 	<!-- ----------------------------------------------------------------------------------------- -->
@@ -258,7 +257,7 @@
 	<!-- Trapper (Loner Honcho) Lead Mutant Hunt Task -->
 
 	<string id="jup_b220_trapper_task_1_name">
-		<text>Lead Mutant Hunt</text>
+		<text>Clear area of mutants</text>
 	</string>
 	<string id="jup_b220_trapper_task_1_text">
 		<text>Mutants have been spotted near this location making the area dangerous for some of the locals. You have been tasked to lead a hunting party to reduce the mutant threat within the area. Report back to Trapper after the job is done.</text>
@@ -269,8 +268,9 @@
 	<string id="jup_b220_trapper_task_1_finish">
 		<text>Thank you, stalker. The area will be much safer for others because of you. Here is your payment.</text>
 	</string>
+
 	<string id="jup_b220_trapper_task_2_name">
-		<text>Deadliest Game</text>
+		<text>Assassinate target</text>
 	</string>
 	<string id="jup_b220_trapper_task_2_text">
 		<text>Trapper has a high value target that needs to be eliminated.</text>
@@ -285,16 +285,16 @@
 
 	<!-- FIND WEAPON FOR HUNTSMAN TASK -->
 	<string id="jup_b220_trapper_task_3_name">
-		<text>Find a %s for Trapper</text>
+		<text>Find %s</text>
 	</string>
 	<string id="jup_b220_trapper_task_3_text">
 		<text>Trapper is looking for a specific firearm in perfect condition. Return to him if you find one.</text>
 	</string>
 	<string id="jup_b220_trapper_task_3_about">
-		<text>One of my hunters is in the market for a specific firearm that I don't have available. Would you be able to track one down for me?</text>
+		<text>One of my trappers is in the market for a specific firearm that I don't have available. Would you be able to track one down for me?</text>
 	</string>
 	<string id="jup_b220_trapper_task_3_fetch_about">
-		<text>I need a %s. The trapper who wants it goes after dangerous game so he needs it to be in excellent condition. I can pay you well if you find one.</text>
+		<text>I need a %s. The trapper who wants it goes after dangerous game, so he needs it to be in excellent condition. I can pay you well if you find one.</text>
 	</string>
 	<string id="jup_b220_trapper_task_3_fetch_finish">
 		<text>Ah, perfect. This will do nicely. Here is the money I promised you.</text>
@@ -303,10 +303,10 @@
 
 	<!-- FIND MUTANT PARTS FOR HUNTSMAN TASK -->
 	<string id="jup_b220_trapper_task_4_name">
-		<text>%s Trophy Hunt</text>
+		<text>Procure %s</text>
 	</string>
 	<string id="jup_b220_trapper_task_4_text">
-		<text>Trapper says he will pay well if I can bring him a %s.</text>
+		<text>Trapper says he will pay well if you can bring him %s.</text>
 	</string>
 	<string id="jup_b220_trapper_task_4_about">
 		<text>I have a bounty out on a particular type of mutant. Are you interested?</text>
@@ -323,7 +323,7 @@
 
 
 	<string id="jup_b217_stalker_tech_task_1_name">
-		<text>Find %s for Nitro</text>
+		<text>Find %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_1_text">
 		<text>%s are required by Nitro to install basic equipment upgrades, you should bring them back to him if you find any.</text>
@@ -332,19 +332,20 @@
 		<text>I need new tools, stalker, something that is hard to come by in the Zone. If you are interested in helping me out, I will tell you what I need.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_1_fetch_about">
-		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me, I will be grateful; I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_1_fetch_finish">
-		<text>Perfect! This is just what I need, stalker. If you need any of your equipment fine-tuned, now I can do it properly.</text>
+		<text>Perfect! This is just what I need, stalker. If you need any of your equipment fine-tuned, I can now do it properly.</text>
 	</string>
+
 	<string id="jup_b217_stalker_tech_task_2_name">
-		<text>Find %s for Nitro</text>
+		<text>Find %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_2_text">
 		<text>%s are required by Nitro to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_2_about">
-		<text>The toolset you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_2_fetch_about">
 		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
@@ -353,13 +354,13 @@
 		<text>Whoa! You found a nice set of tools for me. Here, I promised you some money in return.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_name">
-		<text>Find %s for Nitro</text>
+		<text>Find %s</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_text">
 		<text>%s are required by Nitro to install expert equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_about">
-		<text>The toolset you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
+		<text>The toolkit you brought me is great, but it doesn't have everything I need. Do you think you can find me a better set?</text>
 	</string>
 	<string id="jup_b217_stalker_tech_task_3_fetch_about">
 		<text>I need an %s. I'm not sure where you can get one of these, but if you can find one, I need it.</text>
@@ -386,7 +387,7 @@
 	</string>
 
 	<string id="jup_b19_freedom_yar_task_1_dm_query">
-		<text>I'm here to deliver a message</text>
+		<text>I'm here to deliver a message.</text>
 	</string>
 
 </string_table>

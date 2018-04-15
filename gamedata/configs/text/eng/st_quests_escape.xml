@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
@@ -165,19 +165,20 @@
 	<!-- Sidorovich (Loner Trader) Eliminate Car Park Bandits Task -->
 
 	<string id="esc_m_trader_task_1_name">
-		<text>Eliminate Car Park Bandits</text>
+		<text>Assault the car park</text>
 	</string>
 	<string id="esc_m_trader_task_1_text">
 		<text>Stage an assault on the car park and eliminate the bandits that occupy the location.</text>
 	</string>
 	<string id="esc_m_trader_task_1_about">
-		<text>Bandits have taken up base in the old car park. These assholes mug or kill anyone who use the roads leading in and out of the camp. It is disrupting local activities for my clients and the stalkers who take refuge in camp. It's hurting business! I need you to "take care" of them. If you want, talk to Fanatic, he may be able to offer you assistance.</text>
+		<text>Bandits have taken up base in the old car park. Those assholes mug or kill anyone who use the roads leading in and out of the camp. It's disrupting local activities for my clients and the stalkers who take refuge in camp. It's hurting business! I need you to 'take care' of them. Talk to Fanatic if you need any help.</text>
 	</string>
 	<string id="esc_m_trader_task_1_finish">
 		<text>Great work, stalker! You and I will be best of friends if you keep this up! Here is what I promised.</text>
 	</string>
+
 	<string id="esc_m_trader_task_2_name">
-		<text>Contract Killer for Sidorovich</text>
+		<text>Contract killer</text>
 	</string>
 	<string id="esc_m_trader_task_2_text">
 		<text>Sidorovich contracted you to run a hit. Find and eliminate the target then return to Sidorovich for payment.</text>
@@ -206,7 +207,7 @@
 	<!-- Wolf (Loner Honcho) Stalker Search and Rescue Dynamic Task -->
 
 	<string id="esc_2_12_stalker_wolf_task_2_name">
-		<text>Find the Missing Stalker</text>
+		<text>Find the missing Stalker</text>
 	</string>
 	<string id="esc_2_12_stalker_wolf_task_2_text">
 		<text>Search for the missing stalker.</text>
@@ -238,7 +239,7 @@
 	<!-- Nimble (Loner Trader) Find Weapon Task -->
 
 	<string id="esc_2_12_stalker_nimble_task_1_name">
-		<text>Find a %s for Nimble</text>
+		<text>Find %s</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_text">
 		<text>Nimble has asked you to find a specific firearm. It needs to be in mint condition. Return to him when you find what he is looking for.</text>
@@ -247,7 +248,7 @@
 		<text>I have a client looking for a specific firearm and I need someone to help me find it. If you are interested I will give you more details. What do you say?</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_about">
-		<text>%s... That is what I need, but it must be in mint condition. The client is paying top dollar and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
+		<text>%s... That is what I need, but it must be in mint condition. The client is paying top dollar, and he doesn't want a rusty piece of shit that will jam up in a life or death situation. I'll give you most of the profit since you are doing all the work. Come back when you find it, man.</text>
 	</string>
 	<string id="esc_2_12_stalker_nimble_task_1_fetch_finish">
 		<text>This is a fine weapon. I think my client will be pleased when I deliver this to him. Here is what I owe you.</text>
@@ -286,7 +287,7 @@
 	<!-- Xenotech (Loner Mechanic) Find Level 1 Toolkit Task -->
 
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_name">
-		<text>Find %s for Xenotech</text>
+		<text>Find %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_text">
 		<text>%s are required by Xenotech to install basic equipment upgrades, you should bring them back to him if you find any.</text>
@@ -295,39 +296,41 @@
 		<text>I need a favour, man. A lot of stalkers come by here asking if I can tune their weapons a certain way but I can't. I just don't have the right tools. I would be able to perform upgrades on a greater variety of equipment if I can just get my hands on the right tools. Please, man, will you help me out?</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_about">
-		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me I will be grateful, I will even offer you a discount from here on out.</text>
+		<text>I need a set of basic tools. It should contain what I need. If you can bring some back for me, I will be grateful; I will even offer you a discount from here on out.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_1_fetch_finish">
-		<text>Okay, yeah, this is exactly what I need. Here, I promised you payment; take it.</text>
+		<text>Okay, yeah, this is exactly what I need. Here. I promised you a payment. Take it.</text>
 	</string>
+
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_name">
-		<text>Find %s for Xenotech</text>
+		<text>Find %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_text">
 		<text>%s are required by Xenotech to install advanced equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_about">
-		<text>My business is booming now, more and more stalkers come to me when they need their weapon fine-tuned. But I could really use more tools. You brought me a quality toolkit last time but I need an even higher quality set. If you are interested, I will tell you what I need.</text>
+		<text>My business is booming now; more and more stalkers come to me when they need their weapon fine-tuned... but I could really use more tools. You brought me a quality toolkit last time, but I need an even higher quality set. If you're up for it, I will tell you what I need.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_about">
-		<text>I need an %s. If you can bring one back for me I will be grateful, I will even pay you for it.</text>
+		<text>I need an %s. If you can bring one back for me, I will be grateful; I will even pay you for it.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_2_fetch_finish">
-		<text>Yes, yes! Here is some cash, you deserve it.</text>
+		<text>Yes, yes! Here is some cash; you deserve it.</text>
 	</string>
+
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_name">
-		<text>Find %s for Xenotech</text>
+		<text>Find %s</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_text">
 		<text>%s are required by Xenotech to install expert equipment upgrades, you should bring them back to him if you find any.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_about">
-		<text>My business is booming now, more and more stalkers come to me when they need their weapon fine-tuned. But I could really use more tools. You brought me a quality toolkit last time but I need an even higher quality set. If you are interested, I will tell you what I need.</text>
+		<text>My business is booming now; more and more stalkers come to me when they need their weapon fine-tuned... but I could really use more tools. You brought me a quality toolkit last time, but I need an even higher quality set. If you're up for it, I will tell you what I need.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_about">
-		<text>I need an %s. If you can bring one back for me I will be grateful, I will even pay you for it.</text>
+		<text>I need an %s. If you can bring one back for me, I will be grateful; I will even pay you for it.</text>
 	</string>
 	<string id="esc_smart_terrain_5_7_loner_mechanic_stalker_task_3_fetch_finish">
-		<text>Yes, yes! Here is some cash, you deserve it.</text>
+		<text>Yes, yes! Here is some cash; you deserve it.</text>
 	</string>
 </string_table>

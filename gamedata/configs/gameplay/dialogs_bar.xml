@@ -739,7 +739,6 @@
             </phrase>
         </phrase_list>
     </dialog>
-
 	<dialog id="kridit1_dolg">
 		<dont_has_info>zaim1</dont_has_info>
 		<dont_has_info>zaim2</dont_has_info>

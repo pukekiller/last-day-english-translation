@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_fs_1">
+        		<text>Насчёт работы проводником</text>
+	</string>
+	<string id="st_fs_2">
+        		<text>Что такое?</text>
+	</string>
+	<string id="st_fs_3">
+        		<text>Я видел твоё сообщение. Тебе нужен проводник?</text>
+	</string>
+	<string id="st_fs_4">
+        		<text>Я согласен. Выдвигаемся.</text>
+	</string>
+	<string id="st_fs_5">
+        		<text>Отлично, пошли!</text>
+	</string>
+	<string id="st_fs_6">
+        		<text>Не мужик, у тебя не хватит денег, чтобы заплатить мне неустойку.</text>
+	</string>
+	<string id="st_fs_7">
+        		<text>Напомни, куда нам идти?</text>
+	</string>
+	<string id="st_fs_8">
+        		<text>Мы на месте.</text>
+	</string>
+	<string id="st_fs_9">
+        		<text>Наконец-то! Спасибо сталкер, отличная работа. Вот твои деньги.</text>
+	</string>
+	<string id="st_fs_10">
+        		<text>Я отказываюсь от задания.</text>
+	</string>
+	<string id="st_fs_11">
+        		<text>Ты уверен?</text>
+	</string>
+	<string id="st_fs_12">
+        		<text>Да</text>
+	</string>
+	<string id="st_fs_13">
+        		<text>Забудь.</text>
+	</string>
+	<string id="st_fs_14">
+        		<text>Ищу опытного сталкера, который проведёт на локацию</text>
+	</string>
+	<string id="st_fs_15">
+        		<text>. Я сейчас</text>
+	</string>
+	<string id="st_fs_16">
+        		<text>Мы опоздали! Мы же договаривались! Плати неустойку в</text>
+	</string>
+	<string id="st_fs_17">
+        		<text>рублей.</text>
+	</string>
+	<string id="st_fs_18">
+        		<text>Да, мне нужно смотаться в одно место. Деньгами не обижу.\nЧерез</text>
+	</string>
+	<string id="st_fs_19">
+        		<text>часов я должен быть</text>
+	</string>
+	<string id="st_fs_20">
+        		<text>, заплачу</text>
+	</string>
+	<string id="st_fs_21">
+        		<text>рублей\nУчти, если не успеем, я возьму с тебя</text>
+	</string>
+	<string id="st_fs_22">
+        		<text>как неустойку</text>
+	</string>
+	<string id="st_fs_23">
+        		<text>Мне нужно быть</text>
+	</string>
+	<string id="st_fs_24">
+        		<text>Мы же договаривались! Плати неустойку в</text>
+	</string>
+	<string id="st_fs_25">
+        		<text>рублей.</text>
+	</string>
+	<string id="st_fs_26">
+        		<text>Длина пути(включая стартовый и конечный уровень): </text>
+	</string>
+</string_table>

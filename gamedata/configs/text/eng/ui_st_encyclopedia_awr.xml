@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="encyclopedia_awr">
-	<text>AWR</text>
+			<text>AWR</text>
 	</string>
 	
 	<string id="encyclopedia_awr_awr">
@@ -158,10 +158,10 @@
 	
 	
 	<string id="encyclopedia_awr_bolt_carrier_1">
-	<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
+			<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_1_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
@@ -237,10 +237,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_2">
-	<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
+			<text>Sliding bolt carrier with turning bolt lock [Russia]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_2_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
@@ -261,10 +261,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_3">
-	<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
+			<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_3_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
@@ -329,10 +329,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_4">
-	<text>Sliding bolt carrier with a locking bias</text>
+			<text>Sliding bolt carrier with a locking bias</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_4_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
@@ -348,10 +348,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_5">
-	<text>Half-free sliding bolt carrier</text>
+			<text>Half-free sliding bolt carrier</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_5_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
@@ -372,10 +372,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_6">
-	<text>Sliding bolt carrier with locking bolt</text>
+			<text>Sliding bolt carrier with locking bolt</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_6_text">
-	<text>\n%c[0,93,0,116]Used with:  
+			<text>\n%c[0,93,0,116]Used with:  
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
@@ -395,10 +395,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_7">
-	<text>Lever type bolt carrier with locking wedge</text>
+			<text>Lever type bolt carrier with locking wedge</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_7_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
@@ -424,10 +424,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_8">
-	<text>Chock from double-barrel shotgun [R]</text>
+			<text>Chock from double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_8_text">
-	<text>\n%c[0,93,0,116]Used with:  
+			<text>\n%c[0,93,0,116]Used with:  
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
@@ -446,10 +446,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_9">
-	<text>Chock from a double-barrel shotgun [R]</text>
+			<text>Chock from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_9_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
@@ -465,10 +465,10 @@
 	</string>
 	
 	<string id="encyclopedia_awr_bolt_carrier_10">
-	<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
+			<text>Sliding bolt carrier with turning bolt lock [NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_10_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
@@ -481,10 +481,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_carrier_11">
-	<text>Longitudinal-a sliding free bolt carrier [PP]</text>
+			<text>Longitudinal-a sliding free bolt carrier [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_carrier_11_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
@@ -510,10 +510,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_2">
-	<text>Handguard [R]</text>
+			<text>Handguard [R]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_2_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
@@ -530,10 +530,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_1">
-	<text>Gas tube [K]</text>
+			<text>Gas tube [K]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_1_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] MP-153\n
@@ -553,10 +553,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_3">
-	<text>gas tube [V]</text>
+			<text>gas tube [V]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_3_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] SKS-45\n
@@ -574,10 +574,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_4">
-	<text>gas tube [AS/PP]</text>
+			<text>gas tube [AS/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_4_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
@@ -619,10 +619,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_5">
-	<text>gas tube [A|V][Russia]</text>
+			<text>gas tube [A|V][Russia]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_5_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
@@ -691,10 +691,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_6">
-	<text>gas tube [A|V][NATO]</text>
+			<text>gas tube [A|V][NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_6_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
@@ -767,10 +767,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_7">
-	<text>gas tube [P]</text>
+			<text>gas tube [P]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_7_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
@@ -782,10 +782,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_11">
-	<text>gas tube [PP]</text>
+			<text>gas tube [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_11_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] MP5A3\n
@@ -801,10 +801,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_8">
-	<text>Ejector [V]</text>
+			<text>Ejector [V]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_8_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
@@ -824,10 +824,10 @@
 
 
 	<string id="encyclopedia_awr_gas_tube_9">
-	<text>Ejector from over-under double-barrel shotgun [R]</text>
+			<text>Ejector from over-under double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_9_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
@@ -846,10 +846,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_gas_tube_10">
-	<text>Ejector from an over-under double barrel shotgun [R]</text>
+			<text>Ejector from an over-under double barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_gas_tube_10_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
@@ -865,10 +865,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_1">
-	<text>18.5mm barrel [R]</text>
+			<text>18.5mm barrel [R]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_1_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
@@ -887,10 +887,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_2">
-	<text>18.5mm barrel [R]</text>
+			<text>18.5mm barrel [R]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_2_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
@@ -906,10 +906,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_3">
-	<text>18.5mm barrel [K]</text>
+			<text>18.5mm barrel [K]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_3_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
@@ -938,10 +938,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_4">
-	<text>7.62mm barrel [V]</text>
+			<text>7.62mm barrel [V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_4_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] L96A1\n
@@ -968,10 +968,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_5">
-	<text>7.92mm barrel [V]</text>
+			<text>7.92mm barrel [V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_5_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
@@ -981,10 +981,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_6">
-	<text>9mm barrel-silencer [AS/PP]</text>
+			<text>9mm barrel-silencer [AS/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_6_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] MP5SD\n
@@ -1006,10 +1006,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_7">
-	<text>7.62mm barrel [A|V]</text>
+			<text>7.62mm barrel [A|V]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_7_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
@@ -1052,10 +1052,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_8">
-	<text>5.45mm barrel [А]</text>
+			<text>5.45mm barrel [А]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_8_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
@@ -1100,10 +1100,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_9">
-	<text>5.56mm barrel [А]</text>
+			<text>5.56mm barrel [А]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_9_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AK-101\n
@@ -1167,10 +1167,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_10">
-	<text>7.62mm barrel [P]</text>
+			<text>7.62mm barrel [P]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_10_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] PKM\n
@@ -1181,10 +1181,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_11">
-	<text>9mm barrel [AS/PP]</text>
+			<text>9mm barrel [AS/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_11_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
@@ -1214,10 +1214,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_barrel_12">
-	<text>7.62mm barrel [PP]</text>
+			<text>7.62mm barrel [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_barrel_12_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
@@ -1230,10 +1230,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_1">
-	<text>Dropping-block breech [R]</text>
+			<text>Dropping-block breech [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_1_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
@@ -1258,10 +1258,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_2">
-	<text>Rotating locking head [2 locks][P]</text>
+			<text>Rotating locking head [2 locks][P]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_2_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] M249 SAW\n
@@ -1273,10 +1273,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_3">
-	<text>Rotating locking head [2 locks][K]</text>
+			<text>Rotating locking head [2 locks][K]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_3_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Saiga-12S\n
@@ -1288,10 +1288,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_4">
-	<text>Rotating locking head [2 locks][V]</text>
+			<text>Rotating locking head [2 locks][V]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_4_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
@@ -1318,10 +1318,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_5">
-	<text>Rotating locking head [3 locks][V]</text>
+			<text>Rotating locking head [3 locks][V]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_5_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] SVD\n
@@ -1339,10 +1339,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_6">
-	<text>Rotating locking head [2 locks][А]</text>
+			<text>Rotating locking head [2 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_6_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
@@ -1402,10 +1402,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_7">
-	<text>Rotating locking head [4 locks][AS]</text>
+			<text>Rotating locking head [4 locks][AS]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_7_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
@@ -1414,10 +1414,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_8">
-	<text>Rotating locking head [6 locks][А]</text>
+			<text>Rotating locking head [6 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_8_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] OC-14-4A\n
@@ -1442,10 +1442,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_9">
-	<text>Rotating locking head [7 locks][А]</text>
+			<text>Rotating locking head [7 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_9_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] FN F2000\n
@@ -1500,10 +1500,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_10">
-	<text>Rotating locking head [8 locks][А]</text>
+			<text>Rotating locking head [8 locks][А]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_10_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Steyr AUG A1\n
@@ -1517,10 +1517,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_11">
-	<text>Supercharger with hammer from a double-barrel shotgun [R]</text>
+			<text>Supercharger with hammer from a double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_11_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-34\n
@@ -1539,10 +1539,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_12">
-	<text>Hammers from a hammer-type double-barrel shotgun [R]</text>
+			<text>Hammers from a hammer-type double-barrel shotgun [R]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_12_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n
@@ -1558,10 +1558,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_13">
-	<text>Rotating locking head [2 locks][А][NATO]</text>
+			<text>Rotating locking head [2 locks][А][NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_13_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Galil ACE-21\n
@@ -1574,10 +1574,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_14">
-	<text>Rotating locking head [А/PP]</text>
+			<text>Rotating locking head [А/PP]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_14_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] HK G3\n
@@ -1598,10 +1598,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_15">
-	<text>Drummer with the mainspring [PP]</text>
+			<text>Drummer with the mainspring [PP]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_15_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] PP-19 Bizon\n
@@ -1620,10 +1620,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_16">
-	<text>Drummer with the mainspring [PP][NATO]</text>
+			<text>Drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_16_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] НК UMP 45\n
@@ -1634,10 +1634,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_bolt_17">
-	<text>Drummer with the mainspring [PP][PPSh]</text>
+			<text>Drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="encyclopedia_awr_bolt_17_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] PPSh-41\n
@@ -1650,10 +1650,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_1">
-	<text>Single-mode hammer type trigger</text>
+			<text>Single-mode hammer type trigger</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_1_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Mossberg 590A1\n
@@ -1699,10 +1699,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_2">
-	<text>Double fire mode trigger mechanism with hammer</text>
+			<text>Double fire mode trigger mechanism with hammer</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_2_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] 9A-91\n
@@ -1824,10 +1824,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_3">
-	<text>Triple fire mode trigger mechanism with hammer</text>
+			<text>Triple fire mode trigger mechanism with hammer</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_3_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AN-94\n
@@ -1877,10 +1877,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_4">
-	<text>Single fire mode trigger mechanism with firing pin</text>
+			<text>Single fire mode trigger mechanism with firing pin</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_4_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] Karabiner 43\n
@@ -1899,10 +1899,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_5">
-	<text>Double fire mode trigger mechanism with firing pin</text>
+			<text>Double fire mode trigger mechanism with firing pin</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_5_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] AS Val\n
@@ -1919,10 +1919,10 @@
 	</string>
 
 	<string id="encyclopedia_awr_trigger_components_6">
-	<text>Trigger mechanism with hammer [R]</text>
+			<text>Trigger mechanism with hammer [R]</text>
 	</string>
 	<string id="encyclopedia_awr_trigger_components_6_text">
-	<text>\n%c[0,93,0,116]Used with: 
+			<text>\n%c[0,93,0,116]Used with: 
 	\n \n
 
 	%c[0,100,100,255]• %c[0,140,140,140] TOZ-66 (obrez)\n

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_meat_tark">
 		<text>Horse meat</text>
@@ -49,7 +49,7 @@
 		<text>Gagarin combat suit</text>
 	</string>
 	<string id="soldier_izol_1_outfit_description">
- 		<text>The Gagarin standard issue combat suit is the certified combat outfit for all standard army units operating within the Zone. Fitted with an external insulating coating and a closed-cycle breathing system using a modified GP-17 gas mask, it offers moderate protection against the Zone's climate. The Gagarin is built off of the Fort Redoubt T7 combat vest, and provides excellent shrapnel protection without reducing the wearers mobility. It's disadvantage is how much it weighs. It has three slots for additional modules.\n \n%c[0,170,170,170]FEATURES:\n%c[0,153,255,255] • %c[0,140,140,140] Reinforced Armor\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] equipment repair (+48%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Hips: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]IV\n \n</text>
+		<text>The Gagarin standard issue combat suit is the certified combat outfit for all standard army units operating within the Zone. Fitted with an external insulating coating and a closed-cycle breathing system using a modified GP-17 gas mask, it offers moderate protection against the Zone's climate. The Gagarin is built off of the Fort Redoubt T7 combat vest, and provides excellent shrapnel protection without reducing the wearers mobility. It's disadvantage is how much it weighs. It has three slots for additional modules.\n \n%c[0,170,170,170]FEATURES:\n%c[0,153,255,255] • %c[0,140,140,140] Reinforced Armor\n%c[255,238,153,26] • %c[0,140,140,140] Usable for: %c[0,170,170,170] equipment repair (+48%)\n \n%c[0,170,170,170]Head:\n%c[0,93,0,116] • %c[0,140,140,140] Torso: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Shoulders: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Filter: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Gloves: %c[0,170,170,170]IIIA\n%c[0,93,0,116] • %c[0,140,140,140] Hips: %c[0,170,170,170]III\n%c[0,93,0,116] • %c[0,140,140,140] Knees and shin: %c[0,170,170,170]IV\n%c[0,93,0,116] • %c[0,140,140,140] Feet: %c[0,170,170,170]IV\n \n</text>
 	</string>
 	<string id="st_rs_1b_outfit_name">
 		<text>РС-1B Lightweight Suit</text>
@@ -234,9 +234,8 @@
 	<string id="st_bag_medkit_4_radiated">
 		<text>Special medkit (irradiated)</text>
 	</string>
-	
+
 	<!-- Crafting -->
-	
 	<string id="selfroll_making">
 		<text>I'm rolling the leaves, won't take long.</text>
 	</string>
@@ -556,7 +555,7 @@
 	<string id="ammo-338-du_bad">
 		<text>.338 DU rounds (old)</text>
 	</string>
- 	<string id="ammo-338-du_verybad">
+	<string id="ammo-338-du_verybad">
 		<text>.338 DU rounds (damaged)</text>
 	</string>
 	<string id="ammo-12x70-buck_bad">
@@ -576,7 +575,7 @@
 	</string>
 	<string id="ammo-12x76-dart_verybad">
 		<text>12x76 dart rounds (damaged)</text>
-	</string> 
+	</string>
 	<string id="ammo-5.45x39-ap_bad">
 		<text>5.45x39 mm AP rounds (old)</text>
 	</string>
@@ -586,7 +585,7 @@
 	<string id="ammo-5.45x39-fmj_bad">
 		<text>5.45x39 mm rounds (old)</text>
 	</string>
- 	<string id="ammo-5.45x39-fmj_verybad">
+	<string id="ammo-5.45x39-fmj_verybad">
 		<text>5.45x39 mm rounds (damaged)</text>
 	</string>
 	<string id="ammo-5.56x45-ap_bad">
@@ -704,203 +703,203 @@
 		<text>7.62x39 mm M43 rounds (damaged)</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_bad">
- 		<text>7.62x39 mm FMJ rounds (old)</text>
- 	</string>
+		<text>7.62x39 mm FMJ rounds (old)</text>
+	</string>
 	<string id="ammo-7.62x39_fmj_verybad">
- 		<text>7.62x39 mm FMJ rounds (damaged)</text>
- 	</string>
+		<text>7.62x39 mm FMJ rounds (damaged)</text>
+	</string>
 	<string id="ammo-7.92x33_fmj_bad">
- 		<text>7.92x57 mm Mauser rounds (old)</text>
- 	</string>
+		<text>7.92x57 mm Mauser rounds (old)</text>
+	</string>
 	<string id="ammo-7.92x33_fmj_verybad">
- 		<text>7.92x57 mm Mauser rounds (damaged)</text>
- 	</string>
+		<text>7.92x57 mm Mauser rounds (damaged)</text>
+	</string>
 	<string id="ammo-7.92x33_ap_bad">
- 		<text>7.92x57 mm SA rounds (old)</text>
- 	</string>
+		<text>7.92x57 mm SA rounds (old)</text>
+	</string>
 	<string id="ammo-7.92x33_ap_verybad">
- 		<text>7.92x57 mm SA rounds (damaged)</text>
+		<text>7.92x57 mm SA rounds (damaged)</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_bad">
- 		<text>5.7x28 SS190 (old)</text>
- 	</string>
+		<text>5.7x28 SS190 (old)</text>
+	</string>
 	<string id="ammo-5.7x28-ss190_verybad">
- 		<text>5.7x28 SS190 (damaged)</text>
+		<text>5.7x28 SS190 (damaged)</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_bad">
- 		<text>5.7x28 mm SS195 (old)</text>
- 	</string>
+		<text>5.7x28 mm SS195 (old)</text>
+	</string>
 	<string id="ammo-5.7x28-ss195_verybad">
- 		<text>5.7x28 mm SS195 (damaged)</text>
+		<text>5.7x28 mm SS195 (damaged)</text>
 	</string>
 	<string id="ammo-7.62x25-p_bad">
- 		<text>7.62x25 mm P (old)</text>
- 	</string>
+		<text>7.62x25 mm P (old)</text>
+	</string>
 	<string id="ammo-7.62x25-p_verybad">
- 		<text>7.62x25 mm P (damaged)</text>
+		<text>7.62x25 mm P (damaged)</text>
 	</string>
 	<string id="ammo_7.62x25-ps_bad">
- 		<text>7.62x25 mm Pst rounds (old)</text>
- 	</string>
+		<text>7.62x25 mm Pst rounds (old)</text>
+	</string>
 	<string id="ammo-7.62x25-p41_verybad">
- 		<text>7.62x25 mm Pst rounds (damaged)</text>
- 	</string>
+		<text>7.62x25 mm Pst rounds (damaged)</text>
+	</string>
 	<string id="ammo_7.62x25-p41_bad">
- 		<text>7.62x25 mm P-41 (old)</text>
- 	</string>
+		<text>7.62x25 mm P-41 (old)</text>
+	</string>
 	<string id="ammo-7.62x25-p41_verybad">
- 		<text>7.62x25 mm P-41 (damaged)</text>
+		<text>7.62x25 mm P-41 (damaged)</text>
 	</string>
 	<string id="ammo-12.7x55-fmj_bad">
- 		<text>12.7x55mm STs-130 (old)</text>
- 	</string>
+		<text>12.7x55mm STs-130 (old)</text>
+	</string>
 	<string id="ammo-12.7x55-fmj_verybad">
- 		<text>12.7x55mm STs-130 (damaged)</text>
+		<text>12.7x55mm STs-130 (damaged)</text>
 	</string>
 	<string id="ammo_12.7x55_ap_bad">
- 		<text>12.7x55 mm STs-130 VPS rounds (old)</text>
- 	</string>
+		<text>12.7x55 mm STs-130 VPS rounds (old)</text>
+	</string>
 	<string id="ammo_12.7x55_ap_verybad">
- 		<text>12.7x55 mm STs-130 VPS rounds (damaged)</text>
+		<text>12.7x55 mm STs-130 VPS rounds (damaged)</text>
 	</string>
 	<!-- Bad Ammo Addon-->
 	<!-- Analogs addon-->
 	<string id="novice_outfit_1_name">
- 		<text>Hunting jacket</text>
- 	</string>
+		<text>Hunting jacket</text>
+	</string>
 	<string id="novice_outfit_2_name">
- 		<text>Camouflage jacket</text>
- 	</string>
+		<text>Camouflage jacket</text>
+	</string>
 	<string id="novice_outfit_3_name">
- 		<text>Checkered jacket</text>
+		<text>Checkered jacket</text>
 	</string>
 	<string id="novice_outfit_4_name">
- 		<text>Army jacket</text>
+		<text>Army jacket</text>
 	</string>
 	<string id="novice_outfit_5_name">
- 		<text>Green leather jacket</text>
+		<text>Green leather jacket</text>
 	</string>
 	<string id="novice_outfit_6_name">
- 		<text>Red leather jacket</text>
+		<text>Red leather jacket</text>
 	</string>
 	<string id="novice_outfit_1m_name">
- 		<text>Hunters hooded jacket</text>
- 	</string>
+		<text>Hunters hooded jacket</text>
+	</string>
 	<string id="novice_outfit_2m_name">
- 		<text>Hooded camouflage jacket</text>
- 	</string>
+		<text>Hooded camouflage jacket</text>
+	</string>
 	<string id="novice_outfit_3m_name">
- 		<text>Hooded checkered jacket</text>
+		<text>Hooded checkered jacket</text>
 	</string>
 	<string id="novice_outfit_4m_name">
- 		<text>Hooded army jacket</text>
+		<text>Hooded army jacket</text>
 	</string>
 	<string id="novice_outfit_5m_name">
- 		<text>Hooded green leather jacket</text>
+		<text>Hooded green leather jacket</text>
 	</string>
 	<string id="novice_outfit_6m_name">
- 		<text>Hooded red leather jacket</text>
+		<text>Hooded red leather jacket</text>
 	</string>
 	<string id="stalker_outfit_name_1">
- 		<text>Brown Sunrise suit</text>
+		<text>Brown Sunrise suit</text>
 	</string>
 	<string id="stalker_outfit_name_2">
- 		<text>Sunrise suit</text>
+		<text>Sunrise suit</text>
 	</string>
 	<string id="stalker_outfit_name_3">
- 		<text>Camouflaged Sunrise suit</text>
+		<text>Camouflaged Sunrise suit</text>
 	</string>
 	<string id="stalker_outfit_name_4">
- 		<text>Sunrise hunting suit</text>
+		<text>Sunrise hunting suit</text>
 	</string>
 	<string id="stalker_outfit_name_5">
- 		<text>Sunrise swamp suit</text>
- 	</string>
+		<text>Sunrise swamp suit</text>
+	</string>
 	<string id="stalker_outfit_name_6">
- 		<text>Army Sunrise suit</text>
- 	</string>
+		<text>Army Sunrise suit</text>
+	</string>
 	<string id="stalker_outfit_name_7">
- 		<text>Raider Sunrise suit</text>
- 	</string>
+		<text>Raider Sunrise suit</text>
+	</string>
 	<string id="radiation_outfit_1_name">
- 		<text>Digitally camouflaged Sunrise suit</text>
- 	</string>
+		<text>Digitally camouflaged Sunrise suit</text>
+	</string>
 	<string id="radiation_outfit_2_name">
- 		<text>Camouflaged Sunrise suit</text>
+		<text>Camouflaged Sunrise suit</text>
 	</string>
 	<string id="bandit_novice_outfit_1_name">
- 		<text>Checkered Bandit Jacket</text>
+		<text>Checkered Bandit Jacket</text>
 	</string>
 	<string id="bandit_novice_outfit_2_name">
- 		<text>Leather Bandit Jacket</text>
+		<text>Leather Bandit Jacket</text>
 	</string>
 	<string id="bandit_novice_outfit_3_name">
- 		<text>Red Bandit Jacket</text>
- 	</string>
+		<text>Red Bandit Jacket</text>
+	</string>
 	<string id="bandit_novice_outfit_1m_name">
- 		<text>Checkered Bandit Jacket With Hood</text>
+		<text>Checkered Bandit Jacket With Hood</text>
 	</string>
 	<string id="bandit_novice_outfit_2m_name">
- 		<text>Leather Bandit Jacket With Hood</text>
+		<text>Leather Bandit Jacket With Hood</text>
 	</string>
 	<string id="bandit_novice_outfit_3m_name">
- 		<text>Red Bandit Jacket With Hood</text>
+		<text>Red Bandit Jacket With Hood</text>
 	</string>
 	<string id="trenchcoat_outfit_1_name">
- 		<text>Dark Cloak</text>
+		<text>Dark Cloak</text>
 	</string>
 	<string id="trenchcoat_outfit_2_name">
- 		<text>Hunting Cloak</text>
+		<text>Hunting Cloak</text>
 	</string>
 	<string id="trenchcoat_outfit_3_name">
- 		<text>Brown Cloak With Cape</text>
+		<text>Brown Cloak With Cape</text>
 	</string>
 	<string id="trenchcoat_outfit_1m_name">
- 		<text>Dark Red Cloak</text>
+		<text>Dark Red Cloak</text>
 	</string>
 	<string id="trenchcoat_outfit_2m_name">
- 		<text>Swamp Cloak</text>
+		<text>Swamp Cloak</text>
 	</string>
 	<string id="trenchcoat_outfit_3m_name">
- 		<text>Pahan's Cloak</text>
- 	</string>
+		<text>Pahan's Cloak</text>
+	</string>
 	<string id="trenchcoat_brown_outfit_1_name">
- 		<text>Marauder Thick Cloak</text>
+		<text>Marauder Thick Cloak</text>
 	</string>
 	<string id="trenchcoat_brown_outfit_2_name">
- 		<text>Dark Thick Cloak</text>
+		<text>Dark Thick Cloak</text>
 	</string>
 	<string id="trenchcoat_brown_outfit_3_name">
- 		<text>Hunting Tight Cloak</text>
- 	</string>
+		<text>Hunting Tight Cloak</text>
+	</string>
 	<string id="trenchcoat_brown_outfit_4_name">
- 		<text>Pakhan Thick Cloak</text>
- 	</string>
+		<text>Pakhan Thick Cloak</text>
+	</string>
 	<string id="csky_novice_outfit_1_name">
- 		<text>Jacket With Hood</text>
- 	</string>
+		<text>Jacket With Hood</text>
+	</string>
 	<string id="csky_light_novice_outfit_1_name">
- 		<text>CHN-1 With Digital Camouflage</text>
+		<text>CHN-1 With Digital Camouflage</text>
 	</string>
 	<string id="dolg_scientific_outfit_1_name">
- 		<text>PSZ-9Md Camouflage Suit</text>
+		<text>PSZ-9Md Camouflage Suit</text>
 	</string>
 	<string id="dolg_outfit_1_name">
- 		<text>Orange PS5-M</text>
+		<text>Orange PS5-M</text>
 	</string>
 	<string id="dolg_exo_outfit_1_name">
- 		<text>Camouflage Exoskeleton</text>
- 	</string>
+		<text>Camouflage Exoskeleton</text>
+	</string>
 	<string id="dolg_exo_outfit_2_name">
- 		<text>Exoskeleton With Digital Camouflage</text>
+		<text>Exoskeleton With Digital Camouflage</text>
 	</string>
 	<!-- Analogs addon-->
 	<string id="mutant_part_psy_dog_brain">
- 		<text>Psi-Dog Brain</text>
- 	</string>
+		<text>Psi-Dog Brain</text>
+	</string>
 	<string id="mutant_part_psy_dog_brain_description">
- 		<text>Psi-Dogs have powerful physic abilities, for example, the ability to induce "hallucinations" upon prey. These illusions are extremely convincing, often capable of inflicting very real trama through currently unknown means. Interestedly, scientists say that while they've identified the region of the brain responsible for the psionic abilities, it's evident that the region is "juvenile" in both development and evolutionary potential. Scientists will pay generously for samples of such tissues. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Mutated body part\n%c[0,153,255,255] • %c[0,140,140,140] Rare scientific specimen\n%c[0,153,255,255] • %c[0,140,140,140] High value</text>
- 	</string>
+		<text>Psi-Dogs have powerful physic abilities, for example, the ability to induce "hallucinations" upon prey. These illusions are extremely convincing, often capable of inflicting very real trama through currently unknown means. Interestedly, scientists say that while they've identified the region of the brain responsible for the psionic abilities, it's evident that the region is "juvenile" in both development and evolutionary potential. Scientists will pay generously for samples of such tissues. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Mutated body part\n%c[0,153,255,255] • %c[0,140,140,140] Rare scientific specimen\n%c[0,153,255,255] • %c[0,140,140,140] High value</text>
+	</string>
 	<string id="st_deactivate_mix">
 		<text>Homemade Antiseptic</text>
 	</string>
@@ -914,9 +913,9 @@
 		<text>Specialised kit for replacing shotgun barrels in the field. Includes all tools and barrels.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] technological item\n%c[255,238,153,26] • %c[0,140,140,140] Usable for:%c[0,170,170,170] weapon repair</text>
 	</string>
 	<string id="st_vodka_4">
- 		<text>Jagermeister Liqueur</text>
+		<text>Jagermeister Liqueur</text>
 	</string>
 	<string id="st_vodka_4_descr">
- 		<text>A German strong herbal liqueur. Made with 56 components and aged for 12 months in oak barrels. The label of the bottle depicts a deer with a cross on it's horns. According to legend, the deer was seen by Saint Hubert, the patron saint of hunters.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Strong alcoholic beverage\n%c[0,153,255,255] • %c[0,140,140,140] Causes dizziness</text>
+		<text>A German strong herbal liqueur. Made with 56 components and aged for 12 months in oak barrels. The label of the bottle depicts a deer with a cross on it's horns. According to legend, the deer was seen by Saint Hubert, the patron saint of hunters.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] Strong alcoholic beverage\n%c[0,153,255,255] • %c[0,140,140,140] Causes dizziness</text>
 	</string>
 </string_table>

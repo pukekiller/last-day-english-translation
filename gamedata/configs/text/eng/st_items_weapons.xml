@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <string id="st_dynamo_hand_name">
+	<string id="st_dynamo_hand_name">
 		<text>Portable Dynamo</text>
 	</string>
 	<string id="st_dynamo_hand_descr">
@@ -445,7 +445,7 @@
 		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[0,153,255,255] • %c[0,140,140,140] OTs-14 weapon series\n \n%c[0,170,170,170]Optical sight for the OTs-14 weapon series.\n \n%c[0,93,0,116] • %c[0,140,140,140] Magnification: %c[0,170,170,170]4.0x\n%c[0,93,0,116] • %c[0,140,140,140] Condition: %c[0,170,170,170]good\n%c[0,93,0,116] • %c[0,140,140,140] Reticule pattern: %c[0,170,170,170]4x34</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01">
-		<text> PSO-1M2-1 scope</text>
+		<text>PSO-1M2-1 scope</text>
 	</string>
 	<string id="st_addon_scope_pso-1m2-01_descr">
 		<text>\n \n%c[0,140,140,140]COMPATIBILITY:\n \n%c[0,153,255,255] • %c[0,140,140,140] all Warsaw Pact rifles\n \n%c[0,170,170,170]The PSO-1M2-O1 features an extremely effective and useful height-based rangefinder for dual use, with graduated scales for both standing and prone figure estimation. The 400 meter Simonov height based gradient (choke style) rangefinder has a chevron for use with the 9x39 caliber rifles.\n \n%c[0,93,0,116] • %c[0,140,140,140] Magnification: %c[0,170,170,170]4.0x\n%c[0,93,0,116] • %c[0,140,140,140] Condition: %c[0,170,170,170]very good\n%c[0,93,0,116] • %c[0,140,140,140] Reticule pattern: %c[0,170,170,170]PSO-1-1</text>

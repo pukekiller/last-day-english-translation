@@ -240,6 +240,7 @@
 	<string id="kb_cam_zoom_out">
 		<text>Camera zoom out</text>
 	</string>
+
 	<string id="kb_custom1">
 		<text>Companion toggle combat</text>
 	</string>
@@ -258,7 +259,7 @@
 	<string id="kb_custom6">
 		<text>Toggle HUD</text>
 	</string>
-	
+
 	<string id="kb_custom7">
 		<text>PDA Map</text>
 	</string>
@@ -277,8 +278,8 @@
 	<string id="kb_custom12">
 		<text>PDA Guide</text>
 	</string>
-	
+
 	<string id="kb_custom13">
-		<text>Toggle Suppressor</text>
+		<text>Toggle suppressor</text>
 	</string>
 </string_table>

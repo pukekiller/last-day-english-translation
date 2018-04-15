@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="bar_arena_man_job_0">
 		<text>Who do you have for me to fight?</text>
-	</string>
-	<string id="bar_arena_manager_game_1">
-		<text>There is nothing to fight, come again later when we have some more mutants.</text>
-	</string>
-	<string id="bar_arena_manager_game_100">
-		<text>There's a fee for participation. 1,000 RU.</text>
-	</string>
-	<string id="bar_arena_manager_game_101">
-		<text>Fine, here's your money.</text>
 	</string>
 	<string id="bar_arena_man_job_11">
 		<text>So, your first fight? Your opponent is a piece of meat just like you. He's here because of his debts and he only has two options: to come out and fight, or to land himself in the nearest anomaly. He's gonna fight like a cornered animal. Equipment for today... Lemme think... How about you two use basic pistols, two boxes of ammo should be plenty. Either kick his ass or we feed you to the dogs - not much of a choice. Go on now.</text>
@@ -84,11 +75,11 @@
 	<string id="bar_arena_man_job_182">
 		<text>I'm not ready.</text>
 	</string>
-	<string id="bar_arena_man_start_11">
-		<text>Yo! I've got a new fight for you.</text>
-	</string>
 	<string id="bar_arena_man_start_111112">
 		<text>Yo! You paid me for a fight but you just walked away!</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>Yo! I've got a new fight for you.</text>
 	</string>
 	<string id="bar_arena_man_start_21">
 		<text>Go have a drink or something. The Arena ain't ready yet.</text>
@@ -104,6 +95,15 @@
 	</string>
 	<string id="bar_arena_manager_game_0">
 		<text>What challenge do you have for me?</text>
+	</string>
+	<string id="bar_arena_manager_game_1">
+		<text>There is nothing to fight, come again later when we have some more mutants.</text>
+	</string>
+	<string id="bar_arena_manager_game_100">
+		<text>There's a fee for participation. 1,000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_101">
+		<text>Fine, here's your money.</text>
 	</string>
 	<string id="bar_arena_manager_game_105">
 		<text>I don't have enough money.</text>
@@ -166,7 +166,7 @@
 		<text>There's a pseudodog. A large specimen, but quite beaten up. On the other hand it's a very fierce one, just like my mother-in-law.</text>
 	</string>
 	<string id="bar_arena_manager_game_200">
-		<text>Deal. One more thing, put a stake on the time that you require to kill it. If you manage it - you win, otherwise - you lose. The less the time taken, the bigger the reward won.</text>
+		<text>Deal. Before you fight you should place a stake on the time you need to make the kill. If you manage to pull it off you'll make yourself a little extra spending money.</text>
 	</string>
 	<string id="bar_arena_manager_game_201">
 		<text>30 seconds, triple win.</text>
@@ -291,7 +291,8 @@
 	<string id="bar_arena_manager_start_51">
 		<text>Sorry, bro, but you lose. Come again next time if you want.</text>
 	</string>
-<!------------------ bar_visitors_barman_stalker_trader ----------->    
+
+	<!-- bar_visitors_barman_stalker_trader -->
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
 		<text>Oh, hello. What's up?</text>
 	</string>
@@ -301,7 +302,8 @@
 	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
 		<text>You here to buy some shit?</text>
 	</string>
-<!------------------------- bar_visitors_stalker_mechanic ------------------------>
+
+	<!-- bar_visitors_stalker_mechanic -->
 	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
 		<text>Hey guy, how goes the Zone? So...I hope you have repair work that needs done... Heh, I need some cash bad.</text>
 	</string>

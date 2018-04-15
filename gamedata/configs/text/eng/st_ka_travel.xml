@@ -1,52 +1,52 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-    <string id="ka_travel_dialog_ask">
-        <text>I need to travel somewhere... Is this something that you can arrange for me?</text>
-    </string>
-    <string id="ka_travel_dialog_response">
-        <text>Certainly. Where would you like to go?</text>
-    </string>
+	<string id="ka_travel_dialog_ask">
+		<text>I need to travel somewhere... Is this something that you can arrange for me?</text>
+	</string>
+	<string id="ka_travel_dialog_response">
+		<text>Certainly. Where would you like to go?</text>
+	</string>
 	<string id="ka_travel_dialog_nevermind">
 		<text>Never mind.</text>
 	</string>
-    <string id="ka_travel_dialog_accept">
-        <text>Sounds great.</text>
-    </string>
-    <string id="ka_travel_dialog_change">
-        <text>Actually, I need to go somewhere else...</text>
-    </string>
-    <string id="ka_travel_dialog_deny">
-        <text>That is too expensive.</text>
-    </string>
+	<string id="ka_travel_dialog_accept">
+		<text>Sounds great.</text>
+	</string>
+	<string id="ka_travel_dialog_change">
+		<text>Actually, I need to go somewhere else...</text>
+	</string>
+	<string id="ka_travel_dialog_deny">
+		<text>That is too expensive.</text>
+	</string>
 	<string id="ka_travel_dialog_cost">
 		<text>That will cost you %s rubles.</text>
 	</string>
 	
-    <string id="ka_travel_dialog_zaton">
-        <text>The Skadovsk in Zaton.</text>
-    </string>
-    <string id="ka_travel_dialog_jupiter">
-        <text>Yanov station in Jupiter.</text>
-    </string>
-    <string id="ka_travel_dialog_yantar">
-        <text>The science lab in Yantar.</text>
-    </string>
-    <string id="ka_travel_dialog_cordon">
-        <text>Rookie village in Cordon.</text>
-    </string>
-    <string id="ka_travel_dialog_bar">
-        <text>The Bar in Rostok.</text>
-    </string>
-    <string id="ka_travel_dialog_warehouses">
-        <text>The Freedom base in the Army Warehouses.</text>
-    </string>
-    <string id="ka_travel_dialog_city">
-        <text>The Mercenary base in Dead City.</text>
-    </string>
-    <string id="ka_travel_dialog_agroprom">
-        <text>The Military base in Agroprom.</text>
-    </string>
-    <string id="ka_travel_dialog_swamp">
-        <text>The Clear Sky base in the Great Swamp.</text>
-    </string>
+	<string id="ka_travel_dialog_zaton">
+		<text>The Skadovsk in Zaton.</text>
+	</string>
+	<string id="ka_travel_dialog_jupiter">
+		<text>Yanov station in Jupiter.</text>
+	</string>
+	<string id="ka_travel_dialog_yantar">
+		<text>The science lab in Yantar.</text>
+	</string>
+	<string id="ka_travel_dialog_cordon">
+		<text>Rookie village in Cordon.</text>
+	</string>
+	<string id="ka_travel_dialog_bar">
+		<text>The Bar in Rostok.</text>
+	</string>
+	<string id="ka_travel_dialog_warehouses">
+		<text>The Freedom base in the Army Warehouses.</text>
+	</string>
+	<string id="ka_travel_dialog_city">
+		<text>The Mercenary base in Dead City.</text>
+	</string>
+	<string id="ka_travel_dialog_agroprom">
+		<text>The Military base in Agroprom.</text>
+	</string>
+	<string id="ka_travel_dialog_swamp">
+		<text>The Clear Sky base in the Great Swamp.</text>
+	</string>
 </string_table>

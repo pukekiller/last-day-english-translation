@@ -2,7 +2,7 @@
 <xml>
 
 <!-------------------------- Профили техника и торговца в ТЛ ------------------------>
-<!-------------------------- Profiles of technician and trader in Darkscape (added in LD 1.3 + Patch) ------------------------>
+<!----------------------- Technician and trader in the Darkscape -------------------->
 
 <specific_character id="dasc_tech_mlr" team_default="1">
 <name>st_dasc_tech_mlr_name</name>
@@ -855,7 +855,7 @@ ammo_9x39_ap = 1 \n
 </specific_character>
 
 <!-------------------------- Механик в КБО ------------------------>
-<!------- Monolith technician in the Yubileiny service center ----->
+<!------- Monolith technician in the Yubileiny service centre ----->
 
 <specific_character id="mechanic_monolith_kbo" team_default="1">
 <name>GENERATE_NAME_stalker</name>
@@ -895,7 +895,7 @@ ammo_5.45x39_ap = 1 \n
 </specific_character>
 
 <!-------------------------- Барыга в КБО------------------------>
-<!-------- Monolith trader in the Yubileiny service center ------>
+<!-------- Monolith trader in the Yubileiny service centre ------>
 
 <specific_character id="trader_monolith_kbo" team_default="1">
 <name>GENERATE_NAME_stalker</name>

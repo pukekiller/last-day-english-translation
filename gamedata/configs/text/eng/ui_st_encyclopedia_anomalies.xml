@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	
 	<string id="encyclopedia_anomalies">
 		<text>Anomalies</text>
 	</string>
 	
-		<string id="encyclopedia_anomalies_burner">
+	<string id="encyclopedia_anomalies_burner">
 			<text>Burner</text>
 		</string>
-		<string id="encyclopedia_anomalies_burner_text"> 	
+	<string id="encyclopedia_anomalies_burner_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Burner%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Flame-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -17,10 +17,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_comet">
+	<string id="encyclopedia_anomalies_comet">
 			<text>Comet</text>
 		</string>
-		<string id="encyclopedia_anomalies_comet_text"> 	
+	<string id="encyclopedia_anomalies_comet_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Comet%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Flame-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -30,10 +30,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_vortex">
+	<string id="encyclopedia_anomalies_vortex">
 			<text>Vortex</text>
 		</string>
-		<string id="encyclopedia_anomalies_vortex_text"> 	
+	<string id="encyclopedia_anomalies_vortex_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Vortex%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Gravity-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -47,10 +47,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_springboard">
+	<string id="encyclopedia_anomalies_springboard">
 			<text>Springboard</text>
 		</string>
-		<string id="encyclopedia_anomalies_springboard_text"> 	
+	<string id="encyclopedia_anomalies_springboard_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Springboard%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Gravity-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -60,10 +60,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_whirligig">
+	<string id="encyclopedia_anomalies_whirligig">
 			<text>Whirligig</text>
 		</string>
-		<string id="encyclopedia_anomalies_whirligig_text"> 	
+	<string id="encyclopedia_anomalies_whirligig_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Whirligig%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Gravity-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -74,10 +74,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_fruit">
+	<string id="encyclopedia_anomalies_fruit">
 			<text>Fruit Punch</text>
 		</string>
-		<string id="encyclopedia_anomalies_fruit_text"> 	
+	<string id="encyclopedia_anomalies_fruit_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Fruit Punch%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Chemical-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -88,10 +88,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_fuzz">
+	<string id="encyclopedia_anomalies_fuzz">
 			<text>Burnt Fuzz</text>
 		</string>
-		<string id="encyclopedia_anomalies_fuzz_text"> 	
+	<string id="encyclopedia_anomalies_fuzz_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Burnt Fuzz%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Chemical-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -100,10 +100,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_gas">
+	<string id="encyclopedia_anomalies_gas">
 			<text>Gas</text>
 		</string>
-		<string id="encyclopedia_anomalies_gas_text"> 	
+	<string id="encyclopedia_anomalies_gas_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Gas%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Chemical-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -113,10 +113,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_gascloud">
+	<string id="encyclopedia_anomalies_gascloud">
 			<text>Gas Cloud</text>
 		</string>
-		<string id="encyclopedia_anomalies_gascloud_text"> 	
+	<string id="encyclopedia_anomalies_gascloud_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Gas Cloud%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Chemical-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -126,10 +126,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_electro">
+	<string id="encyclopedia_anomalies_electro">
 			<text>Electro</text>
 		</string>
-		<string id="encyclopedia_anomalies_electro_text"> 	
+	<string id="encyclopedia_anomalies_electro_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Electro%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Electricity-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -139,10 +139,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_tesla">
+	<string id="encyclopedia_anomalies_tesla">
 			<text>Tesla</text>
 		</string>
-		<string id="encyclopedia_anomalies_tesla_text"> 	
+	<string id="encyclopedia_anomalies_tesla_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Tesla%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Electricity-based%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -152,10 +152,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_space">
+	<string id="encyclopedia_anomalies_space">
 			<text>Space</text>
 		</string>
-		<string id="encyclopedia_anomalies_space_text"> 	
+	<string id="encyclopedia_anomalies_space_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Space%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Reality-altering%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]
@@ -166,10 +166,10 @@
 			</text>
 		</string>
 		
-		<string id="encyclopedia_anomalies_teleport">
+	<string id="encyclopedia_anomalies_teleport">
 			<text>Teleport</text>
 		</string>
-		<string id="encyclopedia_anomalies_teleport_text"> 	
+	<string id="encyclopedia_anomalies_teleport_text">
 			<text>%c[0,200,0,255]• %c[0,140,140,140]Name: %c[0,153,255,255]Teleport%c[0,140,140,140]
 			\n%c[0,200,0,255]• %c[0,140,140,140]Type: %c[255,238,153,26]Reality-altering%c[0,140,140,140]
 			\n \n%c[0,0,255,30]Information%c[0,140,140,140]

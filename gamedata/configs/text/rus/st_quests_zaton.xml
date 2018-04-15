@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON ZATON MAP
+<	CoC 1.4.22 — DoctorX Questlines 1.24
+<
+<	Modified by: DoctorX
+<	Translated by: av661194
+<	Last revised: February 16, 2017
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Beard (Loner Trader) Default Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_name">
+		<text>Получить следующее задание</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_text">
+		<text>Получите следующее задание.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_about">
+		<text>Ха-ха! Я рад, что ты здесь, сталкер. Я знаю человека, который мог бы использовать твою помощь.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_default_task_finish">
+		<text>Удачи, сталкер.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Beard (Loner Trader) Retrieve PDA Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_name">
+		<text>КПК для Бороды</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_text">
+		<text>КПК для Бороды, который содержит компромат на Сыча.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_about">
+		<text>Ха-ха! Посмотрите, кто это! Ну, мой друг, у меня есть дело для тебя! Этот Сыч думает, что он может закрыть меня, но я знаю кое-что о нём. Существует КПК, который я припрятал, где есть всё, чтобы поставить его на место. Принеси его мне, сталкер.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_1_finish">
+		<text>Ха! Хороший ты человек, сталкер!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Beard (Loner Trader) Search and Rescue Storyline Task -->
+
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_name">
+		<text>Поиск и спасение сталкера</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_text">
+		<text>«Монолит» захватил сталкера. Найти его и спасти.</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_about">
+		<text>Сталкер, монолитовцы, суки, захватили одного из наших товарищей. Спаси его!</text>
+	</string>
+	<string id="drx_sl_zat_a2_stalker_barmen_task_2_finish">
+		<text>Ха-ха! Выпей водки — я плачу!</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Noah (Loner Honcho) Default Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_default_task_name">
+		<text>Получить следующее задание</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_text">
+		<text>Получите следующее задание.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_about">
+		<text>Встреться с одним человеком, он тоже ненавидит мутантов.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_default_task_finish">
+		<text>Удачи, сталкер.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Noah (Loner Honcho) Dog Food Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_task_1_name">
+		<text>%s — корм для собаки Ноя</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_text">
+		<text>%s — корм для Лесси, собаки Ноя.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_about">
+		<text>Мне нужен корм для моей собаки.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_fetch_about">
+		<text>%s — вот, что нужно для моей псины.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_1_fetch_finish">
+		<text>Вот, возьми.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Noah (Loner Honcho) Exterminate Mutant Infestation Storyline Task -->
+
+	<string id="drx_sl_zat_b18_noah_task_2_name">
+		<text>Помочь Ною в истреблении мутантов</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_text">
+		<text>Помочь Ною в истреблении мутантов.</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_about">
+		<text>Проклятые мутанты! Опять расплодились! Надо перестрелять их!</text>
+	</string>
+	<string id="drx_sl_zat_b18_noah_task_2_finish">
+		<text>Вот, возьми. Это тебе.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
+
+	<string id="zat_a2_stalker_barmen_task_1_name">
+		<text>Зачистка</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_text">
+		<text>Борода попросил зачистить местность от мутантов.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_about">
+		<text>Тсс... Слышал это? Вой мутантов. Прямо мороз по коже. Как насчет того, чтобы успокоить их? Я не останусь в долгу.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_1_finish">
+		<text>Ха-ха! Хорошо сделано, сталкер! Вот, держи от Бороды!</text>
+	</string>
+
+
+	<!-- FIND ARTEFACT FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_2_name">
+		<text>Отыскать для Бороды артефакт %s</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_text">
+		<text>Надо найти для Бороды артефакт %s. Обещает неплохо заплатить.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_about">
+		<text>Я обычно не покупаю артефакты у сталкеров, но тут поступил срочный заказ, клиента не хотелось бы подвести. Сможешь достать один из них для меня?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_fetch_about">
+		<text>Слушай, я ищу артефакт %s. Видел где-нибудь? Если найдёшь — я хорошо заплачу.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_2_fetch_finish">
+		<text>Хорошая работа, сталкер! Выпей, я плачу!</text>
+	</string>
+
+
+	<!-- ASSASSINATION FOR BEARD TASK -->
+	<string id="zat_a2_stalker_barmen_task_3_name">
+		<text>Дипломатия</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_text">
+		<text>Убедить военного коменданта прекратить поиски сталкера.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_about">
+		<text>Видишь того парня в углу? Спецназ СБУ ищет его. Он скрывается здесь уже в течение нескольких недель. Говорят, что он прошёл через Выжигатель, чтобы оторваться от них. Я не знаю, как он выжил, хотя он теперь не совсем в ладах с головой. Во всяком случае, ты можешь помочь бедняге. Я случайно знаю, где находится военный комендант, который хочет поймать его. Может быть, ты сможешь убедить его оставить парня в покое?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_task_3_finish">
+		<text>А, ты убил его! Мужик, ты просто прирождённый дипломат! Сегодня для тебя всё бесплатно!</text>
+	</string>
+
+
+	<!---	zat_b7_bandit_boss_sultan_task --->
+	<string id="zat_b7_bandit_boss_sultan_task_1_name">
+		<text>Убить сталкера</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_text">
+		<text>Султан поручил найти и убить сталкера</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_about">
+		<text>Тут ещё не все поняли кто в Зоне хозяин! И кое-кто всё ещё считает, что может безнаказанно кидать меня, или ещё как-либо выражать ко мне неуважение. Некоторые из них должны мне денег, некоторые запороли важные сделки... Все они не более чем крысы, которых нужно просто растоптать. Если берёшься, я отмечу цель на твоем ПДА.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
+		<text>Неплохо сработал, неплохо! Держи, как обещал:</text>
+	</string>
+	<!-- zat_a2_stalker_mechanic -->
+	<string id="zat_a2_stalker_mechanic_task_1_name">
+		<text>Найти %s для Кардана</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_text">
+		<text>Нужно принести Кардану %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_about">
+		<text>Понимаешь, братан, для того чтоб снарягу чинить мне не только водка нужна, но и инструменты. Вот если б ты их принес, я б всё что угодно сделать смог. Ты как, поможешь?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_about">
+		<text>Достань мне набор инструментов, хоть простейший. Я тебе даже заплачу, если принесёшь.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
+		<text>Отлично, самое то! Спасибо, сталкер, держи чем богат:</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_name">
+		<text>Найти %s для Кардана</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_text">
+		<text>Нужно принести Кардану %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_about">
+		<text>Мне бы не помешало больше инструментов... и водки. Твой набор довольно хороший, но слишком простой. Для более глобальных апгрейдов никуда не годится. Сможешь достать набор получше?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_about">
+		<text>Отлично, если принесёшь набор инструментов для тонкой работы, накрою поляну, можешь не сомневаться.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
+		<text>Ну спасибо, теперь у меня есть всё, что надо. Жаль только обещанной поляны не выйдет... Но я тебе деньгами компенсирую, лады? И это, если будет не с кем выпить, или снаряга сломается — приходи, я завсегда помогу.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_name">
+		<text>Найти %s для Кардана</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_text">
+		<text>%s нужны Кардану для проведения элитных модификаций. Найдите их.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_about">
+		<text>Надо больше инструментов и водки, но водку и так легко найти. То, что мне сейчас надо — инструменты для калибровки. Сделаешь это для меня?</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_about">
+		<text>Мне нужны инструменты  для калибровки. Принесёшь — с меня поляна.</text>
+	</string>
+	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
+		<text>Фантастика! Ну, теперь заходи в любое время !</text>
+	</string>
+</string_table>

@@ -1,47 +1,6 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-	<string id="dm_dialog_add_trade">
-		<text>So... I hear you do some trading on the side.</text>
-	</string>
-	<string id="dm_dialog_add_repair">
-		<text>Rumour has it you are handy with a file. Can you repair my gear?</text>
-	</string>
-	<string id="dm_dialog_character_history">
-		<text>Tell me about yourself.</text>
-	</string>
-<!-- General -->
-	<string id="actor_break_dialog_0">
-		<text>Goodbye.</text>
-	</string>
-	<string id="actor_break_dialog_1">
-		<text>See you later.</text>
-	</string>
-	<string id="actor_break_dialog_2">
-		<text>Peace.</text>
-	</string>
-	<string id="actor_break_dialog_3">
-		<text>Bye.</text>
-	</string>
-<!-- Wish Granter -->
-	<string id="st_wish_1">
-		<text>I want the Zone to disappear!</text>
-	</string>
-	<string id="st_wish_2">
-		<text>Humanity is corrupt, mankind must be controlled!</text>
-	</string>
-	<string id="st_wish_3">
-		<text>I wish for world peace!</text>
-	</string>
-	<string id="st_wish_4">
-		<text>I desire all the riches of the Zone!</text>
-	</string>
-	<string id="st_wish_5">
-		<text>Make me immortal!</text>
-	</string>
-	<string id="st_wish_99">
-		<text>[Say nothing]</text>
-	</string>
-<!-- About Quests Bandit -->
+	<!-- About Quests Bandit -->
 	<string id="about_quests_dialog_bandit_0">
 		<text>Heard any news around here lately?</text>
 	</string>
@@ -169,7 +128,7 @@
 		<text>The boys said that an army squad went down the southern plateau straight for the mercenary camp. They figured that the shit was about to kick off, so they left in a hurry.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_32">
-		<text>I heard this story of how the army cockroaches were trying to get some shit out of their crashed chopper in the swamp. Imagine that, five army boys in uniform jumping around in a swamp trying not to get wet... </text>
+		<text>I heard this story of how the army cockroaches were trying to get some shit out of their crashed chopper in the swamp. Imagine that, five army boys in uniform jumping around in a swamp trying not to get wet...</text>
 	</string>
 	<string id="about_quests_dialog_bandit_33">
 		<text>One fella told me how he was following a stalker to get a piece of his loot when he heard gunshots and shit. Turned out the army were fighting the mercs. He hid and waited the firefight out, but by that time the stalker had run off. Tough luck, huh?</text>
@@ -193,7 +152,7 @@
 		<text>By walking, buddy. Walk on over towards Jupiter and ask your questions there, 'cause there's no direct route from Zaton to Pripyat and that's a scientific fact.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_43">
-		<text>Hey buddy, do I look like a guide or what? I mean, is there a tattoo on my forehead that says "Ask stupid questions here"  or something? Go ask Pilot, he's paid to answer questions about that shit.</text>
+		<text>Hey buddy, do I look like a guide or what? I mean, is there a tattoo on my forehead that says 'Ask stupid questions here' or something? Go ask Pilot, he's paid to answer questions about that shit.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_44">
 		<text>No... What would I do there anyways? There ain't no stalkers to rip off there!</text>
@@ -214,13 +173,13 @@
 		<text>Well, I'd ask the technicians. I mean, it's their business to know this shit, right?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_63">
-		<text>Beats me, but stalkers from Skadovsk believe that Cardan is a technical genius or something.  Talk to him if you want... He's just an old drunk if you ask me...</text>
+		<text>Beats me, but stalkers from Skadovsk believe that Cardan is a technical genius or something. Talk to him if you want... He's just an old drunk if you ask me...</text>
 	</string>
 	<string id="about_quests_dialog_bandit_7">
 		<text>Who could I hire to take measurements for the scientists?</text>
 	</string>
 	<string id="about_quests_dialog_bandit_73">
-		<text>That's an easy one - our boys will do it.  I mean they didn't go to school or anything but they'll take whoever you want and measure them real good. Once they have the measurements, all they need is a nice grave and that's no problem either!</text>
+		<text>That's an easy one - our boys will do it. I mean they didn't go to school or anything but they'll take whoever you want and measure them real good. Once they have the measurements, all they need is a nice grave and that's no problem either!</text>
 	</string>
 	<string id="about_quests_dialog_bandit_8">
 		<text>I found a very strange artefact. Can you suggest a buyer?</text>
@@ -240,6 +199,8 @@
 	<string id="about_quests_dialog_bandit_98">
 		<text>Okay, forget about it.</text>
 	</string>
+
+	<!-- About Quests Duty -->
 	<string id="about_quests_dialog_dolg_0">
 		<text>Heard any news around here lately?</text>
 	</string>
@@ -412,7 +373,7 @@
 		<text>Well, you could start a recruitment campaign in a mental hospital... Then again, I know a good alternative - Monolith fighters. Speaking of which, a squad of them was spotted near AA complex and they probably even know the way to Pripyat, too... Hey man, I hope you're not taking me seriously...</text>
 	</string>
 	<string id="about_quests_dialog_dolg_56">
-		<text>Look for volunteers in Duty.  Strider, for example. He hasn't got a mission yet, so I figure the Lieutenant Colonel might let him go with you.</text>
+		<text>Look for volunteers in Duty. Strider, for example. He hasn't got a mission yet, so I figure the Lieutenant Colonel might let him go with you.</text>
 	</string>
 	<string id="about_quests_dialog_dolg_57">
 		<text>Everyone knows that Duty's got the best fighters... but we've got other objectives at the moment.</text>
@@ -450,6 +411,8 @@
 	<string id="about_quests_dialog_dolg_98">
 		<text>Okay, forget about it.</text>
 	</string>
+
+	<!-- About Quests Freedom -->
 	<string id="about_quests_dialog_freedom_0">
 		<text>Heard any news around here lately?</text>
 	</string>
@@ -595,7 +558,7 @@
 		<text>Freedom, us in other words. We work with the scientists all the time, so guarding them would be piece of cake for us. Talk to our boss Loki over at Yanov - he'll agree for sure.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_402">
-		<text>I ain't sure, friend, 'cause from what I've been hearing the eggheads hired a Duty squad to work for them... We'd love to guard the scientists, but staring at those constipated Duty faces every day just ain't worth it.</text>
+		<text>I ain't sure, friend, 'cause from what I've been hearing, the eggheads hired a Duty squad to work for them... We'd love to guard the scientists, but staring at those constipated Duty faces every day just ain't worth it.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_42">
 		<text>They say you can get there from Jupiter... I mean the plant, not the planet... Hah! That's a good one, you gotta admit!</text>
@@ -660,6 +623,8 @@
 	<string id="about_quests_dialog_freedom_98">
 		<text>Okay, forget about it.</text>
 	</string>
+
+	<!-- About Quests Stalker -->
 	<string id="about_quests_dialog_stalkers_0">
 		<text>Heard any news around here lately?</text>
 	</string>
@@ -790,7 +755,7 @@
 		<text>I saw one myself... It didn't look like it crashed but it wasn't flying good either. It was swinging from side to side until it landed on a plateau in the south of Zaton... It'd be interesting to see whether anyone survived... If we only knew a way to get up there. Actually, I heard Noah from the psycho barge might know...</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_22">
-		<text>I heard about a few military choppers crashing not far from here... People say different things, but there's one I remember clearly. They said it landed on the reserve helipad that jar-heads themselves mined back in the day. Can you believe the irony in that shit? My old man used to say: "Don't dig a hole for another, 'cause you'll be the one that falls in it." True, ain't it?</text>
+		<text>I heard about a few military choppers crashing not far from here... People say different things, but there's one I remember clearly. They said it landed on the reserve helipad that jar-heads themselves mined back in the day. Can you believe the irony in that shit? My old man used to say: 'Don't dig a hole for another, 'cause you'll be the one that falls in it.' True, ain't it?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_23">
 		<text>A buddy of mine told me this story... He went to the Iron Forest to get some artefacts and as soon as he got there he heard this crash behind him. He turned to see what it was and saw a chopper coming towards him at full speed, taking down pylons and shit on its way. He bolted the hell outta there... I'm surprised he made it out without landing in an anomaly. You won't have much trouble finding the Iron Forest - you can see it from miles off. It's full of friggin' poltergeists, too, so keep your wits about ya.</text>
@@ -838,7 +803,7 @@
 		<text>No, but I heard that a jar-head was spotted by the Volkhov AA complex. I don't really believe it though... They could be lying or maybe they just can't tell a zombie from a soldier.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_38">
-		<text>Military? Well, I heard people saying that "a whole military unit lead by a stalker" was making its way past the Jupiter plant, but I didn't pay much attention to that gossip.</text>
+		<text>Military? Well, I heard people saying that 'a whole military unit lead by a stalker' was making its way past the Jupiter plant, but I didn't pay much attention to that gossip.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_4">
 		<text>Do you know how to get to Pripyat?</text>
@@ -949,7 +914,7 @@
 		<text>Man, I've got other shit to worry about without your choppers... I mean, I bet crashing a heli hurts like hell, but other than that I don't know what to say.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_27">
-		<text>What are you talking about, punk? You have to smoke some real hardcore shit to see a chopper around here, cause real ones don't got nothin to do in this place.</text>
+		<text>What are you talking about, punk? You have to smoke some real hardcore shit to see a chopper around here, cause real ones don't got nothin' to do in this place.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_27">
 		<text>Huh? Nah, man, I don't concern myself with shit like that. It don't help with my mission of disseminating knowledge one bit, you know what I mean?</text>
@@ -964,10 +929,10 @@
 		<text>Not sure about find, but the right amount of coin will work wonders - if you know where to invest it. Have a chat with Nimble... If you agree on the details, he'll get your rags somehow. I hope you do... we'd enjoy a few days without him here on Skadovsk...</text>
 	</string>
 	<string id="about_quests_dialog_bandit_502">
-		<text>Hell should I know? I ain't been here long myself...  You'd best ask at Zaton, our brothas there do their own networking.</text>
+		<text>Hell should I know? I ain't been here long myself... You'd best ask at Zaton, our brothas there do their own networking.</text>
 	</string>
 	<string id="about_quests_dialog_bandit_503">
-		<text>Not a clue. Why, you planning on sticking your nose into an anomaly? Look, if you come into any artefacts, give us a holler. We'll be right there in a jiffy... To congratulate you on a job well done! </text>
+		<text>Not a clue. Why, you planning on sticking your nose into an anomaly? Look, if you come into any artefacts, give us a holler. We'll be right there in a jiffy... To congratulate you on a job well done!</text>
 	</string>
 	<string id="about_quests_dialog_dolg_50">
 		<text>Where can I find a suit with a closed-cycle respiratory module?</text>
@@ -1005,15 +970,61 @@
 	<string id="about_quests_dialog_stalkers_503">
 		<text>Dude, you talk about it like it's office supplies or something... No one knows for sure. Pieces like that are few and far between... Consider yourself lucky if you snatch one.</text>
 	</string>
-<!-- Alundaio -->
+
+	<!-- Call of Chernobyl -->
+	<string id="dm_dialog_add_trade">
+		<text>So... I hear you do some trading on the side.</text>
+	</string>
+	<string id="dm_dialog_add_repair">
+		<text>Rumour has it you are handy with a file. Can you repair my gear?</text>
+	</string>
+	<string id="dm_dialog_character_history">
+		<text>Tell me about yourself.</text>
+	</string>
+
+	<!-- General -->
+	<string id="actor_break_dialog_0">
+		<text>Goodbye.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>See you later.</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>Peace.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>Bye.</text>
+	</string>
+
+	<!-- Wish Granter -->
+	<string id="st_wish_1">
+		<text>I want the Zone to disappear!</text>
+	</string>
+	<string id="st_wish_2">
+		<text>Humanity is corrupt. Mankind must be controlled!</text>
+	</string>
+	<string id="st_wish_3">
+		<text>I wish for world peace!</text>
+	</string>
+	<string id="st_wish_4">
+		<text>I desire all the riches of the Zone!</text>
+	</string>
+	<string id="st_wish_5">
+		<text>Make me immortal!</text>
+	</string>
+	<string id="st_wish_99">
+		<text>[say nothing]</text>
+	</string>
+
+	<!-- Alundaio -->
 	<string id="axr_phrase_npc_start_wounded">
-		<text>Help...me.</text>
+		<text>Help... me.</text>
 	</string>
 	<string id="axr_phrase_actor_has_medkit">
 		<text>I'll help you out.</text>
 	</string>
 	<string id="axr_phrase_actor_dont_has_medkit">
-		<text>Sorry, I can't help you.</text>
+		<text>Sorry. I can't help you.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_trade">
 		<text>I would like to exchange equipment.</text>
@@ -1034,22 +1045,22 @@
 		<text>Interesting...</text>
 	</string>
 	<string id="dm_dialog_actor_answer_2">
-		<text>Uh...sorry to cut it short but I gotta go.</text>
+		<text>Uh... Sorry to cut it short, but I gotta go.</text>
 	</string>
 	<string id="dm_dialog_companion_can_i_come_with_1">
 		<text>Let's travel together. What do you say?</text>
 	</string>
 	<string id="dm_dialog_companion_can_we_come_with_2">
-		<text>My friends and I need a little help getting through the zone. Would you mind if we join you?</text>
+		<text>My friends and I need a little help getting through the Zone. Would you mind if we join you?</text>
 	</string>
 	<string id="dm_dialog_companion_can_i_come_with_2">
 		<text>Let's continue together as a team. What do you say?</text>
 	</string>
 	<string id="dm_dialog_companion_actor_reply_to_join_1">
-		<text>Just focus on where you aim with those guns then.</text>
+		<text>Just focus on where you aim with those guns, then.</text>
 	</string>
 	<string id="dm_dialog_companion_actor_reply_to_join_2">
-		<text>Fine. But If you die, I'm taking your shit.</text>
+		<text>Fine. But if you die, I'm taking your shit.</text>
 	</string>
 	<string id="dm_dialog_companion_actor_reply_to_join_3">
 		<text>No. Not interested.</text>
@@ -1061,25 +1072,25 @@
 		<text>Thanks, buddy. I promise I won't get in the way.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_alone_2">
-		<text>Great, I really need someone's help.</text>
+		<text>Great. I really need someone's help.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_alone_3">
-		<text>Bad ass man. Thanks.</text>
+		<text>Bad-ass, man. Thanks.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_bad_alone_1">
 		<text>Okay. Thanks anyway...</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_bad_alone_2">
-		<text>Woah, man! What the hell is your problem...</text>
+		<text>Woah, man! What the hell is your problem?</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_1">
-		<text>That's great to hear! Come on guys!</text>
+		<text>That's great to hear! Come on, guys!</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_2">
-		<text>Alright. Hey guys, this stalker will get us there. Follow him.</text>
+		<text>Alright. Hey, guys, this stalker will get us there. Follow him.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_good_3">
-		<text>Let's get a move on. We have some traveling ahead of us.</text>
+		<text>Let's get a move on. We have some travelling ahead of us.</text>
 	</string>
 	<string id="dm_dialog_companion_final_words_bad_1">
 		<text>Whatever.</text>
@@ -1112,16 +1123,16 @@
 		<text>I want you to keep your distance.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_stealth">
-		<text>Shhh...get down and keep quiet.</text>
+		<text>Shhh... Get down and keep quiet.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_stop_stealth">
-		<text>Alright, let's continue as normal.</text>
+		<text>Alright. Let's continue as normal.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_relax">
 		<text>Relax a bit. I'll tell you when it's time to go.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_relax_over">
-		<text>Alright it's time to go.</text>
+		<text>Alright. It's time to go.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_leave">
 		<text>I need to travel on my own from here.</text>
@@ -1145,7 +1156,7 @@
 		<text>Attack enemies only on sight.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
-		<text>Don't attack anyone unless I'm attacked.</text>
+		<text>Don't attack anyone unless they attack me first.</text>
 	</string>
 	<string id="axr_phrase_companion_acknowledge_1">
 		<text>You got it.</text>
@@ -1160,10 +1171,10 @@
 		<text>Thanks for the company. See you around.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_nevermind">
-		<text>Never mind.</text>
+		<text>Nevermind.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_hide_in_cover">
-		<text>Quick, find some cover!</text>
+		<text>Quick! Find some cover!</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_patrol_menu">
 		<text>I want you to patrol an area.</text>
@@ -1181,7 +1192,7 @@
 		<text>Add this spot to your current patrol.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_gather_items">
-		<text>Pick up any equipment you come across, it may be useful.</text>
+		<text>Pick up any equipment you come across; it may be useful.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_loot_corpses">
 		<text>Scavenge bodies for anything useful.</text>
@@ -1193,7 +1204,7 @@
 		<text>Ignore the dead.</text>
 	</string>
 	<string id="axr_phrase_friend_companion_ask_join">
-		<text>Hey, let's explore as a team. We could help each other through the zone.</text>
+		<text>Hey, let's explore as a team. We could help each other through the Zone.</text>
 	</string>
 	<string id="axr_phrase_friend_companion_answer_join">
 		<text>Sure, sounds like a great idea! Lead the way.</text>
@@ -1204,6 +1215,4 @@
 	<string id="axr_phrase_friend_companion_answer_join_hostage">
 		<text>Yes, he needs our help! Lead the way.</text>
 	</string>
-
-
 </string_table>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 
 <!--===========================================================
 <
@@ -18,7 +18,7 @@
 		<text>Disable the Brain Scorcher</text>
 	</string>
 	<string id="bar_radar_deactivate_text">
-		<text>A resurgent Monolithian has re-enabled the Brain Scorcher. Advanced psi-protective equipment is required to disable it.</text>
+		<text>A resurgent Monolith have re-enabled the Brain Scorcher. Advanced psi-protective equipment is required to disable it.</text>
 	</string>
 
 

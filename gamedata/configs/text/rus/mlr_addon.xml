@@ -408,7 +408,7 @@
 	</string>
 
 		<string id="bar_dolg_medic_dialog_4">
-			<text>С тобой всё в порядке, не отвлекай от работы.</text>
+		<text>С тобой всё в порядке, не отвлекай от работы.</text>
 		</string>
 
 	<string id="bar_dolg_medic_dialog_2">
@@ -589,43 +589,43 @@
 	</string>
 
 		<string id="buy_information_from_trader_1">
-			<text>Готов поделиться с тобой информацией о болотном докторе за 7000.</text>
+		<text>Готов поделиться с тобой информацией о болотном докторе за 7000.</text>
 		</string>
 		<string id="buy_information_from_trader_6">
-			<text>Давай.</text>
+		<text>Давай.</text>
 		</string>
 		<string id="buy_information_from_trader_11">
-			<text>Старик теперь находится на Болотах, всё ждёт своего друга-"Стрелка". Недавно к нему заходил какой-то мужик, которому Доктор и поведал свою историю и что важно - историю самой группы Стрелка! Можешь лично сходить к нему и убедиться.</text>
+		<text>Старик теперь находится на Болотах, всё ждёт своего друга-"Стрелка". Недавно к нему заходил какой-то мужик, которому Доктор и поведал свою историю и что важно - историю самой группы Стрелка! Можешь лично сходить к нему и убедиться.</text>
 		</string>
 
 		<string id="buy_information_from_trader_2">
-			<text>Есть информация о странном сталкере, который ищет группу Стрелка за 10000.</text>
+		<text>Есть информация о странном сталкере, который ищет группу Стрелка за 10000.</text>
 		</string>
 		<string id="buy_information_from_trader_7">
-			<text>Давай.</text>
+		<text>Давай.</text>
 		</string>
 		<string id="buy_information_from_trader_12">
-			<text>Этот самый сталкер, который ходил к Доктору теперь ищет следы группы "Стрелка". Он уже исследовал лаборатории в ТД и на Янтаре и останавливаться на этом явно не собирается. Судя по проверенным источникам он хочет прорваться в центр Зоны и закончить то, чего так и не смогла вышеупомянутая группа сталкеров по тем или иным причинам.</text>
+		<text>Этот самый сталкер, который ходил к Доктору теперь ищет следы группы "Стрелка". Он уже исследовал лаборатории в ТД и на Янтаре и останавливаться на этом явно не собирается. Судя по проверенным источникам он хочет прорваться в центр Зоны и закончить то, чего так и не смогла вышеупомянутая группа сталкеров по тем или иным причинам.</text>
 		</string>
 
 		<string id="buy_information_from_trader_3">
-			<text>У меня имеется информация, проливающая свет на второе отключение "Выжигателя" за 15000.</text>
+		<text>У меня имеется информация, проливающая свет на второе отключение "Выжигателя" за 15000.</text>
 		</string>
 		<string id="buy_information_from_trader_8">
-			<text>Давай.</text>
+		<text>Давай.</text>
 		</string>
 		<string id="buy_information_from_trader_13">
-			<text>Это всё тот же сталкер и он отключает "Выжигатель"! Интересно, когда они догадаются хоть как-то навредить пульту управления, а не дрочить переключатель каждый раз? Ходят слухи, что теперь он собирается в Припять и у него от Доктора было какое-то поручение. Не знаю, хочет ли старик таким образом найти своего друга или же за этим скрыто нечто большее.</text>
+		<text>Это всё тот же сталкер и он отключает "Выжигатель"! Интересно, когда они догадаются хоть как-то навредить пульту управления, а не дрочить переключатель каждый раз? Ходят слухи, что теперь он собирается в Припять и у него от Доктора было какое-то поручение. Не знаю, хочет ли старик таким образом найти своего друга или же за этим скрыто нечто большее.</text>
 		</string>
 
 		<string id="buy_information_from_trader_4">
-			<text>Распологаю информацией о похождениях таинственного сталкера на "Генераторах" за 24000.</text>
+		<text>Распологаю информацией о похождениях таинственного сталкера на "Генераторах" за 24000.</text>
 		</string>
 		<string id="buy_information_from_trader_9">
-			<text>Давай.</text>
+		<text>Давай.</text>
 		</string>
 		<string id="buy_information_from_trader_14">
-			<text>Слышал ли ты когда-нибудь о "Генераторах"? До недавнего времени это место считалось лишь мифом, но после второго похода группы "Стрелка" к центру Зоны все сомнения развеялись. Идут упорные споры о том, что же там находится, но старые спутниковые снимки свидетельствуют о какой-то странноватой инфраструктуре, в честь которой это место и было названо. По видимому оттуда осуществляется управление как группировкой "Монолит", так и всеми важными процессами на территории Зоны. Так вот наш сталкер уже отправился туда и думаю он настроен серьёзно, вероятно его вмешательство может повлечь серьёзные перемены в Зоне, лидеры некоторых группировок уже выразили своё недовольство относительно этой информации.</text>
+		<text>Слышал ли ты когда-нибудь о "Генераторах"? До недавнего времени это место считалось лишь мифом, но после второго похода группы "Стрелка" к центру Зоны все сомнения развеялись. Идут упорные споры о том, что же там находится, но старые спутниковые снимки свидетельствуют о какой-то странноватой инфраструктуре, в честь которой это место и было названо. По видимому оттуда осуществляется управление как группировкой "Монолит", так и всеми важными процессами на территории Зоны. Так вот наш сталкер уже отправился туда и думаю он настроен серьёзно, вероятно его вмешательство может повлечь серьёзные перемены в Зоне, лидеры некоторых группировок уже выразили своё недовольство относительно этой информации.</text>
 		</string>
 
 	<string id="buy_information_from_trader_5">
@@ -658,10 +658,10 @@
 	</string>
 
 		<string id="buy_perehod_2_11">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="buy_perehod_2_12">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="buy_perehod_2_3">
@@ -669,10 +669,10 @@
 	</string>
 
 		<string id="buy_perehod_2_13">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="buy_perehod_2_14">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="buy_perehod_3_0">
@@ -683,10 +683,10 @@
 	</string>
 
 		<string id="buy_perehod_3_13">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="buy_perehod_3_14">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="buy_perehod_3_4">
@@ -694,10 +694,10 @@
 	</string>
 
 		<string id="buy_perehod_3_15">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="buy_perehod_3_16">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="buy_perehod_4_0">
@@ -813,7 +813,7 @@
 	</string>
 
 		<string id="devushka_1_start_6">
-			<text>А расплачиваться натурой будешь?</text>
+		<text>А расплачиваться натурой будешь?</text>
 		</string>
 
 	<string id="devushka_1_start_5">
@@ -926,10 +926,10 @@
 	</string>
 
 		<string id="devushka_2_dialog_16">
-			<text>Ты хоть понимаешь, что такое по Зоне лазить? Что такое ночь, например, в Лощине, а не в уютной деревне новичков под присмотром Фаната? Убегала ли ты от стаи слепых псов по незнакомой местности, где аномалий больше, чем у дурака фантиков? Нет? А посмотри на зомби. Ходят, ёбла перекошенные, красавчики, правда? Учти, с твоей симпатичной мордашкой то же самое может случится.</text>
+		<text>Ты хоть понимаешь, что такое по Зоне лазить? Что такое ночь, например, в Лощине, а не в уютной деревне новичков под присмотром Фаната? Убегала ли ты от стаи слепых псов по незнакомой местности, где аномалий больше, чем у дурака фантиков? Нет? А посмотри на зомби. Ходят, ёбла перекошенные, красавчики, правда? Учти, с твоей симпатичной мордашкой то же самое может случится.</text>
 		</string>
 		<string id="devushka_2_dialog_17">
-			<text>Да всё ништяк. Я сильная и умная. Я выдержу, не смотри, что девочка. Возьми с собой, сталкер. Выгнать всегда успеешь.</text>
+		<text>Да всё ништяк. Я сильная и умная. Я выдержу, не смотри, что девочка. Возьми с собой, сталкер. Выгнать всегда успеешь.</text>
 		</string>
 
 	<string id="devushka_2_dialog_12">
@@ -1113,7 +1113,7 @@
 	</string>
 
 		<string id="devushka_give_present_12">
-			<text>Как скажешь.</text>
+		<text>Как скажешь.</text>
 		</string>
 
 	<string id="devushka_give_present_11">
@@ -1271,22 +1271,22 @@
 	</string>
 
 		<string id="euro_level_of_buy_equpments_2">
-			<text>Медикаменты.</text>
+		<text>Медикаменты.</text>
 		</string>
 		<string id="euro_level_of_buy_equpments_3">
-			<text>Провизия.</text>
+		<text>Провизия.</text>
 		</string>
 		<string id="euro_level_of_buy_equpments_4">
-			<text>Боеприпасы.</text>
+		<text>Боеприпасы.</text>
 		</string>
 		<string id="euro_level_of_buy_equpments_5">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="euro_level_of_buy_equpments_6">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="euro_level_of_buy_equpments_7">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 
 	<string id="euro_level_of_buy_equpments_30">
@@ -1302,22 +1302,22 @@
 	</string>
 
 		<string id="low_level_of_buy_equpments_2">
-			<text>Медикаменты.</text>
+		<text>Медикаменты.</text>
 		</string>
 		<string id="low_level_of_buy_equpments_3">
-			<text>Провизия.</text>
+		<text>Провизия.</text>
 		</string>
 		<string id="low_level_of_buy_equpments_4">
-			<text>Боеприпасы.</text>
+		<text>Боеприпасы.</text>
 		</string>
 		<string id="low_level_of_buy_equpments_5">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="low_level_of_buy_equpments_6">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="low_level_of_buy_equpments_7">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 
 	<string id="low_level_of_buy_equpments_25">
@@ -1333,22 +1333,22 @@
 	</string>
 
 		<string id="ussr_level_of_buy_equpments_2">
-			<text>Медикаменты.</text>
+		<text>Медикаменты.</text>
 		</string>
 		<string id="ussr_level_of_buy_equpments_3">
-			<text>Провизия.</text>
+		<text>Провизия.</text>
 		</string>
 		<string id="ussr_level_of_buy_equpments_4">
-			<text>Боеприпасы.</text>
+		<text>Боеприпасы.</text>
 		</string>
 		<string id="ussr_level_of_buy_equpments_5">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="ussr_level_of_buy_equpments_6">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 		<string id="ussr_level_of_buy_equpments_7">
-			<text>Выбирай:</text>
+		<text>Выбирай:</text>
 		</string>
 
 	<string id="ussr_level_of_buy_equpments_28">
@@ -1736,63 +1736,63 @@
 	</string>
 
 		<string id="inf_trader_buy_transitions_2">
-			<text>Из милитари в Радар. %c[255,238,153,26][25000]</text>
+		<text>Из милитари в Радар. %c[255,238,153,26][25000]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_9">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_11">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 		<string id="inf_trader_buy_transitions_3">
-			<text>Из Радара в бункер под ним. %c[255,238,153,26][37500]</text>
+		<text>Из Радара в бункер под ним. %c[255,238,153,26][37500]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_12">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_13">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 		<string id="inf_trader_buy_transitions_4">
-			<text>Из Радара в центральную Припять. %c[255,238,153,26][50000]</text>
+		<text>Из Радара в центральную Припять. %c[255,238,153,26][50000]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_14">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_15">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 		<string id="inf_trader_buy_transitions_5">
-			<text>Из центральной Припяти на окраины. %c[255,238,153,26][100000]</text>
+		<text>Из центральной Припяти на окраины. %c[255,238,153,26][100000]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_16">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_17">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 		<string id="inf_trader_buy_transitions_6">
-			<text>Из центральной Припяти на АЭС. %c[255,238,153,26][150000]</text>
+		<text>Из центральной Припяти на АЭС. %c[255,238,153,26][150000]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_18">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_19">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 		<string id="inf_trader_buy_transitions_7">
-			<text>Из южной части АЭС на северную. %c[255,238,153,26][175000]</text>
+		<text>Из южной части АЭС на северную. %c[255,238,153,26][175000]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_20">
-			<text>Деньги у тебя с собой?</text>
+		<text>Деньги у тебя с собой?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_21">
-			<text>Да, держи.</text>
+		<text>Да, держи.</text>
 		</string>
 
 	<string id="inf_trader_buy_transitions_10">
@@ -2690,52 +2690,52 @@
 	</string>
 
 		<string id="lottery_ds_aslan_mlr_2">
-			<text>"Чистого неба", 10 штук.</text>
+		<text>"Чистого неба", 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_3">
-			<text>Свободовские, 10 штук.</text>
+		<text>Свободовские, 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_4">
-			<text>Сталкерские, 10 штук.</text>
+		<text>Сталкерские, 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_5">
-			<text>Научников! 10 штук всего.</text>
+		<text>Научников! 10 штук всего.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_6">
-			<text>Бандитские, 10 штук.</text>
+		<text>Бандитские, 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_7">
-			<text>Долговские, 10 штук.</text>
+		<text>Долговские, 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_8">
-			<text>Монолитовские! 10 штук всего.</text>
+		<text>Монолитовские! 10 штук всего.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_9">
-			<text>ВСУшные, 10 штук.</text>
+		<text>ВСУшные, 10 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_11">
-			<text>"Чистого неба", 50 штук.</text>
+		<text>"Чистого неба", 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_12">
-			<text>Свободовские, 50 штук.</text>
+		<text>Свободовские, 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_13">
-			<text>Сталкерские, 50 штук.</text>
+		<text>Сталкерские, 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_14">
-			<text>Научников, аж 50 штук.</text>
+		<text>Научников, аж 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_15">
-			<text>Бандитские, 50 штук.</text>
+		<text>Бандитские, 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_16">
-			<text>Долговские, 50 штук.</text>
+		<text>Долговские, 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_17">
-			<text>Монолитовские, аж 50 штук.</text>
+		<text>Монолитовские, аж 50 штук.</text>
 		</string>
 		<string id="lottery_ds_aslan_mlr_18">
-			<text>ВСУшные, 50 штук.</text>
+		<text>ВСУшные, 50 штук.</text>
 		</string>
 
 	<string id="lottery_ds_aslan_mlr_10">
@@ -3172,25 +3172,25 @@
 	</string>
 
 		<string id="barter_povar_army_10">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_11">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_12">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_13">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_14">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_15">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 		<string id="barter_povar_army_16">
-			<text>Маякнул своим, забирай.</text>
+		<text>Маякнул своим, забирай.</text>
 		</string>
 
 	<string id="barter_povar_army_9">
@@ -3283,33 +3283,33 @@
 	</string>
 
 		<string id="mil_freedom_guid_go_2">
-			<text>На Янов. %c[255,238,153,26][6000]</text>
+		<text>На Янов. %c[255,238,153,26][6000]</text>
 		</string>
 		<string id="mil_freedom_guid_go_5">
-			<text>А деньги ты не забыл?</text>
+		<text>А деньги ты не забыл?</text>
 		</string>
 		<string id="mil_freedom_guid_go_8">
-			<text>Вот, держи.</text>
+		<text>Вот, держи.</text>
 		</string>
 
 		<string id="mil_freedom_guid_go_3">
-			<text>На Кордон. %c[255,238,153,26][4500]</text>
+		<text>На Кордон. %c[255,238,153,26][4500]</text>
 		</string>
 		<string id="mil_freedom_guid_go_6">
-			<text>А деньги ты не забыл?</text>
+		<text>А деньги ты не забыл?</text>
 		</string>
 		<string id="mil_freedom_guid_go_9">
-			<text>Вот, держи.</text>
+		<text>Вот, держи.</text>
 		</string>
 
 		<string id="mil_freedom_guid_go_4">
-			<text>На Янтарь. %c[255,238,153,26][5000]</text>
+		<text>На Янтарь. %c[255,238,153,26][5000]</text>
 		</string>
 		<string id="mil_freedom_guid_go_7">
-			<text>А деньги ты не забыл?</text>
+		<text>А деньги ты не забыл?</text>
 		</string>
 		<string id="mil_freedom_guid_go_10">
-			<text>Вот, держи.</text>
+		<text>Вот, держи.</text>
 		</string>
 
 	<string id="mil_freedom_guid_go_11">
@@ -3368,10 +3368,10 @@
 	</string>
 
 		<string id="monolith_show_path_9">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="monolith_show_path_10">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="monolith_show_path_2">
@@ -3379,10 +3379,10 @@
 	</string>
 
 		<string id="monolith_show_path_11">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="monolith_show_path_12">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="monolith_show_path_3">
@@ -3390,10 +3390,10 @@
 	</string>
 
 		<string id="monolith_show_path_13">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="monolith_show_path_14">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="monolith_show_path_4">
@@ -3401,10 +3401,10 @@
 	</string>
 
 		<string id="monolith_show_path_15">
-			<text>Держи.</text>
+		<text>Держи.</text>
 		</string>
 		<string id="monolith_show_path_16">
-			<text>Подожди, у меня ничего нет.</text>
+		<text>Подожди, у меня ничего нет.</text>
 		</string>
 
 	<string id="monolith_show_path_6">
@@ -3437,39 +3437,39 @@
 	</string>
 
 		<string id="noah_start_dialog1_2">
-			<text>Откуда у тебя эта собака?</text>
+		<text>Откуда у тебя эта собака?</text>
 		</string>
 		<string id="noah_start_dialog1_7">
-			<text>Это Лесси. Славная сука... Если бы не она, меня бы давно сожрали во сне. Проклятые мутанты... Ненавижу! Только глаз сомкнешь - а они уже рядом, тянут когти, клыки, щупала...</text>
+		<text>Это Лесси. Славная сука... Если бы не она, меня бы давно сожрали во сне. Проклятые мутанты... Ненавижу! Только глаз сомкнешь - а они уже рядом, тянут когти, клыки, щупала...</text>
 		</string>
 		<string id="noah_start_dialog1_8">
-			<text>Понятно.</text>
+		<text>Понятно.</text>
 		</string>
 		<string id="noah_start_dialog1_9">
-			<text>А щенки-то у неё откуда, если она здесь постоянно рядом с тобой торчит? Слушай, а не ты ли это её там случайно... ну того, ну ты понял.</text>
+		<text>А щенки-то у неё откуда, если она здесь постоянно рядом с тобой торчит? Слушай, а не ты ли это её там случайно... ну того, ну ты понял.</text>
 		</string>
 
 		<string id="noah_start_dialog1_3">
-			<text>Почему ты живешь на этой посудине?</text>
+		<text>Почему ты живешь на этой посудине?</text>
 		</string>
 		<string id="noah_start_dialog1_10">
-			<text>Это Ковчег! Запомни... Если хочешь жить, запомни! Когда пойдет Волна, будь рядом. Здесь - у тебя есть шансы выжить... Сюда не пробъется ни один мутант.</text>
+		<text>Это Ковчег! Запомни... Если хочешь жить, запомни! Когда пойдет Волна, будь рядом. Здесь - у тебя есть шансы выжить... Сюда не пробъется ни один мутант.</text>
 		</string>
 		<string id="noah_start_dialog1_11">
-			<text>Какая нахуй волна, откуда ты вообще это взял?</text>
+		<text>Какая нахуй волна, откуда ты вообще это взял?</text>
 		</string>
 		<string id="noah_start_dialog1_12">
-			<text>Потому что эти твари следят за мной днём и ночью. Ты не понимаешь... те снорки с южного плато шли за мной прямо до "Ковчега"! Я-то опытный охотник и знаю, что им бы нахрен не сдалось преследовать жертву так долго. Но здесь что-то нечисто, мне кажется, что у них появился разум. Коллективный, а может и протекторат какой выискался, не знаю... и мои догадки только подтвердились недавним нападением этих тварей на баржу.</text>
+		<text>Потому что эти твари следят за мной днём и ночью. Ты не понимаешь... те снорки с южного плато шли за мной прямо до "Ковчега"! Я-то опытный охотник и знаю, что им бы нахрен не сдалось преследовать жертву так долго. Но здесь что-то нечисто, мне кажется, что у них появился разум. Коллективный, а может и протекторат какой выискался, не знаю... и мои догадки только подтвердились недавним нападением этих тварей на баржу.</text>
 		</string>
 		<string id="noah_start_dialog1_13">
-			<text>Ладно, это Зона. Здесь может быть всё что угодно, но если твои догадки верны, то мы находимся сейчас в глубокой заднице.</text>
+		<text>Ладно, это Зона. Здесь может быть всё что угодно, но если твои догадки верны, то мы находимся сейчас в глубокой заднице.</text>
 		</string>
 
 		<string id="noah_start_dialog1_4">
-			<text>Почему ты не доверяешь людям?</text>
+		<text>Почему ты не доверяешь людям?</text>
 		</string>
 		<string id="noah_start_dialog1_14">
-			<text>Я слишком многое пережил.</text>
+		<text>Я слишком многое пережил.</text>
 		</string>
 
 	<string id="noah_start_dialog1_5">
@@ -3511,91 +3511,91 @@
 	</string>
 
 		<string id="pri_special_trader_mlr2_2">
-			<text>Пистолеты.</text>
+		<text>Пистолеты.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_7">
-			<text>Смотри, что у меня для тебя есть, выбирай:</text>
+		<text>Смотри, что у меня для тебя есть, выбирай:</text>
 		</string>
 		<string id="pri_special_trader_mlr2_8">
-			<text>«Степной орёл» - более удачная модификация Desert Eagle, с подогнанными вручную деталями. \n%c[255,238,153,26]• Цена: 8000</text>
+		<text>«Степной орёл» - более удачная модификация Desert Eagle, с подогнанными вручную деталями. \n%c[255,238,153,26]• Цена: 8000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_11">
-			<text>Хорошо, ожидай сообщения на КПК. \n%c[255,238,153,26]• Время заказа: 24 часа.</text>
+		<text>Хорошо, ожидай сообщения на КПК. \n%c[255,238,153,26]• Время заказа: 24 часа.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_9">
-			<text>«Альпиец» - модификация SIG220 с увеличенной ёмкостью магазина. \n%c[255,238,153,26]• Цена: 6500</text>
+		<text>«Альпиец» - модификация SIG220 с увеличенной ёмкостью магазина. \n%c[255,238,153,26]• Цена: 6500</text>
 		</string>
 		<string id="pri_special_trader_mlr2_10">
-			<text>«Марш» - скорострельный и убойный ствол, является модификацией пистолета USP. \n%c[255,238,153,26]• Цена: 7000</text>
+		<text>«Марш» - скорострельный и убойный ствол, является модификацией пистолета USP. \n%c[255,238,153,26]• Цена: 7000</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_3">
-			<text>Дробовики/ПП.</text>
+		<text>Дробовики/ПП.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_28">
-			<text>Смотри, что у меня для тебя есть, выбирай:</text>
+		<text>Смотри, что у меня для тебя есть, выбирай:</text>
 		</string>
 		<string id="pri_special_trader_mlr2_12">
-			<text>MP-5 «Фрезер» - ручная работа. Подтянуты все ТТХ оружия. \n%c[255,238,153,26]• Цена: 9500</text>
+		<text>MP-5 «Фрезер» - ручная работа. Подтянуты все ТТХ оружия. \n%c[255,238,153,26]• Цена: 9500</text>
 		</string>
 		<string id="pri_special_trader_mlr2_13">
-			<text>«Карабинер» - армейская модификация SPAS-12 со сниженной отдачей и автоматическим режимом огня. \n%c[255,238,153,26]• Цена: 11000</text>
+		<text>«Карабинер» - армейская модификация SPAS-12 со сниженной отдачей и автоматическим режимом огня. \n%c[255,238,153,26]• Цена: 11000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_14">
-			<text>«Protecta» - эксклюзивная модификация дробовика Striker. \n%c[255,238,153,26]• Цена: 17000</text>
+		<text>«Protecta» - эксклюзивная модификация дробовика Striker. \n%c[255,238,153,26]• Цена: 17000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_15">
-			<text>Я не нашёл того, что искал.</text>
+		<text>Я не нашёл того, что искал.</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_4">
-			<text>Снайперские/Штурмовые винтовки.</text>
+		<text>Снайперские/Штурмовые винтовки.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_29">
-			<text>Смотри, что у меня для тебя есть, выбирай:</text>
+		<text>Смотри, что у меня для тебя есть, выбирай:</text>
 		</string>
 		<string id="pri_special_trader_mlr2_16">
-			<text>«Шторм» - модификация ОЦ-14 "Гроза" от спецаков, партия тайно утекла в массы. Из достоинств стоит отметить увеличенную ёмкость магазина \n%c[255,238,153,26]• Цена: 19000</text>
+		<text>«Шторм» - модификация ОЦ-14 "Гроза" от спецаков, партия тайно утекла в массы. Из достоинств стоит отметить увеличенную ёмкость магазина \n%c[255,238,153,26]• Цена: 19000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_17">
-			<text>H&amp;K G36 - редкая вещь в зоне. \n%c[255,238,153,26]• Цена: 14000</text>
+		<text>H&amp;K G36 - редкая вещь в зоне. \n%c[255,238,153,26]• Цена: 14000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_18">
-			<text>FN-2000 - бельгиец, большая редкость и довольно-таки хорошая штурмовая винтовка. \n%c[255,238,153,26]• Цена: 17000</text>
+		<text>FN-2000 - бельгиец, большая редкость и довольно-таки хорошая штурмовая винтовка. \n%c[255,238,153,26]• Цена: 17000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_19">
-			<text>«Прибой» - эксклюзивная модификация ВСС "Винторез", тоже от спецаков. У него пониженный темп стрельбы, зато повышенная убойная сила. \n%c[255,238,153,26]• Цена: 20000</text>
+		<text>«Прибой» - эксклюзивная модификация ВСС "Винторез", тоже от спецаков. У него пониженный темп стрельбы, зато повышенная убойная сила. \n%c[255,238,153,26]• Цена: 20000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_20">
-			<text>«СВУ2-А» - модификация СВУ с повышенным темпом стрельбы, взял её у "Свободы". \n%c[255,238,153,26]• Цена: 24000</text>
+		<text>«СВУ2-А» - модификация СВУ с повышенным темпом стрельбы, взял её у "Свободы". \n%c[255,238,153,26]• Цена: 24000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_21">
-			<text>СВД «Рысь» - армейская модификация, сочетающая в себе точность и убойную силу. \n%c[255,238,153,26]• Цена: 18000</text>
+		<text>СВД «Рысь» - армейская модификация, сочетающая в себе точность и убойную силу. \n%c[255,238,153,26]• Цена: 18000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_27">
-			<text>Гаусс-пушка. Трофейное оружие, таких в Зоне по пальцам пересчитать. Абсолютные точность и урон при почти полном отсутствии отдачи прилагаются. \n%c[255,238,153,26]• Цена: 150000</text>
+		<text>Гаусс-пушка. Трофейное оружие, таких в Зоне по пальцам пересчитать. Абсолютные точность и урон при почти полном отсутствии отдачи прилагаются. \n%c[255,238,153,26]• Цена: 150000</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_5">
-			<text>Снаряжение.</text>
+		<text>Снаряжение.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_30">
-			<text>Смотри, что у меня для тебя есть, выбирай:</text>
+		<text>Смотри, что у меня для тебя есть, выбирай:</text>
 		</string>
 		<string id="pri_special_trader_mlr2_22">
-			<text>Экзоскелет "Монолита" - лучшее сочетание защитных характеристик. Кроме того такой ты нигде больше не достанешь, если ты конечно не представитель братства. \n%c[255,238,153,26]• Цена: 100000</text>
+		<text>Экзоскелет "Монолита" - лучшее сочетание защитных характеристик. Кроме того такой ты нигде больше не достанешь, если ты конечно не представитель братства. \n%c[255,238,153,26]• Цена: 100000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_23">
-			<text>Экзоскелет наёмников является пожалуй самым надёжным средством защиты. \n%c[255,238,153,26]• Цена: 75000</text>
+		<text>Экзоскелет наёмников является пожалуй самым надёжным средством защиты. \n%c[255,238,153,26]• Цена: 75000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_24">
-			<text>Бандитский экзоскелет. Эксклюзив в чистом виде. \n%c[255,238,153,26]• Цена: 65000</text>
+		<text>Бандитский экзоскелет. Эксклюзив в чистом виде. \n%c[255,238,153,26]• Цена: 65000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_25">
-			<text>Комбез "Монолита" с замкнутой системой дыхания, как и в случае с экзоскелетом такой ты вряд ли больше где-то увидишь. \n%c[255,238,153,26]• Цена: 70000</text>
+		<text>Комбез "Монолита" с замкнутой системой дыхания, как и в случае с экзоскелетом такой ты вряд ли больше где-то увидишь. \n%c[255,238,153,26]• Цена: 70000</text>
 		</string>
 		<string id="pri_special_trader_mlr2_26">
-			<text>Комбез наёмников с замкнутой системой дыхания. Отличная защита от аномалий, настоящая редкость для обывателя. \n%c[255,238,153,26]• Цена: 50000</text>
+		<text>Комбез наёмников с замкнутой системой дыхания. Отличная защита от аномалий, настоящая редкость для обывателя. \n%c[255,238,153,26]• Цена: 50000</text>
 		</string>
 
 	<string id="pri_special_trader_mlr2_6">
@@ -3610,61 +3610,61 @@
 	</string>
 
 		<string id="pri_special_trader_mlr3_2">
-			<text>Да, давай моего "Степного орла".</text>
+		<text>Да, давай моего "Степного орла".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_20">
-			<text>Приходи ещё.</text>
+		<text>Приходи ещё.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_3">
-			<text>Да, давай мой SIG-220 "Альпиец".</text>
+		<text>Да, давай мой SIG-220 "Альпиец".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_4">
-			<text>Да, давай мой USP "Марш".</text>
+		<text>Да, давай мой USP "Марш".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_5">
-			<text>Да, давай мой MP-5 "Фрезер".</text>
+		<text>Да, давай мой MP-5 "Фрезер".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_6">
-			<text>Да, давай мой помповый "Карабинер".</text>
+		<text>Да, давай мой помповый "Карабинер".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_7">
-			<text>Да, давай мой дробовик "Protecta".</text>
+		<text>Да, давай мой дробовик "Protecta".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_8">
-			<text>Да, давай мой ОЦ-14 "Шторм".</text>
+		<text>Да, давай мой ОЦ-14 "Шторм".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_9">
-			<text>Да, давай мой H&amp;K G36.</text>
+		<text>Да, давай мой H&amp;K G36.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_10">
-			<text>Да, давай мой FN-2000.</text>
+		<text>Да, давай мой FN-2000.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_11">
-			<text>Да, давай мою ВСС "Прибой".</text>
+		<text>Да, давай мою ВСС "Прибой".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_12">
-			<text>Да, давай мою "СВУ2-А".</text>
+		<text>Да, давай мою "СВУ2-А".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_13">
-			<text>Да, давай мою СВД "Рысь".</text>
+		<text>Да, давай мою СВД "Рысь".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_14">
-			<text>Да, давай мой "монолитовский" экзоскелет.</text>
+		<text>Да, давай мой "монолитовский" экзоскелет.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_15">
-			<text>Да, давай мой экзоскелет "наёмников".</text>
+		<text>Да, давай мой экзоскелет "наёмников".</text>
 		</string>
 		<string id="pri_special_trader_mlr3_16">
-			<text>Да, давай мой бандитский экзоскелет.</text>
+		<text>Да, давай мой бандитский экзоскелет.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_17">
-			<text>Да, давай мой "монолитовский" комбез с замкнутой системой.</text>
+		<text>Да, давай мой "монолитовский" комбез с замкнутой системой.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_18">
-			<text>Да, давай мой комбез с замкнутой системой.</text>
+		<text>Да, давай мой комбез с замкнутой системой.</text>
 		</string>
 		<string id="pri_special_trader_mlr3_19">
-			<text>Да, давай сюда "Гаусску".</text>
+		<text>Да, давай сюда "Гаусску".</text>
 		</string>
 
 	<string id="pri_special_trader_mlr3_21">
@@ -4401,7 +4401,7 @@
 	</string>
 
 		<string id="tasks_noah_dialog_5">
-			<text>Мой мне совсем не нравится, вот если бы ты притащил мне что-нибудь вроде "Сайги"... но я не знаю, можно ли достать подобное оружие в Зоне. Но зато я видел парочку бандитов с "Протектами", принеси мне такой ствол.</text>
+		<text>Мой мне совсем не нравится, вот если бы ты притащил мне что-нибудь вроде "Сайги"... но я не знаю, можно ли достать подобное оружие в Зоне. Но зато я видел парочку бандитов с "Протектами", принеси мне такой ствол.</text>
 		</string>
 
 	<string id="tasks_noah_dialog_3">
@@ -4409,7 +4409,7 @@
 	</string>
 
 		<string id="tasks_noah_dialog_6">
-			<text>Пора с этими тварями кончать, они хотят меня убить день и ночь, просто питают неистовую ненависть ко мне, я чувствую это. Каждую ночь я слышу дыхание какой-нибудь из этих тварей, которая ползает недалеко от баржи. Выжидает и вынюхивает. Чтобы добраться до плато, тебе придётся воспользоваться телепортом, я отметил тебе его на карте, он недалеко от "сгоревшего хутора".</text>
+		<text>Пора с этими тварями кончать, они хотят меня убить день и ночь, просто питают неистовую ненависть ко мне, я чувствую это. Каждую ночь я слышу дыхание какой-нибудь из этих тварей, которая ползает недалеко от баржи. Выжидает и вынюхивает. Чтобы добраться до плато, тебе придётся воспользоваться телепортом, я отметил тебе его на карте, он недалеко от "сгоревшего хутора".</text>
 		</string>
 
 	<string id="tasks_noah_dialog_4">

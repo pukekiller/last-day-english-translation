@@ -224,7 +224,7 @@
 		<text>A rusty barrel from the infamous or even legendary PPSh submachine gun system. In its current state, it is unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 
-	
+
 	<!--
 		Trigger mechanisms
 	-->
@@ -336,7 +336,7 @@
 	<string id="st_trigger_components_6_rusty_descr">
 		<text>Rusty trigger mechanism with hammer from a double-barrel shotgun. Heavily corroded, the sear and the spring are missing, the working surfaces are completely rusty. The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
-	
+
 	<!--
 		Breech blocks
 	-->
@@ -446,7 +446,7 @@
 		<text>Rusty sliding bolt carrier with locking bolt</text>
 	</string>
 	<string id="st_bolt_carrier_6_rusty_descr">
-		<text>Rusty sliding bolt with bolt lock. The entire bolt carrier has turned into one piece of corroded iron. Longitudinal sliding bolt with bolt lock. The entire bolt carrier turned into one piece of corroded iron.  The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>	
+		<text>Rusty sliding bolt with bolt lock. The entire bolt carrier has turned into one piece of corroded iron. Longitudinal sliding bolt with bolt lock. The entire bolt carrier turned into one piece of corroded iron.  The condition of this item has deteriorated considerably and is not fit for use. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_carrier_7_good">
 		<text>Functional lever type bolt carrier with locking wedge</text>
@@ -852,7 +852,7 @@
 	</string>
 
 
-	
+
 	<!--
 		Gas tubes, etc
 	-->
@@ -1036,7 +1036,7 @@
 	<string id="st_gas_tube_10_rusty_descr">
 		<text>Rusty ejector (extractor) from an over-under double barrel shotgun. Strongly coated with corrosion. \nIt is barely possible to restore this item. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
-	
+
 	<string id="st_gas_tube_11_good">
 		<text>Functional gas tube [PP]</text>
 	</string>
@@ -1055,8 +1055,8 @@
 	<string id="st_gas_tube_11_rusty_descr">
 		<text>Rusty gas tube from the MP5 submachine gun with a handle.\nIt is very difficult to restore or use such a detail. \n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] • %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
-	
-	
+
+
 	<!--
 		Repair kits
 	-->
@@ -1176,8 +1176,8 @@
 		%c[255,238,153,26] • %c[0,140,140,140] cloth or rags %c[0,170,170,170]
 		</text>
 	</string>
-	
-	
+
+
 	<!--
 		Interface
 	-->
@@ -1451,7 +1451,7 @@
 	<string id="st_awr_dialog_16">
 		<text>Just another reminder not to forget your stuff. Good luck.</text>
 	</string>
-	
+
 	<!-- Sell dialog -->
 	<string id="st_awr_sell_dialog_1">
 		<text>I have spare parts, do you know who would buy them?</text>
@@ -1477,19 +1477,19 @@
 	<string id="st_awr_sell_dialog_8">
 		<text>Uh, I'll keep that in mind. Thanks.</text>
 	</string>
-		
+
 	<!-- Help -->
 	<string id="st_awr_help_0">
 		<text>Instructions</text>
 	</string>
 	<string id="st_awr_help_1">
-		<text>The repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 0-65, 0-75 and 0-85 determine the weapon status for each of the quality types: 0-65% for rusty weapons, 0-75% for worn weapons and 0-85% for new weapons.</text>
+		<text>The repair procedure is affected by the overall quality of the weapon (new, worn, rusty) and its current condition. Moreover, the terms 0–65, 0–75 and 0–85 determine the weapon status for each of the quality types: 0–65% for rusty weapons, 0–75% for worn weapons and 0–85% for new weapons.</text>
 	</string>
 	<string id="st_awr_help_2">
-		<text>Repair and upgrade procedure (weapons with condition from 0-65/0-75/0-85):</text>
+		<text>Repair and upgrade procedure (weapons with condition from 0–65/0–75/0–85):</text>
 	</string>
 	<string id="st_awr_help_3">
-		<text>1. Select a repair kit to replace the weapon barrel with another barrel of the same caliber with the weapon status from 0-20/0-25/0-30 or using a weapon upgrade kit in a condition from 20-65/25-75/30-85 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n\nAt condition 0-20/0-25/0-30% - Replacement of barrel\nAt condition 20-35/25-45/30-55% - Replacement of trigger (shock-trigger mechanism)\nAt condition 35-45/45-60/55-70% - Replacement of breech head\nAt condition 45-55/60-70/70-80% - Replacement of gas tube\nAt condition 55-65/70-75/80-85% - Replacement of breech block\n\n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
+		<text>1. Select a repair kit to replace the weapon barrel with another barrel of the same caliber with the weapon status from 0–20/0–25/0–30 or using a weapon upgrade kit in a condition from 20–65/25-75/30–85 by double clicking on the name of the set with the list.\n2. Select a part in the list with a single mouse click. Replacing parts when repairing weapons with a low state occurs in a certain sequence:\n\nAt condition 0–20/0–25/0–30% - Replacement of barrel\nAt condition 20–35/25-45/30–55% - Replacement of trigger (shock-trigger mechanism)\nAt condition 35-45/45-60/55-70% - Replacement of breech head\nAt condition 45-55/60–70/70–80% - Replacement of gas tube\nAt condition 55-65/70–75/80–85% - Replacement of breech block\n\n3. Click on the image of the part that is being currently replaced (the part selected for the replacement that is available for replacement is indicated by a green light). Attempting to replace one part spends one charge of a belt. set\n4. In case the replacement is successful, this procedure is repeated for all parts in the specified order\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the condition of the weapon is lowered. In this case, to improve the quality, the parts will need to be replaced anew.\n7. When all five parts have been replaced, the quality of the weapon will be changed to the corresponding one. On that note, if at least one of the replaced items has been worn out, the quality of the weapon will be changed to "worn", even if other weapon parts are replaced with new ones.</text>
 	</string>
 	<string id="st_awr_help_4">
 		<text>The predetermined order of replacing weapon parts is due to the need to match the parts to the state of the weapon, since all replaced parts for each weapon that have ever been partially repaired in the vise are stored in the game memory. This allows you to continue repairs from the same location without having to re-replace parts, provided that the weapon condition has not been lowered after repair.</text>
