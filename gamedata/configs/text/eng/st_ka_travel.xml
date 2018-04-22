@@ -32,21 +32,21 @@
 		<text>The science lab in Yantar.</text>
 	</string>
 	<string id="ka_travel_dialog_cordon">
-		<text>Rookie village in Cordon.</text>
+		<text>The rookie village in the Cordon.</text>
 	</string>
 	<string id="ka_travel_dialog_bar">
 		<text>The Bar in Rostok.</text>
 	</string>
 	<string id="ka_travel_dialog_warehouses">
-		<text>The Freedom base in the Army Warehouses.</text>
+		<text>The Freedom base at the army warehouses.</text>
 	</string>
 	<string id="ka_travel_dialog_city">
-		<text>The Mercenary base in Dead City.</text>
+		<text>The mercenary base in the Dead City.</text>
 	</string>
 	<string id="ka_travel_dialog_agroprom">
-		<text>The Military base in Agroprom.</text>
+		<text>The military base in Agroprom.</text>
 	</string>
 	<string id="ka_travel_dialog_swamp">
-		<text>The Clear Sky base in the Great Swamp.</text>
+		<text>The Clear Sky base in the Great Swamps.</text>
 	</string>
 </string_table>

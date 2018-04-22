@@ -34,6 +34,7 @@ ammo_9x18_fmj = 1 \n
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_cancel_dialog</actor_dialog>
+<actor_dialog>dm_tech_repair</actor_dialog>
 <actor_dialog>awr_tech_sell</actor_dialog>
 <actor_dialog>awr_tech_dialog_drink_1</actor_dialog>
 <actor_dialog>awr_tech_dialog_forgot_1</actor_dialog>
@@ -70,6 +71,7 @@ ammo_9x19_fmj = 1 \n
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_cancel_dialog</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -597,6 +599,7 @@ ammo_5.45x39_ap = 3 \n
 <actor_dialog>meet_zaton_killer_guide_station</actor_dialog>
 <actor_dialog>meet_zaton_killer_guide_station_list</actor_dialog>
 <actor_dialog>travel_zaton_killer_guide_station_base</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -667,6 +670,7 @@ ammo_5.45x39_ap = 3 \n
 #include "gameplay\character_drugs.xml"
 </supplies>
 #include "gameplay\character_criticals_4.xml"
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -740,10 +744,10 @@ ammo_9x39_ap = 1 \n
 #include "gameplay\character_criticals_4.xml"
         <actor_dialog>dm_ordered_task_dialog</actor_dialog>
         <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>         
-		 
         <actor_dialog>meet_guid_red_forest_mon</actor_dialog>
         <actor_dialog>meet_guid_red_forest_mon_list</actor_dialog>
         <actor_dialog>travel_guid_red_forest_mon</actor_dialog>
+		<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -883,8 +887,9 @@ ammo_5.45x39_ap = 1 \n
 #include "gameplay\character_drugs.xml"
 </supplies>
 #include "gameplay\character_criticals_4.xml"
-		<start_dialog>mechanic_monolith_kbo_start</start_dialog>
-		<actor_dialog>dm_ordered_task_dialog</actor_dialog>
+        <start_dialog>mechanic_monolith_kbo_start</start_dialog>
+        <actor_dialog>dm_ordered_task_dialog</actor_dialog>
+        <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>        
 		<actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
         <actor_dialog>awr_tech_sell</actor_dialog>
 		<actor_dialog>awr_tech_dialog_drink_1</actor_dialog>
@@ -925,6 +930,7 @@ ammo_9x39_ap = 1 \n
         <actor_dialog>meet_guid_prikbo_mon</actor_dialog>
         <actor_dialog>meet_guid_prikbo_mon_list</actor_dialog>
         <actor_dialog>travel_guid_prikbo_mon_mon</actor_dialog>
+		<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -1215,6 +1221,7 @@ ammo_9x19_pbp = 5 \n
 #include "gameplay\character_criticals_4.xml"
 <actor_dialog>dm_ordered_task_dialog</actor_dialog>
 <actor_dialog>dm_ordered_task_completed_dialog</actor_dialog>
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
@@ -1228,7 +1235,7 @@ ammo_9x19_pbp = 5 \n
 <bio>Информация отсутствует.</bio>
 
 <class>trucks_cemetery_bandit_mechanic</class>
-<community>bandit</community><terrain_sect>stalker_terrain</terrain_sect>
+<community>bandit</community> <terrain_sect>stalker_terrain</terrain_sect>
 <snd_config>characters_voice\human_02\bandit\</snd_config>
 <mechanic_mode>1</mechanic_mode>
 
@@ -1401,10 +1408,7 @@ ammo_5.45x39_ap = 3 \n
 <actor_dialog>guid_esc_mlr_military</actor_dialog>
 <actor_dialog>guid_esc_mlr_military_vert</actor_dialog>
 <actor_dialog>guid_esc_mlr_military_list</actor_dialog>
-<actor_dialog>kridit1_me</actor_dialog>
-<actor_dialog>kridit2_me</actor_dialog>
-<actor_dialog>kridit3_me</actor_dialog>
-<actor_dialog>kridit4_me</actor_dialog>	
+<actor_dialog>buy_perehod</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
 </specific_character>
 
