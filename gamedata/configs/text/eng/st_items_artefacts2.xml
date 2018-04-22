@@ -10,7 +10,7 @@
 		<text>Cell</text>
 	</string>
 	<string id="st_af_cell_descr">
-		<text>An artifact of gravitational nature. A useless trinket, yet is highly valued by collectors and jewelers. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>An artefact of gravitational nature. A useless trinket, yet is highly valued by collectors and jewelers. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_fountain_name">
 		<text>Fountain</text>
@@ -28,7 +28,7 @@
 		<text>Ring</text>
 	</string>
 	<string id="st_af_signet_descr">
-		<text>Some stalkers call this artifact the "Amulet". Quite useless, yet some stalkers believe that this artifact brings good luck. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>Some stalkers call this artefact the "Amulet". Quite useless, yet some stalkers believe that this artefact brings good luck. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_repei_name">
 		<text>Thistle</text>
@@ -52,13 +52,13 @@
 		<text>Heart</text>
 	</string>
 	<string id="st_af_ear_descr">
-		<text>Artifact with a bizarre shape. Its core resembles a human body. Has no useful properties, Not radioactive. Valuable to collectors outside of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>Artefact with a bizarre shape. Its core resembles a human body. Has no useful properties, Not radioactive. Valuable to collectors outside of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_chelust_name">
 		<text>Chain</text>
 	</string>
 	<string id="st_af_chelust_descr">
-		<text>A very strange artifact. Generates a strong gravitational field while nothing touches it. Has no useful properties, very heavy. Valuable to collectors outside of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>A very strange artefact. Generates a strong gravitational field while nothing touches it. Has no useful properties, very heavy. Valuable to collectors outside of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_atom_name">
 		<text>Atom</text>
@@ -76,19 +76,19 @@
 		<text>Knot</text>
 	</string>
 	<string id="st_af_fire_loop_descr">
-		<text>A necessary condition for the generation of this artifact is the close impact of a thermal anomaly. It has a bizarre appearance and is therefore appreciated by collectors. Not radioactive, Has no useful properties.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>A necessary condition for the generation of this artefact is the close impact of a thermal anomaly. It has a bizarre appearance and is therefore appreciated by collectors. Not radioactive, Has no useful properties.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_zhelch_name">
 		<text>Scar</text>
 	</string>
 	<string id="st_af_zhelch_descr">
-		<text>The artifact has a calming effect on the human nervous system. Also very valued by jewelers. Has no useful properties. Generates a very weak gravitational field. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>The artefact has a calming effect on the human nervous system. Also very valued by jewelers. Has no useful properties. Generates a very weak gravitational field. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_sandstone_name">
 		<text>Sandstone</text>
 	</string>
 	<string id="st_af_sandstone_descr">
-		<text>An artifact, which is formed in zones with extreme temperatures. Has no useful properties and Not radioactive. Does not attract collectors or jewelers, but it contains a small amount of gold, so it has some value.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>An artefact, which is formed in zones with extreme temperatures. Has no useful properties and Not radioactive. Does not attract collectors or jewelers, but it contains a small amount of gold, so it has some value.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_kislushka_name">
 		<text>Sourpuss</text>
@@ -100,7 +100,7 @@
 		<text>Black Angel</text>
 	</string>
 	<string id="st_af_black_angel_descr">
-		<text>A root-like artifact. When not in contact with anything, it lets out a bit of steam from it's surface. Very valued by collectors. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>A root-like artefact. When not in contact with anything, it lets out a bit of steam from it's surface. Very valued by collectors. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_grapes_name">
 		<text>Grapes</text>
@@ -113,7 +113,7 @@
 		<text>Miser's skull</text>
 	</string>
 	<string id="st_af_skull_miser_descr">
-		<text>Very light and fragile artifact. Has absolutely no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>Very light and fragile artefact. Has absolutely no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_star_phantom_name">
 		<text>Phantom star</text>
@@ -132,28 +132,28 @@
 		<text>Moon</text>
 	</string>
 	<string id="st_af_peas_descr">
-		<text>Crescent-shaped artifact. Generates a very dim light. Has no useful properties. Not radioactive. Has some value to collectors and jewelers.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>Crescent-shaped artefact. Generates a very dim light. Has no useful properties. Not radioactive. Has some value to collectors and jewelers.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	
 	<string id="st_af_generator_name">
 		<text>Generator</text>
 	</string>
 	<string id="st_af_generator_descr">
-		<text>This artifact generates weak electric currents and an electromagnetic field. It is a source of energy and therefore very much valued outside the perimeter. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>This artefact generates weak electric currents and an electromagnetic field. It is a source of energy and therefore very much valued outside the perimeter. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	
 	<string id="st_af_ball_name">
 		<text>Ball</text>
 	</string>
 	<string id="st_af_ball_descr">
-		<text>There is no data on the conditions under which this round artifact is formed, hence the name, but practice shows that it is most often found in places of increased electrical activity. Very agile and bouncy artifact. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>There is no data on the conditions under which this round artefact is formed, hence the name, but practice shows that it is most often found in places of increased electrical activity. Very agile and bouncy artefact. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	
 	<string id="st_af_fonar_name">
 		<text>Lamp</text>
 	</string>
 	<string id="st_af_fonar_descr">
-		<text>An artifact with electric properties. Emits some energy and glows. Has no useful properties. Not radioactive. Quite interesting for collectors.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>An artefact with electric properties. Emits some energy and glows. Has no useful properties. Not radioactive. Quite interesting for collectors.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_tapeworm_name">
 		<text>Tapeworm</text>
@@ -165,19 +165,19 @@
 		<text>Moss</text>
 	</string>
 	<string id="st_af_moh_descr">
-		<text>An electric artifact. Has no useful properties. Not radioactive. Has no value.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>An electric artefact. Has no useful properties. Not radioactive. Has no value.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_serofim_name">
 		<text>Seraphim</text>
 	</string>
 	<string id="st_af_serofim_descr">
-		<text>An artifact of electric nature. Generates a temporary gravitational field. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>An artefact of electric nature. Generates a temporary gravitational field. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_elektron_name">
 		<text>Electron</text>
 	</string>
 	<string id="st_af_elektron_descr">
-		<text>This artifact is a product of electrical anomalies. Very heavy. Has no useful properties. Not radioactive. Very valued beyond the peremiter.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>This artefact is a product of electrical anomalies. Very heavy. Has no useful properties. Not radioactive. Very valued beyond the peremiter.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	
 	<string id="st_af_kogot_name">
@@ -191,30 +191,30 @@
 		<text>Basilisk</text>
 	</string>
 	<string id="st_af_vaselisk_descr">
-		<text>One of the few artifacts in the Zone, which copes well with all kinds of physical influences on its owner.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>One of the few artefacts in the Zone, which copes well with all kinds of physical influences on its owner.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_geliy_name">
 		<text>Helium</text>
 	</string>
 	<string id="st_af_geliy_descr">
-		<text>A bright (literally) representative of the family of electrostatic artifacts. It gives off a gaseous substance that has a beneficial effect on the body. Due to its high efficiency, it is in large demand.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>A bright (literally) representative of the family of electrostatic artefacts. It gives off a gaseous substance that has a beneficial effect on the body. Due to its high efficiency, it is in large demand.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_gimlet_name">
 		<text>Gimlet </text>
 	</string>
 	<string id="st_af_gimlet_descr">
-		<text>Bowl-shaped petals of the artifact release a powerful gaseous stimulant. The result of which is a positive change in human hormones.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>Bowl-shaped petals of the artefact release a powerful gaseous stimulant. The result of which is a positive change in human hormones.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_dragon_eye_name">
 		<text>Dragon's eye</text>
 	</string>
 	<string id="st_af_dragon_eye_descr">
-		<text>The artifact is mostly formed in fiery anomalies and has the appearance of a reptile's eye. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>The artefact is mostly formed in fiery anomalies and has the appearance of a reptile's eye. Has no useful properties. Not radioactive.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 	<string id="st_af_monolith_name">
 		<text>Monolith</text>
 	</string>
 	<string id="st_af_monolith_descr">
-		<text>This artifact multiplies the overall rate of tissue regeneration after any type of trauma. Generates a powerful gravitational field, reducing the effect of normal gravity. Very radioactive. The origin of this artifact is shrouded in mystery.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
+		<text>This artefact multiplies the overall rate of tissue regeneration after any type of trauma. Generates a powerful gravitational field, reducing the effect of normal gravity. Very radioactive. The origin of this artefact is shrouded in mystery.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,140,140,140] junk\n%c[0,153,255,255] • %c[0,140,140,140] can not be placed in a container</text>
 	</string>
 </string_table>

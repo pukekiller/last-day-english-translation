@@ -10,7 +10,7 @@
 		<text>Stash in the switchboard room</text>
 	</string>
 	<string id="st_dark_valley_treasure_2_descr">
-		<text>I made a nice little stash in the switchboard room, on the second floor of the deserted factory. I'll wait till I have a few more artifacts and then unload them all for some cash.</text>
+		<text>I made a nice little stash in the switchboard room, on the second floor of the deserted factory. I'll wait till I have a few more artefacts and then unload them all for some cash.</text>
 	</string>
 	<string id="st_dark_valley_treasure_3_name">
 		<text>Stash at the dead end of the collector</text>
@@ -689,7 +689,7 @@
 		<text>I dumped my backpack in the reed beds as I was fighting off some boars. I ain't got a reference point, just the location coordinates.</text>
 	</string>
 	<string id="st_mar_treasure_10_name">
-		<text>Artifacts left behind</text>
+		<text>Artefacts left behind</text>
 	</string>
 	<string id="st_mar_treasure_10_descr">
 		<text>I swindled some sucker and took his backpack full of loot. Then I decided to stick it in the reeds for a while so I wouldn't get caught.</text>
@@ -1118,7 +1118,7 @@
 		<text>Stash in mine gallery</text>
 	</string>
 	<string id="st_red_treasure_18_descr">
-		<text>I hid my artifacts at the very end of a deserted mine gallery.</text>
+		<text>I hid my artefacts at the very end of a deserted mine gallery.</text>
 	</string>
 	<string id="st_red_treasure_24_name">
 		<text>Stump in the wilderness</text>
@@ -1145,7 +1145,7 @@
 		<text>Tree stump near ravine</text>
 	</string>
 	<string id="st_red_treasure_7_descr">
-		<text>We put our stuff away near that helluva an anomaly. Our target is the anomaly itself. It's so amazing that it's bound to contain some real valuable artifacts.</text>
+		<text>We put our stuff away near that helluva an anomaly. Our target is the anomaly itself. It's so amazing that it's bound to contain some real valuable artefacts.</text>
 	</string>
 	<string id="st_red_treasure_20_name">
 		<text>Large tree stump</text>

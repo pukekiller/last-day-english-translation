@@ -364,10 +364,10 @@
 		<text>Homemade batteries</text>
 	</string>
 	<string id="ammo-gauss_cardan_descr">
-		<text>These lower-capacity cells use capsulated fragments of the "Flash" artifact as their power source. Their lower capacity is due to makeshift production conditions and lack of specialized equipment.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]very high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] technological item\n%c[0,93,0,116] • %c[0,140,140,140] prototype</text>
+		<text>These lower-capacity cells use capsulated fragments of the "Flash" artefact as their power source. Their lower capacity is due to makeshift production conditions and lack of specialized equipment.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]very high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] technological item\n%c[0,93,0,116] • %c[0,140,140,140] prototype</text>
 	</string>
 	<string id="ammo-gauss_descr">
-		<text>Batteries that use a capsulated fragment of the "Flash" artifact as their power source. Manufactured using hi-tech equipment.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]very high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] technological item\n%c[0,93,0,116] • %c[0,140,140,140] prototype</text>
+		<text>Batteries that use a capsulated fragment of the "Flash" artefact as their power source. Manufactured using hi-tech equipment.\n \n%c[0,93,0,116] • %c[0,140,140,140] Highest pierced armor class: %c[0,170,170,170]V\n%c[0,93,0,116] • %c[0,140,140,140] Tissue damage rating: %c[0,170,170,170]very high\n \n%c[0,170,170,170]SPECIAL:\n \n%c[0,93,0,116] • %c[0,140,140,140] technological item\n%c[0,93,0,116] • %c[0,140,140,140] prototype</text>
 	</string>
 	<string id="ammo-m209">
 		<text>M203 grenade</text>
@@ -1209,7 +1209,7 @@
 		<text>Gauss rifle "Item ¹62"</text>
 	</string>
 	<string id="st_wpn_gauss_descr">
-		<text>A super accurate weapon made by Agroprom Research Institute scientists. Gunshot is nearly inaudible, due to its use of energy obtained "Flash" artifacts instead of gunpowder. Despite the gauss rifle's tremendous firepower, the recoil is negligible. The accuracy and power of this gun exceeds those of all other small arms.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] Enhanced 4x scope (integrated)</text>
+		<text>A super accurate weapon made by Agroprom Research Institute scientists. Gunshot is nearly inaudible, due to its use of energy obtained "Flash" artefacts instead of gunpowder. Despite the gauss rifle's tremendous firepower, the recoil is negligible. The accuracy and power of this gun exceeds those of all other small arms.\n \n%c[0,140,140,140]ATTACHMENTS: \n%c[0,93,0,116] • %c[0,140,140,140] Enhanced 4x scope (integrated)</text>
 	</string>
 	<string id="st_wpn_glock">
 		<text>Glock 19</text>

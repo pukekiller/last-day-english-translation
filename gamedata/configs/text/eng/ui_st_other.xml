@@ -557,10 +557,10 @@
 		<text>Container</text>
 	</string>
 	<string id="st_ui_remove_art">
-		<text>Get artifact</text>
+		<text>Get artefact</text>
 	</string>
 	<string id="st_ui_place_art">
-		<text>Put artifact</text>
+		<text>Put artefact</text>
 	</string>
 	<string id="st_body_loot">
 		<text>Chop body</text>

@@ -4828,7 +4828,7 @@
 
 
 	<string id="ui_mm_fake_news_option">
-		<text>PDA network (untranslated)</text>
+		<text>PDA network</text>
 	</string>
 	<string id="ui_mm_fast_travel_option">
 		<text>Fast travel</text>

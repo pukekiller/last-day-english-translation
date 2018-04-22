@@ -85,7 +85,7 @@
 		<text>Станция «Янов» (Окрестности «Юпитера»)</text>
 	</string>
 
-
+	<!-- Last Day -->
 	<string id="ui_st_atp">
 		<text>АТП (Кордон)</text>
 	</string>
@@ -105,7 +105,7 @@
 		<text>Перекрёсток (Кладбище техники)</text>
 	</string>
 	<string id="ui_st_curve_beam">
-		<text>Кривая балка (Армейские склады)</text>
+		<text>Кривая балка (Военные склады)</text>
 	</string>
 	<string id="ui_st_deadlock_of_a_tunnel">
 		<text>Тупик тоннеля (НИИ «Агропром»)</text>
@@ -117,7 +117,7 @@
 		<text>Восточный КПП (Кладбище техники)</text>
 	</string>
 	<string id="ui_st_fallen_helicopter">
-		<text>Упавший вертолёт (Армейские склады)</text>
+		<text>Упавший вертолёт (Военные склады)</text>
 	</string>
 	<string id="ui_st_farm_base_neytral">
 		<text>«База нейтралов» на ферме (Кордон)</text>
@@ -135,7 +135,7 @@
 		<text>Привал за свалкой (Кладбище техники)</text>
 	</string>
 	<string id="ui_st_hideout">
-		<text>Схрон (Восточная Припять)</text>
+		<text>Схрон (окраины Припяти)</text>
 	</string>
 	<string id="ui_st_house_on_the_hill">
 		<text>Дом на холме (Лиманск)</text>
@@ -147,7 +147,7 @@
 		<text>Механизаторский двор (Болота)</text>
 	</string>
 	<string id="ui_st_military_base_two">
-		<text>Военная база (Генераторы)</text>
+		<text>Военная база (генераторы)</text>
 	</string>
 	<string id="ui_st_mine_koper">
 		<text>Шахтный копёр (Рыжий лес)</text>
@@ -171,7 +171,7 @@
 		<text>Хуторок (Поляна)</text>
 	</string>
 	<string id="ui_st_post_of_mercenaries">
-		<text>Блокпост наёмников (Армейские склады)</text>
+		<text>Блокпост наёмников (Военные склады)</text>
 	</string>
 	<string id="ui_st_power_station">
 		<text>Внешний двор (Юг ЧАЭС)</text>
@@ -183,13 +183,13 @@
 		<text>Станция переработки отходов (Затон)</text>
 	</string>
 	<string id="ui_st_ruins">
-		<text>Руины (Заброшенный госпиталь)</text>
+		<text>Руины (заброшенный госпиталь)</text>
 	</string>
 	<string id="ui_st_small_village">
 		<text>Небольшая деревенька (Тёмная лощина)</text>
 	</string>
 	<string id="ui_st_store_books_a18">
-		<text>Припять, магазин «Книги»</text>
+		<text>Магазин «Книги» (окраины Припяти)</text>
 	</string>
 	<string id="ui_st_yard">
 		<text>Двор (Лиманск)</text>

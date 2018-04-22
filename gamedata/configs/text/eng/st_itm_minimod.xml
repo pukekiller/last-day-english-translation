@@ -76,7 +76,7 @@
 		<text>Eye of the Noosphere</text>
 	</string>
 	<string id="st_arty_save_descr">
-		<text>One of the most mysterious artifacts in the Zone, the Eye of the Noosphere can transport its wielder back in time, even to escape death. A tight squeeze of the artifact activates its ability, creating a restoration point to go back to on activation or death. Frequent use can cause the artifact to change colour, but if discharged too frequently it may cease to function altogether. The Eye gradually restores its power over time, supposedly being fueled by the anomalous energy of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,255,215,0] superartifact</text>
+		<text>One of the most mysterious artefacts in the Zone, the Eye of the Noosphere can transport its wielder back in time, even to escape death. A tight squeeze of the artefact activates its ability, creating a restoration point to go back to on activation or death. Frequent use can cause the artefact to change colour, but if discharged too frequently it may cease to function altogether. The Eye gradually restores its power over time, supposedly being fueled by the anomalous energy of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,225,225,225] • %c[0,255,215,0] superartefact</text>
 	</string>
 	<string id="st_itm_stash_of_character">
 		<text>%s's stash</text>
