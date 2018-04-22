@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zone_news_main_spam_1">
+		<text>%c[255,160,160,160]Alkash Programmer\n%c[default]I need access to the internet. Is there any in the Bar, or perhaps over at Sidorovich's place?</text>
+	</string>
+	<string id="zone_news_main_spam_2">
+		<text>%c[255,160,160,160]Andriy Patriot\n%c[default]Во, млін, москалі срані...\n \n%c[255,160,160,160]Anonymous\n%c[default]І не кажи!</text>
+	</string>
+	<string id="zone_news_main_spam_3">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Deals on sausage and bread have been real shitty as of late.</text>
+	</string>
+	<string id="zone_news_main_spam_4">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]You guys heard that there are still functional vehicles in the Zone? You can find a few in the truck cemetery, and you don't even need to fill the tank! What an absolute miracle.</text>
+	</string>
+	<string id="zone_news_main_spam_5">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Hahaha, the military have got themselves a real shit-show right now. They were on some kind of raid and their helicopter got shot at with rockets... Got ordered to return to base immediately.</text>
+	</string>
+	<string id="zone_news_main_spam_6">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Bloody hell, Yantar's flooded with zombies again. Careful there, people!</text>
+	</string>
+	<string id="zone_news_main_spam_7">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]«В окне автобуса проплыл ебаный военкомат... ну всё ты в армии, нахуй, о-о-о - теперь ты в армии, нахуй!»</text>
+	</string>
+	<string id="zone_news_main_spam_8">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Don't head into any basements. They're full of mutants! Go around the top!</text>
+	</string>
+	<string id="zone_news_main_spam_9">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Get to cover now. There's a helicopter circling around the old church.</text>
+	</string>
+	<string id="zone_news_main_spam_10">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Saw a group of shady guys. Looked like Freedomers. They're heading towards the Bar.</text>
+	</string>
+	<string id="zone_news_main_spam_11">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Saw a group of shady guys. Looked like Dutyers. They're heading towards the army warehouses.\n \n%c[255,160,160,160]Anonymous\n%c[default]We will look for you, we will find you, and we will kill you.</text>
+	</string>
+	<string id="zone_news_main_spam_12">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]The military's pinned down in the central complex in Agroprom!</text>
+	</string>
+	<string id="zone_news_main_spam_13">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Wish I could have a mansion worth four million... How many artefacts am I gonna have to collect for that?</text>
+	</string>
+	<string id="zone_news_main_spam_14">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Boring... I feel like putting holes in somebody.</text>
+	</string>
+	<string id="zone_news_main_spam_15">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Join the Monolith in order to avoid your collective and inevitable fates!</text>
+	</string>
+	<string id="zone_news_main_spam_16">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Yesterday, I met an old friend of mine that had been missing, and he didn't even recognise me... Instead, he just opened fire! Had to put an end to him right then and there. People, be careful around psy-emissions. Shooting former brothers of yours is not a simple task. At all.</text>
+	</string>
+	<string id="zone_news_main_spam_17">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]There was heavy fog in Yantar yesterday... Made zombies impossible to spot from a distance.\n \n%c[255,160,160,160]Anonymous\n%c[default]Got news for you, Sherlock: there's fog there every other day.</text>
+	</string>
+	<string id="zone_news_main_spam_18">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Garik, get me out of Jupiter. I'm on the road right now. Will be over at Yanov in a second.</text>
+	</string>
+	<string id="zone_news_main_spam_19">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I hear Sakharov's got some new detectors!</text>
+	</string>
+	<string id="zone_news_main_spam_20">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]A group of five people are moving towards the Barrier. In all likelihood, Monolith. Take measures.</text>
+	</string>
+	<string id="zone_news_main_spam_21">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]«Группа крови на рукаве, мой порядковый номер на рукаве - пожелай мне удачи в бою, пожелай мне... не остаться в этой траве.»</text>
+	</string>
+	<string id="zone_news_main_spam_22">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Haha, loser. You shoulda stayed at your farm. The Zone has no place for puny blokes like you.</text>
+	</string>
+	<string id="zone_news_main_spam_23">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Two-Three-Seven, we're heading back. Regroup.</text>
+	</string>
+	<string id="zone_news_main_spam_24">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Tired... I'm tired of everything... Creatures... Damn stalkers, damn anomalies!</text>
+	</string>
+	<string id="zone_news_main_spam_25">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]If any other stalker tries to enter the Agroprom, I'm gonna get Duty to lock that bastard up in the arena cages.</text>
+	</string>
+	<string id="zone_news_main_spam_26">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Zhurov, we're out of free hands. We need you and a few other guys to prepare a burial for a couple of bodies. They'll be sent to the South as Cargo 200 in a couple of days.\n \n%c[255,160,160,160]Zhurov\n%c[default]It'll be my pleasure.</text>
+	</string>
+	<string id="zone_news_main_spam_27">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Fuck this weather. It goes from clear, to rain, to a fucking blowout in just a couple hours!</text>
+	</string>
+	<string id="zone_news_main_spam_28">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Together, we shall protect the Monolith!</text>
+	</string>
+	<string id="zone_news_main_spam_29">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]The mutants have gone up in numbers again, leaving us with no fucking breathing room. What is Duty even up to?</text>
+	</string>
+	<string id="zone_news_main_spam_30">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Know, infidels, that we are strong, and you are weak. Run, and we will catch you. Hide, and we will find you.</text>
+	</string>
+	<string id="zone_news_main_spam_31">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]What fucker snatched all the loot from my stash? The one in the Wild Territory. I know you're reading this... Prepare your sorry arse.</text>
+	</string>
+	<string id="zone_news_main_spam_32">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]«И лампа не горит... и врут календари... и если ты пошёл на кровососа в рейд, то не реви.»</text>
+	</string>
+	<string id="zone_news_main_spam_33">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]What's the point in being dragged somewhere like this? There's nothing here. There'd better be a bar in the Cordon.\n \n%c[255,160,160,160]Butcher\n%c[default]Head north and pay a visit to the flea market, damn it.</text>
+	</string>
+	<string id="zone_news_main_spam_34">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]We'll track the crashed helicopter in the Swamps while no one's there.</text>
+	</string>
+	<string id="zone_news_main_spam_35">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Who the hell trashed my vodka stash?\n \n%c[255,160,160,160]Bruise\n%c[default]We drank it, dimwit!\n \n%c[255,160,160,160]Anonymous\n%c[default]Wishing you'd have choked on it, scumbag!</text>
+	</string>
+	<string id="zone_news_main_spam_36">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]The command of the peacekeeping contingent for the isolation of the Chernobyl Exclusion Zone is announcing recruitment into the ranks of the military stalkers; pork, horilka, endless ammunition, and a free burial are all guaranteed.</text>
+	</string>
+	<string id="zone_news_main_spam_37">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Any smartass brave enough to enter our territory will be given hell.</text>
+	</string>
+	<string id="zone_news_main_spam_38">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Anyone seen flying black smoke in the Wild Territory? Fuck me... Is it some kind of new poltergeist?</text>
+	</string>
+	<string id="zone_news_main_spam_39">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I'm pinned down by a bunch of looters! Help me out!</text>
+	</string>
+	<string id="zone_news_main_spam_40">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Miklukha, we've dealt with the mercs. Heading back as we speak.</text>
+	</string>
+	<string id="zone_news_main_spam_41">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Miklukha, Duty's over at the farmstead again. Why?\n \n%c[255,40,40,255]Miklukha\n%c[default]You'll see. Soon, there will be decisive changes in the balance of forces... and not in Duty's favour.\n \n%c[255,160,160,160]Voronin\n%c[default]Calling fanatics into your ranks once again?</text>
+	</string>
+	<string id="zone_news_main_spam_42">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Army warehouses. Apparently, there's not a chunk left of the pilots. Someone totally fucked that helicopter.</text>
+	</string>
+	<string id="zone_news_main_spam_43">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I've done lots of time in prison, and why have I ended up here? Money. The cocksuckers in the government waffle all day and sit on their rich bums, and here we are, crawling for a few pathetic crumbs of bread.</text>
+	</string>
+	<string id="zone_news_main_spam_44">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Guys, there are some real strange things going on in the Zone. Ever heard stories about experiments and operations?\n \n%c[255,160,160,160]Anonymous\n%c[default]Yeah. And it's unclear who's doing them or what exactly those experiments are. What's worse, only a small part of them have leaked out to the public...\n \n%c[255,160,160,160]Anonymous\n%c[default]You lads are gonna sleep better at night not knowing the details. Trust me.</text>
+	</string>
+	<string id="zone_news_main_spam_45">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Bruvs, any info on the next blowout?</text>
+	</string>
+	<string id="zone_news_main_spam_46">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]The Swamps are restless today. You can get stuck in the mud, and there are lots of creatures around. They appear straight from the ground, goddammit.</text>
+	</string>
+	<string id="zone_news_main_spam_47">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]We're seeing a wave of mutants approaching from the northern gorge.</text>
+	</string>
+	<string id="zone_news_main_spam_48">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Mutants on the way from the east. Presumably from the Darkscape.</text>
+	</string>
+	<string id="zone_news_main_spam_49">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Flock of boars coming our way. See the attached coordinates.</text>
+	</string>
+	<string id="zone_news_main_spam_50">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I just spotted a couple of helicopters heading north. Sending coordinates. We'll remain hidden. I don't know what their instructions are.</text>
+	</string>
+	<string id="zone_news_main_spam_51">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]A bunch of helicopters just passed by in the Swamps. What the hell are they up to here? I've heard nothing about any planned sweeps or operations in these areas, and my sources are reliable. Something sketchy's going on... Keep your eyes peeled, boys.</text>
+	</string>
+	<string id="zone_news_main_spam_52">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]People, be careful in the village by the army warehouses! A burnt fuzz has grown on the pillars!</text>
+	</string>
+	<string id="zone_news_main_spam_53">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Anyone been to the Red Forest? I was planning on heading there. Seems like there's some good loot to be found.</text>
+	</string>
+	<string id="zone_news_main_spam_54">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]People, I'm looking through my binoculars. Seems like a new party of soldiers has arrived! I advise staying out of sight for a couple of days. They're combing the area, but the Zone's gonna make mincemeat out of 'em anyway.</text>
+	</string>
+	<string id="zone_news_main_spam_55">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]«Не те времена пошли, не те»</text>
+	</string>
+	<string id="zone_news_main_spam_56">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Some people don't learn anything, whether they don't want to, or are ust too incompetent to do so. Have they seen too many American movies, or are they blinded by greed? You tell them about the anomalies, they tell you about the loot, and they don't want to think about anything... 'cept for money, until their guts get scattered on the branches.</text>
+	</string>
+	<string id="zone_news_main_spam_57">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Trust no one but the Monolith and your fellow brothers. No one.</text>
+	</string>
+	<string id="zone_news_main_spam_58">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]How many hounds are going to keep running around Rostok? When is Duty gonna stop taking the piss and deal with them already? I'm done with this rubbish. Going to find someone who actually keeps their word.</text>
+	</string>
+	<string id="zone_news_main_spam_59">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Handing out an exoskeleton for free! And now that I've got your attention: offering to sell a Wrenched artifact at a negotiable price.</text>
+	</string>
+	<string id="zone_news_main_spam_60">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]«Полковнику никто... не пишет. Полковника никто... не ждёт.»</text>
+	</string>
+	<string id="zone_news_main_spam_61">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Came to the Zone and thought I'd come across new sights to see and lots of mutants to hunt... and what do I get? Guard duty all day long at a stupid checkpoint like a daft bugger, with jack shit to do!</text>
+	</string>
+	<string id="zone_news_main_spam_62">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Seems like the military aren't sending any choppers to the area around Rostok after their last one got shot down.</text>
+	</string>
+	<string id="zone_news_main_spam_63">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]We've accessed the southern tunnel of the facility. Heading downwards into the underground. The Red Forest is visible from the windows here. All quiet in the vicinity.\n \n%c[255,160,160,160]Anonymous\n%c[default]We're losing comms with you. Put the remote broadcaster on your output, or continue to transmit via text, as you are doing now.\n \n%c[255,160,160,160]Anonymous\n%c[default]Yeah, let's close the channel. We don't want this to leak.</text>
+	</string>
+	<string id="zone_news_main_spam_64">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Got attacked by a pseudodog! Barely made it out!</text>
+	</string>
+	<string id="zone_news_main_spam_65">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Got attacked by a pseudodog. Barely made it out.\n \n%c[255,160,160,160]Anonymous\n%c[default]Nice work.</text>
+	</string>
+	<string id="zone_news_main_spam_66">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Anyone heard about some new guy over at the mercenary base in Pripyat? Seems like he's got some unique equipment up for sale.</text>
+	</string>
+	<string id="zone_news_main_spam_67">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]You heard about one of the sentries shooting himself? I'm having second feelings about joining the patrol.</text>
+	</string>
+	<string id="zone_news_main_spam_68">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I overheard some military discussions. Seems like they're planning an op on Yantar.</text>
+	</string>
+	<string id="zone_news_main_spam_69">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Death to non-believers!</text>
+	</string>
+	<string id="zone_news_main_spam_70">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I feel like sleeping</text>
+	</string>
+	<string id="zone_news_main_spam_71">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Stalkers, Sakharov is paying decent money for loot!... And is looking for someone to send to lab X-16. I'm not going there, too risky. Full of psy-emissions... and zombies.</text>
+	</string>
+	<string id="zone_news_main_spam_72">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]shit pack of dogs coming at us sending coordinates n</text>
+	</string>
+	<string id="zone_news_main_spam_73">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]You shitheads want a taste of a heat-seeking missile? Who taught you to fire an RPG?</text>
+	</string>
+	<string id="zone_news_main_spam_74">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Bollocks, who emptied my stash?\n \n%c[255,160,160,160]Anonymous\n%c[default]Hahaha</text>
+	</string>
+	<string id="zone_news_main_spam_75">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Time for a commercial! You wanna be a real chap in the Zone? Live on the edge? Get some dirt on your boot, earning plenty of loot? Join our humble gang! We've got the Zone figured out.</text>
+	</string>
+	<string id="zone_news_main_spam_76">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Need to get out of the Zone, pronto</text>
+	</string>
+	<string id="zone_news_main_spam_77">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Some dude in the Garbage got hold of a pretty rare gizmo.</text>
+	</string>
+	<string id="zone_news_main_spam_78">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Sold some mutant parts to Sidorovich, and it seems like I got ripped off. That old fart... People, best you trade with the Barman instead.\n \n%c[255,160,160,160]Sidorovich\n%c[default]Even Strelok's memory loss wasn't nearly as bad as yours!</text>
+	</string>
+	<string id="zone_news_main_spam_79">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I'm leaving the Zone tomorrow. Everything has struck me. I regret it all</text>
+	</string>
+	<string id="zone_news_main_spam_80">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Ha, how many wankers have rushed through the North in recent times!!</text>
+	</string>
+	<string id="zone_news_main_spam_81">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Hemul, head over to the Bar. Got some work for you!</text>
+	</string>
+	<string id="zone_news_main_spam_82">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Rumour has it that there's a controller dwelling inside X-16, and there might even be more than one. A few experienced stalkers ventured there yesterday and haven't returned since.</text>
+	</string>
+	<string id="zone_news_main_spam_83">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]who are those berks near the farm in merc gear? I ain't even thinking of goin near there!.</text>
+	</string>
+	<string id="zone_news_main_spam_84">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Damn rifle jamming on me again, and this is happening right after I took it to the technician from Duty in Rostok! What else could I have expected from an alcoholic? If your gear needs repairing, he's the type to stay away from.</text>
+	</string>
+	<string id="zone_news_main_spam_85">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Agh, there's a broken tank somewhere in the Red Forest, somewhere in a thicket. They say there's still a PKM left with a few rounds, but I can't go there by meself.</text>
+	</string>
+	<string id="zone_news_main_spam_86">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]Did my pockets grow or something? Seems like it...</text>
+	</string>
+	<string id="zone_news_main_spam_87">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]I heard the Kremlin sends their own people into the Zone. It'll be interested to watch them.</text>
+	</string>
+	<string id="zone_news_main_spam_88">
+		<text>%c[255,160,160,160]Arnie\n%c[default]Fighting at midnight tonight. Don't miss it.</text>
+	</string>
+	<string id="zone_news_main_spam_89">
+		<text>%c[255,160,160,160]Ashot\n%c[default]Attention: I am now at Yanov station. Don't go looking for me in the warehouses, fellas. I offer you wonderful products at the lowest prices.</text>
+	</string>
+	<string id="zone_news_main_spam_90">
+		<text>%c[255,160,160,160]Barman\n%c[default]If anyone stumbles upon any documents with information on the area around the Radar and the Scorcher, let me know.</text>
+	</string>
+	<string id="zone_news_main_spam_91">
+		<text>%c[255,160,160,160]Barman\n%c[default]I'm going to explain this one more time for the boneheaded: there are no programmers in the back room of the bar that are responsible for any communications through your PDAs.</text>
+	</string>
+	<string id="zone_news_main_spam_92">
+		<text>%c[255,160,160,160]Barman\n%c[default]Looking for a drink, good firearms, lots of money, and conversations with good company? Come to the 100 Rads bar!</text>
+	</string>
+	<string id="zone_news_main_spam_93">
+		<text>%c[255,160,160,160]Swamp Doctor\n%c[default]Ugh, Strelok... how I need you right now. I don't even know who else to turn to with everything that's going on.</text>
+	</string>
+	<string id="zone_news_main_spam_94">
+		<text>%c[255,160,160,160]Bolt\n%c[default]I ain't feeling good... Had some canned food, apparently from a warehouse. I looked at the expiration date. Not exactly the dog's bollocks.</text>
+	</string>
+	<string id="zone_news_main_spam_95">
+		<text>%c[255,160,160,160]Beard\n%c[default]There's work for anyone willing to get their hands dirty. Come to the Skadovsk!</text>
+	</string>
+	<string id="zone_news_main_spam_96">
+		<text>%c[255,160,160,160]Voronin\n%c[default]If I find out that you take bribes from stalkers passing through the Bar, I'm going to print and sign death warrants for each and every individual responsible before I put them in their coffins.</text>
+	</string>
+	<string id="zone_news_main_spam_97">
+		<text>%c[255,160,160,160]Hawaiian\n%c[default]Aloha! Got some work for anyone wandering around Jupiter - come visit Yanov station!</text>
+	</string>
+	<string id="zone_news_main_spam_98">
+		<text>%c[255,160,160,160]Hermann\n%c[default]A reminder to all stalkers that it is wise to subscribe to the newsletter regarding any emissions in the Zone. The information is always accurate and up-to-date.</text>
+	</string>
+	<string id="zone_news_main_spam_99">
+		<text>%c[255,160,160,160]Groza\n%c[default]Prophet, I'm heading back to base. Got tons of artefacts!</text>
+	</string>
+	<string id="zone_news_main_spam_100">
+		<text>%c[255,160,160,160]Gromov\n%c[default]I need tools. Come to me if you find anything suitable.</text>
+	</string>
+	<string id="zone_news_main_spam_101">
+		<text>%c[255,160,160,160]Gromov\n%c[default]Guys, where did Zulu go? No one seen him?</text>
+	</string>
+	<string id="zone_news_main_spam_102">
+		<text>%c[255,160,160,160]Deserter\n%c[default]Selling army goods! I have a lot of stuff, from unique weapons to ammo as well as armour. Anyone know where I am, come up. Whoever doesn't know will never learn.</text>
+	</string>
+	<string id="zone_news_main_spam_103">
+        <text>%c[255,160,160,160]Digger\n%c[default]Need 5-6 stalkers for a raid on the catacombs. As soon as I find my PDA, we'll be on the move.\n \n%c[255,160,160,160]Anonymous\n%c[default]Look in your hands, moron.</text>
+    </string>
+	<string id="zone_news_main_spam_104">
+		<text>%c[255,160,160,160]Digger\n%c[default]Gathering people for a raid on the catacombs.</text>
+	</string>
+	<string id="zone_news_main_spam_105">
+		<text>%c[255,160,160,160]Digger\n%c[default]We're in need of two more stalkers for a raid in the catacombs.</text>
+	</string>
+	<string id="zone_news_main_spam_106">
+		<text>%c[255,160,160,160]Zhurov\n%c[default]Enough with the harassment at the perimeter already. We'll be covering the entirety of your village with mortar fire if this recklessness doesn't cease.</text>
+	</string>
+	<string id="zone_news_main_spam_107">
+		<text>%c[255,160,160,160]Ivan Pisser\n%c[default]Heard some news: someone wants to get through to the Scorcher once again.</text>
+	</string>
+	<string id="zone_news_main_spam_108">
+		<text>%c[255,160,160,160]Snitch\n%c[default]If you need information, go to the Bar.</text>
+	</string>
+	<string id="zone_news_main_spam_109">
+		<text>%c[255,160,160,160]Snitch\n%c[default]Got a little errand for any swift chap out there. I'll pay with some interesting information.</text>
+	</string>
+	<string id="zone_news_main_spam_110">
+		<text>%c[255,160,160,160]Kitsenko\n%c[default]Psss, where can I get a fag?</text>
+	</string>
+	<string id="zone_news_main_spam_111">
+		<text>%c[255,160,160,160]Kuznetsov\n%c[default]Battalion, knock back some good vodka! Raid in three minutes! Get the squad ready and move out!</text>
+	</string>
+	<string id="zone_news_main_spam_112">
+		<text>%c[255,160,160,160]Kuznetsov\n%c[default]This morning, five privates were missing from the drill... Presumably deserters. I will be grateful for anyone who locates and reports these degenerates.</text>
+	</string>
+	<string id="zone_news_main_spam_113">
+		<text>%c[255,160,160,160]Kurgan\n%c[default]I can upgrade the firmware in any PDAs. Look for me in the Bar.</text>
+	</string>
+	<string id="zone_news_main_spam_114">
+		<text>%c[255,160,160,160]Leon\n%c[default]That's enough with the spamming!</text>
+	</string>
+	<string id="zone_news_main_spam_115">
+		<text>%c[255,160,160,160]Loki\n%c[default]Hey, Duty, how are you doing without Yanov? Good thing your founder's little backstory got revealed.</text>
+	</string>
+	<string id="zone_news_main_spam_116">
+		<text>%c[255,160,160,160]Baldy\n%c[default]The bandits showed up again in the Dark Valley... Not good. We'll go take 'em out.</text>
+	</string>
+	<string id="zone_news_main_spam_117">
+		<text>%c[255,160,160,160]Makar\n%c[default]If only I could leave this mess, buy an apartment in the city, and get some work in a studio.</text>
+	</string>
+	<string id="zone_news_main_spam_118">
+		<text>%c[255,160,160,160]Maslyak\n%c[default]I heard it again from the speakers at the checkpoint. Someone's laughing louder and louder, more aggressively, like a maniac.</text>
+	</string>
+	<string id="zone_news_main_spam_119">
+		<text>%c[255,160,160,160]Maslyak\n%c[default]I can't do this anymore. Every day, the blood in my veins keeps chilling.</text>
+	</string>
+	<string id="zone_news_main_spam_120">
+		<text>%c[255,160,160,160]Miklukha\n%c[default]Free stalkers! Our men at the army warehouses welcome you at any time. Here, you will find true friends and comrades, good attitudes, and much more! The Zone is our home: reflect on whether you see yourself outside the Zone and help us deal with Duty once and for all.</text>
+	</string>
+	<string id="zone_news_main_spam_121">
+		<text>%c[255,160,160,160]Butcher\n%c[default]I always have a job for good hunters. Come to the flea market.</text>
+	</string>
+	<string id="zone_news_main_spam_122">
+		<text>%c[255,160,160,160]Father Peter\n%c[default]Let us pray, brethren, for the peace of the soul of Yuri Semetsky! Amen!</text>
+	</string>
+	<string id="zone_news_main_spam_123">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]Third squad, the mutant raid for the arena has not been cancelled! Come on, get your arses out of the Bar! Do you want to end up like those anarchist mongrels?!</text>
+	</string>
+	<string id="zone_news_main_spam_124">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]Everyone! Ammunition deliveries has to be conducted at the specified hours! Do I have to spend the night here?!!</text>
+	</string>
+	<string id="zone_news_main_spam_125">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]Work for veterans is being handed out. Large sums will be paid.</text>
+	</string>
+	<string id="zone_news_main_spam_126">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]There's work for free stalkers. Adequate payments will be provided.</text>
+	</string>
+	<string id="zone_news_main_spam_127">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]I'm offering a job to hunt mutants.</text>
+	</string>
+	<string id="zone_news_main_spam_128">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]Purchasing artefacts for science. Come visit the Duty outpost at Rostok. If there's no money, I'll trade for something else.</text>
+	</string>
+	<string id="zone_news_main_spam_129">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]Everyone on the parade grounds on the double. Whoever misses it will be discharged from Duty immediately.</text>
+	</string>
+	<string id="zone_news_main_spam_130">
+		<text>%c[255,160,160,160]Petrenko\n%c[default]We're having temporary difficulties with maintaining the private channel. If you need something, write to me personally, or come meet me in my office.</text>
+	</string>
+	<string id="zone_news_main_spam_131">
+		<text>%c[255,160,160,160]Gunpowder\n%c[default]Sanya, are you seeing this too? What's this dumbfuck doing near the bushes? He's been hanging about for three freaking days! Can I make him history already?</text>
+	</string>
+	<string id="zone_news_main_spam_132">
+		<text>%c[255,160,160,160]Gatekeeper\n%c[default]Once again for those feeling particularly lucky: don't go near the bridge in the Red Forest. Our snipers will calm you down instantly. Limansk is under the control of the Syndicate.</text>
+	</string>
+	<string id="zone_news_main_spam_133">
+		<text>%c[255,160,160,160]Limpid\n%c[default]Mates, if you find any toolkit, bring it to me! I got basically nothing.</text>
+	</string>
+	<string id="zone_news_main_spam_134">
+		<text>%c[255,160,160,160]Limpid\n%c[default]Anyone who's out hunting... You grab some PDAs for me, I've got a little reward for you.</text>
+	</string>
+	<string id="zone_news_main_spam_135">
+		<text>%c[255,160,160,160]Rogovets\n%c[default]Out of vodka again. How am I going to treat others without it?</text>
+	</string>
+	<string id="zone_news_main_spam_136">
+		<text>%c[255,160,160,160]Romka\n%c[default]I require a stalker who specializes in code locks and has experience in the northern part of the Zone.</text>
+	</string>
+	<string id="zone_news_main_spam_137">
+		<text>%c[255,160,160,160]Peregrine\n%c[default]Die, scum.</text>
+	</string>
+	<string id="zone_news_main_spam_138">
+		<text>%c[255,160,160,160]Sakharov\n%c[default]It is in your best interest to exchange mutant parts with us. I assure you that your profit margin will be greater with us should you decide to do so. Those interested, come to our bunker in Yantar.</text>
+	</string>
+	<string id="zone_news_main_spam_139">
+		<text>%c[255,160,160,160]Sakharov\n%c[default]General, could you send me another five of your men at our agreed price?</text>
+	</string>
+	<string id="zone_news_main_spam_140">
+		<text>%c[255,160,160,160]Sakharov\n%c[default]Dear friends and stalkers! Our research requires a large number of artefacts at the moment; as many as you can bring. More than a decent payment guaranteed.\n \n%c[255,160,160,160]Sidorovich\n%c[default]Pah! Show yourselves out, eggheads. Stalkers, who's been taking care of you from the beginning? Who's been letting you get high as a kite, eh? Those stubborn scientists, or uncle Sid? Bring any artefacts to me!</text>
+	</string>
+	<string id="zone_news_main_spam_141">
+		<text>%c[255,160,160,160]Senka\n%c[default]Oh, I'd love me a cold beer right now... Anyone know where to get some?</text>
+	</string>
+	<string id="zone_news_main_spam_142">
+		<text>%c[255,160,160,160]Sergey\n%c[default]To whoever has tools for rough, fine, and calibration work: bring them to me.</text>
+	</string>
+	<string id="zone_news_main_spam_143">
+		<text>%c[255,160,160,160]Sidorovich\n%c[default]There's always work for rookies and veterans alike. Good payment is guaranteed, hehe.</text>
+	</string>
+	<string id="zone_news_main_spam_144">
+		<text>%c[255,160,160,160]Sidorovich\n%c[default]Rookies, come to me for work. You can gain yourselves some experience, purchase ammunition and all other kinds of supplies at a fair price, and earn yourselves a name and some money.</text>
+	</string>
+	<string id="zone_news_main_spam_145">
+		<text>%c[255,160,160,160]Sidorovich\n%c[default]It's dangerous to live as a trader these days. I need people to protect me and my savings!</text>
+	</string>
+	<string id="zone_news_main_spam_146">
+		<text>%c[255,160,160,160]Skinflint\n%c[default]If you want some brand-new imported weapons, come to me.</text>
+	</string>
+	<string id="zone_news_main_spam_147">
+		<text>%c[255,160,160,160]Skinflint\n%c[default]We've got some good pot. Come and get some, let's chillax for a bit!\n \n%c[255,160,160,160]Petrenko\n%c[default]Idiots...</text>
+	</string>
+	<string id="zone_news_main_spam_148">
+		<text>%c[255,160,160,160]Skinflint\n%c[default]If you feel like going on a raid, you can stock up at my place. Also got some dirty work. Anyone who carries it out will be paid a rare artefact.</text>
+	</string>
+	<string id="zone_news_main_spam_149">
+		<text>%c[255,160,160,160]Skinflint\n%c[default]I buy various PDAs containing any valuable information. Bring 'em to me. More money has never hurt anyone.</text>
+	</string>
+	<string id="zone_news_main_spam_150">
+		<text>%c[255,160,160,160]Skinflint\n%c[default]I got hold of some toilet paper. Those who are tired of dealing with thorns and ticks, come quickly. Stocks are limited</text>
+	</string>
+	<string id="zone_news_main_spam_151">
+		<text>%c[255,160,160,160]Sultan\n%c[default]Brothers, when you find Sleeper, you can put him down for good... but make sure to grab his PDA and bring it to me.</text>
+	</string>
+	<string id="zone_news_main_spam_152">
+		<text>%c[255,160,160,160]Owl\n%c[default]Buying PDAs with any valuable information. Bring everything to me, and I'll give as good a deal as one gets</text>
+	</string>
+	<string id="zone_news_main_spam_153">
+		<text>%c[255,160,160,160]Solid\n%c[default]xdfhsedjentdgxhxf\n%c[255,160,160,160]Miklukha\n%c[default]Drunk again, that prick...</text>
+	</string>
+	<string id="zone_news_main_spam_154">
+		<text>%c[255,160,160,160]Biggie\n%c[default]Anyone heard that? There's something playing in the Meadow near the factory at midnight. So creepy, and yet, so horrifyingly familiar. But I can't remember where exactly I've heard it.</text>
+	</string>
+	<string id="zone_news_main_spam_155">
+		<text>%c[255,160,160,160]Fanatic\n%c[default]To anyone who has not yet visited the village: don't miss the unique opportunity of learning necessary survival skills from your struly.</text>
+	</string>
+	<string id="zone_news_main_spam_156">
+		<text>%c[255,160,160,160]Fanatic\n%c[default]People, has anyone seen Wolf?</text>
+	</string>
+	<string id="zone_news_main_spam_157">
+		<text>%c[255,160,160,160]Fanatic\n%c[default]Need help in sweeping mutant lairs. Contact me for details.</text>
+	</string>
+	<string id="zone_news_main_spam_158">
+		<text>%c[255,160,160,160]Hakim\n%c[default]Sanya, I'm heading back to base with Snake</text>
+	</string>
+	<string id="zone_news_main_spam_159">
+		<text>%c[255,160,160,160]Hog\n%c[default]I need some more tools for my work. Any mercenaries who aren't out doing any contracts, please help me out. You won't regret the payment.</text>
+	</string>
+	<string id="zone_news_main_spam_160">
+		<text>%c[255,160,160,160]Hog\n%c[default]Best everyone stay away from the Wild Territory. You won't find anything good there.</text>
+	</string>
+	<string id="zone_news_main_spam_161">
+		<text>%c[255,160,160,160]Hog\n%c[default]Soon, I'll be replenishing my rock collection.</text>
+	</string>
+	<string id="zone_news_main_spam_162">
+		<text>%c[255,160,160,160]Trunk\n%c[default]We need stalkers with experience raiding deep in the Zone. Payment is appropriate. If anyone's interested, contact me and we'll discuss the details.</text>
+	</string>
+	<string id="zone_news_main_spam_163">
+		<text>%c[255,160,160,160]Chechnya\n%c[default]Hunting is cool, I gotta say.</text>
+	</string>
+	<string id="zone_news_main_spam_164">
+		<text>%c[255,160,160,160]Six\n%c[default]Miklukha, Duty's over at the farmstead again. Why?</text>
+	</string>
+	<string id="zone_news_main_spam_165">
+		<text>%c[255,160,160,160]Nimble\n%c[default]Stalkers! I accept all kinds of PDAs with any valuable information. Carry everything to me. The money won't hurt</text>
+	</string>
+	<string id="zone_news_main_spam_166">
+		<text>%c[255,160,160,160]Yar\n%c[default]Hey, Ashot, how's Yanov? Must be cosy, you lousy spoon-fed Jack the lad.</text>
+	</string>
+	<string id="zone_news_main_spam_167">
+		<text>%c[255,160,160,160]Yarik Athlete\n%c[default]There's a sucker in the Dark Valley wandering around with a cool shooter. If someone offs him, I'll buy it.</text>
+	</string>
+	<string id="zone_news_main_spam_168">
+		<text>%c[255,160,160,160]Anonymous\n%c[default]REMOVE ROCK remove rock you are worst cult. you are the cult idiot you are the cult smell. return to powerplant. to our powerplant cousins you may come our Zone. you may live in the garbage....ahahahaha ,monolith we will never forgeve you. cetnik rascal FUck but fuck asshole cult stink monolith sqhipere shqipare..monolith genocide best day of my life. take a bath of dead monolith..ahahahahahMONOLITH WE WILL GET YOU!! do not forget first emission .monolith we kill the C-consciousness , monolith return to your precious rock....hahahahaha idiot cult and monolith smell so bad..wow i can smell it. REMOVE CULT FROM THE PREMISES. you will get caught. loner+bandit+duty+freedom=kill monolith...you will blowout/ strelok alive in zone, strelok making quest of zone . fast hunt strelok zone. we are rich and have artefacts now hahahaha ha because of strelok... you are ppoor stink monolith... you live in a powerplant hahahaha, you live in a sarcophagus strelok alive numbr one #1 in zone ....fuck the monolith ,..FUCKk ashol cult no good i spit in the mouth eye of ur patch and faction. strelok aliv and real strong wizard kill all the monolith farm aminal with 9x39 magic now we the loner rule .ape of the pripyat presidant c-con fukc the great cherno and lay egg this egg hatch and monolith wa;s born. stupid baby form the eggn give bak our clay we will crush u lik a skull of flesh. loner greattst faction</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_bandit_1">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Ahah shit I've seen everything now. A Dutyer playing another's meat flute</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_2">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Motherfucker, who ate my sausage? Gonna find that knob and teach him a lesson</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_3">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Lads, there are lots of stalkers with artefacts coming from the North.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_4">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Brothers at Jupiter, got word that you have a rat from the USS. I bet my arse it's the one with the good weapon.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_5">
+		<text>%c[255,160,160,160]Bandits\n%c[default]A campfire, some kisel, and sweets! Haha.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_6">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Fucking fatass arsewipe. Did you lose the armoury keys again?</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_7">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Crikey, it was more fun around the trenches than here in the base.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_8">
+		<text>%c[255,160,160,160]Bandits\n%c[default]I think we've got a rat in here. Every raid so far has been a complete fuckup... Stalkers just start blasting us before we even know.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_9">
+		<text>%c[255,160,160,160]Bandits\n%c[default]We just ran into a flying black smoke cloud. What the hell?</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_10">
+		<text>%c[255,160,160,160]Bandits\n%c[default]what now, you wankers? Come and get me if you dare</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_11">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Don't go bothering the boss in the next couple of hours.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_12">
+		<text>%c[255,160,160,160]Bandits\n%c[default]We jumped a couple of wazzocks and are going back to base.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_13">
+		<text>%c[255,160,160,160]Bandits\n%c[default]one of my dudes been shot, can anyone come find us and take us to the base? Guys at the perimeter, can you help us??!</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_14">
+		<text>%c[255,160,160,160]Bandits\n%c[default]feelin pretty shit. Who cares, Ima have myself a beer, HEHE.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_15">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Damn, I don't get it. Where's my shooter?</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_16">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Ehh... I haven't seen my mother in a long while since I joined this business.</text>
+	</string>
+	<string id="zone_news_main_fake_news_bandit_17">
+		<text>%c[255,160,160,160]Bandits\n%c[default]Fucking state. You don't get shit from them, you turn the other direction and they ruin your life for nothing.</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_dolg_1">
+		<text>%c[255,255,0,0]Duty\n%c[default]Attention, all squads: upon your arrival at the base, immediately report to the command post for instructions on the use of our new equipment models.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_2">
+		<text>%c[255,255,0,0]Duty\n%c[default]Attention to all squads that are in or near square e15! Confirm the presence of highly dangerous mutants in this region immediately! This information has been received from an unverified source.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_3">
+		<text>%c[255,255,0,0]Duty\n%c[default]Attention to all squads that are in or near square h23! Confirm the presence of highly dangerous mutants in this region immediately! This information has been received from an unverified source.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_4">
+		<text>%c[255,255,0,0]Duty\n%c[default]Calling all free squads! Bandit activity has once again risen in the Garbage. Clean up the sector.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_5">
+		<text>%c[255,255,0,0]Duty\n%c[default]Any stalkers assisting us in clearing out the path to the Bar will be rewarded.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_6">
+		<text>%c[255,255,0,0]Duty\n%c[default]Sergeant Saykin speaking, fifth squad. I'm addressing the people who committed vandalism yesterday at Rostok, on Duty grounds. If one more bottle flies through the window in Petrenko's office, any perpetrators will be shot..</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_7">
+		<text>%c[255,255,0,0]Duty\n%c[default]Duty needs experienced and brave fighters to replenish their ranks and destroy mutants. To all those who joined our ranks, the Bar will conduct a special pricing policy. Former hoodlums are an exception!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_8">
+		<text>%c[255,255,0,0]Duty\n%c[default]Duty is announcing an enlistment. Any volunteer should show up at the base of operations in Rostok with a weapon, gear, and enough provisions for three days. IDs are not required. Good physical conditioning is encouraged.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_9">
+		<text>%c[255,255,0,0]Duty\n%c[default]We will warn you once again, anarchists. If you do not cease to send abrasive insults to the PDA of General Voronin, we will be paying your base a visit. You don't think we aren't aware of who's been doing this?</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_10">
+		<text>%c[255,255,0,0]Duty\n%c[default]Enter the private channel and download the security update. If some lazy arse doesn't patch and info ends up leaking, he's a dead man.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_11">
+		<text>%c[255,255,0,0]Duty\n%c[default]Patch through all raid and mutant-related intel to the private channel. We really wouldn't want a leak.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_12">
+		<text>%c[255,255,0,0]Duty\n%c[default]Some brand-new SVDs have arrived in the warehouse. Anyone interested get a move on.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_13">
+		<text>%c[255,255,0,0]Duty\n%c[default]This is the recon team. We're seeing some kind of black flying smoke in the Wild Territory. Waiting for instructions. Over</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_14">
+		<text>%c[255,255,0,0]Duty\n%c[default]We need experienced stalkers for a mutant raid. Payment is appropriate.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_15">
+		<text>%c[255,255,0,0]Duty\n%c[default]We need experienced stalkers to raid mutant hideouts. Adequate payment.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_16">
+		<text>%c[255,255,0,0]Duty\n%c[default]We need experienced stalkers for a snork takeout operation. Payment will be generous.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_17">
+		<text>%c[255,255,0,0]Duty\n%c[default]Petrenko speaking. Zhivoderov, Arnie's asked you not to come to him if you capture anyone, as he doesn't have free cells at the moment. Keep them at your place for a day, and Arnie will pay you.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_18">
+		<text>%c[255,255,0,0]Duty\n%c[default]Petrenko, show the fuck up! What's wrong with the private channel? Down again?!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_19">
+		<text>%c[255,255,0,0]Duty\n%c[default]Petrenko, come in! Checking connection. My radio's broke, and I'm texting in the general channel. Sent a trooper with repair tools to the place where we'd been nailing boars yesterday.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_20">
+		<text>%c[255,255,0,0]Duty\n%c[default]Petrenko, this is Captain Sorokin from the Garbage speaking. Where's our ammunition?</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_21">
+		<text>%c[255,255,0,0]Duty\n%c[default]Stalkers, join Duty! We shall cure our Earth from the deadly disease called the Zone!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_22">
+		<text>%c[255,255,0,0]Duty\n%c[default]Stalkers, join Duty. Protect the planet from the Zone's affliction!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_23">
+		<text>%c[255,255,0,0]Duty\n%c[default]Stalkers, remember: anarchy represents chaos, destruction, and death. Join Duty! Maintain the order and purity in the Zone!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_24">
+		<text>%c[255,255,0,0]Duty\n%c[default]Stalkers, join us in our collective duty to protect and rid the world of the mutant invasion and anomalous infestation!</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_25">
+		<text>%c[255,255,0,0]Duty\n%c[default]Okay, guys, I've received information about a group of mercenaries lingering in the outskirts of Rostok. Eyes peeled.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_26">
+		<text>%c[255,255,0,0]Duty\n%c[default]We have been experiencing technical difficulties with the equipment for the last two days. The connection to the database and the squads is acting up.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_27">
+		<text>%c[255,255,0,0]Duty\n%c[default]Captain Simonov speaking. Reporting about a strange type of mutant. An hour ago in b15, my squad and I observed a bizarre bloodsucker. It attacked a controller and decimated it with several blows before our very eyes. The beast didn't spot us. Awaiting orders.</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_28">
+		<text>%c[255,255,0,0]Duty\n%c[default]Petrenko speaking. Kolya, confirm the info about the 10th squad not returning from yesterday's raid. I think I've found what's left of them...</text>
+	</string>
+	<string id="zone_news_main_fake_news_dolg_29">
+		<text>%c[255,255,0,0]Duty\n%c[default]Don't gunk up the channel. Nobody cares about your lucky kills.</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_ecolog_1">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Attention, an unknown gas leak in square b41 has just been detected. Take appropriate measures.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_2">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]If you feel your body grow heavy as the world begins to lose its colours and a jaundiced veil appears in your eyes, try to leave that area as soon as possible. You are most likely falling under the direct influence of the alternating field of psy-emissions!</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_3">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Requesting helicopter to the central mobile lab in square y6_4.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_4">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]There has been a burst of variable psy-emissions in sector y2_4. Be extremely careful.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_5">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Militarised research groups remind military stalkers that a SEVA-class suit will not provide you with adequate protection against any anomalous effects. Use an SSP-class suit.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_6">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Militarised research groups remind all unregistered individuals in the territory of the Chernobyl Exclusion Zone that you can approach one of our mobile bunkers and surrender. You will not be shot, you will provided with all necessary medical assistance, and you will be consigned to the USS at the earliest opportunity.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_7">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Any recruits among the military forces at Yantar should contact me, Professor Sakharov, immediately.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_8">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Professor Ozersky, please contact us immediately. This concerns your latest research.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_9">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Northern mobile lab, how long are we supposed to wait for those important anomalous samples from you? Enough with this absurdity!</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_10">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Dear soldiers and undocumented individuals! Militarised research groups and the Scientific Research Institute of the Chernobyl Anomalous Zone would like to remind you that vodka does not contribute to the elimination of radionuclides. Use anti-radiation drugs instead.</text>
+	</string>
+	<string id="zone_news_main_fake_news_ecolog_11">
+		<text>%c[255,160,160,160]Ecologists\n%c[default]Professor Hermann speaking. For the last two days, we have been waiting for the results of our psy-emission research from Professor Sakharov, however, he has been refusing to contact us. What is the meaning of this?</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_freedom_1">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Attention! Just recently, our fighters were attacked by DUTY SOLDIERS, disguised as mercenaries. Be careful, guys. Something smells fishy.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_2">
+		<text>%c[255,0,255,0]Freedom\n%c[default]All volunteers who joined Freedom will be issued the latest Zone survival kit free of charge, along with the finest weaponry from the West! If that ain't enough, you get a head start of 2500 rubles!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_3">
+		<text>%c[255,0,255,0]Freedom\n%c[default]To all our guys: get into the private channel and update your security codes at once. Don't clog up the channel with whining about the fact that Duty's found out about your next attack.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_4">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Join Freedom! We'll stop anyone from seizing the Zone!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_5">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Long live Freedom! With the help of the Zone, we'll make the world a better place!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_6">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Any data on the movement of mercenary squads should be left in the private channel at once. This is important.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_7">
+		<text>%c[255,0,255,0]Freedom\n%c[default]If you're out doing a job, keep any important info in the private channel. There are people out there reading our stuff, you know!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_8">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Download the new firmware so that you don't get as many crashes.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_9">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Leshiy, where the hell have you headed off to? The boss is waiting for you in the office.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_10">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Loki, it's Miklukha. Contact me privately. Got an important matter.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_11">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Max, it's Skinflint. The supplies are gonna be here in a week, hold on tight over there.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_12">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Miklukha, for three days now, we've been getting nothing but dead air from you. What are we gonna do about the Monolith while they haven't crucified us?</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_13">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Oi, Mishka, there was something I wanted to tell you yesterday... but I keep forgetting. Anyway, I saw a suspicious group of people to the west of our base, near the farmstead. Don't forget to tell Miklukha about this, or you're just gonna get baked and let it slip your mind.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_14">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Looking for friendly company, sincere conversations, and a helping hand in future campaigns? Join us and fight alongside free men of the Zone!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_15">
+		<text>%c[255,0,255,0]Freedom\n%c[default]They've brought in a shipment of new G36s to the warehouses. Better get 'em quick. There's practically a waiting list for them.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_16">
+		<text>%c[255,0,255,0]Freedom\n%c[default]We going out for lunch, or what?</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_17">
+		<text>%c[255,0,255,0]Freedom\n%c[default]We're in need of experienced stalkers for an artefact hunt. We'll owe you one.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_18">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Free stalkers, Freedom speaking! If you want to live under respectable conditions in the Zone without any obligations from the military, like Duty, then come to us! We're always happy to see new faces.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_19">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Free stalkers, Freedom speaking here! What do you have to gain by consciously limiting yourself to a life under the command under a bunch of bureaucratic pigs, living in their barracks and blindly following their orders? Become a part of us and join our expeditions to the most treasured places in the Zone, tasting the life of a free man!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_20">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Greetings, stalker! It's me, your freedom! Come visit me at my address anytime: army warehouses, straight down the road and towards the right at the fork. ;)</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_21">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Rostok today, the Verkhovna Rada tomorrow, and the whole world in two days!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_22">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Seems like they took out a massive group of zombies at Yantar today, in the workshops. There might still be a few left.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_23">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Skinflint, where'd you put all the fancy shooters? Why am I not seeing them in the armoury?</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_24">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Stalker, don't you love the Zone? Have you forgotten that it gave you money and a purpose in life? Do you really want to work as an office clerk for a penny after all this is over? Join Freedom! Don't let them take away the last thing you value from you, and don't let them take away your life.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_25">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Don't spit in the goddamn glasses, damn it. I'll fucking break someone's nose the next time I hear that happens.</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_26">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Hey-hey-hey, rasta! We've got the best and juiciest joints! Join the real freedom and take down the system!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_27">
+		<text>%c[255,0,255,0]Freedom\n%c[default]I saw a black chimera last night. A scary fucking beast that was. How can such a thing even be explained?</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_28">
+		<text>%c[255,0,255,0]Freedom\n%c[default]We duped a couple of bandits yesterday. I'm surprised they even remember to wear their pants each day, 'cos they're so goddamn dumb!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_29">
+		<text>%c[255,0,255,0]Freedom\n%c[default]There's a literal army of undead in Yantar going up in number everyday... What the hell we can do?...</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_30">
+		<text>%c[255,0,255,0]Freedom\n%c[default]I'm feeling creative today! Oh, I'll express myself by hanging a few Dutyers on the branches!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_31">
+		<text>%c[255,0,255,0]Freedom\n%c[default]Chaps, guess what! The ganja, the one growing near da springboard! It hits like a truck! Hahahaaa!!!</text>
+	</string>
+	<string id="zone_news_main_fake_news_freedom_32">
+		<text>%c[255,0,255,0]Freedom\n%c[default]This is Skinflint. I've just received a small batch of American erotic magazines...\n \n%c[255,160,160,160]Anonymous\n%c[default]Who the bloody hell needs those, you bellend? Everyone outside of the Zone has been using hard drives for years now, us included.</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_army_1">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Base, this is Delta squad. We've located the entrance to the Dark Valley lab. What are our orders?\n \n%c[255,160,160,160]Anonymous\n%c[default]Bloody hell! Switch to the private channel!</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_2">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Base, this is recon team Nightbird. We're having encryption problems and are leaving a message here. Landed in Limansk and the building site seems impenetrable. Large concentrations of enemy forces: eight RPGs, five snipers, and four with additional, unknown weapons. We cannot send our coordinates, and our enemies are surely listening in on the general channel. What are your orders?\n \n%c[255,160,160,160]Anonymous\n%c[default]Copy, Nightbird. Return to the Red Forest immediately and regroup with Vulture. Make further decisions from there on out.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_3">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Attention! When trying to cross the perimeter, the soldiers guarding it have the right to open fire on you without warning. Do not take chances and do not break the law.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_4">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]To all military stalkers operating in the area around the Darkscape and the Cordon: switch to the encrypted channel! That's an order!</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_5">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]All military stalkers should establish comms on the double! Everybody assemble in the channel.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_6">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Radio frequencies are cut off in square a4_4. Please report from another location near the anomalous zone.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_7">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Citizens! The Zone poses mortal danger! We're here to protect you from the Zone, not the Zone from you. Do not jeopardize your life! Do not try to penetrate into the secured area!</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_8">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Requesting a helicopter in square a1_6</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_9">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Requesting a mortar strike on square e2_12.\n \n%c[255,160,160,160]Anonymous\n%c[default]Oi, take it easy!</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_10">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Contracted soldiers and military stalkers: if anyone finds the wreckage of a fallen helicopter during one of the raids, please recover and deliver the flight recorder to Major Kuznetsov.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_11">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Kuznetsov, there will be an examination by two observers of the USS tomorrow. Have a suitable reception ready.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_12">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Kuznetsov, get in touch immediately. Waiting for you in office #3.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_13">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Kestrel, it's Peony. Can you respond? There's no radio signal.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_14">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Guys, don't screw around in the ravine. Some rabid creatures have settled where we burned a few boxes a couple of days ago.</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_15">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Attention, sappers: we require additional mines in square e3_16</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_16">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]The Security Service of Ukraine is calling all right minded and loyal citizens to collaborate with the authorities. Report all known cases of stalking! Only with your help can we eliminate this hideous phenomenon!</text>
+	</string>
+	<string id="zone_news_main_fake_news_army_17">
+		<text>%c[255,160,160,160]Armed Forces of Ukraine\n%c[default]Need the defence at the northern pass strengthened in accordance with order #231. When is the armour coming in?</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_monolith_1">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Soldiers, do not meddle in areas with variable psi-emissions. You'll get your damn brains fried.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_2">
+		<text>%c[255,160,160,160]Monolith\n%c[default]A squad was lost in the area of the cemetery of sunken ships, and we have no connection with them. If anyone has seen those guys, help them out before they get into trouble.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_3">
+		<text>%c[255,160,160,160]Monolith\n%c[default]I saw some kind of squad in our colours near Pripyat, behaving in a hostile manner and not allowing anyone to get near. I don't think these are ordinary deserters. They're headed towards the southern part of town.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_4">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Attention, soldiers of Wings at the Generators. The installation has been destabilised. Head to the bunker as instructed and begin fixing the problem immediately.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_5">
+		<text>%c[255,160,160,160]Monolith\n%c[default]We've spotted an enormous black chimera on the outskirts of the station. Fighters in sector ast_1: be on the alert.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_6">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Barrier-1 is in trouble at square aes2_m1. It seems they've spotted some humanoids, hardly zombies, moving at a steady pace.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_7">
+		<text>%c[255,160,160,160]Monolith\n%c[default]A signal has arrived from the sarcophagus. Shall I verify?\n \n%c[255,160,160,160]Monolith\n%c[default]Not possible. Too much background radiation and tons of creatures there. I've already told you.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_8">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Wings, come in. Are you at the objective yet?</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_9">
+		<text>%c[255,160,160,160]Monolith\n%c[default]There is no Wish Granter, but there is a group of people ahead of their time with power that knows no equal. Don't ruin the dream... With your support, we shall build a new world. A new reality.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_10">
+		<text>%c[255,160,160,160]Monolith\n%c[default]All recruits should meet with Mentor immediately.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_11">
+		<text>%c[255,160,160,160]Monolith\n%c[default]A horde of zombies is expected on the outskirts of Pripyat. Take action.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_12">
+		<text>%c[255,160,160,160]Monolith\n%c[default]We have lost a detachment in Agroprom. Find them, dead or alive.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_13">
+		<text>%c[255,160,160,160]Monolith\n%c[default]How many inquisitors are there, you say? Will a couple dozen not suffice? Well, shite. Mentor, best put your recruits to some training.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_14">
+		<text>%c[255,160,160,160]Monolith\n%c[default]How's the situation at the Radar? Anything out of the ordinary?</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_15">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Our commander's been worrying again. There's nothing to eat at the station. Where do we find provisions? My fighters will be passing on to human flesh before long.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_16">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Stalker, see what scientific activity has done to this world. It has challenged its foundations, and we need YOU to help make this world a better place. Based on the reality given to you, YOU must understand that with the help of the brotherhood, everything becomes possible. A paradise on Earth? On the snap of your fingers. Give us your hand in supporting the existence of this miracle. Any future companions should arrive at any of our posts with arms and armour.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_17">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Where did Inquisitor's group go? We've got nothing to cover sector p_5 with.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_18">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Fellow scientists, give up your ungrateful job. All the fruits of your work shall sooner or later settle in the oligarchic minorities, and you will be forgotten in oblivion. The brotherhood is in need of qualified specialists. Let us not offer you any rewards, but the ability for you to choose your own futures for yourselves and your loved ones.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_19">
+		<text>%c[255,160,160,160]Monolith\n%c[default]A sentry has died by his own hand in the control room. Dispose of the corpse.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_20">
+		<text>%c[255,160,160,160]Monolith\n%c[default]This is the squad at the station. We're running out of gear. Need help.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_21">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Inquisitors speaking. We'll be clearing out the approaches to Pripyat. Eyes sharp and clear. We work using computer.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_22">
+		<text>%c[255,160,160,160]Monolith\n%c[default]Commander of the Barrier speaking. We have five unfettered deserters. If you meet them in the vicinity of Pripyat, open fire on them.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_23">
+		<text>%c[255,160,160,160]Monolith\n%c[default]This is Rabbit. Shortly, we will be securing some new equipment. The men have promised that they are bringing something from the military in the Agroprom.</text>
+	</string>
+	<string id="zone_news_main_fake_news_monolith_24">
+		<text>%c[255,160,160,160]Monolith\n%c[default]This is the storeman from the Yubileiny service centre. I'm quite worried. Are supplies expected in the near future? We don't even have enough 5.45.</text>
+	</string>
+
+	<string id="zone_news_main_fake_news_death_1">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Location unknown, burer.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_2">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Location unknown. Cause of death unknown.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_3">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Location unknown. Snork.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_4">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Location unknown. Chemical poisoning.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_5">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Army warehouses. Bloodsucker.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_6">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Great Swamp. Septicaemia.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_7">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Great Swamp. Sucked into a quagmire.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_8">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Generators. Anomalous canyon.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_9">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Wild Territory. Whirligig anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_10">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Wild Territory. Poltergeist.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_11">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Iron Forest anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_12">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Oakpine anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_13">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Circus anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_14">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Claw anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_15">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Burer.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_16">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Controller.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_17">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Bloodsucker.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_18">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Flesh.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_19">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Chimera.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_20">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Zaton. Chemical works.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_21">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Truck cemetery. Bloodsucker.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_22">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Truck cemetery. Crushed.\n \n%c[255,160,160,160]Anonymous\n%c[default]Can't be arsed to keep seeing this shite in my feed. When is someone gonna fix it?...</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_23">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Truck cemetery. Blind dog.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_24">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Truck cemetery. Springboard anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_25">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Cordon. Electro anomaly.\n \n%c[255,160,160,160]Anonymous\n%c[default]Hear that? We should get going. I believe this is a good sign!</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_26">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Dead City. Gunshot wound.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_27">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Outskirts of Pripyat. Anomalous vine.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_28">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Outskirts of Pripyat. Bloodsucker.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_29">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Outskirts of Pripyat. Bullet wound.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_30">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Agroprom underground. Poltergeist.\n \n%c[255,160,160,160]Anonymous\n%c[default]You guys hear that? Enough drinking, time to earn some money! Who's with me?</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_31">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Pripyat. Gravitational anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_32">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Pripyat. Falling from heights.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_33">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Radar. Cause of death unknown.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_34">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Radar. Pseudogiant.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_35">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Red Forest. Luna Park anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_36">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Red Forest. Whirligig anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_37">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Red Forest. Meadow of corpses.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_38">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Sarcophagus. Springboard anomaly.\n \n%c[255,160,160,160]Anonymous\n%c[default]You guys hear that? Enough drinking, time to earn some money! Who's with me?</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_39">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Garbage. Venus flytrap.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_40">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Dark Valley. Pseudodog.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_41">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Central Pripyat. Cause of death unknown.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_42">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. CNPP. Whirligig anomaly.\n \n%c[255,160,160,160]Anonymous\n%c[default]Hear that? We should get going. I believe this is a good sign!</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_43">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Jupiter. Concrete Bath anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_44">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Jupiter. Ash Heap anomaly.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_45">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Jupiter. Burer.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_46">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Jupiter. Bloodsucker.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_47">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Jupiter. Chimera.</text>
+	</string>
+	<string id="zone_news_main_fake_news_death_48">
+		<text>%c[255,160,160,160]Fatal Error\n%c[default]Dead stalker, Yuri Semetsky. Yantar. Cause of death unknown.</text>
+	</string>
+
+
+
+	<string id="zone_news_main_time_morn_1">
+		<text>It's during moments like this in the morning that I remember my childhood. My village. You get up so early and watch the shadows and lights play in your room... It's unreal. Magical.</text>
+	</string>
+	<string id="zone_news_main_time_morn_2">
+		<text>Almost like evening...</text>
+	</string>
+	<string id="zone_news_main_time_morn_3">
+		<text>Bricks were shat all night at the camp. Terrible night!</text>
+	</string>
+	<string id="zone_news_main_time_morn_4">
+		<text>Fucking burers had a yell fest yesterday. Oh, wait... No, those were izloms.</text>
+	</string>
+	<string id="zone_news_main_time_morn_5">
+		<text>Can anyone hear me? A group of our mates went missing tonight. Should have been back by the morning from the Agroprom. Still nothing. We'll go looking for them in an hour. Come join us.</text>
+	</string>
+	<string id="zone_news_main_time_morn_6">
+		<text>Guys, you should see what dawn is like at Yantar. It sure is something... Scary, and beautiful... Snork corpses drifting in the sparkling surface of the lake in the morning sun. So beautiful... Romantic...</text>
+	</string>
+	<string id="zone_news_main_time_morn_7">
+		<text>Guys, wake up! It's morning already!</text>
+	</string>
+	<string id="zone_news_main_time_morn_8">
+		<text>Guys, the sunrise today... It's so beautiful.</text>
+	</string>
+	<string id="zone_news_main_time_morn_9">
+		<text>Rise and shine, folks. I'm pretty sure we can get moving already. Probably not much we could run into... Not like at night.</text>
+	</string>
+	<string id="zone_news_main_time_morn_10">
+		<text>Finally, the sky is no longer black. I can get out of the underground without the creatures of the night breathing down my neck.</text>
+	</string>
+	<string id="zone_news_main_time_morn_11">
+		<text>It's morning. Moving forward; it's more or less safe now.</text>
+	</string>
+	<string id="zone_news_main_time_morn_12">
+		<text>A beautiful dawn! As if in Sevastopol and not here!</text>
+	</string>
+	<string id="zone_news_main_time_morn_13">
+		<text>Day is breaking...</text>
+	</string>
+	<string id="zone_news_main_time_morn_14">
+		<text>«Скоро рассвет, выхода нет, ключ повери и по-ле-те-ли!»</text>
+	</string>
+	<string id="zone_news_main_time_morn_15">
+		<text>Time to be standing up again. Geez.</text>
+	</string>
+	<string id="zone_news_main_time_morn_16">
+		<text>A terror, not a morning.</text>
+	</string>
+	<string id="zone_news_main_time_morn_17">
+		<text>Is it day already? I'm just hanging around in the underground.</text>
+	</string>
+	<string id="zone_news_main_time_morn_18">
+		<text>Damn, who invented morning... We've been drinking all night... Skinflint, the fucking bastard, brought some bloody awful vodka again from somewhere... Lads, we carry on sleeping... The raid on Duty's base will have to wait...</text>
+	</string>
+	<string id="zone_news_main_time_morn_19">
+		<text>Even in this place, beauty has a place!</text>
+	</string>
+	<string id="zone_news_main_time_morn_20">
+		<text>Hey, guys! Finally, dawn has come. I'm tired of shaking in fear in the dark. Better to shiver in the light of day...</text>
+	</string>
+	<string id="zone_news_main_time_morn_21">
+		<text>Ugh... I used to have completely different things to do in the morning.</text>
+	</string>
+
+	<string id="zone_news_main_time_night_1">
+		<text>Damn, it's darker than up the arse of a jungle bunny. The devil's dragged me into the depths of the Zone, and now I don't even know how far I am from camp! </text>
+	</string>
+	<string id="zone_news_main_time_night_2">
+		<text>Well, horse shit. I'm on guard duty this night.</text>
+	</string>
+	<string id="zone_news_main_time_night_3">
+		<text>Attention, everyone! Scientists report suspicious mutant activity in Yantar this night. Everyone stay in your camps.</text>
+	</string>
+	<string id="zone_news_main_time_night_4">
+		<text>Screw you and your hunting! At night. Hunting snorks... Bloody psychopaths.</text>
+	</string>
+	<string id="zone_news_main_time_night_5">
+		<text>The sunset... Ah, even in the Zone, sunsets are beautiful.</text>
+	</string>
+	<string id="zone_news_main_time_night_6">
+		<text>Yeah, go ahead, hunting down bloodsuckers in the middle of the night like a bunch of mongrels.</text>
+	</string>
+	<string id="zone_news_main_time_night_7">
+		<text>The moon is gonna be up before long. Damn, I don't have any time to get to the camp. Is anyone around? I think I feel something following me already.</text>
+	</string>
+	<string id="zone_news_main_time_night_8">
+		<text>Is there anyone nearby? It's so damn dark... scary... I can barely see the road...</text>
+	</string>
+	<string id="zone_news_main_time_night_9">
+		<text>To the people who are staying in the Agroprom complex: don't get too close to those burrows. People say snorks crawl from there at night.</text>
+	</string>
+	<string id="zone_news_main_time_night_10">
+		<text>No, I'm not going anywhere. It's too late...</text>
+	</string>
+	<string id="zone_news_main_time_night_11">
+		<text>Well, pansies, time to start shaking.</text>
+	</string>
+	<string id="zone_news_main_time_night_12">
+		<text>Damn, the zombies won't retreat. Dushman, what do you say?</text>
+	</string>
+	<string id="zone_news_main_time_night_13">
+		<text>Well? Who wants to go shooting some pseudodogs with me? I'm scared of sleeping in a tent at night. I keep hearing sudden sloshing in the dark. It's better to wander off somewhere...</text>
+	</string>
+	<string id="zone_news_main_time_night_14">
+		<text>Tonight, mutant activity in Yantar is up to eleven, and, well... so is everywhere else, so everybody, stay in your camps!</text>
+	</string>
+	<string id="zone_news_main_time_night_15">
+		<text>I heard that burers come to the surface at night... It's better to catch some sleep in the camp.</text>
+	</string>
+	<string id="zone_news_main_time_night_16">
+		<text>So, sunset has arrived... Best you come back without making any noise. These roads are no longer safe.</text>
+	</string>
+	<string id="zone_news_main_time_night_17">
+		<text>Okay, return to your camps slowly. The Zone is absolutely not safe at night.</text>
+	</string>
+	<string id="zone_news_main_time_night_18">
+		<text>Shit. Guys, do what you want, but I'm not going to go looking around for loot today. Night is coming...</text>
+	</string>
+	<string id="zone_news_main_time_night_19">
+		<text>Damn, the sun's already going down... Don't have time to get to camp. I can already feel something unsettling in the vicinity.</text>
+	</string>
+</string_table>

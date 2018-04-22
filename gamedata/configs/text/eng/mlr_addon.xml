@@ -1397,10 +1397,10 @@
 		<text>Brilliant. The most dangerous things around here are mutants. There’s a herd of boars by the ravine, and you and I are going there to clear the place out. Try and keep them off me.</text>
 	</string>
 
-	<string id="fanat_kmb_1_start1_1">
+	<string id="fanat_kmb_1_start1_0">
 		<text>Phew… What now?</text>
 	</string>
-	<string id="fanat_kmb_1_start1_2">
+	<string id="fanat_kmb_1_start1_1">
 		<text>Well done. See if your knife’s strong enough to get a few parts off of them. When you’re done, let’s head over to the nearest anomalous zone.</text>
 	</string>
 
@@ -1408,7 +1408,7 @@
 		<text>What’s next?</text>
 	</string>
 	<string id="fanat_kmb_1_start2_2">
-		<text>So, this pit is full of gravitational anomalies. See the artefact over there? It’s called a Jellyfish, and Jellyfish, along with every other artefact, have both strange and wonderous qualities… We’re quite fortunate to have found one. Here, a decent detector you can use to find artefacts. Here are a few pills, in case you manage to catch any radiation. Now, take a few bolts and throw them in front of you to check if the path’s safe. Let’s go. I’ll cover you from here on.</text>
+		<text>So, this pit is full of gravitational anomalies. See the artefact over there? It’s called a Jellyfish, and Jellyfish, along with every other artefact, have both strange and wonderous qualities… We’re quite fortunate to have found one. Here, a decent detector you can use to find artefacts. And here’s a bottle of Nemiroff, in case you manage to catch any radiation. Now, take a few bolts and throw them in front of you to check if the path’s safe. Let’s go. I’ll cover you from here on.</text>
 	</string>
 
 	<string id="fanat_kmb_1_start3_1">

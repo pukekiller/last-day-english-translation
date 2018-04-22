@@ -1,1 +1,392 @@
---[[ Overriding the original file ]]--
+-- Новости о приближающемся выбросе (с реальным указанием возможного времени) от VanoSanturi, адаптированные для СоС. Удаление: просто удалите файл zone_surge_news.script
+
+----------------------------------------------- Шлём сообщение...
+function send_tip(news_text, header, sender)
+	local tips_icons =
+	{
+		all			= "ui_icon_vs_news_all",
+		deth		= "ui_icon_vs_news_deth",
+		bandit		= "ui_icon_vs_news_news_bandos",
+		csky		= "ui_icon_vs_news_news_csky",
+		dolg		= "ui_icon_vs_news_news_dolg",
+		ecolog		= "ui_icon_vs_news_news_ecolog",
+		freedom		= "ui_icon_vs_news_news_svoboda",
+		killer		= "ui_icon_vs_news_news_naim",
+		army		= "ui_icon_vs_news_news_voen_stalk",
+		monolith	= "ui_icon_vs_news_news_monolith",
+	}
+
+	if news_text == nil then
+		return
+	end
+
+	if header == nil then
+		header = game.translate_string("st_tip")
+	end
+
+	if sender == nil then
+		sender = "all"
+	end
+
+	local ui_sender = tips_icons[sender]
+	local text = "%c[default]"..news_text
+	db.actor:give_game_news(header, game.translate_string(text), ui_sender, 0, 7000)
+	xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+end
+
+
+-------------------------------------------- Определяем время начала выброса
+local SurgeText = game.translate_string("zone_surge_news_surgetext_" .. math.random(4))
+
+function surge_news()
+	local SM = surge_manager and surge_manager.SurgeManager
+	if (atmosfear_options.config:r_value("atmosfear_current_parameters","opt_enable_blowout",2,1) == 1) and (SM ~= nil and SM._delta ~= nil and not SM.started) then
+		local g_time = game.get_game_time()
+		local last_surge_time = SM and SM.last_surge_time or game.get_game_time()
+		local surge_start = SM and math.floor(SM._delta - g_time:diffSec(last_surge_time))
+		if math.random(0, 4) < 1 then
+			do_blow_news(surge_start, game.translate_string("zone_surge_news_do_blow_news_emission"))
+		else
+			get_time_next_storm(surge_start)
+			SurgeText = game.translate_string("zone_surge_news_surgetext_emission_" .. math.random(4))
+			SendSurgeNews()
+		end
+	end
+end
+
+function psi_storm_news() -- Определяем время начала пси-шторма
+	local psi_manager = psi_storm_manager and psi_storm_manager.PsiStormManager
+	if (atmosfear_options.config:r_value("atmosfear_current_parameters","opt_enable_psi_storm",2,1) == 1) and (psi_manager ~= nil and psi_manager._delta ~= nil and not psi_manager.started) then
+		local g_time = game.get_game_time()
+		local last_psi_storm_time = psi_manager and psi_manager.last_psi_storm_time or game.get_game_time()
+		local psi_storm_start = psi_manager and math.floor(psi_manager._delta - g_time:diffSec(last_psi_storm_time)) or 0
+		if math.random(0, 4) < 1 then
+			do_blow_news(psi_storm_start, game.translate_string("zone_surge_news_do_blow_news_psy-storm"))
+		else
+			get_time_next_storm(psi_storm_start)
+			SurgeText = game.translate_string("zone_surge_news_surgetext_psystorm_" .. math.random(4))
+			SendSurgeNews()
+		end
+	end
+end
+----------------------------------------------------------------------
+function get_time_next_surge(delta,time)
+	SurgeText = game.translate_string("zone_surge_news_surgetext_" .. math.random(4))
+end -- Защита от дятлов
+----------------------------------------------------------------------
+local day
+local status
+local h_surge
+-- Считаем время до выброса
+function get_time_next_storm(delta_time)
+	-- delta_time – промежуток в секундах (игровых) до следующего выброса
+	-- Считаю время до выброса в часах (игровых)
+	local delta_all = math.floor(delta_time/3600)
+
+	-- Текущее время
+	local h_t = return_time(4)
+
+	-- Считаю день и приблизительно час следующего выброса
+	if delta_all < 24 - h_t then
+		-- Выброс произойдет в этот же день
+		h_surge = h_t + delta_all
+		status = true
+		day = game.translate_string("zone_surge_news_day_1")
+	elseif (delta_all - 24 + h_t) < 24 then
+		-- Выброс произойдет в течении следующих суток
+		h_surge = delta_all - 24 + h_t
+		status = true
+		day = game.translate_string("zone_surge_news_day_2")
+	elseif (delta_all - 24 + h_t) < 48 then
+		-- Выброс произойдет более, чем через одни сутки
+		h_surge = delta_all - 48 + h_t
+		status = true
+		day = game.translate_string("zone_surge_news_day_3")
+	elseif (delta_all - 24 + h_t) < 72 then
+		-- Выброс произойдет более, чем через двое суток
+		h_surge = delta_all - 72 + h_t
+		status = true
+		day = game.translate_string("zone_surge_news_day_4")
+	elseif (delta_all - 24 + h_t) < 96 then
+		-- Выброс произойдет более, чем через трое суток
+		h_surge = delta_all - 96 + h_t
+		status = true
+		day = game.translate_string("zone_surge_news_day_5")
+	else
+		status = false
+	end
+end
+
+
+-- Функция дает новость...
+function SendSurgeNews()
+
+	local Senders =
+	{
+		"stalker",
+		"bandit",
+		"csky",
+		"dolg",
+		"ecolog",
+		"freedom",
+		"killer",
+		"army",
+		"monolith",
+	}
+
+	if status then
+		local SurT = SurgeText
+		local SndCom = Senders[math.random(#Senders)] -- Берем имя из таблички.
+		local str_time_surge = set_str_time_surge(SndCom) -- Определяю время выброса
+
+		if SndCom == "stalker" then
+			local SurWord = game.translate_string("zone_surge_news_stalker_" .. math.random(7))
+			local Icon = "all"
+			local SnDer = game.translate_string("zone_surge_news_stalker_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "bandit" then
+			local SurWord = game.translate_string("zone_surge_news_bandit_" .. math.random(7))
+			local Icon = "bandit"
+			local SnDer = game.translate_string("zone_surge_news_bandit_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "csky" then
+			local SurWord = game.translate_string("zone_surge_news_csky_" .. math.random(7))
+			local Icon = "csky"
+			local SnDer = game.translate_string("zone_surge_news_csky_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "dolg" then
+			local SurWord = game.translate_string("zone_surge_news_dolg_" .. math.random(7))
+			local Icon = "dolg"
+			local SnDer = game.translate_string("zone_surge_news_dolg_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "ecolog" then
+			local SurWord = game.translate_string("zone_surge_news_ecolog_" .. math.random(7))
+			local Icon = "ecolog"
+			local SnDer = game.translate_string("zone_surge_news_ecolog_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "freedom" then
+			local SurWord = game.translate_string("zone_surge_news_freedom_" .. math.random(7))
+			local Icon = "freedom"
+			local SnDer = game.translate_string("zone_surge_news_freedom_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "killer" then
+			local SurWord = game.translate_string("zone_surge_news_killer_" .. math.random(7))
+			local Icon = "killer"
+			local SnDer = game.translate_string("zone_surge_news_killer_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "army" then
+			local SurWord = game.translate_string("zone_surge_news_army_" .. math.random(7))
+			local Icon = "army"
+			local SnDer = game.translate_string("zone_surge_news_army_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "monolith" then
+			local SurWord = game.translate_string("zone_surge_news_monolith_" .. math.random(4))
+			local Icon = "all"
+			local SnDer = game.translate_string("zone_surge_news_monolith_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+
+		elseif SndCom == "zombied" then
+			-- Пасхалка для прикола...
+			local SurWord = game.translate_string("zone_surge_news_zombied_" .. math.random(4))
+			local Icon = "deth"
+			local SnDer = game.translate_string("zone_surge_news_zombied_snder")
+			local news_text = "%c[255,160,160,160]".."\\n%c[default]"..SurWord..SurT.." "..day.." "..str_time_surge
+			send_tip(news_text, SnDer, Icon)
+		end
+	end
+end
+
+-- Уточнение времени выброса до часов.
+function set_str_time_surge(faction)
+	local str_time_surge_table
+
+	if faction == "bandit" then
+		if h_surge >= 23 or h_surge < 4 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_23-04_" .. math.random(3))
+		elseif h_surge >= 4 and h_surge < 8 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_04-08_" .. math.random(3))
+		elseif h_surge >= 8 and h_surge < 12 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_08-12_" .. math.random(3))
+		elseif h_surge >= 12 and h_surge < 16 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_12-16_" .. math.random(3))
+		elseif h_surge >= 16 and h_surge < 19 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_16-19_" .. math.random(3))
+		elseif h_surge >= 19 and h_surge < 23 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_bandit_19-23_" .. math.random(3))
+		end
+
+	elseif faction == "csky" or faction == "ecolog" then
+		if h_surge >= 23 or h_surge < 4 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_23-04_" .. math.random(3))
+		elseif h_surge >= 4 and h_surge < 8 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_04-08_" .. math.random(3))
+		elseif h_surge >= 8 and h_surge < 12 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_08-12_" .. math.random(3))
+		elseif h_surge >= 12 and h_surge < 16 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_12-16_" .. math.random(3))
+		elseif h_surge >= 16 and h_surge < 19 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_16-19_" .. math.random(3))
+		elseif h_surge >= 19 and h_surge < 23 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_csky-ecolog_19-23_" .. math.random(3))
+		end
+
+	elseif faction == "freedom" or faction == "killer" or faction == "stalker" then
+		if h_surge >= 23 or h_surge < 4 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_23-04_" .. math.random(4))
+		elseif h_surge >= 4 and h_surge < 8 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_04-08_" .. math.random(4))
+		elseif h_surge >= 8 and h_surge < 12 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_08-12_" .. math.random(4))
+		elseif h_surge >= 12 and h_surge < 16 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_12-16_" .. math.random(4))
+		elseif h_surge >= 16 and h_surge < 19 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_16-19_" .. math.random(4))
+		elseif h_surge >= 19 and h_surge < 23 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_freedom-killer-stalker_19-23_" .. math.random(4))
+		end
+
+	elseif faction == "army" or faction == "dolg" then
+		if h_surge >= 23 or h_surge < 4 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_23-04_" .. math.random(4))
+		elseif h_surge >= 4 and h_surge < 8 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_04-08_" .. math.random(4))
+		elseif h_surge >= 8 and h_surge < 12 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_08-12_" .. math.random(4))
+		elseif h_surge >= 12 and h_surge < 16 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_12-16_" .. math.random(4))
+		elseif h_surge >= 16 and h_surge < 19 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_16-19_" .. math.random(4))
+		elseif h_surge >= 19 and h_surge < 23 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_army-dolg_19-23_" .. math.random(4))
+		end
+
+	elseif faction == "monolith" then
+		if h_surge >= 23 or h_surge < 4 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_23-04_" .. math.random(4))
+		elseif h_surge >= 4 and h_surge < 8 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_04-08_" .. math.random(4))
+		elseif h_surge >= 8 and h_surge < 12 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_08-12_" .. math.random(4))
+		elseif h_surge >= 12 and h_surge < 16 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_12-16_" .. math.random(4))
+		elseif h_surge >= 16 and h_surge < 19 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_16-19_" .. math.random(4))
+		elseif h_surge >= 19 and h_surge < 23 then
+			str_time_surge_table = game.translate_string("zone_surge_news_time_surge_monolith_19-23_" .. math.random(4))
+		end
+
+	elseif faction == "zombied" then
+		str_time_surge_table = game.translate_string("zone_surge_news_time_surge_zombied_" .. math.random(3))
+	end
+	return str_time_surge_table
+end
+
+--Возврат игрового времени
+function return_time(param)
+	local y, m, d, h, mint, sec, ms = game.get_game_time():get()
+	local tbl =
+	{
+		y,					-- Год
+		m,					-- Месяц
+		d,					-- День
+		h,					-- Час
+		mint,				-- Минуты
+		sec,				-- Секунды
+		ms					-- Милесекунды
+	}
+	return tbl[param]
+end
+
+----------------------------------------------------------------------
+
+
+function do_blow_news(delta_time, what)
+	local stext = game.translate_string("zone_surge_news_blowout_templates_" .. math.random(14))
+	local diff = math.floor(delta_time/3600) -- Разница в игровых часах
+	if diff < 1 then return end
+	local when = ""
+	if (diff < 2) then
+		when = game.translate_string("zone_surge_news_blowout_templates_time_2")
+	elseif (diff >= 2 and diff <= 4) then
+		when = game.translate_string("zone_surge_news_blowout_templates_time_2-4")
+	elseif (diff > 4 and diff <= 8) then when = game.translate_string("zone_surge_news_blowout_templates_time_4-8")
+	elseif (diff > 8) then
+		local m_h = return_time(4)
+		local n_h = m_h + diff
+		if (n_h >= 9 and n_h < 11) then when = game.translate_string("zone_surge_news_blowout_templates_time_9-11")
+		elseif (n_h >= 11 and n_h < 14) then when = game.translate_string("zone_surge_news_blowout_templates_time_11-14")
+		elseif (n_h >= 14 and n_h < 18) then when = game.translate_string("zone_surge_news_blowout_templates_time_14-18")
+		elseif (n_h >= 18 and n_h < 22) then when = game.translate_string("zone_surge_news_blowout_templates_time_18-22")
+		elseif (n_h >= 22 and n_h < 30) then when = game.translate_string("zone_surge_news_blowout_templates_time_22-30")
+		elseif (n_h >= 30 and n_h < 34) then when = game.translate_string("zone_surge_news_blowout_templates_time_30-34")
+		elseif (n_h >= 34 and n_h < 38) then when = game.translate_string("zone_surge_news_blowout_templates_time_34-38")
+		elseif (n_h >= 38 and n_h < 42) then when = game.translate_string("zone_surge_news_blowout_templates_time_38-42")
+		elseif (n_h >= 42 and n_h < 46) then when = game.translate_string("zone_surge_news_blowout_templates_time_42-46")
+		elseif (n_h >= 46 and n_h < 52) then when = game.translate_string("zone_surge_news_blowout_templates_time_46-52")
+		elseif (n_h >= 52 and n_h < 72) then when = game.translate_string("zone_surge_news_blowout_templates_time_52-72")
+		elseif (n_h >= 72 and n_h < 96) then when = game.translate_string("zone_surge_news_blowout_templates_time_72-96")
+		elseif (n_h >= 96 and n_h < 120) then when = game.translate_string("zone_surge_news_blowout_templates_time_96-120")
+		end
+	end
+
+	local m_s = ""
+	local t = {["when"] = when, ["what"] = what}
+	for key0, value in pairs(t) do
+		m_s = string.gsub(stext, "%$"..key0, value)
+		stext = m_s
+	end
+	m_s = stext
+	local Senders =
+	{
+		{game.translate_string("zone_surge_news_stalker_snder"), "all"},
+		{game.translate_string("zone_surge_news_bandit_snder"), "bandit"},
+		{game.translate_string("zone_surge_news_csky_snder"), "csky"},
+		{game.translate_string("zone_surge_news_dolg_snder"), "dolg"},
+		{game.translate_string("zone_surge_news_freedom_snder"), "freedom"},
+		{game.translate_string("zone_surge_news_killer_snder"), "killer"},
+		{game.translate_string("zone_surge_news_army_snder"), "army"},
+	}
+	local n = math.random(1, 6)
+	local SnDer = Senders[n][1]
+	local Icon = Senders[n][2]
+	send_tip(m_s, SnDer, Icon)
+end
+
+--[[
+Dinamic News COP 1.02 для SGM 2.2 + lasted Fix
+Автор: VanoSanturi (Vano_Santuri) 11.03.12
+-Повышена стабильность, уменьшена частота висов
+-из сендеров убраны квестовые и сидчие на базах нпс(те у которых есть story_id).)
+-большая детективация оружия(глушители и подствольники)
+-Добавлены сообщения о выстрелах и свидетелях при убийстве мутантов
+--Lotions from Vergas----------------------------
+--формирование динамических новостей
+-- о предстаящих выбросах
+Автор: Vergas
+--Переделка под вызов в любой момент, под любой день, а так же под реальных сталкеров - VanoSanturi (Vano_Santuri)
+--Убрал работу с переменными, и апдейт - имхо это уже лишнее...
+--Так же сделал более менее адекватные фразы от группировок.
+--При использовании наработок и алгоритмов выдачи новостей не забывайте указывать авторов VanoSanturi (Vano_Santuri) & Vergas
+]]
+
+--[[
+Файл отредактирован и переформатирован SashaRed для многоязычной поддержки в MLR
+File edited and reformatted by SashaRed for multi-language support in MLR
+]]

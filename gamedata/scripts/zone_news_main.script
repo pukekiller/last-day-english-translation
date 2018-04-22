@@ -1,1 +1,68 @@
---[[ Overriding the original file ]]--
+function send_tip(news_id, sender)
+
+	local tips_icons =
+	{
+		bandit_fake_news_icon		= "ui_icon_vs_news_news_bandos",
+		dolg_fake_news_icon			= "ui_icon_vs_news_news_dolg",
+		ecolog_fake_news_icon		= "ui_icon_vs_news_news_ecolog",
+		freedom_fake_news_icon		= "ui_icon_vs_news_news_svoboda",
+		killer_fake_news_icon		= "ui_icon_vs_news_news_naim",
+		army_fake_news_icon			= "ui_icon_vs_news_news_voen_stalk",
+		monolith_fake_news_icon		= "ui_icon_vs_news_news_monolith",
+		death_fake_news_icon	 	= "ui_icon_vs_news_deth",
+
+		army						= "ui_iconsNpc_stalker_neytral_balon_6",
+		barman						= "ui_iconsNpc_barman",
+		ecolog						= "ui_iconsNpc_ecolog",
+		saharov						= "ui_iconsNpc_ucheniy_2",
+		tourist						= "ui_inGame2_PD_Tourist",
+		trader						= "ui_iconsNpc_trader",
+		wolf						= "ui_iconsNpc_stalker_neytral_balon_1",
+	}
+
+	if news_id == nil then return end
+	xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+	local texture = tips_icons[sender] or "ui_iconsTotal_grouping"
+	local news_caption = game.translate_string("st_tip")
+	db.actor:give_game_news(news_caption, news_id, texture, 0, 10000)
+end
+
+function news_main()
+
+	local alife = alife()
+	local se_actor = alife:actor()
+
+	local rnd = math.random(1, 8)
+	if rnd == 1 then
+		send_tip(game.translate_string("zone_news_main_fake_news_bandit_" .. math.random(17)), "bandit_fake_news_icon")
+	elseif rnd == 2 then
+		send_tip(game.translate_string("zone_news_main_fake_news_death_" .. math.random(48)), "death_fake_news_icon")
+	elseif rnd == 3 then
+		send_tip(game.translate_string("zone_news_main_fake_news_dolg_" .. math.random(29)), "dolg_fake_news_icon")
+	elseif rnd == 4 then
+		send_tip(game.translate_string("zone_news_main_fake_news_ecolog_" .. math.random(11)), "ecolog_fake_news_icon")
+	elseif rnd == 5 then
+		send_tip(game.translate_string("zone_news_main_fake_news_freedom_" .. math.random(32)), "freedom_fake_news_icon")
+	elseif rnd == 6 then
+		send_tip(game.translate_string("zone_news_main_fake_news_army_" .. math.random(17)), "army_fake_news_icon")
+	elseif rnd == 7 then
+		send_tip(game.translate_string("zone_news_main_fake_news_monolith_" .. math.random(24)), "monolith_fake_news_icon")
+	else
+		send_tip(game.translate_string("zone_news_main_spam_" .. math.random(168)), "tourist")
+	end
+end
+
+function sunset_news()
+	if level.get_time_hours() >= 6 and level.get_time_hours() < 9 then
+		db.actor:give_game_news(game.translate_string("zone_new_4"), (game.translate_string("zone_news_main_time_morn_" .. math.random(21))), "ui_icon_vs_news_all", 0, 10000)
+		xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+	elseif level.get_time_hours() >= 19 and level.get_time_hours() < 22 then
+		db.actor:give_game_news(game.translate_string("zone_new_4"), (game.translate_string("zone_news_main_time_night_" .. math.random(19))), "ui_icon_vs_news_all", 0, 10000)
+		xr_sound.set_sound_play(db.actor:id(), "pda_tips")
+	end
+end
+
+--[[
+Файл отредактирован и переформатирован SashaRed для многоязычной поддержки в MLR
+File edited and reformatted by SashaRed for multi-language support in MLR
+]]

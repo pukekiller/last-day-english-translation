@@ -652,12 +652,12 @@
 		<text>Для того, чтобы поесть, сначала нужно открыть банку</text>
 	</string>
 	<string id="st_imm_need_swiss">
-		<text>Чтобы открыть банку необходим консервный нож</text>
+		<text>Чтобы открыть банку необходим швейцарский нож</text>
 	</string>
 	<string id="st_imm_swiss_broken">
-		<text>Консервный нож сломался</text>
+		<text>Швейцарский нож сломался</text>
 	</string>
 	<string id="st_imm_swiss_open">
-		<text>открыть банку</text>
+		<text>Открыть банку</text>
 	</string>
 </string_table>

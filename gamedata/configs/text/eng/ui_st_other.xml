@@ -652,12 +652,12 @@
 		<text>You need something sharp to open the can</text>
 	</string>
 	<string id="st_imm_need_swiss">
-		<text>To open the can, you need something sharp such as a Swiss knife</text>
+		<text>To open the can, you need a Swiss knife</text>
 	</string>
 	<string id="st_imm_swiss_broken">
-		<text>Your Swiss knife just broke</text>
+		<text>Your Swiss knife has broken</text>
 	</string>
 	<string id="st_imm_swiss_open">
-		<text>Open the can</text>
+		<text>Open can</text>
 	</string>
 </string_table>

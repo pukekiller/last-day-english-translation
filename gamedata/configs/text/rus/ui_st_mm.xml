@@ -289,7 +289,7 @@
 		<text>Интенсивность блеска</text>
 	</string>
 	<string id="ui_mm_r__actor_shadow">
-    		<text>Тень от игрока</text>
+		<text>Тень от игрока</text>
 	</string>
 	<string id="ui_mm_r2_sun_quality">
 		<text>Качество солнца</text>
@@ -515,7 +515,7 @@
 		<text>Потребность во сне</text>
 	</string>
 	<string id="ui_mm_excl_dist">
-        		<text>Радиус исключения спавна</text>
+		<text>Радиус исключения спавна</text>
 	</string>
 	<string id="ui_mm_char_portrait">
 		<text>Портрет по-умолчанию</text>
@@ -566,5 +566,29 @@
 	<!-- Re-added by Tronex-->
 	<string id="st_cap_check_azazel_mode">
 		<text>Жизнь после жизни (Beta)</text>
+	</string>
+	<string id="ui_mm_cod_pickup_mode">
+		<text>AoE pickup mode</text>
+	</string>
+	<string id="ui_mm_debug_map_hud">
+		<text>Debug HUD Mapspots</text>
+	</string>
+	<string id="ui_mm_gameplay_ui">
+		<text>UI/HUD</text>
+	</string>
+	<string id="ui_mm_r__enable_grass_shadow">
+		<text>Тень от травы</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Удалять брошенные вещи</text>
+	</string>
+	<string id="ui_mm_thirst_option">
+		<text>Жажда</text>
+	</string>
+	<string id="ui_mm_trx_save_on_conditions">
+		<text>Хардкорные сохранения: режим</text>
+	</string>
+	<string id="ui_mm_trx_save_on_timer">
+		<text>Хардкорные сохранения: таймер</text>
 	</string>
 </string_table>

@@ -5237,7 +5237,7 @@
 		</text>
 	</string>
 	<string id="cs_exo_outfit_name">
-			<text>Clear Sky exoskeleton</text>
+		<text>Clear Sky exoskeleton</text>
 	</string>
 	<string id="cs_exo_outfit_description">
 		<text>\n \n%c[0,170,170,170]An experimental version of the army exoskeleton assembled in a controlled environment by Clear Sky engineers, offers good anomaly protection, with emphasis put on combat application. It also provides light psychic protection.\n \n
@@ -5267,7 +5267,7 @@
 		</text>
 	</string>
 	<string id="cs_exo_outfit_worn_name">
-			<text>Clear Sky exoskeleton (worn)</text>
+		<text>Clear Sky exoskeleton (worn)</text>
 	</string>
 	<string id="cs_exo_outfit_worn_description">
 		<text>\n \n%c[0,170,170,170]An experimental version of the army exoskeleton assembled in a controlled environment by Clear Sky engineers, offers good anomaly protection, with emphasis put on combat application. It also provides light psychic protection.\n \n
@@ -5297,7 +5297,7 @@
 		</text>
 	</string>
 	<string id="cs_exo_outfit_bad_name">
-			<text>Clear Sky exoskeleton (damaged)</text>
+		<text>Clear Sky exoskeleton (damaged)</text>
 	</string>
 	<string id="cs_exo_outfit_bad_description">
 		<text>\n \n%c[0,170,170,170]An experimental version of the army exoskeleton assembled in a controlled environment by Clear Sky engineers, offers good anomaly protection, with emphasis put on combat application. It also provides light psychic protection.\n \n
@@ -6468,7 +6468,7 @@
 			%c[0,255,255,255] • %c[0,140,140,140] Psychic: 										 %c[0,204,0,51]very low  %c[0,170,170,170]->   %c[0,204,0,51]very low\n
 			%c[0,255,255,255] • %c[0,140,140,140] Electric: 									 %c[0,250,250,0]average  %c[0,170,170,170]->   %c[0,250,250,0]average \n \n
 		</text>
-		</string>
+	</string>
 	<string id="light_monolit_worn_outfit_description">
 		<text>\n \n%c[0,170,170,170]Light assault suit, designed for assault operations in areas with elevated background radiation, but ineffective in conditions of high anomalous activity.\n \n
 			%c[0,170,170,170]PROPERTIES:\n

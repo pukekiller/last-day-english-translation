@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zone_new_1">
+		<text>Связь потеряна.</text>
+	</string>
+	<string id="zone_new_2">
+		<text>Связь установлена.</text>
+	</string>
+	<string id="zone_new_3">
+		<text>Единая Сталкерская Сеть:</text>
+	</string>
+	<string id="zone_new_4">
+		<text>Сообщение:</text>
+	</string>
+	<string id="zone_new_5">
+		<text>%c[255,160,160,160]Идёт подключение, подождите...\n%c[255,255,255,160]</text>
+	</string>
+	<string id="zone_new_6">
+		<text>%c[255,160,160,160], добро пожаловать в «Единую Сталкерскую Сеть»!</text>
+	</string>
+</string_table>

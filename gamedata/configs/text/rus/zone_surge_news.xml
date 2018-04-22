@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zone_surge_news_do_blow_news_emission">
+		<text>выброс</text>
+	</string>
+	<string id="zone_surge_news_do_blow_news_psy-storm">
+		<text>пси-шторм</text>
+	</string>
+
+	<string id="zone_surge_news_surgetext_1">
+		<text>, беда будет.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_2">
+		<text>, ждём беду.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_3">
+		<text>, ожидайте катаклизм.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_4">
+		<text>, песец скоро.</text>
+	</string>
+
+	<string id="zone_surge_news_surgetext_emission_1">
+		<text>, будет выброс.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_emission_2">
+		<text>, выброс скоро.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_emission_3">
+		<text>, ждём выброс.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_emission_4">
+		<text>, ожидайте выброс.</text>
+	</string>
+
+	<string id="zone_surge_news_surgetext_psystorm_1">
+		<text>, будет пси-шторм.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_psystorm_2">
+		<text>, ждём пси-шторм.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_psystorm_3">
+		<text>, ожидайте пси-шторм.</text>
+	</string>
+	<string id="zone_surge_news_surgetext_psystorm_4">
+		<text>, пси-шторм скоро.</text>
+	</string>
+
+	<string id="zone_surge_news_day_1">
+		<text>Сегодня.</text>
+	</string>
+	<string id="zone_surge_news_day_2">
+		<text>Завтра.</text>
+	</string>
+	<string id="zone_surge_news_day_3">
+		<text>Послезавтра.</text>
+	</string>
+	<string id="zone_surge_news_day_4">
+		<text>Через два дня.</text>
+	</string>
+	<string id="zone_surge_news_day_5">
+		<text>Через три дня.</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_army_1">
+		<text>Взводный передал</text>
+	</string>
+	<string id="zone_surge_news_army_2">
+		<text>Датчики зашкаливают</text>
+	</string>
+	<string id="zone_surge_news_army_3">
+		<text>Командир предупредил</text>
+	</string>
+	<string id="zone_surge_news_army_4">
+		<text>Командир сообщил</text>
+	</string>
+	<string id="zone_surge_news_army_5">
+		<text>Последняя сводка из штаба</text>
+	</string>
+	<string id="zone_surge_news_army_6">
+		<text>Приборы неладное дают</text>
+	</string>
+	<string id="zone_surge_news_army_7">
+		<text>Прослушал переговоры учёных</text>
+	</string>
+	<string id="zone_surge_news_army_snder">
+		<text>«ВСУ»</text>
+	</string>
+
+	<string id="zone_surge_news_bandit_1">
+		<text>Братва с севера передала</text>
+	</string>
+	<string id="zone_surge_news_bandit_2">
+		<text>Инфа со Свалки пришла</text>
+	</string>
+	<string id="zone_surge_news_bandit_3">
+		<text>Кореш инфу подогнал</text>
+	</string>
+	<string id="zone_surge_news_bandit_4">
+		<text>Народ, слышал трёп в баре</text>
+	</string>
+	<string id="zone_surge_news_bandit_5">
+		<text>Ребята с Юпитера шепнули</text>
+	</string>
+	<string id="zone_surge_news_bandit_6">
+		<text>Слушок в баре прошел</text>
+	</string>
+	<string id="zone_surge_news_bandit_7">
+		<text>Султан накумекал</text>
+	</string>
+	<string id="zone_surge_news_bandit_snder">
+		<text>«Бандиты»</text>
+	</string>
+
+	<string id="zone_surge_news_csky_1">
+		<text>Внимание! Приборы взбесились</text>
+	</string>
+	<string id="zone_surge_news_csky_2">
+		<text>Датчики дают точные показания</text>
+	</string>
+	<string id="zone_surge_news_csky_3">
+		<text>Показания на приборах зашкаливают</text>
+	</string>
+	<string id="zone_surge_news_csky_4">
+		<text>Приборы озверели</text>
+	</string>
+	<string id="zone_surge_news_csky_5">
+		<text>Пришла информация с Базы</text>
+	</string>
+	<string id="zone_surge_news_csky_6">
+		<text>Пришла информация с Болот</text>
+	</string>
+	<string id="zone_surge_news_csky_7">
+		<text>Сталкеры! Внимание</text>
+	</string>
+	<string id="zone_surge_news_csky_snder">
+		<text>«Чистое Небо»</text>
+	</string>
+
+	<string id="zone_surge_news_dolg_1">
+		<text>Из штаба пришла инфа</text>
+	</string>
+	<string id="zone_surge_news_dolg_2">
+		<text>Инфа с ЧАЭС пришла</text>
+	</string>
+	<string id="zone_surge_news_dolg_3">
+		<text>Квад с ЧАЭС пришёл</text>
+	</string>
+	<string id="zone_surge_news_dolg_4">
+		<text>От Петренко пришла информация</text>
+	</string>
+	<string id="zone_surge_news_dolg_5">
+		<text>Перехватили переговоры учёных</text>
+	</string>
+	<string id="zone_surge_news_dolg_6">
+		<text>Приборы взбесились</text>
+	</string>
+	<string id="zone_surge_news_dolg_7">
+		<text>С Кордона пришла информация от Сидоровича</text>
+	</string>
+	<string id="zone_surge_news_dolg_snder">
+		<text>«Долг»</text>
+	</string>
+
+	<string id="zone_surge_news_ecolog_1">
+		<text>Внимание! Приборы взбесились</text>
+	</string>
+	<string id="zone_surge_news_ecolog_2">
+		<text>Датчики дают точные показания</text>
+	</string>
+	<string id="zone_surge_news_ecolog_3">
+		<text>Показания на приборах зашкаливают</text>
+	</string>
+	<string id="zone_surge_news_ecolog_4">
+		<text>Приборы озверели</text>
+	</string>
+	<string id="zone_surge_news_ecolog_5">
+		<text>Пришла информация от Сахарова</text>
+	</string>
+	<string id="zone_surge_news_ecolog_6">
+		<text>Пришла информация с Янтаря</text>
+	</string>
+	<string id="zone_surge_news_ecolog_7">
+		<text>Сталкеры! Внимание</text>
+	</string>
+	<string id="zone_surge_news_ecolog_snder">
+		<text>«НИИЧАЗ»</text>
+	</string>
+
+	<string id="zone_surge_news_freedom_1">
+		<text>Болотный Доктор сказал</text>
+	</string>
+	<string id="zone_surge_news_freedom_2">
+		<text>Док заходил, сказал</text>
+	</string>
+	<string id="zone_surge_news_freedom_3">
+		<text>Долговцы в баре трепались</text>
+	</string>
+	<string id="zone_surge_news_freedom_4">
+		<text>Из достоверных источников известно</text>
+	</string>
+	<string id="zone_surge_news_freedom_5">
+		<text>Миклуха передал послание</text>
+	</string>
+	<string id="zone_surge_news_freedom_6">
+		<text>Ребята, весточку принесли</text>
+	</string>
+	<string id="zone_surge_news_freedom_7">
+		<text>Сигнал с Армейских Складов пришел</text>
+	</string>
+	<string id="zone_surge_news_freedom_snder">
+		<text>«Свобода»</text>
+	</string>
+
+	<string id="zone_surge_news_killer_1">
+		<text>Барыга слил инфу</text>
+	</string>
+	<string id="zone_surge_news_killer_2">
+		<text>Из надёжных источников стало известно</text>
+	</string>
+	<string id="zone_surge_news_killer_3">
+		<text>Из-за бугра инфа пришла</text>
+	</string>
+	<string id="zone_surge_news_killer_4">
+		<text>Инфа прошла</text>
+	</string>
+	<string id="zone_surge_news_killer_5">
+		<text>Один ходок передал</text>
+	</string>
+	<string id="zone_surge_news_killer_6">
+		<text>Перехватили переговоры учёных</text>
+	</string>
+	<string id="zone_surge_news_killer_7">
+		<text>Слышал</text>
+	</string>
+	<string id="zone_surge_news_killer_snder">
+		<text>«Наёмники»</text>
+	</string>
+
+	<string id="zone_surge_news_monolith_1">
+		<text>Верхи передали</text>
+	</string>
+	<string id="zone_surge_news_monolith_2">
+		<text>Кое-кто сообщил</text>
+	</string>
+	<string id="zone_surge_news_monolith_3">
+		<text>Наставник сообщил</text>
+	</string>
+	<string id="zone_surge_news_monolith_4">
+		<text>По всей видимости</text>
+	</string>
+	<string id="zone_surge_news_monolith_snder">
+		<text>«Монолит»</text>
+	</string>
+
+	<string id="zone_surge_news_stalker_1">
+		<text>Болотный Доктор заходил</text>
+	</string>
+	<string id="zone_surge_news_stalker_2">
+		<text>От Лесника пришла инфа</text>
+	</string>
+	<string id="zone_surge_news_stalker_3">
+		<text>Сахаров передал инфу</text>
+	</string>
+	<string id="zone_surge_news_stalker_4">
+		<text>Сидорович передал</text>
+	</string>
+	<string id="zone_surge_news_stalker_5">
+		<text>Слышал в Баре</text>
+	</string>
+	<string id="zone_surge_news_stalker_6">
+		<text>Слышал от ходоков</text>
+	</string>
+	<string id="zone_surge_news_stalker_7">
+		<text>Узнал у учёных, на Юпитере</text>
+	</string>
+	<string id="zone_surge_news_stalker_snder">
+		<text>Общий канал</text>
+	</string>
+
+	<string id="zone_surge_news_zombied_1">
+		<text>Выброс дай</text>
+	</string>
+	<string id="zone_surge_news_zombied_2">
+		<text>О Монолит, дай выброс</text>
+	</string>
+	<string id="zone_surge_news_zombied_3">
+		<text>О Монолит, дай пси-разрядку</text>
+	</string>
+	<string id="zone_surge_news_zombied_4">
+		<text>О Монолит, яви свой гнев</text>
+	</string>
+	<string id="zone_surge_news_zombied_snder">
+		<text>Зомбированные:</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_army-dolg_23-04_1">
+		<text>Расчётное время от 23:00 до 4:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_23-04_2">
+		<text>Состояние готовности от 23:00 до 4:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_23-04_3">
+		<text>Укрыть личный состав с 23:00 до 4:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_23-04_4">
+		<text>Команда УКРЫТИЕ в 23:00. Отбой в 4:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_army-dolg_04-08_1">
+		<text>Расчётное время от 4:00 до 8:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_04-08_2">
+		<text>Состояние готовности от 4:00 до 8:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_04-08_3">
+		<text>Укрыть личный состав с 4:00 до 8:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_04-08_4">
+		<text>Команда УКРЫТИЕ в 4:00. Отбой в 8:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_army-dolg_08-12_1">
+		<text>Расчётное время от 8:00 до 12:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_08-12_2">
+		<text>Состояние готовности от 8:00 до 12:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_08-12_3">
+		<text>Укрыть личный состав с 8:00 до 12:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_08-12_4">
+		<text>Команда УКРЫТИЕ в 8:00. Отбой в 12:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_army-dolg_12-16_1">
+		<text>Расчётное время от 12:00 до 16:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_12-16_2">
+		<text>Состояние готовности от 12:00 до 16:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_12-16_3">
+		<text>Укрыть личный состав с 12:00 до 16:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_12-16_4">
+		<text>Команда УКРЫТИЕ в 12:00. Отбой в 16:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_army-dolg_16-19_1">
+		<text>Расчётное время от 16:00 до 19:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_16-19_2">
+		<text>Состояние готовности от 16:00 до 19:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_16-19_3">
+		<text>Укрыть личный состав с 16:00 до 19:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_16-19_4">
+		<text>Команда УКРЫТИЕ в 16:00. Отбой в 19:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_army-dolg_19-23_1">
+		<text>Расчетное время от 19:00 до 23:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_19-23_2">
+		<text>Состояние готовности от 19:00 до 23:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_19-23_3">
+		<text>Укрыть личный состав с 19:00 до 23:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_army-dolg_19-23_4">
+		<text>Команда УКРЫТИЕ в 19:00. Отбой в 23:00</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_bandit_23-04_1">
+		<text>Вроде, ночью оттяжку даст.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_23-04_2">
+		<text>Ночью покувыркаемся.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_23-04_3">
+		<text>Ночью и ждите.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_bandit_04-08_1">
+		<text>По утрянке, вместо ста грамм.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_04-08_2">
+		<text>Спросонок и потянуться не успеешь</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_04-08_3">
+		<text>Даже сопли ночные подобрать не успеешь.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_bandit_08-12_1">
+		<text>С утра до обеда - самое его времечко.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_08-12_2">
+		<text>Днем жахнет. До обеда.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_08-12_3">
+		<text>С утра хавчик схрумкаем, а вот отобедать не удасться</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_bandit_12-16_1">
+		<text>Хрен теперь, а не тихий час.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_12-16_2">
+		<text>Сразу после обеда, век воли не видать!</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_12-16_3">
+		<text>Во второй половине дня скурвится. Хоть вечер без заморочек.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_bandit_16-19_1">
+		<text>Ближе к вечеру закочевряжится.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_16-19_2">
+		<text>До обеда - гуляй рванина. А вот после четырёх, на дно лягайте.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_16-19_3">
+		<text>После обеда. Ближе к вечеру ухи под шапкой не держать.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_bandit_19-23_1">
+		<text>По вечерочку и загандурасит</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_19-23_2">
+		<text>Вечером. Зуб даю.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_bandit_19-23_3">
+		<text>По темноте и вылезет.</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_23-04_1">
+		<text>Наибольшая вероятность с 23:00 до 4:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_23-04_2">
+		<text>Ждите в интервале от 23:00 до 4:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_23-04_3">
+		<text>Компьютерный прогноз: с 23:00 до 4:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_04-08_1">
+		<text>Наибольшая вероятность 4:00 до 8:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_04-08_2">
+		<text>Ждите в интервале от 4:00 до 8:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_04-08_3">
+		<text>Компьютерный прогноз: с 4:00 до 8:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_08-12_1">
+		<text>Наибольшая вероятность 8:00 до 12:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_08-12_2">
+		<text>Ждите в интервале от 8:00 до 12:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_08-12_3">
+		<text>Компьютерный прогноз: с 8:00. Отбой в 12:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_12-16_1">
+		<text>Наибольшая вероятность 12:00 до 16:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_12-16_2">
+		<text>Ждите в интервале от 12:00 до 16:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_12-16_3">
+		<text>Компьютерный прогноз: с 12:00. Отбой в 16:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_16-19_1">
+		<text>Наибольшая вероятность с 16:00 до 19:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_16-19_2">
+		<text>Ждите в интервале от 16:00 до 19:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_16-19_3">
+		<text>Компьютерный прогноз: с 16:00. Отбой в 19:00</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_csky-ecolog_19-23_1">
+		<text>Наибольшая вероятность с 19:00 до 23:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_19-23_2">
+		<text>Ждите в интервале от 19:00 до 23:00</text>
+	</string>
+	<string id="zone_surge_news_time_surge_csky-ecolog_19-23_3">
+		<text>Компьютерный прогноз: с 19:00. Отбой в 23:00</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_23-04_1">
+		<text>Ещё та ночка будет</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_23-04_2">
+		<text>Ночью.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_23-04_3">
+		<text>Короче, выспаться не удасться.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_23-04_4">
+		<text>Ночью безобразить будет</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_04-08_1">
+		<text>По утру и начнётся</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_04-08_2">
+		<text>Утром</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_04-08_3">
+		<text>Короче, побудка будет ещё та!</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_04-08_4">
+		<text>Ждите на рассвете</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_08-12_1">
+		<text>До обеда, точно.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_08-12_2">
+		<text>Где-то к полудню ближе</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_08-12_3">
+		<text>Короче, отобедать не успеете.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_08-12_4">
+		<text>Ждите до полудня</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_12-16_1">
+		<text>Вместо послеобеденного сна.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_12-16_2">
+		<text>После полудня.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_12-16_3">
+		<text>Короче, прикорнуть после обеда не получится</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_12-16_4">
+		<text>Днём. Ближе к вечеру.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_16-19_1">
+		<text>Ближе к вечеру. Точно.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_16-19_2">
+		<text>Во второй половине дня. Ближе к вечеру.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_16-19_3">
+		<text>Как только к вечеру повернёт.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_16-19_4">
+		<text>Но до трёх дня ходи смело.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_19-23_1">
+		<text>На закате и начнётся</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_19-23_2">
+		<text>По вечерней зорьке.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_19-23_3">
+		<text>Как только свечеряет</text>
+	</string>
+	<string id="zone_surge_news_time_surge_freedom-killer-stalker_19-23_4">
+		<text>Ближе к полуночи.</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_monolith_23-04_1">
+		<text>Ещё та ночка будет</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_23-04_2">
+		<text>Ночью.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_23-04_3">
+		<text>Короче, выспаться не удасться.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_23-04_4">
+		<text>Ночью безобразить будет</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_monolith_04-08_1">
+		<text>По утру и начнётся</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_04-08_2">
+		<text>Утром</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_04-08_3">
+		<text>Короче, побудка будет ещё та!</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_04-08_4">
+		<text>Ждите на рассвете</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_monolith_08-12_1">
+		<text>До обеда, точно.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_08-12_2">
+		<text>Где-то к полудню ближе</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_08-12_3">
+		<text>Короче, отобедать не успеете.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_08-12_4">
+		<text>Ждите до полудня</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_monolith_12-16_1">
+		<text>Вместо послеобеденного сна.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_12-16_2">
+		<text>После полудня.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_12-16_3">
+		<text>Короче, прикорнуть после обеда не получится</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_12-16_4">
+		<text>Днём. Ближе к вечеру.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_monolith_16-19_1">
+		<text>Ближе к вечеру. Точно.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_16-19_2">
+		<text>Во второй половине дня. Ближе к вечеру.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_16-19_3">
+		<text>Как только к вечеру повернёт.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_16-19_4">
+		<text>Но до трёх дня ходи смело.</text>
+	</string>
+
+	<string id="zone_surge_news_time_surge_monolith_19-23_1">
+		<text>На закате и начнётся</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_19-23_2">
+		<text>По вечерней зорьке.</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_19-23_3">
+		<text>Как только свечеряет</text>
+	</string>
+	<string id="zone_surge_news_time_surge_monolith_19-23_4">
+		<text>Ближе к полуночи.</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_time_surge_zombied_1">
+		<text>Ма-а-аччч-и-и-и...</text>
+	</string>
+	<string id="zone_surge_news_time_surge_zombied_2">
+		<text>Му-у-ааа...</text>
+	</string>
+	<string id="zone_surge_news_time_surge_zombied_3">
+		<text>Мы были как ты, и ты станешь ка-а-к мы-ы-ы...</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_blowout_templates_1">
+		<text>А $what будет $when. Точно говорю.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_2">
+		<text>Беда будет, $what $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_3">
+		<text>Встретил Болотного Доктора... ну, как встретил... он меня полечил немного от укусов собачек слепых, но это не важно. Важно то, что он предупредил о выбросе. Говорит, что $what случится $when, так что всем в норы!</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_4">
+		<text>Герман предупредил, что $when $what будет. Так что ищите себе норку поуютнее.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_5">
+		<text>Ждём беду, $what $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_6">
+		<text>Заходил к экологам на Янтаре. Так они предупредили, что по их замерам $what будет $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_7">
+		<text>Зверьё зашевелилось. Скоро $what. Скорее всего, $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_8">
+		<text>Ищите укрытие понадёжней, $what - $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_9">
+		<text>Мне сообщили, что $what - $when. Каналы у меня надёжные, так что, скорее всего, так оно и есть. Осторожнее там.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_10">
+		<text>Ожидайте катаклизм, $what $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_11">
+		<text>Парни, у меня аппаратура уже зашкаливать начала. Скорее всего, $what будет $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_12">
+		<text>Песец скоро, $what $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_13">
+		<text>Сахаров говорит, у него аппаратура даёт приблизительную оценку, что $what - $when.</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_14">
+		<text>Сахаров предупредил, что $when $what будет. Так что ищите себе норку поуютнее.</text>
+	</string>
+
+
+
+	<string id="zone_surge_news_blowout_templates_time_2">
+		<text>через час-другой</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_2-4">
+		<text>через пару часов</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_4-8">
+		<text>часов через 6-7</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_9-11">
+		<text>утром</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_11-14">
+		<text>днем</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_14-18">
+		<text>после обеда</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_18-22">
+		<text>вечером</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_22-30">
+		<text>ночью</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_30-34">
+		<text>завтра утром</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_34-38">
+		<text>завтра днем</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_38-42">
+		<text>завтра после обеда</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_42-46">
+		<text>завтра вечером</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_46-52">
+		<text>завтра ночью</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_52-72">
+		<text>послезавтра</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_72-96">
+		<text>через два дня</text>
+	</string>
+	<string id="zone_surge_news_blowout_templates_time_96-120">
+		<text>через три дня</text>
+	</string>
+</string_table>

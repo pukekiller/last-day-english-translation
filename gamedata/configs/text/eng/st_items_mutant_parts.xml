@@ -234,7 +234,7 @@
 	<string id="mutant_fang_psevdodog">
 		<text>Pseudodog fang</text>
 	</string>
-		<string id="mutant_fang_psevdodog_description">
+	<string id="mutant_fang_psevdodog_description">
 		<text>Pseudodogs fangs are used for tearing and holding their prey. Due to the tremendous jaw pressure of the mutant, it bites through most of the protective equipment used in the Zone. The teeth themselves are not too strong and are routinely replaced throughout life. Scientists are not particulary interested in them, unlike collectors from the outside of the Zone.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] • %c[0,140,140,140] mutated body part\n%c[0,153,255,255] • %c[0,140,140,140] common scientific specimen</text>
 	</string>
 

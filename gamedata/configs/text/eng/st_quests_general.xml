@@ -423,16 +423,16 @@
 		<text>Find the %s artefact</text>
 	</string>
 	<string id="simulation_task_4_text">
-		<text>A fellow stalker is offering a rifle in exchange for a %s artefact.</text>
+		<text>A fellow stalker is offering a reward in exchange for a %s artefact.</text>
 	</string>
 	<string id="simulation_task_4_about">
 		<text>Are you any good at artefact hunting?</text>
 	</string>
 	<string id="simulation_task_4_fetch_about">
-		<text>If you happen to find a %s, let me know. I can't afford to pay you, but I have a very nice rifle I think you'll like.</text>
+		<text>If you happen to find a %s, let me know. I have a very nice reward I think you'll like.</text>
 	</string>
 	<string id="simulation_task_4_fetch_finish">
-		<text>Finally! You don't know how long I've been searching for this. Here. This is my finest rifle. I hate to part with it, but it is well worth it to me.</text>
+		<text>Finally! You don't know how long I've been searching for this. Here. This is your reward.</text>
 	</string>
 
 	<!-- FIND WEAPON FOR STALKER TASK -->
@@ -639,13 +639,13 @@
 		<text>Glory kill</text>
 	</string>
 	<string id="simulation_task_17_text">
-		<text>A fellow soldier has bet his rifle that you can't assassinate a high-value target.</text>
+		<text>A fellow soldier has bet that you can't assassinate a high-value target.</text>
 	</string>
 	<string id="simulation_task_17_about">
-		<text>What, are you trying to climb the ranks or something? Tell you what, hotshot: I happen to know the location of a certain high-value target the brass wants eliminated. I'll bet you my rifle you can't even get close to him.</text>
+		<text>What, are you trying to climb the ranks or something? Tell you what, hotshot: I happen to know the location of a certain high-value target the brass wants eliminated. I'll bet you can't even get close to him.</text>
 	</string>
 	<string id="simulation_task_17_finish">
-		<text>For real? You really did it? Damn, if I though you had any chance I never would have made this bet. Well, a deal's a deal. Here's my rifle... but you better be covering my ass with it in the next firefight.</text>
+		<text>For real? You really did it? Damn, if I though you had any chance I never would have made this bet. Well, a deal's a deal.</text>
 	</string>
 
 

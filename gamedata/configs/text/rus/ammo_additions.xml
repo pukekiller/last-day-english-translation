@@ -698,10 +698,10 @@
 	</string>
 	<string id="ammo-7.62x39_ap_bad">
 	 		<text>Патроны 7.62x39 мм M43 (устаревшие)</text>
-		</string>
+	</string>
 	<string id="ammo-7.62x39_ap_verybad">
 	 		<text>Патроны 7.62x39 мм M43 (непригодные для стрельбы)</text>
-		</string>
+	</string>
 	<string id="ammo-7.62x39_fmj_bad">
  		<text>Патроны 7.62x39 мм ЦМ (устаревшие)</text>
 	</string>

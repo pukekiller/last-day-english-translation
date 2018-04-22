@@ -567,4 +567,28 @@
 	<string id="st_cap_check_azazel_mode">
 		<text>Azazel mode</text>
 	</string>
+	<string id="ui_mm_cod_pickup_mode">
+		<text>AoE pickup mode</text>
+	</string>
+	<string id="ui_mm_debug_map_hud">
+		<text>Debug HUD Mapspots</text>
+	</string>
+	<string id="ui_mm_gameplay_ui">
+		<text>UI/HUD</text>
+	</string>
+	<string id="ui_mm_r__enable_grass_shadow">
+		<text>Cloud shadows</text>
+	</string>
+	<string id="ui_mm_release_dropped_items">
+		<text>Removed dropped items</text>
+	</string>
+	<string id="ui_mm_thirst_option">
+		<text>Thirst</text>
+	</string>
+	<string id="ui_mm_trx_save_on_conditions">
+		<text>Hardcore saves: mode</text>
+	</string>
+	<string id="ui_mm_trx_save_on_timer">
+		<text>Hardcore saves: timer</text>
+	</string>
 </string_table>

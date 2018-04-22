@@ -337,10 +337,10 @@
 		<text>Someone is holding the door.</text>
 	</string>
 	<string id="st_labx18_pass_to_1st_door">
-		<text>Excellent, Colleague. I'm glad that you've received 2nd level access. At last you will find out what goes on in our laboratory. Your access code is 1243. Chief of Laboratory X-18, Piotr Ilich Kalugin.</text>
+		<text>Excellent, Colleague. I'm glad that you've received 2nd level access. At last you will find out what goes on in our laboratory. Your access code is 1243. Chief of Laboratory X18, Piotr Ilich Kalugin.</text>
 	</string>
 	<string id="st_labx18_pass_to_2nd_door">
-			<text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X18, Piotr Ilyitch Kalugin.</text>
+		<text>Dear colleague, may I remind you that starting tomorrow you will attend to the container in the central laboratory room. You must inspect the containers every two hours. Report everything directly to me. The code to the central laboratory room is 9524. Chief of Laboratory X18, Piotr Ilyitch Kalugin.</text>
 	</string>
 	<string id="st_yan_saharov_message">
 		<text>Good man, you made it after all. It's extremely important that we study the machine in the lab. Try turning it off so that we can have a look at it.</text>

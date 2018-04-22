@@ -114,6 +114,8 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [st_quests_zaton.xml](gamedata/configs/text/eng/st_quests_zaton.xml)
 		- done
+	- [st_smart_names.xml](gamedata/configs/text/eng/st_smart_names.xml)
+		- not started
 	- [st_subtitles.xml](gamedata/configs/text/eng/st_subtitles.xml)
 		- done
 	- [st_treasures.xml](gamedata/configs/text/eng/st_treasures.xml)
@@ -146,6 +148,8 @@ A list of all files with their detailed progress can be found below.
 		- done
 	- [ui_st_pda.xml](gamedata/configs/text/eng/ui_st_pda.xml)
 		- done
+	- [ui_st_pda_quick_travel.xml](gamedata/configs/text/eng/ui_st_pda_quick_travel.xml)
+		- not started
 	- [ui_st_radio.xml](gamedata/configs/text/eng/ui_st_radio.xml)
 		- done
 	- [ui_st_screen.xml](gamedata/configs/text/eng/ui_st_screen.xml)

@@ -3,11 +3,11 @@
 	
 	<string id="encyclopedia_features">
 		<text>Features</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_azazel_mode">
 		<text>Azazel mode</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_azazel_mode_text">
 		<text>
 			%c[0,153,255,255]Azazel mode%c[0,140,140,140] allows you to continue playing as another character after death.\n
@@ -18,11 +18,11 @@
 			\n%c[0,204,0,51]• %c[0,140,140,140]Not compatible with Story mode.\n
 			\n%c[0,204,0,51]• %c[0,140,140,140]Miracle Machine and Brain Scorcher are turned off in Azazel mode.
 		</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_ironman_mode">
 		<text>Ironman mode</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_ironman_mode_text">
 		<text>
 			%c[0,153,255,255]Ironman mode%c[0,140,140,140] adds an indirect layer of difficulty to gameplay, whereby all of your saved games for a character are deleted upon their death.\n
@@ -31,11 +31,11 @@
 			\nNote that all saves in an ironman mode playthrough are tagged with a unique identifier so the game can distinguish between them, making it impossible for unrelated saves to be deleted by mistake.\n
 			\nThis mode can only be enabled from the character creation screen.
 		</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_rank">
 		<text>Rank</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_rank_text">
 		<text>
 			%c[0,153,255,255]Rank%c[0,140,140,140] is a score system based on what a stalker has accomplished in the Zone.\n
@@ -45,11 +45,11 @@
 			\nThere are currently eight total ranks available:\n
 			\n%c[0,100,100,255]• %c[0,140,140,140]Rookie (0)\n%c[0,100,100,255]• %c[0,140,140,140]Trainee (1000) (+1000)\n%c[0,100,100,255]• %c[0,140,140,140]Experienced (3000) (+2000)\n%c[0,100,100,255]• %c[0,140,140,140]Professional (6000) (+3000)\n%c[0,100,100,255]• %c[0,140,140,140]Veteran (10000) (+4000)\n%c[0,100,100,255]• %c[0,140,140,140]Expert (15000) (+5000)\n%c[0,100,100,255]• %c[0,140,140,140]Master (21000) (+6000)\n%c[0,100,100,255]• %c[0,140,140,140]Legend (28000) (+7000)
 		</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_reputation">
 		<text>Reputation</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_reputation_text">
 		<text>
 			%c[0,153,255,255]Reputation%c[0,140,140,140] is a representation of how a stalker interacts with others.\n
@@ -59,11 +59,11 @@
 			\nThere are currently nine total reputations available:\n
 			\n%c[0,100,100,255]• %c[0,140,140,140]Terrible (-2000) (-500)\n%c[0,100,100,255]• %c[0,140,140,140]Dreary (-1500) (-500)\n%c[0,100,100,255]• %c[0,140,140,140]Awful (-1000) (-500)\n%c[0,100,100,255]• %c[0,140,140,140]Bad (-500) (-500)\n%c[0,100,100,255]• %c[0,140,140,140]Neutral (0)\n%c[0,100,100,255]• %c[0,140,140,140]Good (500) (+500)\n%c[0,100,100,255]• %c[0,140,140,140]Great (1000) (+500)\n%c[0,100,100,255]• %c[0,140,140,140]Brilliant (1500) (+500)\n%c[0,100,100,255]• %c[0,140,140,140]Excellent (2000) (+500)
 		</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_story_mode">
 		<text>Story mode</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_story_mode_text">
 		<text>
 			%c[0,153,255,255]Story mode%c[0,140,140,140] enables a non-linear story based on the events of Shadow of Chernobyl.\n
@@ -74,11 +74,11 @@
 			\n%c[0,0,255,30]Availability%c[0,140,140,140]\n
 			\n%c[0,100,100,255]• %c[0,140,140,140]Clear Sky\n%c[0,100,100,255]• %c[0,140,140,140]Duty\n%c[0,100,100,255]• %c[0,140,140,140]Ecologist\n%c[0,100,100,255]• %c[0,140,140,140]Freedom\n%c[0,100,100,255]• %c[0,140,140,140]Loner\n%c[0,100,100,255]• %c[0,140,140,140]Mercenary\n
 		</text>
-		</string>
+	</string>
 	
 	<string id="encyclopedia_features_survival_mode">
 		<text>Survival mode</text>
-		</string>
+	</string>
 	<string id="encyclopedia_features_survival_mode_text">
 		<text>
 			%c[0,153,255,255]Survival mode%c[0,140,140,140] turns the Zone into a hunting ground - where you are the prey.\n
@@ -88,6 +88,6 @@
 			\nOnly a few traders and stalker squads can be found, meaning you will have to survive off of what you can scavenge in the world.\n
 			\nThis mode can only be enabled from the character creation screen.
 		</text>
-		</string>
+	</string>
 	
 </string_table>

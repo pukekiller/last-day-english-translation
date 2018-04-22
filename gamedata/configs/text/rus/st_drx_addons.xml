@@ -4,31 +4,31 @@
 <!-- DoctorX Dynamic Faction Relations -->
 
 	<string id="st_drx_relations_and">
-        		<text>и</text>
+		<text>и</text>
 	</string>
 	<string id="st_drx_relations_declared_war">
-        		<text>начали войну.</text>
+		<text>начали войну.</text>
 	</string>
 	<string id="st_drx_relations_alliance">
-        		<text>заключили союз.</text>
+		<text>заключили союз.</text>
 	</string>
 	<string id="st_drx_relations_deteriorating">
-        		<text>. Отношения ухудшились.</text>
+		<text>. Отношения ухудшились.</text>
 	</string>
 	<string id="st_drx_relations_cease_fire">
-        		<text>объявили о прекращении огня.</text>
+		<text>объявили о прекращении огня.</text>
 	</string>
 
 <!-- DoctorX Questlines -->
 
 	<string id="st_drx_questlines_and_this_one">
-        		<text>И ещё...</text>
+		<text>И ещё...</text>
 	</string>
 	<string id="st_drx_questlines_joined">
-        		<text>Вы вступили в группировку</text>
+		<text>Вы вступили в группировку</text>
 	</string>
 	<string id="st_drx_questlines_faction">
-        		<text>.</text>
+		<text>.</text>
 	</string>
 
 </string_table>
