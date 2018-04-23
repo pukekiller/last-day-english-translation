@@ -525,13 +525,13 @@
 		<text>You must be Beard.</text>
 	</string>
 	<string id="boroda_story_1">
-		<text>That’s right. I haven’t seen you around before - welcome to the Skadovsk.</text>
+		<text>That’s right. I haven’t seen you around before. Welcome to the Skadovsk.</text>
 	</string>
 	<string id="boroda_story_2">
 		<text>Thank you. What can I do here?</text>
 	</string>
 	<string id="boroda_story_3">
-		<text>Whatever you prefer doing. Ever since the departure of Sultan, the hunt for artefacts around here has been more of a breeze than ever. If you plan on going south in the direction of the substation workshops and the waste processing station, be careful. The Syndicate holds those territories, and they pose quite a threat. If you happen to find any artefacts, feel free to bring them here - I’ll be more than happy to offer you a decent price. Stay safe around these parts, stalker.</text>
+		<text>Whatever you prefer doing. Ever since the departure of Sultan, the hunt for artefacts around here has been more of a breeze than ever. If you plan on going south in the direction of the substation workshops and the waste processing station, be careful. The Syndicate holds those territories, and they pose quite a threat. If you happen to find any artefacts, feel free to bring them here; I’ll be more than happy to offer you a decent price. Stay safe around these parts, stalker.</text>
 	</string>
 	<string id="boroda_story_4">
 		<text>Thank you.</text>
@@ -759,7 +759,7 @@
 		<text>As you already understand, the wilderness here is utterly unreal. Although this is a former sawmill, nothing is left but the logs. I could use some kits to work with… If you can find basic ones, please bring them here.</text>
 	</string>
 	<string id="dasc_tech_mlr_task_1_fetch_finish">
-		<text>Thanks… Things are going to be much easier. Keep this artefact - it’s called a Pellicle. Quite rare.</text>
+		<text>Thanks… Things are going to be much easier. Keep this artefact; it’s called a Pellicle. Quite rare.</text>
 	</string>
 
 	<string id="dasc_tech_mlr_task_2_name">
@@ -797,19 +797,19 @@
 
 
 	<string id="devushka_1_start_0">
-		<text>Hey, what’s up, dude?</text>
+		<text>Hey. What’s up, mate?</text>
 	</string>
 	<string id="devushka_1_start_1">
 		<text>Not bad. And you… How did you come here?</text>
 	</string>
 	<string id="devushka_1_start_2">
-		<text>I was with Freedom, but I ended up leaving them. I had my reasons… Will you help me? I only have one PM left, and I would love to have some kind of shotgun, preferably from the TOZ family - I’m pretty used to them. Somehow I think I’ve seen a TOZ with optics around. Yes, and 20 ammo for it to begin with, I think that’s enough.</text>
+		<text>I used to be parat of Freedom, but I ended up leaving them… for personal reasons. Will you give me a hand? I only have a PM left, and I would love to have some kind of shotgun; preferably a TOZ. I’m pretty used to them. I think I’ve seen a TOZ with optics around. Twenty shells to go with it would be nice, too.</text>
 	</string>
 	<string id="devushka_1_start_3">
-		<text>Yeah, let me help you.</text>
+		<text>Sure. I’ll help you.</text>
 	</string>
 	<string id="devushka_1_start_4">
-		<text>No. I have better things to do.</text>
+		<text>No. I have other things to do.</text>
 	</string>
 
 		<string id="devushka_1_start_6">
@@ -817,52 +817,52 @@
 		</string>
 
 	<string id="devushka_1_start_5">
-		<text>Thank you. I have something for you.</text>
+		<text>Thank you! I have something for you in return.</text>
 	</string>
 
 
 
 	<string id="devushka_2_start_0">
-		<text>Here you go. Found you this gun. And buckshots. Why didn’t you buy the ammo from Sidorovich though?</text>
+		<text>Here you go. Found you this shotgun, with a few complimentary shells. Could you not have talked to Sidorovich about ammunition?</text>
 	</string>
 	<string id="devushka_2_start_1">
-		<text>Thanks dude. Yes, Sid wants to send me out of the Zone, you see I don’t belong here, I need to go home to my mother. She’s right, but someone has to feed her granddaughter. Here, take it, as promised - it will come in handy! Rummaging around here, I stumbled upon an old cache of the local equipment.</text>
+		<text>Thanks, mate. See, Sidorovich wants to send me out of the Zone; thinks I don’t belong here, that I need to go home to my mother. He treats me like his own bloody granddaughter. Here – take this, as promised. It’ll come in hand. Whilst searching around here, I stumbled upon an old cache belonging to the local technician.</text>
 	</string>
 
 
 
 	<string id="devushka_0_dialog_0">
-		<text>So, how’s it going? You look kind of sick, to be honest.</text>
+		<text>So, how’s it going? You do look a bit ill.</text>
 	</string>
 	<string id="devushka_0_dialog_1">
-		<text>Yes, it’s just that I haven’t been eating for quite a while now. Listen, is there anything to eat? I can definitely feel my belly sticking to my back. If you have some canned food…</text>
+		<text>Well… I just haven’t had any meal in a while now. Listen, got anything to eat? I could eat a horse, but if you have any canned food…</text>
 	</string>
 	<string id="devushka_0_dialog_2">
-		<text>Here you go, I don’t mind.</text>
+		<text>If you need a meal, here.</text>
 	</string>
 	<string id="devushka_0_dialog_3">
-		<text>I’m so sorry, but with very tight supplies around here, there’s nothing to eat.</text>
+		<text>I’m sorry, but with the tight supplies around here, I’ve got nothing to spare.</text>
 	</string>
 	<string id="devushka_0_dialog_4">
-		<text>Give her something to eat, look for a weapon, buy cartridges for her…. Can’t you do something on your own? Freedomer scum…</text>
+		<text>Give you something to eat, find you a shotgun, buy cartridges for you… Can’t you do something on your own? Freedomer bitch…</text>
 	</string>
 	<string id="devushka_0_dialog_5">
-		<text>Respect, dude. Thank you for all.</text>
+		<text>Respect, mate. Thanks for everything.</text>
 	</string>
 
 
 
 	<string id="devushka_1_dialog_0">
-		<text>Tell me about yourself again.</text>
+		<text>Tell me about yourself once more.</text>
 	</string>
 	<string id="devushka_1_dialog_1">
-		<text>Yes what can I tell you… My family was completely dysfunctional, a total mess. My mother drank and had sex with bolsheviks, I never knew my father, and my stepfather was an asshole, he beat me up all the time. Once, after another beating, he wanted to rape me, I did not give up and broke a bottle on his head. I hated him so much that in a fit of anger I stabbed him with a piece. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him… I had to escape, I really did not want to go to jail.</text>
+		<text>What can I tell you? My family was completely dysfunctional – a total mess. My mother drank and had sex with bolsheviks. I never knew my father, and my stepfather was an asshole – he beat me up all the time. At one point, he actually wanted to rape me, but I didn’t give up – I grabbed a bottle and hit him right on the head. I hated him so much… I ended up stabbing him with a splinter. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him. I had to escape. I really did not want to go to jail.</text>
 	</string>
 	<string id="devushka_1_dialog_2">
-		<text>That’s rough… And you went into the Zone like this, alone?</text>
+		<text>That’s rough. Did you enter the Zone completely alone?</text>
 	</string>
 	<string id="devushka_1_dialog_3">
-		<text>No, I had a friend… She was called Sprat. We went to the Zone together, she had a guy here who was a Freedomer. But poor Sprat didn’t survive, she got killed by an anomaly. I brought her bag to the guy, he was cool, nobody would touch me. He was a good man, he grieved deeply for her. He then got shot by some Duty fucker and all kind of scum started harassing me. I got out of there.</text>
+		<text>No. I had a friend… Called her Sprat. We went into the Zone together. She had a guy who was a Freedomer. But Sprat didn’t survive; she got killed by an anomaly. I brought her bag to the guy. He was cool; didn’t let anybody touch me. He was a good man, and he grieved deeply for her. He ended up getting shot by some Duty fucker, and all kind of scum started harassing me. I managed to get out of there.</text>
 	</string>
 	<string id="devushka_1_dialog_4">
 		<text>I understand.</text>
@@ -871,16 +871,16 @@
 
 
 	<string id="devushka_heal_0">
-		<text>Wait, let me help you.</text>
+		<text>Wait. Let me help you.</text>
 	</string>
 	<string id="devushka_heal_1">
-		<text>Come on, I’m fine. Don’t worry.</text>
+		<text>Come on – I’m fine! Don’t worry.</text>
 	</string>
 	<string id="devushka_heal_2">
 		<text>Someone promised to do what I say, rookie. Remember?</text>
 	</string>
 	<string id="devushka_heal_3">
-		<text>Right? Look, if you need anything - just holler.</text>
+		<text>Really? Look; if you need anything, just holler.</text>
 	</string>
 	<string id="devushka_heal_4">
 		<text>I know, I know… Thanks.</text>
@@ -889,136 +889,136 @@
 
 
 	<string id="devushka_2_dialog_0">
-		<text>What do you plan to do?</text>
+		<text>What do you plan on doing?</text>
 	</string>
 	<string id="devushka_2_dialog_1">
 		<text>Why, I asked Sidorovich for a job, to search for artefacts. Why are you asking? Do you want to help?</text>
 	</string>
 	<string id="devushka_2_dialog_2">
-		<text>Well. I have to go. Good luck, Hip.</text>
+		<text>Well… I have to go, Hip. I wish you well.</text>
 	</string>
 	<string id="devushka_2_dialog_3">
-		<text>Wha—you can’t just leave me here! How am I going to do without you?</text>
+		<text>Wha–you can’t just leave me here! How am I going to do without you?</text>
 	</string>
 	<string id="devushka_2_dialog_4">
 		<text>What are you so upset about?</text>
 	</string>
 	<string id="devushka_2_dialog_5">
-		<text>Man, don’t go, please. Don’t leave me… I feel so safe around you, you’re the only one I can trust in this misery.</text>
+		<text>Mate, don’t go, please. Don’t leave me… You make me feel safe again. You’re the only one I can trust in this misery.</text>
 	</string>
 	<string id="devushka_2_dialog_6">
-		<text>You should go home, Hip. Let me talk to Sidorovich, he can help smuggle you across the border. Your parents must be going crazy.</text>
+		<text>I think you should go home, Hip. Let me talk to Sidorovich; he can help smuggle you across the border. Your parents must be worried.</text>
 	</string>
 	<string id="devushka_2_dialog_7">
-		<text>They only go crazy if I don’t make enough money to get their fucking booze! My family was completely dysfunctional, a total mess. My mother drank and had sex with bolsheviks, I never knew my father, and my stepfather was an asshole, he beat me up all the time. Once, after another beating, he wanted to rape me, I did not give up and broke a bottle on his head. I hated him so much that in a fit of anger I stabbed him with a piece. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him… I had to escape, I really did not want to go to jail.</text>
+		<text>They only get worried if I don’t make enough money to get their fucking booze! Being stuck with my family was… an agony! My mother drank and had sex with bolsheviks. I never knew my father, and my stepfather was an asshole – he beat me up all the time. At one point, he actually wanted to rape me, but I didn’t give up – I grabbed a bottle and hit him right on the head. I hated him so much… I ended up stabbing him with a splinter. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him. I had to escape. I really did not want to go to jail.</text>
 	</string>
 	<string id="devushka_2_dialog_8">
-		<text>That’s rough… And you went into the Zone like this, alone?</text>
+		<text>That’s rough. Did you enter the Zone completely alone?</text>
 	</string>
 	<string id="devushka_2_dialog_9">
-		<text>No, I had a friend… She was called Kulka. We went to the Zone together, she had a guy here who was a Freedomer. But poor Kulka didn’t survive, she got killed by an anomaly. I brought her bag to the guy, he was cool, nobody would touch me. He was a good man, he grieved deeply for her. He then got shot by some Duty fucker and all kind of scum started harassing me. I got out of there. I don’t have anyone now.</text>
+		<text>No. I had a friend… Called her Sprat. We went into the Zone together. She had a guy who was a Freedomer. But Sprat didn’t survive; she got killed by an anomaly. I brought her bag to the guy. He was cool; didn’t let anybody touch me. He was a good man, and he grieved deeply for her. He ended up getting shot by some Duty fucker, and all kind of scum started harassing me. I managed to get out of there.</text>
 	</string>
 	<string id="devushka_2_dialog_10">
 		<text>And what should I do?</text>
 	</string>
 	<string id="devushka_2_dialog_11">
-		<text>Help me with my task, tell me how to survive in the Zone… You’re a tough stalker, cool, you know a lot. I’ll do anything! Don’t leave me alone! You’re the coolest, you… You are the first actual human being that I met here.</text>
+		<text>Help me with my task, tell me how to survive in the Zone… You’re a tough stalker. You’re cool. You know a lot. I’ll do anything! Don’t leave me alone! You’re the coolest, you… You’re the first real person that I’ve met here.</text>
 	</string>
 
 		<string id="devushka_2_dialog_16">
-			<text>Do you have any idea what it’s like to crawl through the Zone? How it is at night, for example, in the Darkscape, and not in a cozy village for newcomers under the supervision of Fanatic? Did you ever flee from a pack of blind dogs in an unfamiliar terrain, where there are more anomalies than a fool of candy wrappers? No? And look at the zombies. They roam around like a fucking freakshow; handsome boys, right? Keep in mind, the same thing can happen to your pretty face.</text>
+			<text>Do you have any idea what it’s like to crawl through the Zone? How it feels to crawl around, say, the Darkscape, and not in a cozy village for newcomers under the supervision of Fanatic? Did you ever flee from a pack of blind dogs in unfamiliar terrain, where there are more anomalies than chocolates in a box? No? And take a look at the zombies: they roam around like a fucking freakshow; handsome boys, right? Keep in mind that the same thing can happen to your pretty face.</text>
 		</string>
 		<string id="devushka_2_dialog_17">
-			<text>Yeah that’s cool. I’m strong and smart. I can take it, don’t worry if I’m a girl. Take me with you, stalker. You can always kick me out later, we got plenty of time.</text>
+			<text>Yeah that’s cool. I’m strong and smart. I can take it. Don’t worry if I’m a girl. Take me with you, stalker. You can always kick me out later. We have plenty of time.</text>
 		</string>
 
 	<string id="devushka_2_dialog_12">
-		<text>Oh… All right, all right. Lesson one: forget that you were in Freedom. Any further trip is going to be without any Freedom stuff and their idiotic catchphrases! Well, then tear off all their patches and insignias, we can’t have Dutiers flocking around thinking that you are one of those stoners. Which artefacts do we need? Do you have a detector?</text>
+		<text>All right. Lesson one: forget that you ever were in Freedom. We’ll be travelling without any word of their ridiculous jokes and catchphrases. Get rid of any of their patches and insignias; we can’t have Dutyers flocking around thinking that you’re part of them. Which artefacts do we need? Do you have a detector?</text>
 	</string>
 	<string id="devushka_2_dialog_13">
 		<text>Sorry, Hip, but no.</text>
 	</string>
 	<string id="devushka_2_dialog_14">
-		<text>A Moonlight, a Fireball and a Wrenched. I’ve got one, it’s an Echo.</text>
+		<text>A Moonlight, a Fireball, and a Wrenched. I’ve got one: it’s an Echo.</text>
 	</string>
 	<string id="devushka_2_dialog_15">
-		<text>Well, that’s better than nothing… Will do, but you’ll need a more functional one to get your hands on those artefacts. Come on rookie, let’s move out!</text>
+		<text>Well, that’s better than nothing, though you’ll need a more functional one to get your hands on those artefacts. Come on, rookie. Let’s move out!</text>
 	</string>
 
 
 
 	<string id="devushka_3_quest_0">
-		<text>Sidorovich, I’ve helped Hip with your assignment, here’s the goods.</text>
+		<text>Sidorovich, I’ve helped out Hip with the assignment. Here’s the goods.</text>
 	</string>
 	<string id="devushka_3_quest_1">
-		<text>Hmm. Well, okay, the deal is a deal. I will not go into your business with her, I do not need it for 100 years. Here’s some money, for all the work. Don’t forget to give some to her. Wait. And yet … While you two were searching for artefacts, a couple of Freedomers came to the village, asked around for Hip. But I said that I’ve never heard of someone like her. I know it’s not your fault, but it is better for her to leave the village quietly. If they come back again it’s gonna get ugly for her and for you, they’ll wipe out any witness, and I really don’t want to undermine Freedom’s trust.</text>
+		<text>Hmm. Well, okay. A deal is a deal, and I won’t concern myself with your business with her. Here’s some money for all the work. Don’t forget to share some with her. And… while the two of you were searching for artefacts, a couple of Freedomers came to the village; asked around for Hip. I told them that I’ve never heard of anyone by that name. I know it’s not your fault, but it’s better for her to get out of the village quietly. If they come back again, it’ll be ugly for both of you. They’ll wipe out any witnesses, and I really don’t want to undermine Freedom’s trust.</text>
 	</string>
 	<string id="devushka_3_quest_2">
-		<text>Damn, so much trouble. All right, we’ll leave at night, no noise and no dust. Thanks for having our backs.</text>
+		<text>That’s a concern. All right… We’ll leave at night, nice and quiet. Thanks for having our backs.</text>
 	</string>
 	<string id="devushka_3_quest_3">
-		<text>You did the same after all, deciding to look after her. And if that girl would disappear in the Zone, that surely would be a pity.</text>
+		<text>You yourself have taken on a noble task, deciding to look after her. And if she were to disappear anywhere the Zone, that would be a pity.</text>
 	</string>
 
 	<string id="devushka_3_quest_money_0">
-		<text>Here you go, your honest half of the reward.</text>
+		<text>Here you go: your well-earned half of the reward.</text>
 	</string>
 	<string id="devushka_3_quest_money_1">
-		<text>My first serious earnings! Thank you so much!</text>
+		<text>My first proper earning! Thank you so much!</text>
 	</string>
 
 	<string id="devushka_3_dialog_0">
-		<text>Here, Sidorovich told me that some Freedomers came here for you. Sidor did not betray us, but now we have to leave this place. Now go, have a rest, we are leaving at night, I’ll think about how we should plan all this.</text>
+		<text>Sidorovich told me that a few Freedomers came here looking for you. He saved your skin, but now, we have to leave this area. You should rest up. We leave at night, and I’ll think about how we should plan all this.</text>
 	</string>
 	<string id="devushka_3_dialog_1">
-		<text>Oh, I was hoping they’d finally leave me alone, fucking bastards, even here. Okay, let’s leave tonight…</text>
+		<text>Oh, I was hoping they’d finally leave me alone… Bloody mongrels, tracing me back here. Okay, let’s leave tonight…</text>
 	</string>
 	<string id="devushka_3_dialog_2">
-		<text>Let’s go by the fire and take a rest for a while.</text>
+		<text>Let’s go by the fire and relax for a moment.</text>
 	</string>
 
 
 
 	<string id="devushka_4_dialog_0">
-		<text>Sit quiet here, don’t go anywhere. I’ll come for you tonight.</text>
+		<text>Sit quiet here, and don’t go anywhere. I’ll come for you tonight.</text>
 	</string>
 	<string id="devushka_4_dialog_1">
-		<text>Ok, I’ll be here, waiting for you.</text>
+		<text>Okay. I’ll be here, waiting for you.</text>
 	</string>
 
 	<string id="devushka_4_quest_0">
-		<text>Hey, how are you? Ready? I’ve got a few ideas about what we’re gonna do.</text>
+		<text>Hey. What’s up? All ready? I’ve got a few ideas about what we’re gonna do.</text>
 	</string>
 	<string id="devushka_4_quest_1">
-		<text>Ready, I think… What are we gonna do?</text>
+		<text>I think I’m ready… What are we going to do?</text>
 	</string>
 	<string id="devushka_4_quest_2">
-		<text>I think that we should turn to Barman, who lives in the 100 Rads bar, he will tell us what to do. I don’t like Freedomers and I don’t want to confront them head on.</text>
+		<text>I think we should turn to Barman. He’s at the 100 Rads bar. He’ll tell us what to do. I don’t like Freedom, and I don’t want to confront them head on.</text>
 	</string>
 	<string id="devushka_4_quest_3">
-		<text>I think that the Freedom guys are decent people and we will be able to find an agreement together. Let’s go to the Army Warehouses to Miklukha and decide everything. Don’t worry, I can protect you.</text>
+		<text>I think that the Freedom guys are decent people. We’ll come to an agreement. Let’s go to the army warehouses and meet up with Miklukha and decide everything. Don’t worry; I’ll keep you safe.</text>
 	</string>
 	<string id="devushka_4_quest_4">
-		<text>OK, let’s go. I, too, do not want to drag myself to the Army Warehouses to see these scum again, who dared to grope me everywhere.</text>
+		<text>Okay. Let’s go. I don’t want to head all the way to the warehouses to see those scum again, after they came here looking for me.</text>
 	</string>
 	<string id="devushka_4_quest_5">
-		<text>Okay … Miklukha, of course, I think he’s the most suitable among those bastards. I’m not worried.</text>
+		<text>Okay… Miklukha’s definitely the most trustworthy among them. I’ll go with that.</text>
 	</string>
 
 	<string id="devushka_4_help_0">
-		<text>Good day. What’s up? There are a couple of issues with my partner, some problems with Freedom…</text>
+		<text>I’ve got a few problems with Freedom, regarding my partner here.</text>
 	</string>
 	<string id="devushka_4_help_1">
-		<text>Well come in, here, have a cup on the house, and a treat for the lady! Things are going fine. Problems with Freedom, you say? I’m aware of, about your problems. Women in the Zone are so rare, that news about them spread more quickly than wildfire. Your Hip is looking for a few scumbags, because of which she probably left Freedom. I can contact Lukash and fix everything, he’ll be there in a flash to put them in line, but as they say, you scratch my back, I scratch yours.</text>
+		<text>Well, come on over! Have a cup on the house and get yourselves comfortable! Problems with Freedom, you say? I’m aware. Women in the Zone are a rarity, meaning news about them spread quicker than wildfire. A bunch of scumbags were looking for your Hip, who, more than likely, caused her to depart. I can contact Lukash and have everything resolved; he’ll be there in a flash to put them back in line… but as they say: you scratch my back, I scratch yours.</text>
 	</string>
 
 
 
 	<string id="devushka_5_help_0">
-		<text>Good day. How’s it going? There are a couple of questions about my partner, I think you know her.</text>
+		<text>I’ve got a couple of questions regarding my partner, with whom I believe you’re acquainted.</text>
 	</string>
 	<string id="devushka_5_help_1">
-		<text>Well, come here, there you go, bro. Relax. Things are going well, even though the evil spirits that were hiding from the Barrier have not diminished. And of course, I know about Hip. She sure caused a commotion among all the groups. Some of my guys even battered each other’s faces because of her.</text>
+		<text>A warm welcome to you two. And, yes, I naturally know about Hip. She sure caused a commotion amongst all the groups. Some of my guys even battered each other’s faces because of her.</text>
 	</string>
 
 
@@ -1027,89 +1027,89 @@
 		<text>What does your request involve?</text>
 	</string>
 	<string id="devushka_help_1">
-		<text>Oh, a mere trifle. Take these containers for artefacts to Beard at the Skadovsk. He often stores highly radioactive artefacts, and sometimes without proper containment the place there radiates like the Chernobyl NPP. Keep in mind, they’re heavy. Will you do that for me?</text>
+		<text>Oh, simply a mere trifle. Take these artefact containers to Beard at the Skadovsk in Zaton. He often stores highly radioactive artefacts, and without proper containment, that place sometimes gets contaminated like the Chernobyl NPP. Keep in mind that they’re rather heavy. Is that okay with you?</text>
 	</string>
 	<string id="devushka_help_2">
-		<text>Can do, give me your containers.</text>
+		<text>I can handle it. Give me the containers.</text>
 	</string>
 	<string id="devushka_help_3">
-		<text>Wait, we need to prepare for this.</text>
+		<text>Gonna need to prepare for this.</text>
 	</string>
 
 
 
 	<string id="devushka_help1_0">
-		<text>A couple of your guys came in the Rookie Village, chasing after Hip , looking for her. Do you know anything about this?</text>
+		<text>A couple of your men came to the rookie village, searching for Hip. Do you know anything about this?</text>
 	</string>
 	<string id="devushka_help1_1">
-		<text>A couple of guys, you say? Hmm… I have an idea who it might be. In other matters, I will deal with them, do not worry. It was not enough that Freedom became famous because it ravages defenseless girls. Although Hip has a pair of scorpions up her sleeves, you surely can’t call her defenseless. But, dude, you are also in debt with us, since you took an excellent shot from my group. Relax, relax, don’t get angry, I’m joking. Can you deliver these goods to Loki in Yanov? There are a couple of bags with medicines. We’ll properly reward you. Will you do it?</text>
+		<text>A couple of my lads, you say? Hmm… I have an idea who it might be. Don’t worry; I’ll deal with them. As if it wasn’t enough that Freedom became famous because it ravages defenseless girls… Although, Hip does have a pair of scorpions up her sleeves, so you surely can’t call her defenseless. But, mate, you’re also in debt to us, since you snatched an excellent part of my group. Relax, relax! Don’t get angry. I’m joking. Can you deliver these goods to Loki in Yanov station near Jupiter? Just a couple of bags with medicines. We’ll have you properly rewarded.</text>
 	</string>
 	<string id="devushka_help1_2">
-		<text>Why wouldn’t we, since you so willingly helped us. Give us your medicines.</text>
+		<text>Why wouldn’t we? Since you so willingly helped us.</text>
 	</string>
 	<string id="devushka_help1_3">
-		<text>Wait, we need to prepare a little first.</text>
+		<text>Wait. We need to prepare first.</text>
 	</string>
 
 
 
 	<string id="devushka_boroda_help_0">
-		<text>Hello. How is it going? We came with some presents from Barman, here’s your containers.</text>
+		<text>Got some presents from Barman. Here are your containers.</text>
 	</string>
 	<string id="devushka_boroda_help_1">
-		<text>Hey. Well thank you for the delivery, here’s a couple of souvenirs.</text>
+		<text>Well, thank you for the delivery! Here’s a couple of souvenirs.</text>
 	</string>
 
 	<string id="devushka_loki_help_0">
-		<text>Hello there. How’s life, man? We have come to you bearing gifts from Miklukha, here’s your medicine supply.</text>
+		<text>We’ve got a few gifts from Miklukha. Here’s your medicine supply.</text>
 	</string>
 	<string id="devushka_loki_help_1">
-		<text>Hi. Thanks, man. Here’s a bonus, Mikluha ordered it.</text>
+		<text>Thanks, mate. Here’s a bonus that Mikluha ordered.</text>
 	</string>
 
 
 
 	<string id="give_devushka_medved_0">
-		<text>Hey, rookie. Here, take this good detector, it’s a lot better than your Echo.</text>
+		<text>Hey, rookie. Take this detector; it’s a lot better than your Echo.</text>
 	</string>
 	<string id="give_devushka_medved_1">
-		<text>Thanks, now I’m sure I’ll find something cool!</text>
+		<text>Oh, marvellous! Now I’m sure I’ll find something cool!</text>
 	</string>
 
 
 
 	<string id="devushka_give_present_0">
-		<text>Well, that’s all. One less problem pressing on our shoulders, although in the process of solving it we were brought to the north of the Zone. It is extremely dangerous, much more dangerous than in the southern areas, but you can get some very nice loot.</text>
+		<text>Well, that’s about it. One less matter on our shoulders… although, in the process of solving it, we ended up in the far north of the Zone. It’s dangerous around here; much more dangerous than in the southern areas… but you can get some very nice loot.</text>
 	</string>
 	<string id="devushka_give_present_1">
-		<text>artefacts?</text>
+		<text>Artefacts, you mean?</text>
 	</string>
 	<string id="devushka_give_present_2">
-		<text>Yes, but those for which scientists are willing to pay a lot of money. It’s not like those three simple artefact that Sidorovich asked you to bring him. We need a special detector here. But there’s also a whole lot of more common ones.</text>
+		<text>Yes; ones the scientists are willing to pay a lot for. It’s not like those three simple artefacts that Sidorovich asked you to bring, and we’ll need a special detector for those. But there’s also a whole lot of common artefacts.</text>
 	</string>
 	<string id="devushka_give_present_3">
 		<text>Wow! So, shall we go look for some?</text>
 	</string>
 	<string id="devushka_give_present_4">
-		<text>You know what, rookie… We have to put an end to our life in the Zone, you and me. It’s alien to us, this godforsaken Zone, only the undead, bloodsuckers and other vermin can live here, it’s not a place for living, breathing people.</text>
+		<text>You know what, rookie? We have to put an end to your life in the Zone. This godforsaken place is completely alien to us, and only the undead, bloodsuckers, and other vermin can live here. It’s not a place for living, breathing people.</text>
 	</string>
 	<string id="devushka_give_present_5">
-		<text>How so? Why? We won’t look for artefacts anymore? And I’m not a stalker?</text>
+		<text>How so? Why? Won’t we be looking for artefacts anymore? Am I not a true stalker?</text>
 	</string>
 	<string id="devushka_give_present_6">
-		<text>What has stalking ever gave you. What’s good about it? Playing a game of cards with death every day? Newsflash, lassie, everyone falls down playing it. And we’re doing this for what? Pocket change? Yes damn it to hell, this dirt, this foul place. Scratching some kind of itch? You have to understand, there’s death at every turn, around every corner, I’m sick of her.</text>
+		<text>What has stalking ever given you? What’s good about it? Playing a game of cards with death every day, where any trump cards are rare to come by? And for what? Pocket change? Forget it. Forget this hell. You have to understand that there’s death at every turn, around every corner. I’m sick of it.</text>
 	</string>
 	<string id="devushka_give_present_7">
-		<text>You’re worried for me, aren’t you?</text>
+		<text>You’re worried about me, aren’t you?</text>
 	</string>
 	<string id="devushka_give_present_8">
-		<text>Yes, of course I am. I don’t want you to be a stalker.</text>
+		<text>Yes, Hip. Of course I am. I don’t want you to be a stalker.</text>
 	</string>
 	<string id="devushka_give_present_9">
-		<text>I do not know what you thought of this while we were here. But it seems to me that you are already drawn to the Zone. After all, once a stalker, always a stalker. The same goes for me too.</text>
+		<text>I don’t know what you had in mind while we were on our way here… but it seems to me that you’re already drawn to the Zone. After all: once a stalker, always a stalker. The same goes for me too.</text>
 	</string>
 	<string id="devushka_give_present_10">
-		<text>Well, then look for another teacher.</text>
+		<text>Well… then look for another mentor.</text>
 	</string>
 
 		<string id="devushka_give_present_12">
@@ -1117,61 +1117,61 @@
 		</string>
 
 	<string id="devushka_give_present_11">
-		<text>Oh, what are you doing to me? Well… let’s take a breather, we’ll then see what’s interesting around here. I bet you’ve never seen anything like it.</text>
+		<text>Oh, what are you doing to me? Anyway, let’s take a breather, and we’ll see what we can find around here. I bet you’ve never seen anything like it.</text>
 	</string>
 	<string id="devushka_give_present_13">
-		<text>Wait, I got something for you. This is for you! And yet, if suddenly you want to be alone - take me to the Rookie Village, I’ll be waiting for you there. Sure, I’d prefer to stay with you, but you’re the one calling the shots here.</text>
+		<text>Wait. I’ve got something for you! And if you’d prefer to go alone, take me to the rookie village, and I’ll be waiting for you there. I’d prefer to stay with you, of course, but you’re the one calling the shots here.</text>
 	</string>
 	<string id="devushka_give_present_14">
-		<text>Well well! Aye yes, rookie. When did you have time to find this? I’ve always kept you close… You learn fast!</text>
+		<text>Well, well!. When did you have time to find this? I’ve always kept you close. You learn fast!</text>
 	</string>
 
 
 
 	<string id="devushka_go_village_0">
-		<text>Rookie, I’ll leave you for a while. Don’t worry, it’s not forever.</text>
+		<text>Rookie, I’m going to leave you for a while. Don’t worry. I’ll be back soon.</text>
 	</string>
 	<string id="devushka_go_village_1">
 		<text>Are you sure?</text>
 	</string>
 	<string id="devushka_go_village_2">
-		<text>Yes, you rest now.</text>
+		<text>Yes. You should rest now.</text>
 	</string>
 	<string id="devushka_go_village_3">
 		<text>On second thought, let’s keep going.</text>
 	</string>
 	<string id="devushka_go_village_4">
-		<text>Good. I’ll be waiting for you to come back.</text>
+		<text>Very well. I’ll be waiting for you.</text>
 	</string>
 
 
 
 	<string id="adventure_time_with_hip_0">
-		<text>Well, shall we go, rookie?</text>
+		<text>Well, shall we head out, rookie?</text>
 	</string>
 	<string id="adventure_time_with_hip_1">
-		<text>Oh hey! What have you been up to? I was tired of climbing up walls out of boredom. Let’s get going, come on!</text>
+		<text>Oh, hey! What have you been up to? I was tired of climbing up the walls anyway. Let’s get going! Come on!</text>
 	</string>
 
 
 
 	<string id="devushka_about_semeckiy_0">
-		<text>Hey, do you know who Yuri Semetsky actually is? And why does he die every day several times?</text>
+		<text>Hey, do you know who Yuri Semetskiy actually is and why he ‘dies’ several times every day?</text>
 	</string>
 	<string id="devushka_about_semeckiy_1">
-		<text>Well, you know. In Freedom they said that it was a virus that was spread into the Stalker Network.</text>
+		<text>Well, in Freedom, they said that it was a virus that spread into the stalker network.</text>
 	</string>
 	<string id="devushka_about_semeckiy_2">
-		<text>No, it’s not a virus. The very first stalkers who managed to get to the mythical Monolith - the Wishgranter, buried somewhere in the bowels of the fourth power unit of the Chernobyl NPP, became Ghosts of the Zone. The Monolith supposedly really made their dream come true, but always with some tricks. Yuri Semetsky - one of the first stalkers who set foot on the contaminated land back in 2007, - according to a legend, got to the Wishgranter and ordered nothing less than eternal life for himself.</text>
+		<text>It’s not a virus. The very first stalkers who managed to reach the Monolith – the Wish Granter, buried somewhere in the ruins of the fourth power unit of the Chernobyl NPP – became ghosts of the Zone. The Monolith supposedly made their dreams come true, but with another side to the coin. Yuri Semetskiy was one of the first stalkers who set foot on the contaminated land back in 2007, and, according to legend, got to the Wish Granter and wished for nothing less than eternal life for himself.</text>
 	</string>
 	<string id="devushka_about_semeckiy_3">
 		<text>And what was the outcome?</text>
 	</string>
 	<string id="devushka_about_semeckiy_4">
-		<text>Since then, every day in the Stalker Network pops up a message about the death of a stalker with that name. That’s how he lives. Forever, as he wished.</text>
+		<text>Since then, a message about the death of a stalker with that name pops up every day in the stalker network. That’s how he lives: forever, just as he wished.</text>
 	</string>
 	<string id="devushka_about_semeckiy_5">
-		<text>That’s right, and we all giggled over the spectacular ways he got killed. We always thought it was a virus or a prank.</text>
+		<text>That’s right… and we all laughed over the marvellous ways he got killed. We always thought it was a virus or a prank.</text>
 	</string>
 
 
@@ -1180,10 +1180,10 @@
 		<text>Do you know where the artefacts we’re looking for might appear?</text>
 	</string>
 	<string id="devushka_about_artefact_1">
-		<text>Well. I know that Moonlight can be found in Electro anomalies, we need to watch for Wrenched in gravitational anomalies, and Fireball - in anomalies with fire.</text>
+		<text>Well. I know that the Moonlights can be found in Electro anomalies. Wrenched artefacts appear in gravitational anomalies, and Fireballs show up in anomalies of… well, fire.</text>
 	</string>
 	<string id="devushka_about_artefact_2">
-		<text>Not bad, you have some basic knowledge. Also remember that it’s impossible to move headily in an anomaly field, it’s desirable to have in your pockets bolts, nuts and other types of small trash that you can throw easily. This is necessary in order to feel your way. And then there are sometimes stupid stalkers who also like to repeat a couple of the most foul and abominable expressions in the Zone.</text>
+		<text>Not bad. You have the basic knowledge. Keep in mind that you should avoid moving headlong in anomaly fields, that it’s desirable to keep bolts, nuts, and other types of small trash in your pockets; easily disposable material. It’s necessary for carving out a safe path. Sometimes, there are also a few stupid stalkers who like to repeat a couple of the most abominable expressions in the Zone.</text>
 	</string>
 	<string id="devushka_about_artefact_3">
 		<text>Such as?</text>
@@ -1192,7 +1192,7 @@
 		<text>‘But maybe you’ll get lucky’, or, ‘It won’t hurt anybody’.</text>
 	</string>
 	<string id="devushka_about_artefact_5">
-		<text>I get it.</text>
+		<text>I understand.</text>
 	</string>
 
 
@@ -1706,14 +1706,14 @@
 		<text>I’ve heard a lot about you guys, but I wasn’t sure it was true. Tell me about your faction.</text>
 	</string>
 	<string id="in_freedom_1">
-		<text>Not to toot my own horn, but we’re actually one of the strongest factions in the Zone, heh. We control and guard the Barrier, and we try to prevent those Duty assholes from coming here, because the goals we have are, in fact, very different. We want to co-exist with the Zone, in the best sense of the word - we believe that it is a gift to humanity. You ask how? Look around! This whole place is like a fairy tale. Anomalies that violently violate the laws of physics and creatures with amazing ‘properties’, none of which I believe should be wiped out. Perhaps they can somehow coexist with us, or maybe we can at least borrow something from them. Nevertheless, we don’t recognize the ‘official’ approach to the Zone. Scientists may be doing a noble job, sure, but, like… All that stuff is gonna be kept by oligarchs, so what’s left for common folk, you know? We just want to share the wonders of the Zone with the public, so that people won’t be afraid of what they hear from the mainstream media. Instead, they’ll start respecting it. Can you imagine how we, and only we, can advance in development? And what’s worse is that the heads of the government can potentially develop some kind of weapon if they understand the psy-stuff that goes on around here. Anyway, we have no rules here, but discipline is still needed for banal survival, so during operations, our fighters obey the commands of the senior and experienced stalkers in the detachment. But all this is nothing more than a necessity. Are you interested in joining? We’re always in need of stalkers who share our vision.</text>
+		<text>Not to toot my own horn, but we’re actually one of the strongest factions in the Zone, heh. We control and guard the Barrier, and we try to prevent those Duty assholes from coming here, because the goals we have are, in fact, very different. We want to co-exist with the Zone, in the best sense of the word; we believe that it is a gift to humanity. You ask how? Look around! This whole place is like a fairy tale. Anomalies that violently violate the laws of physics and creatures with amazing ‘properties’, none of which I believe should be wiped out. Perhaps they can somehow coexist with us, or maybe we can at least borrow something from them. Nevertheless, we don’t recognize the ‘official’ approach to the Zone. Scientists may be doing a noble job, sure, but, like… All that stuff is gonna be kept by oligarchs, so what’s left for common folk, you know? We just want to share the wonders of the Zone with the public, so that people won’t be afraid of what they hear from the mainstream media. Instead, they’ll start respecting it. Can you imagine how we, and only we, can advance in development? And what’s worse is that the heads of the government can potentially develop some kind of weapon if they understand the psy-stuff that goes on around here. Anyway, we have no rules here, but discipline is still needed for banal survival, so during operations, our fighters obey the commands of the senior and experienced stalkers in the detachment. But all this is nothing more than a necessity. Are you interested in joining? We’re always in need of stalkers who share our vision.</text>
 	</string>
 
 	<string id="in_freedom_1_0">
 		<text>Sounds like my type of gig. I’d like to join.</text>
 	</string>
 	<string id="in_freedom_1_1">
-		<text>Oh, man - respect! Welcome! Here, take this armor - this is the suit we give to all the newcomers. We’ll see you around, man.</text>
+		<text>Oh, man! Respect! Welcome! Here, take this armor. This is the suit we give to all the newcomers. We’ll see you around, man.</text>
 	</string>
 	<string id="in_freedom_1_2">
 		<text>Thanks, bro. Take care.</text>
@@ -1723,7 +1723,7 @@
 		<text>This isn’t working out, man. I think I’d like to depart from Freedom.</text>
 	</string>
 	<string id="out_freedom_1">
-		<text>Oh… shit. Yeah, man, no worries. Sorry things didn’t work out. You be on your way - I’ll tell command.</text>
+		<text>Oh… shit. Yeah, man, no worries. Sorry things didn’t work out. You be on your way. I’ll tell command.</text>
 	</string>
 
 
@@ -1986,34 +1986,34 @@
 		<text>Olivius, I need some money to borrow.</text>
 	</string>
 	<string id="kridit1_b_1">
-		<text>You shitting me?… Whatever, I’m feeling kind today. What do you need?</text>
+		<text>You shitting me?… Whatever – I’m feeling kind today. What do you need?</text>
 	</string>
 	<string id="kridit1_b_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_b_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_b_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_b_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_b_6">
-		<text>Pay me back fifty percent on top - that’ll be your obligation as part of this brotherhood. Oh, and I’ll be keeping you out of my shop until you bring the dough.</text>
+		<text>Pay me back fifty per cent on top; that’ll be your obligation as part of this brotherhood. Oh, and I’ll be keeping you out of my shop until you bring the dough.</text>
 	</string>
 	<string id="kridit1_b_7">
-		<text>Next time I see you here, you better put 7500 on this table.</text>
+		<text>Next time I see you here, you better put seventy-five hundred on this table.</text>
 	</string>
 	<string id="kridit1_b_8">
 		<text>Right.</text>
 	</string>
 	<string id="kridit1_b_9">
-		<text>Next time you’re here, you put 15000 on this table.</text>
+		<text>Next time I see you’re here, you put fifteen thousand on this table.</text>
 	</string>
 	<string id="kridit1_b_10">
-		<text>Next time I see you here, you better put 22500 on this table.</text>
+		<text>Next time I see you here, you better put twenty-two thousand and five hundred on this table.</text>
 	</string>
 
 	<string id="kridit2_b_0">
@@ -2055,31 +2055,31 @@
 		<text>You’ll be borrowing from the faction reserves. How much do you need?</text>
 	</string>
 	<string id="kridit1_cs_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_cs_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_cs_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_cs_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_cs_6">
-		<text>I won’t be getting anything from this, so an extra fifty percent would work as ‘gratitude’ to me. Also, none of my goods will be available to you until you return the money. Sorry, but that’s how it works.</text>
+		<text>I won’t be getting anything from this, so an extra fifty per cent on top would work as repayment. Also, none of my goods will be available to you until you return the money. Sorry, but that’s how it works.</text>
 	</string>
 	<string id="kridit1_cs_7">
-		<text>Here’s 5000. Come back with 7500 in your hands.</text>
+		<text>Here’s five thousand. Come back with seventy-five hundred in your hands.</text>
 	</string>
 	<string id="kridit1_cs_8">
 		<text>Thank you.</text>
 	</string>
 	<string id="kridit1_cs_9">
-		<text>Here’s 10000. Come back with 15000 in your hands.</text>
+		<text>Here’s ten thousand. Come back with fifteen hundred in your hands.</text>
 	</string>
 	<string id="kridit1_cs_10">
-		<text>Here’s 15000. Come back with 22500 in your hands.</text>
+		<text>Here’s fifteen hundred. Come back with twenty-two thousand and five hundred in your hands.</text>
 	</string>
 
 	<string id="kridit2_cs_0">
@@ -2121,31 +2121,31 @@
 		<text>How much do you need?</text>
 	</string>
 	<string id="kridit1_dolg_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_dolg_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_dolg_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_dolg_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_dolg_6">
-		<text>You must be needing it for a good reason, and so do I. You’ll return fifty percent of the amount plus the amount itself, and keep in mind that my stuff won’t be available to you until you pay back your debt.</text>
+		<text>You must be needing it for a good reason, and so do I. You’ll return fifty per cent of the amount plus the amount itself, and keep in mind that my stuff won’t be available to you until you pay back your debt.</text>
 	</string>
 	<string id="kridit1_dolg_7">
-		<text>Here. You’ll be returning 7500.</text>
+		<text>Here. You’ll be returning seventy-five hundred.</text>
 	</string>
 	<string id="kridit1_dolg_8">
 		<text>Thank you.</text>
 	</string>
 	<string id="kridit1_dolg_9">
-		<text>Here. You’ll be returning 15000.</text>
+		<text>Here. You’ll be returning fifteen thousand.</text>
 	</string>
 	<string id="kridit1_dolg_10">
-		<text>Here. You’ll be returning 22500.</text>
+		<text>Here. You’ll be returning twenty-two thousand and five hundred.</text>
 	</string>
 
 	<string id="kridit2_dolg_0">
@@ -2181,37 +2181,37 @@
 
 
 	<string id="kridit1_fr_0">
-		<text>Skinflint, I need to borrow some money..</text>
+		<text>Skinflint, I need to borrow some money.</text>
 	</string>
 	<string id="kridit1_fr_1">
 		<text>Man, fine. Just tell me how much you need.</text>
 	</string>
 	<string id="kridit1_fr_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_fr_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_fr_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_fr_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_fr_6">
-		<text>Alright, dude, you gimme fifty percent on top. No goods for you until you return that money.</text>
+		<text>Alright, mate. You gimme fifty percent on top. No goods for you until you return that money.</text>
 	</string>
 	<string id="kridit1_fr_7">
-		<text>Here you go, 5000. I wanna see you with 7500, pronto.</text>
+		<text>Here you go. Five thousand. I wanna see you with seventy-five hundred, pronto.</text>
 	</string>
 	<string id="kridit1_fr_8">
 		<text>Thank you.</text>
 	</string>
 	<string id="kridit1_fr_9">
-		<text>Here you go, 10000. I wanna see you with 15000, pronto.</text>
+		<text>Here you go. Ten thousand. I wanna see you with fifteen hundred, pronto.</text>
 	</string>
 	<string id="kridit1_fr_10">
-		<text>Here you go, 15000. I wanna see you with 22500 next time you’re here.</text>
+		<text>Here you go. Fifteen hundred. I wanna see you with twenty-two thousand and five hundred next time you’re here.</text>
 	</string>
 
 	<string id="kridit2_fr_0">
@@ -2225,7 +2225,7 @@
 	</string>
 
 	<string id="kridit3_fr_0">
-		<text>Here’s the money. %c[255,238,153,26][1500 RU]</text>
+		<text>Here’s the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
 	<string id="kridit3_fr_1">
 		<text>Nice of you to return the cash.</text>
@@ -2253,31 +2253,31 @@
 		<text>Outrageous. How much do you need?</text>
 	</string>
 	<string id="kridit1_kil_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_kil_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_kil_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_kil_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_kil_6">
-		<text>You pay me fifty percent on top of what you’ve borrowed and we have a deal. I won’t be giving you access to my wares while you have my money.</text>
+		<text>You pay me fifty per cent on top of what you’ve borrowed and we have a deal. I won’t be giving you access to my wares while you have my money.</text>
 	</string>
 	<string id="kridit1_kil_7">
-		<text>And you will return 7500.</text>
+		<text>And you will return seventy-five hundred.</text>
 	</string>
 	<string id="kridit1_kil_8">
 		<text>Deal.</text>
 	</string>
 	<string id="kridit1_kil_9">
-		<text>You will return 15000.</text>
+		<text>And you will return fifteen hundred.</text>
 	</string>
 	<string id="kridit1_kil_10">
-		<text>You’ll return 22500.</text>
+		<text>And you will return twenty-two thousand and five hundred.</text>
 	</string>
 
 	<string id="kridit2_kil_0">
@@ -2294,7 +2294,7 @@
 		<text>Here’s the money. %c[255,238,153,26][15000 RU]</text>
 	</string>
 	<string id="kridit3_kil_1">
-		<text>You’re free to go.</text>
+		<text>Good. You’re free to go.</text>
 	</string>
 	<string id="kridit3_kil_2">
 		<text>Understood.</text>
@@ -2304,7 +2304,7 @@
 		<text>Here’s the money. %c[255,238,153,26][22500 RU]</text>
 	</string>
 	<string id="kridit4_kil_1">
-		<text>Good, you’re free.</text>
+		<text>Good. You’re free to go.</text>
 	</string>
 	<string id="kridit4_kil_2">
 		<text>Understood.</text>
@@ -2316,34 +2316,34 @@
 		<text>Sir, I need to borrow some cash.</text>
 	</string>
 	<string id="kridit1_me_1">
-		<text>A loan? You have to understand that I’m just a regular ensign and not a rich man. I’ll let you borrow something, but on interest - how much do you need?</text>
+		<text>A loan? You have to understand that I’m just a regular ensign and not a rich man. I’ll let you borrow something, but on interest. How much do you need?</text>
 	</string>
 	<string id="kridit1_me_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_me_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_me_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_me_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_me_6">
-		<text>Right. I expect to see you back here with fifty percent more than what you’ve borrowed, and I’ll be withholding any trades. You’ll earn my respect as an honest man if you fulfill your payment.</text>
+		<text>Right. I expect to see you back here with fifty per cent more than what you’ve borrowed, and I’ll be withholding any trades. You’ll earn my respect as an honest man if you fulfill your payment.</text>
 	</string>
 	<string id="kridit1_me_7">
-		<text>Here’s 5000 - I’ll be expecting 7500 in return.</text>
+		<text>Here’s five thousand. I’ll be expecting seventy-five hundred in return.</text>
 	</string>
 	<string id="kridit1_me_8">
 		<text>Thank you.</text>
 	</string>
 	<string id="kridit1_me_9">
-		<text>Here’s 10000 - I’ll be expecting 15000 in return.</text>
+		<text>Here’s ten thousand. I’ll be expecting fifteen thousand in return.</text>
 	</string>
 	<string id="kridit1_me_10">
-		<text>Here’s 15000 - I’ll be expecting 22500 in return.</text>
+		<text>Here’s fifteen thousand. I’ll be expecting twenty-two thousand and five hundred in return.</text>
 	</string>
 
 	<string id="kridit2_me_0">
@@ -2385,31 +2385,31 @@
 		<text>How much do you require?</text>
 	</string>
 	<string id="kridit1_mon_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_mon_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_mon_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_mon_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_mon_6">
-		<text>You will return fifty percent above the sum for the benefit of the Great One. Bear in mind that my equipment will not be available to you until you return the debt.</text>
+		<text>You will return fifty per cent above the sum for the benefit of the Great One. Bear in mind that my equipment will not be available to you until you return the debt.</text>
 	</string>
 	<string id="kridit1_mon_7">
-		<text>Here are 5000 rubles. Use them wisely - we hope to see you return with 7500.</text>
+		<text>Here are five thousand roubles. Use them wisely. We hope to see you return with seventy-five hundred.</text>
 	</string>
 	<string id="kridit1_mon_8">
 		<text>I accept.</text>
 	</string>
 	<string id="kridit1_mon_9">
-		<text>Here are 10000 rubles. Use them wisely - we hope to see you return with 15000.</text>
+		<text>Here are ten thousand roubles. Use them wisely. We hope to see you return with fifteen thousand.</text>
 	</string>
 	<string id="kridit1_mon_10">
-		<text>Here are 15000 rubles. Use them wisely - we hope to see you return with 22500.</text>
+		<text>Here are fifteen thousand roubles. Use them wisely. We hope to see you return with twenty-two thousand and five hundred.</text>
 	</string>
 
 	<string id="kridit2_mon_0">
@@ -2451,38 +2451,38 @@
 		<text>Young man, the funds for which I am responsible are provided by the government… I won’t be that cold towards you, though. How much do you need?</text>
 	</string>
 	<string id="kridit1_sak_2">
-		<text>5000.</text>
+		<text>Five thousand.</text>
 	</string>
 	<string id="kridit1_sak_3">
-		<text>10000.</text>
+		<text>Ten thousand.</text>
 	</string>
 	<string id="kridit1_sak_4">
-		<text>15000.</text>
+		<text>Fifteen thousand.</text>
 	</string>
 	<string id="kridit1_sak_5">
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_sak_6">
-		<text>Due to risks with revisions and other checkups, I’d like an extra fifty percent along with your main debt. My wares will also be on hold until the loan is paid.</text>
+		<text>Due to risks with revisions and other checkups, I’d like an extra fifty per cent along with your main debt. My wares will also be on hold until the loan is paid.</text>
 	</string>
 	<string id="kridit1_sak_7">
-		<text>Here are your 5000 rubles - please return with 7500 when the possibility arises.</text>
+		<text>Here are your five thousand roubles. Please return with seven thousand and five hundred at your earliest convenience.</text>
 	</string>
 	<string id="kridit1_sak_8">
 		<text>Thank you.</text>
 	</string>
 	<string id="kridit1_sak_9">
-		<text>Here are your 10000 rubles - please return with 15000 when the possibility arises.</text>
+		<text>Here are your ten thousand roubles. Please return with fifteen thousand at your earliest convenience.</text>
 	</string>
 	<string id="kridit1_sak_10">
-		<text>Here are your 15000 rubles - please return with 22500 when the possibility arises.</text>
+		<text>Here are your fifteen thousand roubles. Please return with twenty-two thousand and five hundred at your earliest convenience.</text>
 	</string>
 
 	<string id="kridit2_sak_0">
 		<text>Here’s the money, professor. %c[255,238,153,26][7500 RU]</text>
 	</string>
 	<string id="kridit2_sak_1">
-		<text>Marvelous - a fine man to do business with in these dire times!</text>
+		<text>Marvellous! A fine man to do business with in these dire times!</text>
 	</string>
 	<string id="kridit2_sak_2">
 		<text>Thank you, professor.</text>
@@ -2492,7 +2492,7 @@
 		<text>Here’s the money, professor. %c[255,238,153,26][15000 RU]</text>
 	</string>
 	<string id="kridit3_sak_1">
-		<text>Marvelous - a fine man to do business with in these dire times!</text>
+		<text>Marvellous! A fine man to do business with in these dire times!</text>
 	</string>
 	<string id="kridit3_sak_2">
 		<text>Thank you, professor.</text>
@@ -2502,7 +2502,7 @@
 		<text>Here’s the money, professor. %c[255,238,153,26][22500 RU]</text>
 	</string>
 	<string id="kridit4_sak_1">
-		<text>Marvelous - a fine man to do business with in these dire times!</text>
+		<text>Marvellous! A fine man to do business with in these dire times!</text>
 	</string>
 	<string id="kridit4_sak_2">
 		<text>Thank you, professor.</text>
@@ -2599,14 +2599,14 @@
 		<text>Fine, give me the coordinates.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_1_5">
-		<text>There you go - have fun.</text>
+		<text>There you go. Have fun.</text>
 	</string>
 
 	<string id="look_for_cs_history_part_1_2_0">
 		<text>It’s done. What info do you have?</text>
 	</string>
 	<string id="look_for_cs_history_part_1_2_1">
-		<text>So I’ve heard - well done. You’re a good fighter and I trust you, so I’ll give you what you need. The boys have probably told you about the assault at that damned bridge in Limansk. In case you don’t know… Back then, in the city - as well as the surrounding area in the Red Forest - mercenaries were in charge of everything. Of course, they aren’t going to just lower the bridge for you, but there is a live participant in those events - they call him Forester. It was him, along with Scar, who somehow agreed that a group of ‘standards’ would lower the bridge while our fighters protected them from the other shore. Here, I’ll give you info on a route between the Army Warehouses and the Red Forest - use it to find Forester and talk to him. And here’s a reward for the bloodsucker cleanup.</text>
+		<text>So I’ve heard; well done. You’re a good fighter, and I trust you, so I’ll give you what you need. The boys have probably told you about the assault at that damned bridge in Limansk. In case you don’t know… Back then, in the city – as well as the surrounding area in the Red Forest – mercenaries were in charge of everything. Of course, they aren’t going to just lower the bridge for you, but there is a live participant in those events, and they call him Forester. It was him, along with Scar, who somehow agreed that a group of ‘standards’ would lower the bridge while our fighters protected them from the other shore. Here; I’ll give you info on a route between the area around the army warehouses and the Red Forest. Use it to find Forester and talk to him. And here’s a reward for the bloodsucker cleanup.</text>
 	</string>
 	<string id="look_for_cs_history_part_1_2_2">
 		<text>Thank you.</text>
@@ -2927,7 +2927,7 @@
 		<text>Remind me, where do your routes lead?</text>
 	</string>
 	<string id="meet_ds_killer_guide_main_base_list_1">
-		<text>Your only option is the waste processing plant in south-eastern Zaton. It’ll cost you eight thousand rubles.</text>
+		<text>Your only option is the waste processing plant in south-eastern Zaton. It’ll cost you eight thousand roubles.</text>
 	</string>
 
 
@@ -2952,7 +2952,7 @@
 		<text>Who have we got here?</text>
 	</string>
 	<string id="meet_guid_dv_bandit_1">
-		<text>You blind or something? I’m the local guide here. If you need my help, I can drop you at quite a few places, such as our encampment in the truck cemetery or our warehouse in Jupiter. It’ll cost ya, though!</text>
+		<text>You blind or something? I’m the local guide here. If you need my help, I can drop you at a couple of places; namely, our encampment in the truck cemetery and our warehouse in Jupiter. It’ll cost ya, though!</text>
 	</string>
 
 
@@ -2999,7 +2999,7 @@
 		<text>To which places may I travel to, brother?</text>
 	</string>
 	<string id="meet_guid_l11pri_mon_haron_list_1">
-		<text>There are ways to the outskirts east of here and Jupiter to the west. Both will cost you one thousand roubles.</text>
+		<text>There are ways to the outskirts to the east, Jupiter to the west, and to the Red Forest in the south-west. Both will cost you one thousand roubles. The former two locations will cost you one thousand roubles, and going to the Red Forest will cost you five thousand.</text>
 	</string>
 
 
@@ -3024,14 +3024,14 @@
 		<text>You’re a guide, right?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_1">
-		<text>Yeah. They call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no other stalkers know about. Anyway, here’s where I can take you: to the Nuclear Power Plant for twelve thousand rubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
+		<text>Yeah. They call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no other stalkers know about. Anyway, here’s where I can take you: to the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
 	</string>
 
 	<string id="meet_guid_pri_stalker_list_0">
 		<text>Where do you travel to again?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_list_1">
-		<text>To the Nuclear Power Plant for twelve thousand rubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
+		<text>To the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
 	</string>
 
 
@@ -3047,7 +3047,7 @@
 		<text>Where can the guides take me?</text>
 	</string>
 	<string id="meet_guid_prikbo_mon_list_1">
-		<text>To the Red Forest for five thousand rubles, Jupiter for two thousand, and Pripyat for one thousand.</text>
+		<text>To the Red Forest for five thousand roubles, Jupiter for two thousand, and Pripyat for one thousand.</text>
 	</string>
 
 
@@ -3115,7 +3115,7 @@
 		<text>We’ve been sitting on our asses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
-		<text>Thank you - won’t be as stressful for the guys here anymore. I’ll give you a discount.</text>
+		<text>Thank you; won’t be as stressful for the guys here anymore. I’ll give you a discount.</text>
 	</string>
 
 	<string id="merc_pri_a18_mech_mlr_task_2_name">
@@ -3488,7 +3488,7 @@
 		<text>Is there anything important to keep in mind?</text>
 	</string>
 	<string id="owl_story_3">
-		<text>Always - the local situation has given me a few more matters to deal with. People from the Great Land are losing their children, their husbands, their brothers… and of course, they themselves are no indifferent to their own fate. Lots of people have come to the Zone after hearing rumors about the money you can make here, and they also hide from problems of a different nature. I need their PDAs, and you’ll be rewarded for any you can bring here. Capisce?</text>
+		<text>Always. The local situation has given me a few more matters to deal with. People from the Great Land are losing their children, their husbands, their brothers… and of course, they themselves are no indifferent to their own fate. Lots of people have come to the Zone after hearing rumors about the money you can make here, and they also hide from problems of a different nature. I need their PDAs, and you’ll be rewarded for any you can bring here. Capisce?</text>
 	</string>
 	<string id="owl_story_4">
 		<text>So the North is afraid… Got it.</text>
@@ -3517,16 +3517,16 @@
 			<text>Remember, you may choose one and only one. Here.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_8">
-			<text>The Steppe Eagle - a hand-made pistol based on the Desert Eagle design. Finely tuned to achieve incredible accuracy. It’ll cost you eight thousand.</text>
+			<text>The Steppe Eagle; a hand-made pistol based on the design of the Desert Eagle. Finely tuned to achieve incredible accuracy. It’ll cost you eight thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_11">
 			<text>You’ll receive a message on your PDA from me in exactly twenty-four hours.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_9">
-			<text>Alpine - a modified SIG P220 with an extended magazine. It’ll cost you sixty-five thousand.</text>
+			<text>The Alpine; a modified SIG P220 with an extended magazine. It’ll cost you sixty-five thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_10">
-			<text>March - modified UDP Compact, high caliber and quick-firing. It’ll cost you seven thousand..</text>
+			<text>The March; a modified UDP Compact. High caliber and quick-firing. It’ll cost you seven thousand.</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_3">
@@ -3536,13 +3536,13 @@
 			<text>Right. Choose one of the following.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_12">
-			<text>The Frasier - a handmade sub-machine gun based on the MP5. Increased caliber, improved characteristics over standard counterpart. It’ll cost you ninety-five hundred.</text>
+			<text>The Frasier; a handmade sub-machine gun based on the MP5. Increased caliber, improved characteristics over standard counterpart. It’ll cost you ninety-five hundred.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_13">
-			<text>The Carabiner - an army-modified SPAS-12 with reduced recoil and automatic firing mode. It’ll cost you eleven thousand.</text>
+			<text>The Carabiner; an army-modified SPAS-12 with reduced recoil and automatic firing mode. It’ll cost you eleven thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_14">
-			<text>The Armsel Protecta - a shotgun based on the design of the Striker shotgun. It’ll cost you seventeen thousand.</text>
+			<text>The Armsel Protecta; a shotgun based on the design of the Striker shotgun. It’ll cost you seventeen thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_15">
 			<text>I didn’t find what I was looking for.</text>
@@ -3552,41 +3552,41 @@
 			<text>Sniper and assault rifles.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_29">
-			<text>Here’s what I’ve got - pick one.</text>
+			<text>Here’s what I’ve got. Pick one.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_16">
-			<text>Storm - a modified OTs-14 Groza manufactured for Spetsnaz special forces, secretly leaked to the masses. One of the advantages worth noting is the increased magazine capacity. It’ll cost you nineteen thousand.</text>
+			<text>The Storm; a modified OTs-14 Groza manufactured for Spetsnaz special forces, secretly leaked to the masses. One of the advantages worth noting is the increased magazine capacity. It’ll cost you nineteen thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_17">
-			<text>The H&amp;K G36 - a rare sight in the zone. It’ll cost you fourteen thousand.</text>
+			<text>The H&amp;K G36; a rare sight in the zone. It’ll cost you fourteen thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_18">
-			<text>The FN F2000. A Belgian rarity and a decent assault rifle. It’ll cost you seventeen thousand.</text>
+			<text>The FN F2000; a Belgian rarity and a decent assault rifle. It’ll cost you seventeen thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_19">
-			<text>The Tide - an exclusive modification of the VSS Vintorez. Lower rate of fire, but increased stopping power. It’ll cost you twenty thousand.</text>
+			<text>The Tide; an exclusive modification of the VSS Vintorez. Lower rate of fire, but increased stopping power. It’ll cost you twenty thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_20">
-			<text>The SVU2-A - an evolution of the SVUmk-2 sniper rifle. This weapon used to belong to Max, the legendary guardian of Freedom. It’ll cost you twenty-four thousand.</text>
+			<text>The SVU2-A; an evolution of the SVUmk-2 sniper rifle. This weapon used to belong to Max, the legendary guardian of Freedom. It’ll cost you twenty-four thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_21">
-			<text>The SVD Lynx - an army modification that combines increased accuracy and stopping power. It’ll cost you eighteen thousand.</text>
+			<text>The SVD Lynx; an army modification that combines increased accuracy and stopping power. It’ll cost you eighteen thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_27">
-			<text>Gauss rifle. A trophy weapon - you can count the number of these in the Zone on your fingers. Absolute accuracy and damage with almost no recoil included. The price is one-hundred and fifty thousand.</text>
+			<text>The gauss rifle. A trophy weapon; you can count the number of these in the Zone on your fingers. Absolute accuracy and damage with almost no recoil included. The price is one-hundred and fifty thousand.</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_5">
 			<text>Suits.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_30">
-			<text>Alright, choose one.</text>
+			<text>Alright. Choose one.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_22">
-			<text>A Monolith exoskeleton - the best combination of protective characteristics. In addition, you won’t get this anywhere else, unless you are a certain representative of the brotherhood. The price is at a hundred thousand.</text>
+			<text>A Monolith exoskeleton; the best combination of protective characteristics. In addition, you won’t get this anywhere else, unless you are a certain representative of the brotherhood. The price is at a hundred thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_23">
-			<text>A mercenary exoskeleton - perhaps one of the most reliable means of protection. It’ll cost you seventy-five thousand.</text>
+			<text>A mercenary exoskeleton; perhaps one of the most reliable means of protection. It’ll cost you seventy-five thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_24">
 			<text>Bandit exoskeleton. Exclusivity in its purest form. It’ll cost you sixty-five thousand.</text>
@@ -4272,14 +4272,14 @@
 		<text>Tell me about yourself.</text>
 	</string>
 	<string id="talk_to_aslan_on_main_base_merk_1">
-		<text>What’s there to tell? I’m the local bartender - but who can tell amidst this crap, yeah? We’ve been stuck here for days, barely maintaining ourselves. I took part in the defense of the president’s palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days… During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who’ve been in Afghanistan and Georgia. But people from the Baltic aren’t too eager to come, never mind the first world countries.</text>
+		<text>What’s there to tell? I’m the local bartender… but who can tell amidst this crap, yeah? We’ve been stuck here for days, barely maintaining ourselves. I took part in the defense of the president’s palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days… During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who’ve been in Afghanistan and Georgia. But people from the Baltic aren’t too eager to come, never mind the first world countries.</text>
 	</string>
 
 	<string id="talk_to_aslan_about_lottery_0">
 		<text>Heard that you’re interested in faction patches.</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_1">
-		<text>How can I put this? Personally, no, I’m not ‘interested’ in them - however, with morale being rather low lately, it’s an optimal method for our guys to earn some spoils of war. Plus, the high-ups want them. Here’s how it works: you bring me patches from stalkers, you get some gear or nothing at all. All of it for ten patches of any faction, apart from those of Ecologists and the Monolith, you have a chance to get a subpar artefact, or not get jack shit. With fifty patches, you’ll have a chance to get a decent artefact and some rather solid gear, but there’s also a chance that you won’t get anything. And for ten Monolith or Ecologist patches, you will get a pretty good artefact with the same chance as for fifty patches of any other faction. Fifty Monolith or Ecologist patches will guarantee you an outstanding item and good equipment dedicated only to the most experienced of stalkers, no chance of losing. You might ask, ‘why so generous?’… Because many people prefer to keep the patches for themselves as combat trophies.</text>
+		<text>How can I put this? Personally, no, I’m not ‘interested’ in them; however, with morale being rather low lately, it’s an optimal method for our guys to earn some spoils of war. Plus, the high-ups want them. Here’s how it works: you bring me patches from stalkers, you get some gear or nothing at all. All of it for ten patches of any faction, apart from those of Ecologists and the Monolith, you have a chance to get a subpar artefact, or not get jack shit. With fifty patches, you’ll have a chance to get a decent artefact and some rather solid gear, but there’s also a chance that you won’t get anything. And for ten Monolith or Ecologist patches, you will get a pretty good artefact with the same chance as for fifty patches of any other faction. Fifty Monolith or Ecologist patches will guarantee you an outstanding item and good equipment dedicated only to the most experienced of stalkers, no chance of losing. You might ask, ‘why so generous?’… Because many people prefer to keep the patches for themselves as combat trophies.</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_2">
 		<text>What about you? What are you doing with them all?</text>
@@ -4352,7 +4352,7 @@
 		<text>Return to Cold</text>
 	</string>
 	<string id="task_look_for_cs_history_part_1_3">
-		<text>So, he’s afraid to send me ‘this way’, but it’s okay if I’m going to fight against swamp bloodsuckers? Cheap salesmen even in Clear Sky, I see..</text>
+		<text>So, he’s afraid to send me ‘this way’, but it’s okay if I’m going to fight against swamp bloodsuckers? Cheap salesmen even in Clear Sky, I see.</text>
 	</string>
 
 	<string id="task_look_for_cs_history_part_2_1">
@@ -4507,7 +4507,7 @@
 		<text>I want to leave the city.</text>
 	</string>
 	<string id="travel_ds_killer_guide_main_base_1">
-		<text>You sure? Our only option is to the north. We’ll be arriving at the waste processing station in southern Zaton. Eight thousand rubles.</text>
+		<text>You sure? Our only option is to the north. We’ll be arriving at the waste processing station in southern Zaton. Eight thousand roubles.</text>
 	</string>
 	<string id="travel_ds_killer_guide_main_base_2">
 		<text>I’m ready. Let’s go to Zaton. %c[255,238,153,26][8000 RU]</text>
@@ -4618,7 +4618,7 @@
 		<text>I’d like to travel somewhere.</text>
 	</string>
 	<string id="travel_guid_l11pri_mon_haron_1">
-		<text>To which location do you seek to go, brother?</text>
+		<text>To which location do you wish to go, brother?</text>
 	</string>
 	<string id="travel_guid_l11pri_mon_haron_2">
 		<text>To the Outskirts. %c[255,238,153,26][1000 RU]</text>
@@ -5004,10 +5004,10 @@
 		<text>A mercenary technician has asked me to bring him %s.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_about">
-		<text>Listen - let’s finish our job, shall we? I need calibration tools to make sure that no scumbag escapes us.</text>
+		<text>Listen, let’s finish our job, shall we? I need calibration tools to make sure that no scumbag escapes us.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_fetch_about">
-		<text>Listen - let’s finish our job, shall we? I need calibration tools to make sure that no scumbag escapes us.</text>
+		<text>Listen, let’s finish our job, shall we? I need calibration tools to make sure that no scumbag escapes us.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_fetch_finish">
 		<text>Oh, fuck… You are the hero of every technician! Well done indeed… I’ll be doubling your discount.</text>
