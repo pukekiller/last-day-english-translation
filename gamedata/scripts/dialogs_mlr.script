@@ -282,21 +282,21 @@ function devushka_3_done_money(first_speaker, second_speaker)
 end
 
 function devushka_1_info()
-    news_manager.send_tip(db.actor, "Take me to the campfire at the Rookie Village, please.", 3, "hip", 11000, 1)
+    news_manager.send_tip(db.actor, "Take me to the campfire at the rookie village, please.", 3, "hip", 11000, 1)
 end
 
 function devushka_2_info()
-    news_manager.send_tip(db.actor, "The stalker died: Yuri Semetsky. Cause of death: anomaly meat grinder. Location: Dark valley.", 3, "deth", 11000, 1)
-	news_manager.send_tip(db.actor, "О, Semetic hooves recline. just for luck, not otherwise.", 10, "hip", 11000, 1)
+    news_manager.send_tip(db.actor, "Stalker died: Yuri Semetskiy. Cause of death: Meat Grinder anomaly. Location: Dark Valley.", 3, "deth", 11000, 1)
+	news_manager.send_tip(db.actor, "О, Semetskiy hooves recline. just for luck, not otherwise.", 10, "hip", 11000, 1)
 end
 
 function devushka_3_info()
-    news_manager.send_tip(db.actor, "Hi, this is the Barkeep. I contacted Miklukha and he already punished these scumbags, nobody will pursue Hip anymore.", 3, "barman", 11000, 1)
-	news_manager.send_tip(db.actor, "Finally, those assholes got what they deserved.", 10, "hip", 11000, 1)
+    news_manager.send_tip(db.actor, "Hey, Barman here. I contacted Miklukha, and he's already dealt with those scumbags. Nobody will chase after Hip anymore.", 3, "barman", 11000, 1)
+	news_manager.send_tip(db.actor, "Finally, those bastards got what they deserved.", 10, "hip", 11000, 1)
 end
 
 function devushka_4_info()
-    news_manager.send_tip(db.actor, "This is Miklukha, I found these jerks. Don't worry, i gave them a valuable lesson. No one will follow Hip any more.", 3, "freedom2", 11000, 1)
+    news_manager.send_tip(db.actor, "This is Miklukha. I found the jerks. Don't worry. I gave them a valuable lesson. No one will go after Hip anymore.", 3, "freedom2", 11000, 1)
 	news_manager.send_tip(db.actor, "Finally, those assholes got what they deserved.", 10, "hip", 11000, 1)
 end
 
@@ -2195,28 +2195,28 @@ end
 -- Прочее в плане геймплея
 
 local community = {
-    ["stalker"] = "Free Stalkers",
-    ["monolith"] = "Monolith",
-    ["csky"] = "Clear Sky",
-    ["army"] = "Military",
-    ["bandit"] = "Bandits",
-    ["killer"] = "Mercenaries",
-    ["ecolog"] = "Ecologists",
-    ["dolg"] = "Duty",
-    ["freedom"] = "Freedom",
-    ["zombied"] = "Zombies",
-    ["trader"] = "Traders"
+	["stalker"] = "Free Stalkers",
+	["monolith"] = "Monolith",
+	["csky"] = "Clear Sky",
+	["army"] = "Military",
+	["bandit"] = "Bandits",
+	["killer"] = "Mercenaries",
+	["ecolog"] = "Ecologists",
+	["dolg"] = "Duty",
+	["freedom"] = "Freedom",
+	["zombied"] = "Zombies",
+	["trader"] = "Traders"
 }
 
 function show_rep_change_message(tsk_giver_npc_id)
-    local tsk_giver_npc = level.object_by_id(tsk_giver_npc_id)
-    if (axr_main.config:r_value("mm_options","enable_show_tip_reputation_option",1,true)) and tsk_giver_npc ~= nil and tsk_giver_npc:character_community() ~= nil then
-        local rep_message = "Your reputation with "..community[tsk_giver_npc:character_community()].." is now "..tostring(relation_registry.community_goodwill(tsk_giver_npc:character_community(), db.actor:id()))..""
-        rep_message = game.translate_string(rep_message)
-        local rep_message_title = "Your reputation has changed"
-        rep_message_title = game.translate_string(rep_message_title)
-        db.actor:give_game_news(rep_message_title, rep_message, "ui_inGame2_PD_storonnik_ravnovesiya", 5000, 10000)
-    end
+	local tsk_giver_npc = level.object_by_id(tsk_giver_npc_id)
+	if (axr_main.config:r_value("mm_options","enable_show_tip_reputation_option",1,true)) and tsk_giver_npc ~= nil and tsk_giver_npc:character_community() ~= nil then
+		local rep_message = "Your reputation with "..community[tsk_giver_npc:character_community()].." is now "..tostring(relation_registry.community_goodwill(tsk_giver_npc:character_community(), db.actor:id()))..""
+		rep_message = game.translate_string(rep_message)
+		local rep_message_title = "Your reputation has changed"
+		rep_message_title = game.translate_string(rep_message_title)
+		db.actor:give_game_news(rep_message_title, rep_message, "ui_inGame2_PD_storonnik_ravnovesiya", 5000, 10000)
+	end
 end
 
 function control()
@@ -2233,7 +2233,7 @@ end
 function message_robbery()
 	local amount = math.floor(db.actor:money()*math.random(25,50)/100)
 	db.actor:give_money(-amount)
-	db.actor:give_game_news("You were robbed while sleeping, you lost: ", game.translate_string(tostring(amount)), "ui_inGame2_Dengi_otdani", 0, 3000)
+	db.actor:give_game_news("You were robbed while sleeping and have lost: ", game.translate_string(tostring(amount)), "ui_inGame2_Dengi_otdani", 0, 3000)
 end
 
 --вступление в группировки

@@ -92,6 +92,8 @@ function on_game_load()
 		table.insert(news_tbl_a, {f_n = zone_news_main.news_main,part = news_main})
 		table.insert(news_tbl_a, {f_n = zone_news_main.sunset_news,part = sunset_news})
 	end
+	--===============================< Edited part by Tronex, LD compatibility >==============================
+	--[[
 	if zone_news then
 		table.insert(news_tbl_a, {f_n = zone_news.news_ant,part = news_misery})
 	end
@@ -105,10 +107,9 @@ function on_game_load()
 		table.insert(news_tbl_a, {f_n = zone_news_vs.fake_vubros_msg,part = fake_vubros_msg})
 		table.insert(news_tbl_a, {f_n = zone_news_vs.show_news_trade,part = show_news_trade})
 	end
-	if zone_news_dead ~= nil then
-		news_dead = percent_dead
-	else percent_dead = 0
-	end
+	--]]
+	percent_dead = 0
+	--========================================================================================================
 
 	local summa = 0
 	for k, v in pairs(news_tbl_a) do

@@ -23,7 +23,7 @@
 		<text>Rusty 18.5mm barrel [R]</text>
 	</string>
 	<string id="st_barrel_1_rusty_descr">
-		<text>A barrel from a double-barrel shotgun. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a double-barrel shotgun. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_2_good">
 		<text>Functional 18.5mm barrel [R]</text>
@@ -41,7 +41,7 @@
 		<text>Rusty 18.5mm barrel [R]</text>
 	</string>
 	<string id="st_barrel_2_rusty_descr">
-		<text>A barrel from an 18.5mm cock double-barrel shotgun. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from an 18.5mm cock double-barrel shotgun. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_3_good">
 		<text>Functional 18.5mm barrel [K]</text>
@@ -59,7 +59,7 @@
 		<text>Rusty 18.5mm barrel [K]</text>
 	</string>
 	<string id="st_barrel_3_rusty_descr">
-		<text>A barrel from a smooth-bore 18.5mm rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a smooth-bore 18.5mm rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_4_good">
 		<text>Functional 7.62mm barrel [V]</text>
@@ -77,7 +77,7 @@
 		<text>Rusty 7.62mm barrel [V]</text>
 	</string>
 	<string id="st_barrel_4_rusty_descr">
-		<text>A barrel from a ‚ËÌÚÓ‚ÍË 7.62mm. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a ‚ËÌÚÓ‚ÍË 7.62mm. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_5_good">
 		<text>Functional 7.92mm barrel [V]</text>
@@ -95,7 +95,7 @@
 		<text>Rusty 7.92mm barrel [V]</text>
 	</string>
 	<string id="st_barrel_5_rusty_descr">
-		<text>A barrel from a German 7.92mm rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a German 7.92mm rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_6_good">
 		<text>Functioning 9mm barrel-silencer [AS/PP]</text>
@@ -131,7 +131,7 @@
 		<text>Rusty 7.62mm barrel [A|V]</text>
 	</string>
 	<string id="st_barrel_7_rusty_descr">
-		<text>A barrel from a semi-automatic or automatic 7.62mm rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a semi-automatic or automatic 7.62mm rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_8_good">
 		<text>Functioning 5.45mm barrel [¿]</text>
@@ -149,7 +149,7 @@
 		<text>Rusty 5.45mm barrel [¿]</text>
 	</string>
 	<string id="st_barrel_8_rusty_descr">
-		<text>A barrel from an automatic 5.45mm rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from an automatic 5.45mm rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_9_good">
 		<text>Functioning 5.56mm barrel [¿]</text>
@@ -167,7 +167,7 @@
 		<text>Rusty 5.56mm barrel [¿]</text>
 	</string>
 	<string id="st_barrel_9_rusty_descr">
-		<text>A barrel from an automatic 5.56mm rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from an automatic 5.56mm rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_10_good">
 		<text>Functioning 7.62mm barrel [P]</text>
@@ -185,7 +185,7 @@
 		<text>Rusty 7.62mm barrel [P]</text>
 	</string>
 	<string id="st_barrel_10_rusty_descr">
-		<text>A barrel from a 7.62mm rifle with a gas regulator. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from a 7.62mm rifle with a gas regulator. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_11_good">
 		<text>Functioning 9mm barrel [AS/PP]</text>
@@ -203,7 +203,7 @@
 		<text>Rusty 9mm barrel [AS/PP]</text>
 	</string>
 	<string id="st_barrel_11_rusty_descr">
-		<text>A barrel from an automatic special purpose 9mm or PP rifle. In it’s current state it’s unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
+		<text>A barrel from an automatic special purpose 9mm or PP rifle. In itís current state itís unusable.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military product\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of successful repair/restoration: -\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_barrel_12_good">
 		<text>Functioning 7.62mm barrel [PP]</text>
@@ -805,7 +805,7 @@
 		<text>Worn drummer with the mainspring [PP]</text>
 	</string>
 	<string id="st_bolt_15_worn_descr">
-		<text>Worn drummer with the mainspring from some domestic PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it’s in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some domestic PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, itís in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_15_rusty">
 		<text>Rusty drummer with the mainspring [PP]</text>
@@ -823,7 +823,7 @@
 		<text>Worn drummer with the mainspring [PP][NATO]</text>
 	</string>
 	<string id="st_bolt_16_worn_descr">
-		<text>Worn drummer with the mainspring from some imported PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it’s in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some imported PP, with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, itís in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_16_rusty">
 		<text>Rusty drummer with the mainspring [PP][NATO]</text>
@@ -836,19 +836,19 @@
 		<text>Properly functioning drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_good_descr">
-		<text>Properly functioning drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier. Appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
+		<text>Properly functioning drummer with the mainspring from some Soviet PP, like the PP of Shpaginís system with a longitudinal-a sliding free bolt carrier. Appears to be in good condition.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 90%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_17_worn">
 		<text>Worn drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_worn_descr">
-		<text>Worn drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, it’s in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn drummer with the mainspring from some Soviet PP, like the PP of Shpaginís system with a longitudinal-a sliding free bolt carrier. The spring is a little bit weak, but overall, itís in decent condition.\nWith a little bit of fine-tuning, the item can still serve, but is best unused in its current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_bolt_17_rusty">
 		<text>Rusty drummer with the mainspring [PP][PPSh]</text>
 	</string>
 	<string id="st_bolt_17_rusty_descr">
-		<text>Heavily rusted drummer with the mainspring from some Soviet PP, like the PP of Shpagin’s system with a longitudinal-a sliding free bolt carrier. The drummer is a little bent, the spring is lost. The condition of this item has deteriorated considerably and is not fit for use.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
+		<text>Heavily rusted drummer with the mainspring from some Soviet PP, like the PP of Shpaginís system with a longitudinal-a sliding free bolt carrier. The drummer is a little bent, the spring is lost. The condition of this item has deteriorated considerably and is not fit for use.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: -\n%c[255,238,153,26]</text>
 	</string>
 
 
@@ -866,7 +866,7 @@
 		<text>Worn gas tube [K]</text>
 	</string>
 	<string id="st_gas_tube_1_worn_descr">
-		<text>Worn gas tube from a smoothbore carbine. It seems that this tube has served a lot. The diametric clearance between the gas tube and the gas piston is approximately 0.25mm. The inner part of the tube is covered with carbon, the chrome coating has radial scratches from an unnecessarily heavy pressing of a screwdriver. The thread was probably pulled, in connection with which, several turns were cut off, the threading was slightly clogged.\nWith a little bit of fine-tuning, the item can still serve, but it’s best not to use it in it’s current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn gas tube from a smoothbore carbine. It seems that this tube has served a lot. The diametric clearance between the gas tube and the gas piston is approximately 0.25mm. The inner part of the tube is covered with carbon, the chrome coating has radial scratches from an unnecessarily heavy pressing of a screwdriver. The thread was probably pulled, in connection with which, several turns were cut off, the threading was slightly clogged.\nWith a little bit of fine-tuning, the item can still serve, but itís best not to use it in itís current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_1_rusty">
 		<text>Rusty gas tube [K]</text>
@@ -992,7 +992,7 @@
 		<text>Worn ejector [V]</text>
 	</string>
 	<string id="st_gas_tube_8_worn_descr">
-		<text>Worn ejector from a rifle with a sliding bolt carrier with locking bolt. The ejecting tooth has a slight wear. The spring part is slightly bent.\nWith a little bit of fine-tuning, the item can still serve, but it’s best not to use it in it’s current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn ejector from a rifle with a sliding bolt carrier with locking bolt. The ejecting tooth has a slight wear. The spring part is slightly bent.\nWith a little bit of fine-tuning, the item can still serve, but itís best not to use it in itís current state.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_8_rusty">
 		<text>Rusty ejector [V]</text>
@@ -1010,7 +1010,7 @@
 		<text>Worn ejector from an over-under double-barrel shotgun [R]</text>
 	</string>
 	<string id="st_gas_tube_9_worn_descr">
-		<text>Worn ejector (extractor) from an over-under double barrel shotgun. Has weak traces of wear and corrosion.\nWith a little tweaking, it can still serve, but it’s better not to use them as is.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn ejector (extractor) from an over-under double barrel shotgun. Has weak traces of wear and corrosion.\nWith a little tweaking, it can still serve, but itís better not to use them as is.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_9_rusty">
 		<text>Rusty ejector from an over-under double-barrel shotgun [R]</text>
@@ -1028,7 +1028,7 @@
 		<text>Worn ejector from an over-under double barrel shotgun [R]</text>
 	</string>
 	<string id="st_gas_tube_10_worn_descr">
-		<text>Worn ejector from an over-under double barrel shotgun. Has weak traces of wear and corrosion.\nWith a little tweaking, it can still serve, but it’s better not to use them as is.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
+		<text>Worn ejector from an over-under double barrel shotgun. Has weak traces of wear and corrosion.\nWith a little tweaking, it can still serve, but itís better not to use them as is.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26]\n%c[0,153,255,255] ï %c[0,140,140,140] chance of success when used for repairs: 70%\n%c[255,238,153,26]</text>
 	</string>
 	<string id="st_gas_tube_10_rusty">
 		<text>Rusty ejector from an over-under double barrel shotgun [R]</text>
@@ -1064,117 +1064,97 @@
 		<text>12mm double-barrel shotgun repair kit</text>
 	</string>
 	<string id="st_barrelkit_db_vertical_descr">
-		<text>A special kit with tools designed for replacing weapon barrels of smooth-bore double-barrel at a technician’s workshop. Includes a set of precision calibers grade 2 accuracy, a micrometer, as well as a set of special tools and a soldering kit. Can only be used to replace 12 gauge barrels at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing weapon barrels of smooth-bore double-barrel at a technicianís workshop. Includes a set of precision calibers grade 2 accuracy, a micrometer, as well as a set of special tools and a soldering kit. Can only be used to replace 12 gauge barrels at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_db_horizontal">
 		<text>12mm hammer type double-barrel shotgun repair kit</text>
 	</string>
 	<string id="st_barrelkit_db_horizontal_descr">
-		<text>A special kit with tools designed for replacing barrels of double-barreled shotguns at a technician’s workshop. It can only be used with parts of the 12mm caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of double-barreled shotguns at a technicianís workshop. It can only be used with parts of the 12mm caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_sb_smooth">
 		<text>12mm weapon repair kit [K]</text>
 	</string>
 	<string id="st_barrelkit_sb_smooth_descr">
-		<text>A special kit with tools designed for replacing barrels of semi-automatic rifles and shotguns at a technician’s workshop. It can only be used with parts of the 12mm caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of semi-automatic rifles and shotguns at a technicianís workshop. It can only be used with parts of the 12mm caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_762_rifle">
 		<text>7.62mm weapon repair kit [V]</text>
 	</string>
 	<string id="st_barrelkit_762_rifle_descr">
-		<text>A special kit with tools designed for replacing barrels of semi-automatic rifles at a technician’s workshop. It can only be used with parts of the 7.62 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of semi-automatic rifles at a technicianís workshop. It can only be used with parts of the 7.62 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_792_rifle">
 		<text>7.92mm weapon repair kit [V]</text>
 	</string>
 	<string id="st_barrelkit_792_rifle_descr">
-		<text>A special kit with tools designed for replacing barrels of German semi-automatic rifles at a technician’s workshop. It can only be used with parts of the 7.92 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of German semi-automatic rifles at a technicianís workshop. It can only be used with parts of the 7.92 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_9x_auto">
 		<text>9mm weapon repair kit [¿/PP]</text>
 	</string>
 	<string id="st_barrelkit_9x_auto_descr">
-		<text>A special kit with tools designed for replacing barrels of automatic rifles at a technician’s workshop. It can only be used with parts of the 9mm caliber or, ÔË ‡ÒÚÓ˜ÍÂ, the .45 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of automatic rifles at a technicianís workshop. It can only be used with parts of the 9mm caliber or, ÔË ‡ÒÚÓ˜ÍÂ, the .45 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_9_auto_sil">
 		<text>9mm weapon repair kit for silenced weapons [¿/PP]</text>
 	</string>
 	<string id="st_barrelkit_9_auto_sil_descr">
-		<text>A special kit with tools designed for replacing barrels of submachine guns and automatic rifles with integrated silencers at a technician’s workshop. It can only be used with parts of the 9mm caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of submachine guns and automatic rifles with integrated silencers at a technicianís workshop. It can only be used with parts of the 9mm caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_762_auto">
 		<text>7.62mm weapon repair kit [¿]</text>
 	</string>
 	<string id="st_barrelkit_762_auto_descr">
-		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technician’s workshop. It can only be used with parts of the 7.62 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technicianís workshop. It can only be used with parts of the 7.62 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_762_pp">
 		<text>7.62mm weapon repair kit [PP][PPSH]</text>
 	</string>
 	<string id="st_barrelkit_762_pp_descr">
-		<text>A special kit with tools designed for replacing barrels of Soviet submachine guns at a technician’s workshop. It can only be used with parts of the 7.62 caliber caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of Soviet submachine guns at a technicianís workshop. It can only be used with parts of the 7.62 caliber caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military item\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_545_auto">
 		<text>5.45mm weapon repair kit [¿]</text>
 	</string>
 	<string id="st_barrelkit_545_auto_descr">
-		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technician’s workshop. It can only be used with parts of the 5.45 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technicianís workshop. It can only be used with parts of the 5.45 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_556_auto">
 		<text>5.56mm weapon repair kit [¿]</text>
 	</string>
 	<string id="st_barrelkit_556_auto_descr">
-		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technician’s workshop. It can only be used with parts of the 5.56 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of automatic weapons at a technicianís workshop. It can only be used with parts of the 5.56 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_barrelkit_762_heavy">
 		<text>7.62mm weapon repair kit [P]</text>
 	</string>
 	<string id="st_barrelkit_762_heavy_descr">
-		<text>A special kit with tools designed for replacing barrels of machine guns at a technician’s workshop. It can only be used with parts of the 7.62 caliber at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing barrels of machine guns at a technicianís workshop. It can only be used with parts of the 7.62 caliber at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_awr_r_kit_u">
 		<text>Weapon modification kit</text>
 	</string>
 	<string id="st_awr_r_kit_u_descr">
-		<text>A special kit with tools designed for replacing weapon parts. It can only be used at a technician’s workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technician’s vice</text>
+		<text>A special kit with tools designed for replacing weapon parts. It can only be used at a technicianís workshop.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n%c[255,238,153,26] ï %c[0,140,140,140] must be used with:%c[0,170,170,170] technicianís vice</text>
 	</string>
 	<string id="st_leatherman_tool">
 		<text>Multitool</text>
 	</string>
 	<string id="st_leatherman_tool_descr">
-		<text>A worn but functional multitool, used to disassemble weapons and armour on parts and to maintain worn and rusty trigger mechanisms.\n \n
-		%c[0,140,140,140]PROPERTIES:\n
-		%c[0,153,255,255] ï %c[0,140,140,140] military part\n \n
-		%c[0,140,140,140]AUXILIARY MATERIALS:\n
-		%c[255,238,153,26] ï %c[0,140,140,140] gun lubricants %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] gasoline %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] kerosene %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags %c[0,170,170,170]
-		</text>
+		<text>A worn but functional multitool, used to disassemble weapons and armour on parts and to maintain worn and rusty trigger mechanisms.\n \n%c[0,140,140,140]PROPERTIES:\n%c[0,153,255,255] ï %c[0,140,140,140] military part\n \n%c[0,140,140,140]AUXILIARY MATERIALS:\n%c[255,238,153,26] ï %c[0,140,140,140] gun lubricants\n%c[255,238,153,26] ï %c[0,140,140,140] gasoline\n%c[255,238,153,26] ï %c[0,140,140,140] kerosene\n%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags</text>
 	</string>
 	<string id="st_rasp_tool">
 		<text>File</text>
 	</string>
 	<string id="st_rasp_tool_descr">
-		<text>A file, used to restore weapon parts such as a worn or rusty barrel or breech head.\n \n
-		%c[0,140,140,140]AUXILIARY MATERIALS:\n
-		%c[255,238,153,26] ï %c[0,140,140,140] gun lubricants %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] industrial grease %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] kerosene %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags %c[0,170,170,170]
-		</text>
+		<text>A file, used to restore weapon parts such as a worn or rusty barrel or breech head.\n \n%c[0,140,140,140]AUXILIARY MATERIALS:\n%c[255,238,153,26] ï %c[0,140,140,140] gun lubricants\n%c[255,238,153,26] ï %c[0,140,140,140] industrial grease\n%c[255,238,153,26] ï %c[0,140,140,140] kerosene\n%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags</text>
 	</string>
 	<string id="st_ramrod_tool">
 		<text>Ramrod</text>
 	</string>
 	<string id="st_ramrod_tool_descr">
-		<text>An old ramrod consisting of three composite wooden parts, used to restore parts such as worn or rusty barrels and gas tubes.\n \n
-		%c[0,140,140,140]AUXILIARY MATERIALS:\n
-		%c[255,238,153,26] ï %c[0,140,140,140] cleaning solvents %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] gasoline %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] kerosene %c[0,170,170,170]\n
-		%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags %c[0,170,170,170]
-		</text>
+		<text>An old ramrod consisting of three composite wooden parts, used to restore parts such as worn or rusty barrels and gas tubes.\n \n%c[0,140,140,140]AUXILIARY MATERIALS:\n%c[255,238,153,26] ï %c[0,140,140,140] cleaning solvents\n%c[255,238,153,26] ï %c[0,140,140,140] gasoline\n%c[255,238,153,26] ï %c[0,140,140,140] kerosene\n%c[255,238,153,26] ï %c[0,140,140,140] cloth or rags</text>
 	</string>
 
 
@@ -1302,10 +1282,10 @@
 		<text>unknown</text>
 	</string>
 	<string id="st_mech_tiski">
-		<text>Technician’s vice</text>
+		<text>technicianís vice</text>
 	</string>
 	<string id="st_mech_tiski_w">
-		<text>Technician’s vice with %s</text>
+		<text>technicianís vice with %s</text>
 	</string>
 	<!-- ListBox status texts -->
 	<string id="st_ending_1">
@@ -1410,16 +1390,16 @@
 		<text>Can I use your vice? I need to fix something up.</text>
 	</string>
 	<string id="st_awr_dialog_2">
-		<text>Alright… if you can hand me a bottle of Putinka.</text>
+		<text>AlrightÖ if you can hand me a bottle of Putinka.</text>
 	</string>
 	<string id="st_awr_dialog_3">
 		<text>Here.</text>
 	</string>
 	<string id="st_awr_dialog_4">
-		<text>Great. Keep in mind that if you leave something in the vice without coming back to get it, I can’t guarantee it’ll stay there. I’ve got enough things to deal with on top of keeping an eye on people’s stuff. Have fun.</text>
+		<text>Great. Keep in mind that if you leave something in the vice without coming back to get it, I canít guarantee itíll stay there. Iíve got enough things to deal with on top of keeping an eye on peopleís stuff. Have fun.</text>
 	</string>
 	<string id="st_awr_dialog_5">
-		<text>I don’t have that.</text>
+		<text>I donít have that.</text>
 	</string>
 	<string id="st_awr_dialog_6">
 		<text>Got it.</text>
@@ -1428,28 +1408,28 @@
 		<text>I left a gun of mine in your vice. Can I continue working on it, or take it?</text>
 	</string>
 	<string id="st_awr_dialog_9">
-		<text>So it’s yours… I warned you, I wouldn’t leave it there. Had to postpone some important work because of you. I’ll hand it back for two bottles of Putinka and ten grand.</text>
+		<text>So itís yoursÖ I warned you, I wouldnít leave it there. Had to postpone some important work because of you. Iíll hand it back for two bottles of Putinka and ten grand.</text>
 	</string>
 	<string id="st_awr_dialog_10">
 		<text>Message received. Here.</text>
 	</string>
 	<string id="st_awr_dialog_11">
-		<text>It’s nothing personal. I’m just tired of having people work their equipment and scram without even taking it back. And since you’ve been so generous yourself, I can give you some more time to work. Don’t forget to take your stuff with you when you’re done.</text>
+		<text>Itís nothing personal. Iím just tired of having people work their equipment and scram without even taking it back. And since youíve been so generous yourself, I can give you some more time to work. Donít forget to take your stuff with you when youíre done.</text>
 	</string>
 	<string id="st_awr_dialog_12">
 		<text>Two bottles and ten thousand?! Absolute scam.</text>
 	</string>
 	<string id="st_awr_dialog_13">
-		<text>I certainly won’t forget. Thank you.</text>
+		<text>I certainly wonít forget. Thank you.</text>
 	</string>
 	<string id="st_awr_dialog_14">
-		<text>I haven’t finished working. I’d like to request some more time.</text>
+		<text>I havenít finished working. Iíd like to request some more time.</text>
 	</string>
 	<string id="st_awr_dialog_15">
 		<text>You got it. You gimme some more and you feel free to knock yourself out.</text>
 	</string>
 	<string id="st_awr_dialog_16">
-		<text>Just another reminder not to forget your stuff. Good luck.</text>
+		<text>Just another reminder not to forget your goods. Good luck.</text>
 	</string>
 
 	<!-- Sell dialog -->
@@ -1457,25 +1437,25 @@
 		<text>I have spare parts. Do you know who would buy them?</text>
 	</string>
 	<string id="st_awr_sell_dialog_2">
-		<text>Technicians like me store all sort of junk you can think of. I might buy what you’ve got; for the right price, of course.</text>
+		<text>Technicians like me store all sort of junk you can think of. I might buy what youíve got; for the right price, of course.</text>
 	</string>
 	<string id="st_awr_sell_dialog_3">
 		<text>And what can you offer?</text>
 	</string>
 	<string id="st_awr_sell_dialog_4">
-		<text>Well, for functional parts I can give you 300 RU per new part. The worn ones for 150. About the rest of the junk, you get 250 for new parts, and 125 for worn out parts. Eh, 60 should be good for rusty parts. These are not that useful you know…</text>
+		<text>Well, for functional parts I can give you 300 RU per new part. The worn ones for 150. About the rest of the junk, you get 250 for new parts, and 125 for worn out parts. Eh, 60 should be good for rusty parts. These are not that useful you knowÖ</text>
 	</string>
 	<string id="st_awr_sell_dialog_5">
-		<text>Hmm… Well, your offer is so-so. But I have no actual use for these. Here, give me the money.</text>
+		<text>HmmÖ Well, your offer is so-so. But I have no actual use for these. Here, give me the money.</text>
 	</string>
 	<string id="st_awr_sell_dialog_6">
-		<text>That’s a bit cheap for me. Guess I’ll think about it.</text>
+		<text>Thatís a bit cheap for me. Guess Iíll think about it.</text>
 	</string>
 	<string id="st_awr_sell_dialog_7">
 		<text>Nice doing business with you. If you got more spare parts, you know where to find me.</text>
 	</string>
 	<string id="st_awr_sell_dialog_8">
-		<text>Uh, I’ll keep that in mind. Thanks.</text>
+		<text>Uh, Iíll keep that in mind. Thanks.</text>
 	</string>
 
 	<!-- Help -->
@@ -1495,7 +1475,7 @@
 		<text>The predetermined order of replacing weapon parts is due to the need to match the parts to the state of the weapon, since all replaced parts for each weapon that have ever been partially repaired in the vice are stored in the game memory. This allows you to continue repairs from the same location without having to re-replace parts, provided that the weapon condition has not been lowered after repair.</text>
 	</string>
 	<string id="st_awr_help_5">
-		<text>Weapon upgrade procedure is only available at a condition of 95-100% for weapons of rusty or worn quality:</text>
+		<text>Weapon upgrade procedure is only available at a condition of 95ñ100% for weapons of rusty or worn quality:</text>
 	</string>
 	<string id="st_awr_help_6">
 		<text>1. Select a repair kit for the replacement of barrel or a weapon upgrade kit in the list by double clicking on the name of the set in the list. The replacement order is not available for upgrades.\n2. Select a part corresponding to the repair kit in the list with a single mouse click. When upgrading, only working parts can be used.\n3. Click on the image of the part that is being currently replaced\n4. In case the replacement is successful, this procedure remains the same for all other weapon parts.\n5. In case the part has been damaged, try again if there is a repair kit and any more weapon parts.\n6. All replaced parts are retained until the state of the weapon is lowered. In this case, to improve the quality, the parts will require further replacements.\n7. When all five parts have been replaced with new ones, the quality of the weapon will be changed to "new".</text>
