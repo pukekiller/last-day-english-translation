@@ -324,13 +324,13 @@
 
 	<!-- devushka -->
 	<string id="toz34_sk2_return">
-		<text>Return TOZ-34 Bizon and ammunition to Hip</text>
+		<text>Return the TOZ-34 Bizon and ammunition to Hip</text>
 	</string>
 	<string id="toz34_sk2_find">
-		<text>Find TOZ-34 Bizon and ammunition for Hip</text>
+		<text>Find a TOZ-34 Bizon and ammunition for Hip</text>
 	</string>
 	<string id="toz34_return_descr">
-		<text>Hip asked me to find her TOZ-34 Bizon and 20 12x70 shells. And where can I find it?</text>
+		<text>Hip has asked you to find her a TOZ-34 Bizon and 20 12x70 shells.</text>
 	</string>
 	
 	<string id="artefacts_to_sidor_return">
@@ -340,7 +340,7 @@
 		<text>Find artefacts for Sidorovich</text>
 	</string>
 	<string id="artefacts_to_sidor_return_descr">
-		<text>Hip asked me to help her find artefacts for Sidorovich. He wants her to bring a Wrenched, Fireball, and Moonlight.</text>
+		<text>Hip has asked you to help her find artefacts for Sidorovich, who wants her to bring a Wrenched, Fireball, and Moonlight.</text>
 	</string>
 
 	<string id="go_to_barmen_1">
@@ -350,7 +350,7 @@
 		<text>Visit Barman</text>
 	</string>
 	<string id="go_to_barmen_descr">
-		<text>We need to go with Hip to Barman. He might be able to help us.</text>
+		<text>Barman may be able to provide assistance in ridding Hip of any pursuit from her past.</text>
 	</string>
 	
 	<string id="go_to_lukash_1">
@@ -360,17 +360,17 @@
 		<text>Meet and talk to Miklukha</text>
 	</string>
 	<string id="go_to_lukash_descr">
-		<text>Me and Hip have to go and see Miklukha to find out who's after her.</text>
+		<text>Miklukha at the army warehouses may know who is after Hip and how to stop them.</text>
 	</string>
 	
 	<string id="go_to_boroda_1">
-		<text>Take artefact containers to Beard</text>
+		<text>Bring artefact containers to Beard</text>
 	</string>
 	<string id="go_to_boroda_2">
-		<text>Take artefact containers to Beard</text>
+		<text>Bring artefact containers to Beard</text>
 	</string>
 	<string id="go_to_boroda_descr">
-		<text>In exchange for the service, Barman asked us to take artefact containers to Beard.</text>
+		<text>In exchange for his service, Barman has asked you and Hip to deliver a couple of artefact containers to Beard.</text>
 	</string>
 	
 	<string id="go_to_loki_1">
@@ -380,6 +380,6 @@
 		<text>Take bags with medicine to Loki</text>
 	</string>
 	<string id="go_to_loki_descr">
-		<text>In exchange for the service, Mikluha asked us to take bags with medicine to Loki.</text>
+		<text>In exchange for his service, Mikluha has asked you and Hip to deliver a couple of bags with medicine to Loki.</text>
 	</string>
 </string_table>

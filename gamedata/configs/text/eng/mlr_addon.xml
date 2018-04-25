@@ -802,10 +802,10 @@
 		<text>Hey. What’s up, mate?</text>
 	</string>
 	<string id="devushka_1_start_1">
-		<text>Not bad. And you… How did you come here?</text>
+		<text>Not bad. And you… How did you end up here?</text>
 	</string>
 	<string id="devushka_1_start_2">
-		<text>I used to be parat of Freedom, but I ended up leaving them… for personal reasons. Will you give me a hand? I only have a PM left, and I would love to have some kind of shotgun; preferably a TOZ. I’m pretty used to them. I think I’ve seen a TOZ with optics around. Twenty shells to go with it would be nice, too.</text>
+		<text>I used to be parat of Freedom, but I ended up leaving them… for personal reasons. Will you give me a hand? I only have a PM left, and I would love to have some kind of shotgun; preferably a TOZ. I’m pretty used to them. I think I’ve seen a TOZ with optics around, called the ‘Bizon’. Twenty shells to go with it would be nice, too.</text>
 	</string>
 	<string id="devushka_1_start_3">
 		<text>Sure. I’ll help you.</text>
@@ -1008,7 +1008,7 @@
 	</string>
 
 	<string id="devushka_4_help_0">
-		<text>I’ve got a few problems with Freedom, regarding my partner here.</text>
+		<text>I’ve got a few problems with Freedom regarding my partner here.</text>
 	</string>
 	<string id="devushka_4_help_1">
 		<text>Well, come on over! Have a cup on the house and get yourselves comfortable! Problems with Freedom, you say? I’m aware. Women in the Zone are a rarity, meaning news about them spread quicker than wildfire. A bunch of scumbags were looking for your Hip, who, more than likely, caused her to depart. I can contact Lukash and have everything resolved; he’ll be there in a flash to put them back in line… but as they say: you scratch my back, I scratch yours.</text>
@@ -1044,7 +1044,7 @@
 		<text>A couple of your men came to the rookie village, searching for Hip. Do you know anything about this?</text>
 	</string>
 	<string id="devushka_help1_1">
-		<text>A couple of my lads, you say? Hmm… I have an idea who it might be. Don’t worry; I’ll deal with them. As if it wasn’t enough that Freedom became famous because it ravages defenseless girls… Although, Hip does have a pair of scorpions up her sleeves, so you surely can’t call her defenseless. But, mate, you’re also in debt to us, since you snatched an excellent part of my group. Relax, relax! Don’t get angry. I’m joking. Can you deliver these goods to Loki in Yanov station near Jupiter? Just a couple of bags with medicines. We’ll have you properly rewarded.</text>
+		<text>A couple of my lads, you say? Hmm… I have an idea who it might be. Don’t worry; I’ll deal with them. As if it wasn’t enough that Freedom became famous because it ravages defenceless girls… Although, Hip does have a pair of scorpions up her sleeves, so you surely can’t call her defenceless. But, mate, you’re also in debt to us, since you snatched an excellent part of my group. Relax, relax! Don’t get angry. I’m joking. Can you deliver these goods to Loki in Yanov station near Jupiter? Just a couple of bags with medicines. We’ll have you properly rewarded.</text>
 	</string>
 	<string id="devushka_help1_2">
 		<text>Why wouldn’t we? Since you so willingly helped us.</text>
@@ -1420,7 +1420,7 @@
 		<text>Hey, I got the artefact!</text>
 	</string>
 	<string id="fanat_kmb_1_start3_2">
-		<text>Well, well… I can see you’ll be an experienced stalker one day. Let’s head back to the village, we’ll continue your training there.</text>
+		<text>Well, well… I can see you’ll be an experienced stalker one day. Let’s head back to the village. We’ll continue your training there.</text>
 	</string>
 
 	<string id="fanat_kmb_1_start4_1">
@@ -1492,7 +1492,7 @@
 		<text>It’s nice that we’ve got a mentor like you.</text>
 	</string>
 	<string id="fanat_kmb_3_start2_1">
-		<text>Thank you, though I’d say the true leader around here is Wolf. He went on the way to the centre of the Zone recently. If you want, we can try and find him later… Right now, I need to rest up. Oh, and here’s some intel on a route between here and the Garbage, in case you don’t already have any. Good job, you are your own stalker now.</text>
+		<text>Thank you, though I’d say the true leader around here is Wolf. He went on the way to the centre of the Zone recently. If you want, we can try and find him later… Right now, I need to rest up. Oh, and here’s some intel on a route between here and the Garbage, in case you don’t already have any. Good job. You are your own stalker now.</text>
 	</string>
 
 
@@ -1720,7 +1720,7 @@
 		<text>Sounds like my type of gig. I’d like to join.</text>
 	</string>
 	<string id="in_freedom_1_1">
-		<text>Oh, man! Respect! Welcome! Here, take this armor. This is the suit we give to all the newcomers. We’ll see you around, man.</text>
+		<text>Oh, man! Respect! Welcome! Here. Take this armor. This is the suit we give to all the newcomers. We’ll see you around, man.</text>
 	</string>
 	<string id="in_freedom_1_2">
 		<text>Thanks, bro. Take care.</text>
@@ -1756,7 +1756,7 @@
 			<text>From the Radar to the bunker below it. %c[255,238,153,26][37500 RU]</text>
 		</string>
 		<string id="inf_trader_buy_transitions_12">
-			<text>Got the dough?</text>
+			<text>Got the dosh?</text>
 		</string>
 		<string id="inf_trader_buy_transitions_13">
 			<text>Of course. Here.</text>
@@ -3117,10 +3117,10 @@
 		<text>A mercenary technician in the Outskirts has asked me to find %s.</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_about">
-		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
+		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customisation. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_about">
-		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
+		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customisation. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
 		<text>Thank you; won’t be as stressful for the guys here anymore. I’ll give you a discount.</text>
@@ -3487,7 +3487,7 @@
 
 
 	<string id="owl_story_0">
-		<text>Tell me about this quiet harbor.</text>
+		<text>Tell me about this quiet harbour.</text>
 	</string>
 	<string id="owl_story_1">
 		<text>There was this strange stalker, turned out to be a major of the USS. He was a good help, and he also dealt with quite a few dangers. It’s only recently that everything went downhill… The Yantar psy-emitter and Brain Scorcher are both working again. There are clearly activities going on at the Chernobyl NPP, and it’s within reach. A squad of experienced stalkers went MIA, and after that another squad stumbled upon some Monolith near the sawmill, from what I heard. After that rumble with those fighters, people left, and the mutants have been using that to their advantage: they come up to this wreck almost all the time. Anyway… Generally, the northern part of Zaton is to be avoided.</text>
@@ -3496,7 +3496,7 @@
 		<text>Is there anything important to keep in mind?</text>
 	</string>
 	<string id="owl_story_3">
-		<text>Always. The local situation has given me a few more matters to deal with. People from the Great Land are losing their children, their husbands, their brothers… and of course, they themselves are no indifferent to their own fate. Lots of people have come to the Zone after hearing rumors about the money you can make here, and they also hide from problems of a different nature. I need their PDAs, and you’ll be rewarded for any you can bring here. Capisce?</text>
+		<text>Always. The local situation has given me a few more matters to deal with. People from the Great Land are losing their children, their husbands, their brothers… and of course, they themselves are no indifferent to their own fate. Lots of people have come to the Zone after hearing rumours about the money you can make here, and they also hide from problems of a different nature. I need their PDAs, and you’ll be rewarded for any you can bring here. Capisce?</text>
 	</string>
 	<string id="owl_story_4">
 		<text>So the North is afraid… Got it.</text>
@@ -3534,7 +3534,7 @@
 			<text>The Alpine; a modified SIG P220 with an extended magazine. It’ll cost you sixty-five thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_10">
-			<text>The March; a modified UDP Compact. High caliber and quick-firing. It’ll cost you seven thousand.</text>
+			<text>The March; a modified UDP Compact. High calibre and quick-firing. It’ll cost you seven thousand.</text>
 		</string>
 
 		<string id="pri_special_trader_mlr2_3">
@@ -3544,7 +3544,7 @@
 			<text>Right. Choose one of the following.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_12">
-			<text>The Frasier; a handmade sub-machine gun based on the MP5. Increased caliber, improved characteristics over standard counterpart. It’ll cost you ninety-five hundred.</text>
+			<text>The Frasier; a handmade sub-machine gun based on the MP5. Increased calibre, improved characteristics over standard counterpart. It’ll cost you ninety-five hundred.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_13">
 			<text>The Carabiner; an army-modified SPAS-12 with reduced recoil and automatic firing mode. It’ll cost you eleven thousand.</text>
@@ -4253,7 +4253,7 @@
 		<text>A new detector?</text>
 	</string>
 	<string id="svarog_1_dialog_3">
-		<text>Well, again let it out. Oh, my gray head. Yes, I received two Svarog detectors, which my colleagues invented from the vicinity of Jupiter. I gave one of them to my research group, in return they brought me artefacts with incredible properties.</text>
+		<text>Well, again let it out. Oh, my grey head. Yes, I received two Svarog detectors, which my colleagues invented from the vicinity of Jupiter. I gave one of them to my research group, in return they brought me artefacts with incredible properties.</text>
 	</string>
 	<string id="svarog_1_dialog_4">
 		<text>Can I buy this detector?</text>
@@ -4280,7 +4280,7 @@
 		<text>Tell me about yourself.</text>
 	</string>
 	<string id="talk_to_aslan_on_main_base_merk_1">
-		<text>What’s there to tell? I’m the local bartender… but who can tell amidst this crap, yeah? We’ve been stuck here for days, barely maintaining ourselves. I took part in the defense of the president’s palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days… During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who’ve been in Afghanistan and Georgia. But people from the Baltic aren’t too eager to come, never mind the first world countries.</text>
+		<text>What’s there to tell? I’m the local bartender… but who can tell amidst this crap, yeah? We’ve been stuck here for days, barely maintaining ourselves. I took part in the defence of the president’s palace back then, migrated to Switzerland. Then I came to the Zone. I enjoyed visiting the Bar with friends, drinking and reminiscing of older days… During one of such visits I was offered a place in the the Syndicate. It was barely upholding at the time, so Dushman and I are sort of pioneers in this. So what? The roundabouts are fitting, there are people who’ve been in Afghanistan and Georgia. But people from the Baltic aren’t too eager to come, never mind the first world countries.</text>
 	</string>
 
 	<string id="talk_to_aslan_about_lottery_0">

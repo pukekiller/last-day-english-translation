@@ -1282,10 +1282,10 @@
 		<text>unknown</text>
 	</string>
 	<string id="st_mech_tiski">
-		<text>technician’s vice</text>
+		<text>Technician’s vice</text>
 	</string>
 	<string id="st_mech_tiski_w">
-		<text>technician’s vice with %s</text>
+		<text>Technician’s vice with %s</text>
 	</string>
 	<!-- ListBox status texts -->
 	<string id="st_ending_1">

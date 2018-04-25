@@ -710,7 +710,7 @@
 		<text>%c[255,0,255,0]Freedom\n%c[default]Loki, it's Miklukha. Contact me privately. Got an important matter.</text>
 	</string>
 	<string id="zone_news_main_fake_news_freedom_11">
-		<text>%c[255,0,255,0]Freedom\n%c[default]Max, it's Skinflint. The supplies are gonna be here in a week, hold on tight over there.</text>
+		<text>%c[255,0,255,0]Freedom\n%c[default]Max, it's Skinflint. The supplies are gonna be here in a week, so hold on tight over there.</text>
 	</string>
 	<string id="zone_news_main_fake_news_freedom_12">
 		<text>%c[255,0,255,0]Freedom\n%c[default]Miklukha, for three days now, we've been getting nothing but dead air from you. What are we gonna do about the Monolith while they haven't crucified us?</text>
