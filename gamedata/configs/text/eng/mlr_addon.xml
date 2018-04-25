@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="about_baraholka_hunter_trader_0">
-		<text>Why don’t the traders and guards at the flea market live in the hangar? It seems a lot safer, and more habitable.</text>
+		<text>Why don’t the traders and guards at the flea market reside in the hangar? It seems a lot safer and more habitable.</text>
 	</string>
 	<string id="about_baraholka_hunter_trader_1">
-		<text>The stalkers at the flea market have been around for a few years at this point, while we’ve only arrived here recently… though, they were dispersed by Duty because they tend to sell things considered ‘dangerous’. What a fucking joke. Apparently, they’ve somehow made an agreement. They really don’t have anything to do here. They don’t understand us, and frankly, we don’t understand them and their ideals. We hunt to survive, while they sit at their flea market like owls, collecting goodies and artefacts. Generally, those guys are pretty strange… but, eh. They’re alright.</text>
+		<text>The stalkers at the flea market have been around for a few years at this point, while we’ve only arrived here recently… though, they were dispersed by Duty because they sell wares considered ‘dangerous’. Apparently, they’ve somehow made an agreement. They really don’t have anything to do here. They don’t understand us, and frankly, we don’t understand them and their ideals. We hunt to survive, while they sit at their flea market like owls, collecting goodies and artefacts. Generally, those guys are pretty strange… but, eh. They’re alright.</text>
 	</string>
 
 
@@ -28,7 +28,7 @@
 		<text>Are you the stalker who reached the centre of the Zone and stayed there for half a year?</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_1">
-		<text>Well, not half a year, just over a month. But yeah, name’s Mikluha. Nice to meet you.</text>
+		<text>Well, not half a year; rather, just over a month. But, yeah. Name’s Mikluha. Nice to meet you.</text>
 	</string>
 	<string id="about_freedom_lider_miklyha_2">
 		<text>How was it?</text>
@@ -39,6 +39,7 @@
 	<string id="about_freedom_lider_miklyha_4">
 		<text>Got it. Thanks anyway.</text>
 	</string>
+
 
 
 	<string id="about_monsters_trader_hangar_0">
@@ -72,7 +73,7 @@
 		<text>And the cats… Have you seen those things? Oh, god. Only this place can turn pets into feral beasts. Their whole thyroid is swollen from all the radiation, along with tumours located inside their cheeks. I don’t really know why those cats have become like this. They’ve grown in size with sharper claws, and they run like crazy. People usually have to get domestic cats down from trees; here, you’re the one who gets chased around. To make matters worse, they’ve developed a pack mentality similar to dogs and wolves. They’re wild and they can be found anywhere in the Zone, so keep an eye on your surroundings at all times. They come running, and if you aren’t careful, they will cling onto your ass and have a nice, tasty bite.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_10">
-		<text>Not many people here believe in the paranormal, and everyone has their own faith. Some people believe in their own strength, some believe in their leaders, and some believe in alien intervention… but certainly not in God. However, there is still a monster by the name of ‘poltergeist’, because how else would you describe a translucent flying abomination that throws objects at you? Still, there’s pretty much nothing in common between the mutant and the type of entity in folklore. You can kill it in quite ordinary ways. It doesn’t react to salt—we had a poor bastard that tried it—and takes the appearance of a flying electric anomaly, or, less commonly, a fire essence. The electric one loves showering you with all sorts of random rubbish, just like a burer, but the fire one is somehow able to create a jet of fire right in front of your face, similar in effect to a geyser and extremely hot. Shoot directly into the essence; you won’t miss, but it is very difficult to kill because of its speed and manoeuvrability. In a few cases, stalkers have spotted some kind of black or smoky poltergeist. Nothing certain is known about its properties, but it’s quite a rare specimen, and probably so because meeting with it means death in the vast majority of cases. It’s even more difficult to kill because of its smoke that’s harder to trace. Thus, aiming and shooting at its core is more difficult.</text>
+		<text>Not many people here believe in the paranormal, and everyone has their own faith. Some people believe in their own strength, some believe in their leaders, and some believe in alien intervention… but certainly not in God. However, there is still a monster by the name of ‘poltergeist’, because how else would you describe a translucent flying abomination that throws objects at you? Still, there’s pretty much nothing in common between the mutant and the type of entity in folklore. You can kill it in quite ordinary ways. It doesn’t react to salt – we had a poor bastard that tried it – and takes the appearance of a flying electric anomaly, or, less commonly, a fire essence. The electric one loves showering you with all sorts of random rubbish, just like a burer, but the fire one is somehow able to create a jet of fire right in front of your face, similar in effect to a geyser and extremely hot. Shoot directly into the essence; you won’t miss, but it is very difficult to kill because of its speed and manoeuvrability. In a few cases, stalkers have spotted some kind of black or smoky poltergeist. Nothing certain is known about its properties, but it’s quite a rare specimen, and probably so because meeting with it means death in the vast majority of cases. It’s even more difficult to kill because of its smoke that’s harder to trace. Thus, aiming and shooting at its core is more difficult.</text>
 	</string>
 	<string id="about_monsters_trader_hangar_11">
 		<text>There are also creatures whose tales are told in front of campfires. They are called fractures. Humanoid creatures with hypertrophic arms and necks, they possess an abnormal hand that can break a person’s chest, while the other is more often than not normal, without any anomalous property. There are a lot of stories about the fact that Fractures often like to come into contact with stalkers and ask for all kinds of crap, anywhere from cans to imported toothpaste. If you aren’t lucky and don’t have what it asks of you, then prepare for a fight or a certain death… in particular death, because fractures often come into contact with the upper hand; for example, if you happen to be alone and he’s already holding you from behind with his bucketed hand. If you do have what it asks of you, don’t hand it over rushedly; rather, move away from it quietly and on all fours. That way, you won’t get harmed. Anyway, those are all stories… who really knows. Some even leave provisions in places where fractures have been spotted, in vain hopes to drive them off.</text>
@@ -214,7 +215,7 @@
 		<text>Fifty 7.62 rounds.</text>
 	</string>
 	<string id="ashot_price_for_pathes_duty1_4">
-		<text>Twenty M209 grenades should be good.</text>
+		<text>Twenty M203 grenades will suffice.</text>
 	</string>
 	<string id="ashot_price_for_pathes_duty1_5">
 		<text>Gimme that scientific suit.</text>
@@ -226,7 +227,7 @@
 		<text>Let me have that unique-looking SVD.</text>
 	</string>
 	<string id="ashot_price_for_pathes_duty1_8">
-		<text>I won’t take anything. I’ve changed my mind.</text>
+		<text>I’ve changed my mind.</text>
 	</string>
 
 
@@ -235,7 +236,7 @@
 		<text>What’s the current situation?</text>
 	</string>
 	<string id="aslan_st_1">
-		<text>Well, the Syndicate only has one central base in the Zone, and it’s right here. The path to Yantar is cut off because of the psy-installation, and crowds of zombies sometimes come out of there, along with mutants. Limansk has gone to shit; it’s a maze full of dangers. The Red Forest is even more dangerous, since Monolith fighters have settled at the bridge to Limansk while the rest of the area is crawling with mutants. ring id="bandit_main_base_medic_mlr_heal_0"></text>
+		<text>Well, the Syndicate only has one central base in the Zone, and it’s right here. The path to Yantar is cut off because of the psy-installation, and crowds of zombies sometimes come out of there, along with mutants. Limansk has gone to shit; it’s a maze full of dangers. The Red Forest is even more dangerous, since Monolith fighters have settled at the bridge to Limansk while the rest of the area is crawling with mutants.</text>
 	</string>
 	<string id="aslan_st_2">
 		<text>Go on.</text>
@@ -313,11 +314,12 @@
 		<text>This isn’t the Garbage.</text>
 	</string>
 	<string id="bandit_mechanic_st_11">
-		<text>Again with your damn interrupting. The big-arse Emission happened, and we hid like little girls. When that nightmare was over with, we had a meeting on where the hell to go: the Garbage turned out to be a bad shelter from those kinds of emissions. We had to leave it for good and move through different roads in small groups to this place: the Dark Valley.</text>
+		<text>Again with your damn interrupting. The big-arse Emission happened, and we hid like little fannies. When that nightmare was over with, we had a meeting on where the hell to go: the Garbage turned out to be a bad shelter from those kinds of emissions. We had to leave it for good and move through different roads in small groups to this place: the Dark Valley.</text>
 	</string>
 	<string id="bandit_mechanic_st_12">
 		<text>That’s quite a story.</text>
 	</string>
+
 
 
 	<string id="bandit_trader_st_0">
@@ -826,7 +828,7 @@
 		<text>Here you go. Found you this shotgun, with a few complimentary shells. Could you not have talked to Sidorovich about ammunition?</text>
 	</string>
 	<string id="devushka_2_start_1">
-		<text>Thanks, mate. See, Sidorovich wants to send me out of the Zone; thinks I don’t belong here, that I need to go home to my mother. He treats me like his own bloody granddaughter. Here – take this, as promised. It’ll come in hand. Whilst searching around here, I stumbled upon an old cache belonging to the local technician.</text>
+		<text>Thanks, mate. See, Sidorovich wants to send me out of the Zone; thinks I don’t belong here, that I need to go home to my mother. He treats me like his own bloody granddaughter. Here – take this, as promised. It’ll come in handy. And, whilst searching around here, I stumbled upon an old cache belonging to the local technician.</text>
 	</string>
 
 
@@ -856,13 +858,13 @@
 		<text>Tell me about yourself once more.</text>
 	</string>
 	<string id="devushka_1_dialog_1">
-		<text>What can I tell you? My family was completely dysfunctional – a total mess. My mother drank and had sex with bolsheviks. I never knew my father, and my stepfather was an asshole – he beat me up all the time. At one point, he actually wanted to rape me, but I didn’t give up – I grabbed a bottle and hit him right on the head. I hated him so much… I ended up stabbing him with a splinter. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him. I had to escape. I really did not want to go to jail.</text>
+		<text>Well, I’ve told you about my dysfunctional family. My mother was a drunkard and fucked bolsheviks while away from home. I never knew my real father, and my stepfather was an abusive cunt. I grabbed a bottle one day and hit him right on the head. Eventually ended up stabbing him with a splinter. I snapped out of it, and there was nothing left to do for him. I had to escape, and now I’m here.</text>
 	</string>
 	<string id="devushka_1_dialog_2">
-		<text>That’s rough. Did you enter the Zone completely alone?</text>
+		<text>How’d you get here with Sprat?</text>
 	</string>
 	<string id="devushka_1_dialog_3">
-		<text>No. I had a friend… Called her Sprat. We went into the Zone together. She had a guy who was a Freedomer. But Sprat didn’t survive; she got killed by an anomaly. I brought her bag to the guy. He was cool; didn’t let anybody touch me. He was a good man, and he grieved deeply for her. He ended up getting shot by some Duty fucker, and all kind of scum started harassing me. I managed to get out of there.</text>
+		<text>I met her on my way to the Zone, and she had a Freedomer chap. She was killed by an anomaly. I brought her bag to the guy. He kept me safe for quite some time until he got taken out by Duty. Shit hit the fan, but I managed to get out of there.</text>
 	</string>
 	<string id="devushka_1_dialog_4">
 		<text>I understand.</text>
@@ -880,7 +882,7 @@
 		<text>Someone promised to do what I say, rookie. Remember?</text>
 	</string>
 	<string id="devushka_heal_3">
-		<text>Really? Look; if you need anything, just holler.</text>
+		<text>Really? Look; if you need anything, just say the word.</text>
 	</string>
 	<string id="devushka_heal_4">
 		<text>I know, I know… Thanks.</text>
@@ -910,7 +912,7 @@
 		<text>I think you should go home, Hip. Let me talk to Sidorovich; he can help smuggle you across the border. Your parents must be worried.</text>
 	</string>
 	<string id="devushka_2_dialog_7">
-		<text>They only get worried if I don’t make enough money to get their fucking booze! Being stuck with my family was… an agony! My mother drank and had sex with bolsheviks. I never knew my father, and my stepfather was an asshole – he beat me up all the time. At one point, he actually wanted to rape me, but I didn’t give up – I grabbed a bottle and hit him right on the head. I hated him so much… I ended up stabbing him with a splinter. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was nothing to do for him. I had to escape. I really did not want to go to jail.</text>
+		<text>They only get worried if I don’t make enough money to get their fucking booze! Being stuck with my family was… an agony! My mother drank and had sex with bolsheviks. I never knew my father, and my stepfather was an asshole – he beat me up all the time. At one point, he actually wanted to rape me, but I didn’t give up – I grabbed a bottle and hit him right on the head. I hated him so much… I ended up stabbing him with a splinter. When I snapped out of it, my hands were drenched in blood, my stepfather was no longer breathing, and there was bugger all to do for him. I had to escape. I really did not want to go to jail.</text>
 	</string>
 	<string id="devushka_2_dialog_8">
 		<text>That’s rough. Did you enter the Zone completely alone?</text>
@@ -919,7 +921,7 @@
 		<text>No. I had a friend… Called her Sprat. We went into the Zone together. She had a guy who was a Freedomer. But Sprat didn’t survive; she got killed by an anomaly. I brought her bag to the guy. He was cool; didn’t let anybody touch me. He was a good man, and he grieved deeply for her. He ended up getting shot by some Duty fucker, and all kind of scum started harassing me. I managed to get out of there.</text>
 	</string>
 	<string id="devushka_2_dialog_10">
-		<text>And what should I do?</text>
+		<text>And what shall I do?</text>
 	</string>
 	<string id="devushka_2_dialog_11">
 		<text>Help me with my task, tell me how to survive in the Zone… You’re a tough stalker. You’re cool. You know a lot. I’ll do anything! Don’t leave me alone! You’re the coolest, you… You’re the first real person that I’ve met here.</text>
@@ -1162,13 +1164,13 @@
 		<text>Well, in Freedom, they said that it was a virus that spread into the stalker network.</text>
 	</string>
 	<string id="devushka_about_semeckiy_2">
-		<text>It’s not a virus. The very first stalkers who managed to reach the Monolith – the Wish Granter, buried somewhere in the ruins of the fourth power unit of the Chernobyl NPP – became ghosts of the Zone. The Monolith supposedly made their dreams come true, but with another side to the coin. Yuri Semetskiy was one of the first stalkers who set foot on the contaminated land back in 2007, and, according to legend, got to the Wish Granter and wished for nothing less than eternal life for himself.</text>
+		<text>It’s not a virus. The very first stalkers who managed to reach the Monolith – the Wish Granter, buried somewhere in the ruins of the fourth power unit of the Chernobyl NPP – became ghosts of the Zone. The Monolith supposedly made their dreams come true, but with another side to the coin. Yuri Semetskiy was one of the first stalkers who set foot on the contaminated land back in 2007 and, according to legend, got to the Wish Granter and wished for nothing less than eternal life for himself.</text>
 	</string>
 	<string id="devushka_about_semeckiy_3">
 		<text>And what was the outcome?</text>
 	</string>
 	<string id="devushka_about_semeckiy_4">
-		<text>Since then, a message about the death of a stalker with that name pops up every day in the stalker network. That’s how he lives: forever, just as he wished.</text>
+		<text>Since then, a message about the death of a stalker with his name pops up every day in the network. That’s how he lives on: forever, just as he wished.</text>
 	</string>
 	<string id="devushka_about_semeckiy_5">
 		<text>That’s right… and we all laughed over the marvellous ways he got killed. We always thought it was a virus or a prank.</text>
@@ -1180,10 +1182,10 @@
 		<text>Do you know where the artefacts we’re looking for might appear?</text>
 	</string>
 	<string id="devushka_about_artefact_1">
-		<text>Well. I know that the Moonlights can be found in Electro anomalies. Wrenched artefacts appear in gravitational anomalies, and Fireballs show up in anomalies of… well, fire.</text>
+		<text>Well… I know that the Moonlights can be found in Electro anomalies. Wrenched artefacts appear in gravitational anomalies, and Fireballs show up in anomalies of… well, fire.</text>
 	</string>
 	<string id="devushka_about_artefact_2">
-		<text>Not bad. You have the basic knowledge. Keep in mind that you should avoid moving headlong in anomaly fields, that it’s desirable to keep bolts, nuts, and other types of small trash in your pockets; easily disposable material. It’s necessary for carving out a safe path. Sometimes, there are also a few stupid stalkers who like to repeat a couple of the most abominable expressions in the Zone.</text>
+		<text>Not bad. You have the basic knowledge. Keep in mind that you should avoid moving headlong in anomaly fields and that it’s desirable to keep bolts, nuts, and other types of small rubbish in your pockets; easily disposable material. It’s necessary for carving out a safe path. Sometimes, there are also a few stupid stalkers who like to repeat a couple of the most abominable expressions in the Zone.</text>
 	</string>
 	<string id="devushka_about_artefact_3">
 		<text>Such as?</text>
@@ -1294,6 +1296,7 @@
 	</string>
 
 
+
 	<string id="low_level_of_buy_equpments_0">
 		<text>I’d like to purchase some extra equipment.</text>
 	</string>
@@ -1325,6 +1328,7 @@
 	</string>
 
 
+
 	<string id="ussr_level_of_buy_equpments_0">
 		<text>I’d like to purchase some extra equipment.</text>
 	</string>
@@ -1354,6 +1358,7 @@
 	<string id="ussr_level_of_buy_equpments_28">
 		<text>I’ve changed my mind.</text>
 	</string>
+
 
 
 	<string id="fanat_kmb_1_1">
@@ -1426,6 +1431,7 @@
 	</string>
 
 
+
 	<string id="fanat_kmb_2_1">
 		<text>Basic training: find the stash</text>
 	</string>
@@ -1449,6 +1455,7 @@
 	<string id="fanat_kmb_2_start1_1">
 		<text>Huh… I see that with your level of perception, the Zone won’t be taking you so easily. Your final lesson is about to start, take some time to prepare.</text>
 	</string>
+
 
 
 	<string id="fanat_kmb_3_1">
@@ -1529,7 +1536,7 @@
 		<text>Are you interested in data from a flight recorder?</text>
 	</string>
 	<string id="find_blackbox_mlr_reward_owl_1">
-		<text>Wha—of course! Give it here.</text>
+		<text>Wha–of course! Give it here.</text>
 	</string>
 
 
@@ -1706,7 +1713,7 @@
 		<text>I’ve heard a lot about you guys, but I wasn’t sure it was true. Tell me about your faction.</text>
 	</string>
 	<string id="in_freedom_1">
-		<text>Not to toot my own horn, but we’re actually one of the strongest factions in the Zone, heh. We control and guard the Barrier, and we try to prevent those Duty assholes from coming here, because the goals we have are, in fact, very different. We want to co-exist with the Zone, in the best sense of the word; we believe that it is a gift to humanity. You ask how? Look around! This whole place is like a fairy tale. Anomalies that violently violate the laws of physics and creatures with amazing ‘properties’, none of which I believe should be wiped out. Perhaps they can somehow coexist with us, or maybe we can at least borrow something from them. Nevertheless, we don’t recognize the ‘official’ approach to the Zone. Scientists may be doing a noble job, sure, but, like… All that stuff is gonna be kept by oligarchs, so what’s left for common folk, you know? We just want to share the wonders of the Zone with the public, so that people won’t be afraid of what they hear from the mainstream media. Instead, they’ll start respecting it. Can you imagine how we, and only we, can advance in development? And what’s worse is that the heads of the government can potentially develop some kind of weapon if they understand the psy-stuff that goes on around here. Anyway, we have no rules here, but discipline is still needed for banal survival, so during operations, our fighters obey the commands of the senior and experienced stalkers in the detachment. But all this is nothing more than a necessity. Are you interested in joining? We’re always in need of stalkers who share our vision.</text>
+		<text>Not to toot my own horn, but we’re actually one of the strongest factions in the Zone, heh. We control and guard the Barrier, and we try to prevent those Duty wankers from coming here, because the goals we have are, in fact, very different. We want to co-exist with the Zone, in the best sense of the word; we believe that it is a gift to humanity. You ask how? Look around! This whole place is like a fairy tale. Anomalies that violently violate the laws of physics and creatures with amazing ‘properties’, none of which I believe should be wiped out. Perhaps they can somehow coexist with us, or maybe we can at least borrow something from them. Nevertheless, we don’t recognize the ‘official’ approach to the Zone. Scientists may be doing a noble job, sure, but, like… All that stuff is gonna be kept by oligarchs, so what’s left for common folk, you know? We just want to share the wonders of the Zone with the public, so that people won’t be afraid of what they hear from the mainstream media. Instead, they’ll start respecting it. Can you imagine how we, and only we, can advance in development? And what’s worse is that the heads of the government can potentially develop some kind of weapon if they understand the psy-stuff that goes on around here. Anyway, we have no rules here, but discipline is still needed for banal survival, so during operations, our fighters obey the commands of the senior and experienced stalkers in the detachment. But all this is nothing more than a necessity. Are you interested in joining? We’re always in need of stalkers who share our vision.</text>
 	</string>
 
 	<string id="in_freedom_1_0">
@@ -1986,7 +1993,7 @@
 		<text>Olivius, I need some money to borrow.</text>
 	</string>
 	<string id="kridit1_b_1">
-		<text>You shitting me?… Whatever – I’m feeling kind today. What do you need?</text>
+		<text>You shitting me?… Whatever. I’m feeling kind today. What do you need?</text>
 	</string>
 	<string id="kridit1_b_2">
 		<text>Five thousand.</text>
@@ -2001,7 +2008,7 @@
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_b_6">
-		<text>Pay me back fifty per cent on top; that’ll be your obligation as part of this brotherhood. Oh, and I’ll be keeping you out of my shop until you bring the dough.</text>
+		<text>Pay me back fifty per cent on top; that’ll be your obligation as part of this brotherhood. Oh, and I’ll be keeping you out of my shop until you bring the dosh.</text>
 	</string>
 	<string id="kridit1_b_7">
 		<text>Next time I see you here, you better put seventy-five hundred on this table.</text>
@@ -2010,7 +2017,7 @@
 		<text>Right.</text>
 	</string>
 	<string id="kridit1_b_9">
-		<text>Next time I see you’re here, you put fifteen thousand on this table.</text>
+		<text>Next time I see you here, you better put fifteen thousand on this table.</text>
 	</string>
 	<string id="kridit1_b_10">
 		<text>Next time I see you here, you better put twenty-two thousand and five hundred on this table.</text>
@@ -2199,7 +2206,7 @@
 		<text>I’ve changed my mind.</text>
 	</string>
 	<string id="kridit1_fr_6">
-		<text>Alright, mate. You gimme fifty percent on top. No goods for you until you return that money.</text>
+		<text>Alright, mate. You gimme fifty per cent on top. No goods for you until you return that money.</text>
 	</string>
 	<string id="kridit1_fr_7">
 		<text>Here you go. Five thousand. I wanna see you with seventy-five hundred, pronto.</text>
@@ -2448,7 +2455,7 @@
 		<text>Professor, I need some money to borrow.</text>
 	</string>
 	<string id="kridit1_sak_1">
-		<text>Young man, the funds for which I am responsible are provided by the government… I won’t be that cold towards you, though. How much do you need?</text>
+		<text>Young man, the funds for which I am responsible are provided by the Ukrainian government… I won’t be that cold towards you, though. How much do you need?</text>
 	</string>
 	<string id="kridit1_sak_2">
 		<text>Five thousand.</text>
@@ -2943,7 +2950,7 @@
 		<text>Sorry, where can you escort me?</text>
 	</string>
 	<string id="meet_guid_bar_list_1">
-		<text>To the the Garbage for seven hundred, the army warehouses for one thousand, the Rookie Village in the Cordon for three thousand, Yantar for thirty-five hundred, Yanov station in Jupiter for six thousand, and the Great Swamps, also for six thousand.</text>
+		<text>To the the Garbage for seven hundred, the army warehouses for one thousand, the Rookie Village in the Cordon for three thousand, Yantar for thirty-five hundred, Yanov station near Jupiter for six thousand, and the Great Swamps, also for six thousand.</text>
 	</string>
 
 
@@ -2952,8 +2959,9 @@
 		<text>Who have we got here?</text>
 	</string>
 	<string id="meet_guid_dv_bandit_1">
-		<text>You blind or something? I’m the local guide here. If you need my help, I can drop you at a couple of places; namely, our encampment in the truck cemetery and our warehouse in Jupiter. It’ll cost ya, though!</text>
+		<text>You blind or something? I’m the local guide here. If you need my help, I can drop you at a couple of places; namely, our encampment in the truck cemetery and our warehouse near Jupiter. It’ll cost ya, though!</text>
 	</string>
+
 
 
 	<string id="meet_guid_jup_0">
@@ -3024,14 +3032,14 @@
 		<text>You’re a guide, right?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_1">
-		<text>Yeah. They call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no other stalkers know about. Anyway, here’s where I can take you: to the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
+		<text>Yeah. They call me Tourist. I like to wander around in poorly-mapped areas to find secret paths that no other stalkers know about. Anyway, here’s where I can take you: to the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station near Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
 	</string>
 
 	<string id="meet_guid_pri_stalker_list_0">
 		<text>Where do you travel to again?</text>
 	</string>
 	<string id="meet_guid_pri_stalker_list_1">
-		<text>To the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station in Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand and Zaton, via Garry, for four thousand.</text>
+		<text>To the nuclear power plant for twelve thousand roubles, Pripyat for three thousand, Yanov station near Jupiter for four thousand, the Radar for eight thousand, the Jupiter Underground for just one thousand, and Zaton, via Garry, for four thousand.</text>
 	</string>
 
 
@@ -3079,7 +3087,7 @@
 		<text>Give me your travel list again.</text>
 	</string>
 	<string id="meet_guid_zat_list_1">
-		<text>I can talk to Garry about getting you to Pripyat for four thousand, as well as the outskirts for five thousand. I can lead you to Yanov station in Jupiter by myself for two thousand.</text>
+		<text>I can talk to Garry about getting you to Pripyat for four thousand, as well as the outskirts for five thousand. I can lead you to Yanov station near Jupiter by myself for two thousand.</text>
 	</string>
 
 
@@ -3109,10 +3117,10 @@
 		<text>A mercenary technician in the Outskirts has asked me to find %s.</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_about">
-		<text>We’ve been sitting on our asses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
+		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_about">
-		<text>We’ve been sitting on our asses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
+		<text>We’ve been sitting on our arses here in Pripyat for such a long time… Surely, you’ve heard our story from Griffin. I’ve searched high and low for tools, but I’ve only managed to find low tier ones that aren’t suitable for extensive maintenance and customization. This is outrageous. I’m a technician, and I need proper tools to work optimally. Can you help me out?</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_fetch_finish">
 		<text>Thank you; won’t be as stressful for the guys here anymore. I’ll give you a discount.</text>
@@ -3440,7 +3448,7 @@
 			<text>Where did you get this dog?</text>
 		</string>
 		<string id="noah_start_dialog1_7">
-			<text>That’s Lassie. A sweet little bitch… If not for her, I’d have been devoured in my sleep long ago. Cursed mutants… I hate them! Soon as you close your eyes, they start reaching for you with their nasty claws, fangs and feelers…</text>
+			<text>That’s Lassie. A sweet little bitch… If not for her, I’d have been devoured in my sleep long ago. Cursed mutants… I hate them! Soon as you close your eyes, they start reaching for you with their nasty claws, fangs, and feelers…</text>
 		</string>
 		<string id="noah_start_dialog1_8">
 			<text>I see.</text>
@@ -3453,7 +3461,7 @@
 			<text>Why do you live in this rubbish bin?</text>
 		</string>
 		<string id="noah_start_dialog1_10">
-			<text>It’s the Ark! Remember that… you will, if you want to live! When a Wave starts, stay close. Here you’ll have a chance to survive. No mutant will ever break in here.</text>
+			<text>It’s the Ark! Remember that… You will, if you want to live! When a Wave starts, stay close. Here, you’ll have a chance to survive. No mutant will ever break in here.</text>
 		</string>
 		<string id="noah_start_dialog1_11">
 			<text>What ‘Wave’? What are you talking about?</text>
@@ -3595,7 +3603,7 @@
 			<text>A Monolith suit featuring a closed-cycle breathing system; as with the exoskeleton, you are unlikely to see it anywhere else. It’ll cost you seventy thousand.</text>
 		</string>
 		<string id="pri_special_trader_mlr2_26">
-			<text>A Mercenary suit with a closed breathing system. Excellent protection from anomalies and a real rarity for the average stalker. It’ll cost you fifty thousand.</text>
+			<text>A mercenary suit with a closed breathing system. Excellent protection from anomalies and a real rarity for the average stalker. It’ll cost you fifty thousand.</text>
 		</string>
 
 	<string id="pri_special_trader_mlr2_6">
@@ -3731,7 +3739,7 @@
 		<text>Tell me about yourself.</text>
 	</string>
 	<string id="rogovets_about_himself_1_6_army_mlr_1">
-		<text>I serve as a medic. I went out on a contract here and was almost immediately assigned to the Fairway group after some preparation. We were somehow stuck in Pripyat after the collapse of the operation… Well, those of us who were still alive… Then a man from the USS helped us, and then they evacuated us. I still can’t get this one case out of my head: our commander sent me and a couple of guys to the kindergarten, in which—according to preliminary data—there was a device that interfered with radio communications. I don’t know what came over me, and I wasn’t feeling myself: I couldn’t see, I didn’t know where my comrades were, and something pulled a veil straight over my eyes. Right in that kindergarten, I found a damn refrigerator and hid in there. Then, I heard an explosion right above me, and I immediately felt better for whatever reason, but the refrigerator locked up and I couldn’t get out without outside help. I don’t recall if I locked myself in it or if it was a poltergeist that held the door closed…</text>
+		<text>I serve as a medic. I went out on a contract here and was almost immediately assigned to the Fairway group after some preparation. We were somehow stuck in Pripyat after the collapse of the operation… Well, those of us who were still alive… Then a man from the USS helped us, and then they evacuated us. I still can’t get this one case out of my head: our commander sent me and a couple of guys to the kindergarten, in which – according to preliminary data – there was a device that interfered with radio communications. I don’t know what came over me, and I wasn’t feeling myself: I couldn’t see, I didn’t know where my comrades were, and something pulled a veil straight over my eyes. Right in that kindergarten, I found a damn refrigerator and hid in there. Then, I heard an explosion right above me, and I immediately felt better for whatever reason, but the refrigerator locked up and I couldn’t get out without outside help. I don’t recall if I locked myself in it or if it was a poltergeist that held the door closed…</text>
 	</string>
 	<string id="rogovets_about_himself_1_6_army_mlr_2">
 		<text>And then what happened? Why didn’t you quit?</text>
@@ -4065,7 +4073,7 @@
 
 
 	<string id="st_bridge_is_open_message">
-		<text>Gatekeeper:\nI see someone. Hey, stalker! Come over here, got a few words for you.</text>
+		<text>Gatekeeper:\nI see someone. Hey, stalker! Come over here. Got a few words for you.</text>
 	</string>
 
 
@@ -4107,7 +4115,7 @@
 		<text>How did he earn that respect?</text>
 	</string>
 	<string id="story_b_cs_3">
-		<text>You see, there was some controversy regarding Lebedev, our former leader—who, by the way, I personally never met—and he didn’t seem to take the opinions of the faction members into account during their reckless crusade towards the CNPP. That mercenary certainly helped us out, but in the end, it just wasn’t worth it. Those who remained at the base were unable to fight back against a resurgence made by the renegades. The significance of our struggle in the swamps was reduced to zero… and the sacrifices here and on the way to the Chernobyl NPP turned out to be in vain.</text>
+		<text>You see, there was some controversy regarding Lebedev, our former leader – who, by the way, I personally never met – and he didn’t seem to take the opinions of the faction members into account during their reckless crusade towards the CNPP. That mercenary certainly helped us out, but in the end, it just wasn’t worth it. Those who remained at the base were unable to fight back against a resurgence made by the renegades. The significance of our struggle in the swamps was reduced to zero… and the sacrifices here and on the way to the Chernobyl NPP turned out to be in vain.</text>
 	</string>
 	<string id="story_b_cs_4">
 		<text>It seems like the faction’s resentment towards their leader at that time was justified.</text>
@@ -4131,10 +4139,10 @@
 		<text>Whose pseudodog is that?</text>
 	</string>
 	<string id="story_dog_1">
-		<text>That’s Buddy, the Doctor’s dog. Doctor asked Cold to keep him safe, as he’s started getting a little old.</text>
+		<text>That’s Buddy, the Doctor’s dog. Doctor asked Cold to keep him safe, as his age is catching up.</text>
 	</string>
 	<string id="story_dog_2">
-		<text>Well, by the looks of it, you wouldn’t say that he needs protection.</text>
+		<text>Well, by the looks of him, you wouldn’t say that he needs protection.</text>
 	</string>
 	<string id="story_dog_3">
 		<text>Looks can be deceiving sometimes. Buddy is a kind-hearted creature. Now, can I tell you about these dogs and answer your questions?</text>
@@ -4143,7 +4151,7 @@
 		<text>Go ahead.</text>
 	</string>
 	<string id="story_dog_5">
-		<text>Pseudodogs aren’t really dogs at all, they actually originate from wolves. Duty found that out while researching them.</text>
+		<text>Pseudodogs aren’t really dogs at all. They actually originate from wolves. Duty discovered that while researching them.</text>
 	</string>
 	<string id="story_dog_6">
 		<text>That’s… I need to write that down. What’s the request, anyway?</text>
@@ -4152,7 +4160,7 @@
 		<text>By virtue of my profession, I collect all sorts of stories. To the north, there’s a place similar to our swamps, called Zaton. I hear there’s an old crank living in the old barge, and if the rumours hold true, he also has a pseudodog. Perhaps you can find out if it’s true, if travelling that far won’t be a problem for you.</text>
 	</string>
 	<string id="story_dog_8">
-		<text>Ok, I will check it out.</text>
+		<text>I’ll check it out.</text>
 	</string>
 
 
@@ -4279,7 +4287,7 @@
 		<text>Heard that you’re interested in faction patches.</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_1">
-		<text>How can I put this? Personally, no, I’m not ‘interested’ in them; however, with morale being rather low lately, it’s an optimal method for our guys to earn some spoils of war. Plus, the high-ups want them. Here’s how it works: you bring me patches from stalkers, you get some gear or nothing at all. All of it for ten patches of any faction, apart from those of Ecologists and the Monolith, you have a chance to get a subpar artefact, or not get jack shit. With fifty patches, you’ll have a chance to get a decent artefact and some rather solid gear, but there’s also a chance that you won’t get anything. And for ten Monolith or Ecologist patches, you will get a pretty good artefact with the same chance as for fifty patches of any other faction. Fifty Monolith or Ecologist patches will guarantee you an outstanding item and good equipment dedicated only to the most experienced of stalkers, no chance of losing. You might ask, ‘why so generous?’… Because many people prefer to keep the patches for themselves as combat trophies.</text>
+		<text>How can I put this? Personally, no, I’m not ‘interested’ in them; however, with morale being rather low lately, it’s an optimal method for our guys to earn some spoils of war. Plus, the high-ups want them. Here’s how it works: you bring me patches from stalkers, you get some gear or nothing at all. All of it for ten patches of any faction, apart from those of the Ecologists and Monolith. You have a chance to get a subpar artefact, or not get jack shit. With fifty patches, you’ll have a chance to get a decent artefact and some rather solid gear, but there’s also a chance that you won’t get anything. And for ten Monolith or Ecologist patches, you will get a pretty good artefact with the same chance as for fifty patches of any other faction. Fifty Monolith or Ecologist patches will guarantee you an outstanding item and good equipment dedicated only to the most experienced of stalkers, no chance of losing. You might ask, ‘why so generous?’… Because many people prefer to keep the patches for themselves as combat trophies.</text>
 	</string>
 	<string id="talk_to_aslan_about_lottery_2">
 		<text>What about you? What are you doing with them all?</text>
